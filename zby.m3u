@@ -1,5 +1,316 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV1.png",CCTV-1 综合
+https://migu.188766.xyz/?migutoken=a2d936346981d82ab170e9a854b270a3&id=CCTV1&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV2.png",CCTV-2 财经
+https://migu.188766.xyz/?migutoken=d0226456cb448543a8b6720d59ef1201&id=CCTV2&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV3.png",CCTV-3 综艺
+https://migu.188766.xyz/?migutoken=657e5ae7a94c7ede203118503a2da8d8&id=CCTV3&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV4.png",CCTV-4 中文国际
+https://migu.188766.xyz/?migutoken=c6d83ffff4900149fd6ff7f367a67f40&id=CCTV4&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV5.png",CCTV-5 体育
+https://migu.188766.xyz/?migutoken=03ff350b76e6317104b6bbef670b1c76&id=CCTV5&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV5+.png",CCTV-5+ 体育赛事
+https://migu.188766.xyz/?migutoken=dab091165f850acdcef51e426ddd1616&id=CCTV5p&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV6.png",CCTV-6 电影
+https://migu.188766.xyz/?migutoken=2167482b2460c67f99496796a8f2e1f9&id=CCTV6&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV7.png",CCTV-7 国防军事
+https://migu.188766.xyz/?migutoken=e6253c6a629f1b06ac687fc338a9fdb0&id=CCTV7&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV8.png",CCTV-8 电视剧
+https://migu.188766.xyz/?migutoken=a7d5ea3b288718cb618a68348b4e9c45&id=CCTV8&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV9.png",CCTV-9 纪录
+https://migu.188766.xyz/?migutoken=4b4fcf74218d43cc86ab51bb0ca9ac63&id=CCTV9&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV10.png",CCTV-10 科教
+https://migu.188766.xyz/?migutoken=5eedc9428baa23e15b81a25555cc4ce6&id=CCTV10&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV11.png",CCTV-11 戏曲
+https://migu.188766.xyz/?migutoken=e354b612ae8e2c45414dd1ddea5b96a9&id=CCTV11&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV12.png",CCTV-12 社会与法
+https://migu.188766.xyz/?migutoken=0b444f6d540139ccad8718158e6d4796&id=CCTV12&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV13.png",CCTV-13 新闻
+https://migu.188766.xyz/?migutoken=db872002648b67d93526eaaab3ce7a85&id=CCTV13&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV14.png",CCTV-14 少儿
+https://migu.188766.xyz/?migutoken=79ebd3c277bc0c8c8bdfd84ac0c031eb&id=CCTV14&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV15.png",CCTV-15 音乐
+https://migu.188766.xyz/?migutoken=fd03337719881612c26dfe0835bd6a11&id=CCTV15&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV17.png",CCTV-17 农业农村
+https://migu.188766.xyz/?migutoken=d944543e3216e1f96b71a9c80db844d8&id=CCTV17&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV4欧洲.png",CCTV-4 中文国际 欧洲
+https://migu.188766.xyz/?migutoken=8b23847ee96c21b85e51c76cfb15752a&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV4美洲.png",CCTV-4 中文国际 美洲
+https://migu.188766.xyz/?migutoken=62715dc437aa1a06f93b6e786c98c526&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/湖南卫视.png",湖南卫视
+https://migu.188766.xyz/?migutoken=d5758ca3e5e030bafe72aa287012da65&id=hnws&type=sz
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江卫视.png",浙江卫视
+https://migu.188766.xyz/?migutoken=320402ef3c6ef1b9bc2f10201766055e&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江卫视.png",浙江卫视
+https://migu.188766.xyz/?migutoken=1a77e1608429fc5073f2e8b9fe3abeb9&id=z_jws&type=sz
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/江苏卫视.png",江苏卫视
+https://migu.188766.xyz/?migutoken=e02ffc9d5a08d0b21ed620c8ce0da9ba&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/东方卫视.png",东方卫视
+https://migu.188766.xyz/?migutoken=39bcb198cbd639b3a14bf3d55e4f64a6&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/广东卫视.png",广东卫视
+https://migu.188766.xyz/?migutoken=862714ec07e27dbf0787d108744b63d4&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/湖北卫视.png",湖北卫视
+https://migu.188766.xyz/?migutoken=9ce8cee147b666a41ccba5b8fd9d2b71&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/江西卫视.png",江西卫视
+https://migu.188766.xyz/?migutoken=80fd770920459a474a970d3e03dcd28b&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/辽宁卫视.png",辽宁卫视
+https://migu.188766.xyz/?migutoken=6fc432ffcb0aa2222121648e1b44f03a&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/河南卫视.png",河南卫视
+https://migu.188766.xyz/?migutoken=348ede165e082801c132180c82f54a88&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/海南卫视.png",海南卫视
+https://migu.188766.xyz/?migutoken=cd0c6fb6e692e4aef9aad148c42407bf&id=hn_hnws&type=sz
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/内蒙古卫视.png",内蒙古卫视
+https://migu.188766.xyz/?migutoken=be0177d26cbcf0bd0c3be0d02e8badba&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/陕西卫视.png",陕西卫视
+https://migu.188766.xyz/?migutoken=e574660a9a85fd77ae197b6b4dfffcef&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/三沙卫视.png",三沙卫视
+https://migu.188766.xyz/?migutoken=053b95cc9854161ab2d3ec4a19a64762&id=hn_ssws&type=sz
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/吉林卫视.png",吉林卫视
+https://migu.188766.xyz/?migutoken=f94424924a14bf318ae6094114ea2bd7&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/青海卫视.png",青海卫视
+https://migu.188766.xyz/?migutoken=400df9320243284bd89a2d4d5411a897&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/海南卫视.png",海南卫视
+https://migu.188766.xyz/?migutoken=eda9ac9b347d322623f378c65f3df947&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/宁夏卫视.png",宁夏卫视
+https://migu.188766.xyz/?migutoken=ddf4f69d1adc1992f507b09123bf713a&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/农林卫视.png",农林卫视
+https://migu.188766.xyz/?migutoken=db2bad0ba88be468da6b857e8ef46b0f&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/兵团卫视.png",兵团卫视
+https://migu.188766.xyz/?migutoken=58e27f396d8af3458ca9a15f3c348261&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/大湾区卫视.png",大湾区卫视
+https://migu.188766.xyz/?migutoken=259ec4a86e041c55cf61afa800c22a6c&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="超清频道" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png",湖南卫视4K
+https://migu.188766.xyz/?migutoken=821a9154277e8d85f2c5627bdd404392&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
+#EXTINF:-1 group-title="超清频道" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/浙江卫视4K.png",浙江卫视4K
+https://migu.188766.xyz/?migutoken=65f71db12d0b4f6238a6e9ab90061a7d&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+#EXTINF:-1 group-title="超清频道" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png",东方卫视4K
+https://migu.188766.xyz/?migutoken=b3e176841447a56bd113557c00cd6f59&id=dfws&type=sz
+#EXTINF:-1 group-title="超清频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/北京卫视4K.png",北京卫视4K
+https://migu.188766.xyz/?migutoken=f9e6dc8f49b608c7b0e9b4877b013abc&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="超清频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/深圳卫视4K.png",深圳卫视4K
+https://migu.188766.xyz/?migutoken=1ab3c2ec34eeeee66c56757655e76475&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 group-title="超清频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/苏州4K.png",苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="超清频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/纯享4K.png",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CHC影迷电影.png",CHC影迷电影
+https://migu.188766.xyz/?migutoken=d0761a177077dcd64a4caa0d8357816b&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/五星体育.png",五星体育
+https://migu.188766.xyz/?migutoken=86b800750f37155bc3ccea2fa13d0dc6&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/五星体育.png",五星体育
+https://other.ottiptv.cc/wxty.m3u8
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/重温经典.png",重温经典
+https://other.ottiptv.cc/cwjd.m3u8
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/274/202105271333_5100001715_2_HSJ720H.jpg",上视东方影视
+https://migu.188766.xyz/?migutoken=fe0458de82183f06301de97843b38eef&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/新片放映厅.png",新片放映厅
+https://migu.188766.xyz/?migutoken=4beeff95b5e19d4baabe5dea0f94eaaa&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/242/089/202508211805_1755769511908_H32_1080.webp",经典香港电影
+https://migu.188766.xyz/?migutoken=4da820df0ec3bcc9c7a7a6d440566c8b&id=%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/717/202507241513_1753340553498_H32_1080.webp",抗战经典影片
+https://migu.188766.xyz/?migutoken=7ba0b62a5b1ebf9c296a2608f73829db&id=%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2206/173/738/202304081513_2206173738_HSJ720H.jpg",南方影视
+https://migu.188766.xyz/?migutoken=64569d405cc9ded37d9c5f17d25d3ef0&id=%E5%8D%97%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/525/202504151721_1744708803016_H169_1080.jpg",和美乡途轮播台
+https://migu.188766.xyz/?migutoken=910b5d7deda003f154ffacc5b4563a6b&id=%E5%92%8C%E7%BE%8E%E4%B9%A1%E9%80%94%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/320/202512290851_1766567978328_H169_1080.jpg",茶
+https://migu.188766.xyz/?migutoken=a2eff1acd28c17e3b26f820dcec1f1da&id=%E8%8C%B6&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/317/202512290851_1766567873215_H169_1080.jpg",快乐垂钓
+https://migu.188766.xyz/?migutoken=f4d62cd1f8775b1b837f4232f1051f36&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/赛事最经典.png",赛事最经典
+https://migu.188766.xyz/?migutoken=a401b29b8669006357089258ec936700&id=%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/201/202509251348_1758698474363_H32_1080.webp",武术世界
+https://migu.188766.xyz/?migutoken=ddac95fee16f7f7119d157136a5e8bc2&id=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/184/202508040856_5100132656_H32_1080.webp",四海钓鱼
+https://migu.188766.xyz/?migutoken=e09d46d1efe72f32c4677c1071b22815&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/200/202509251348_1758698362959_H32_1080.webp",环球旅游
+https://migu.188766.xyz/?migutoken=452fea26b583b7b73619b693cda71732&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/最强综艺趴.png",最强综艺趴
+https://migu.188766.xyz/?migutoken=7e7baaf18cc3a17b8183b7eafe750d4a&id=%E6%9C%80%E5%BC%BA%E7%BB%BC%E8%89%BA%E8%B6%B4&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/319/202512290851_1766568047463_H169_1080.jpg",新动漫
+https://migu.188766.xyz/?migutoken=b6723923245d1a7b8f0a16fa0e1850e7&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/嘉佳卡通.png",嘉佳卡通
+https://migu.188766.xyz/?migutoken=7e545ef2e9deac56f94179ff0b98bab0&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/经典动画大集合.png",经典动画大集合
+https://migu.188766.xyz/?migutoken=59874861e7602eb3b2ae7e1b25c2aaef&id=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/优漫卡通频道.png",优漫卡通
+https://migu.188766.xyz/?migutoken=819664a87ae640598e8e39abe4ab9cbd&id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/193/202508061552_1754385779498_H32_1080.webp",财富天下
+https://migu.188766.xyz/?migutoken=82c32481ccae4af683bafecb53408f88&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/体坛名栏汇.png",体坛名栏汇
+https://migu.188766.xyz/?migutoken=856cc261eacb908866d3c75283777d72&id=%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/136/202509241340_1758692392561_H32_1080.webp",24小时城市联赛轮播台
+https://migu.188766.xyz/?migutoken=755354efbe473873713c07280ef57066&id=24%E5%B0%8F%E6%97%B6%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/199/202509241938_1758698577926_H32_1080.webp",山东教育
+https://migu.188766.xyz/?migutoken=8966de08f0986022958d939c43791c57&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/中学生.png",中学生
+https://migu.188766.xyz/?migutoken=b1724b2b2b9b1fd86e78503af4f9d949&id=%E4%B8%AD%E5%AD%A6%E7%94%9F&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/002/202405081702_1715158648861_H32_1080.webp",老故事
+https://migu.188766.xyz/?migutoken=4506f74e27f246275ab2d358c277180d&id=%E8%80%81%E6%95%85%E4%BA%8B&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/893/202405081702_1715158824845_H169_1080.jpg",发现之旅
+https://migu.188766.xyz/?migutoken=a85f0289e16459839624542d4427dd7d&id=%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/CETV1.png",CETV-1
+https://migu.188766.xyz/?migutoken=684179e41c8a963862d526472a85d0a9&id=CETV1&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/CETV2.png",CETV-2
+https://migu.188766.xyz/?migutoken=40587ce1f3dc9d1db0d1e40530f2c857&id=CETV2&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/CETV4.png",CETV-4
+https://migu.188766.xyz/?migutoken=c1d5c21cdc5028a4f7b8afcaad4d5176&id=CETV4&type=yy
+#EXTINF:-1 group-title="其他频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/523/202506060000_1749138941378_H32_1080.webp",新动力量创一流
+https://migu.188766.xyz/?migutoken=e5cb4be904305d7dbeda201f70acb355&id=%E6%96%B0%E5%8A%A8%E5%8A%9B%E9%87%8F%E5%88%9B%E4%B8%80%E6%B5%81&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/taksssss/tv/icon/卡酷少儿.png",卡酷少儿
+https://migu.188766.xyz/?migutoken=c0fefc8dddd8a3664b476ad1f3f9d12b&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/北京影视.png",北京影视
+https://migu.188766.xyz/?migutoken=fd32a73dc4e7b1c35adce013928dd7f2&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/北京文艺.png",北京文艺
+https://migu.188766.xyz/?migutoken=e054935877e5f5e7fead98902f8c1de9&id=%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/北京财经.png",北京财经
+https://migu.188766.xyz/?migutoken=c8b534aec73742e548cb389e18d991a8&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/北京生活.png",北京生活
+https://migu.188766.xyz/?migutoken=136fbb78e4d83281d95615b20e411bed&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/北京新闻.png",北京新闻
+https://migu.188766.xyz/?migutoken=35fb58abdb81b2d238e06a763ae7680d&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/北京纪实科教.png",北京纪实科教
+https://migu.188766.xyz/?migutoken=c39608c41709b41289d9130a447bac5c&id=%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/河南梨园.png",河南梨园
+https://migu.188766.xyz/?migutoken=6bfb44889c10b961aa51908211997261&id=%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/河南新闻.png",河南新闻
+https://migu.188766.xyz/?migutoken=1e1691a7054416c169895562bb800f07&id=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/河南都市.png",河南都市
+https://migu.188766.xyz/?migutoken=cedd42b2cf40eadf91c730b6cd932c28&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/河南民生.png",河南民生
+https://migu.188766.xyz/?migutoken=97b2be6f258ae481d8bc142a1fac8bef&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/河南电视剧.png",河南电视剧
+https://migu.188766.xyz/?migutoken=210ac99a8796b17a16fcd35453033bfd&id=%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/河南公共.png",河南公共
+https://migu.188766.xyz/?migutoken=f6bf8f2af952d3197ab5fc0ff0b6dd83&id=%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/河南法治.png",河南法治
+https://migu.188766.xyz/?migutoken=e9c07554955a35492bf02b2decb839a9&id=%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/武术世界.png",河南武术
+https://migu.188766.xyz/?migutoken=1cd63a59b0f74f28f5b616e5ddccbe15&id=%E6%AD%A6%E6%9C%AF%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/移动戏曲.png",河南移动戏曲
+https://migu.188766.xyz/?migutoken=d5a0dfb74efea8a01a952524c817bf7a&id=%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/文物宝库.png",河南文物宝库
+https://migu.188766.xyz/?migutoken=6a5b787b2d8a6c64915c2aeff152385f&id=%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/河南象视界.png",河南象视界
+https://migu.188766.xyz/?migutoken=d6760196b36f4a688bab82243884317d&id=%E8%B1%A1%E8%A7%86%E7%95%8C&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东体育.png",广东体育
+https://migu.188766.xyz/?migutoken=30d849e50e81d6d57effab0777f2f72f&id=hk_gdty&type=dy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东体育.png",广东体育
+https://hk.188766.xyz/?migutoken=144702545d8eb0129a47c3612d1d7b74&id=gd_gdty&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东新闻.png",广东新闻
+https://hk.188766.xyz/?migutoken=b6626e5c7a1db6b1c6e525dbd150f0fe&id=gd_gdxw&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东珠江.png",广东珠江
+https://hk.188766.xyz/?migutoken=624eacd4dc9801dbee0d4cdff8558abf&id=gd_gdzj&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东民生.png",广东民生
+https://hk.188766.xyz/?migutoken=46436e1ef8fc7b78f195efb512383441&id=gd_gdms&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东影视.png",广东影视
+https://hk.188766.xyz/?migutoken=ec19a0a08ce4fdb360000c8276414e18&id=gd_gdys&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东少儿.png",广东少儿
+https://hk.188766.xyz/?migutoken=bd5e983fefc530c08da64e11e55a2aa1&id=gd_gdse&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/嘉佳卡通.png",嘉佳卡通
+https://hk.188766.xyz/?migutoken=293827fb39b92c88bfced68c2a528fea&id=gd_jjkt&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/岭南戏曲.png",岭南戏曲
+https://hk.188766.xyz/?migutoken=ba943969378faeb71b5393e1fc6b0ce0&id=gd_lnxq&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东移动.png",广东移动
+https://hk.188766.xyz/?migutoken=300e62aba4582632128c3c9ec064a903&id=gd_gdyd&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/现代教育.png",现代教育
+https://hk.188766.xyz/?migutoken=706d52c65c7e054eee9210cd23bc0d82&id=gd_xdjy&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东生活A.png",广东生活频道
+https://hk.188766.xyz/?migutoken=a63d23129940003e04424d0d5ecff8c9&id=gd_gdsh&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/上海新闻综合.png",上海新闻综合
+https://migu.188766.xyz/?migutoken=e0b1bdace2e78d2f49ee59e01ade38ed&id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/上海第一财经.png",上海第一财经
+https://migu.188766.xyz/?migutoken=f162d79cfa5cd6a82772cf04a780fbf6&id=dycj&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/新纪实频道.png",上海新纪实
+https://migu.188766.xyz/?migutoken=b92ba0c4777a94b2bc975f7c516307dc&id=jsrw&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/上海都市.png",上海都市
+https://migu.188766.xyz/?migutoken=2104d72b339fd6f5341e06adc6bed4f7&id=shds&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/哈哈炫动.png",哈哈炫动
+https://migu.188766.xyz/?migutoken=fbd6f11670fa80e66db224437f360920&id=hhxd&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/上海魔都眼.png",上海魔都眼
+https://migu.188766.xyz/?migutoken=abfae356b4facb675d15c9a0dc267a42&id=mdy&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/上海ICS.png",爱上海
+https://migu.188766.xyz/?migutoken=e8e3e797e05565076f2e09bc14f7f497&id=ash&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/海南新闻.png",海南新闻
+https://migu.188766.xyz/?migutoken=98fdcff69572bc92b5e7bcf3e90854a5&id=hn_xwpd&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/海南文旅.png",海南文旅
+https://migu.188766.xyz/?migutoken=a5b4cdf3f9c93a7335e55a109404af67&id=hn_wlpd&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/海南自贸.png",海南自贸
+https://migu.188766.xyz/?migutoken=660a5548e95409c119145c54d487e47e&id=hn_jjpd&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/海南公共.png",海南公共
+https://migu.188766.xyz/?migutoken=3a138924186d190af58e01219616242b&id=hn_ggpd&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/海南少儿.png",海南少儿
+https://migu.188766.xyz/?migutoken=9c9969bee01e9a37dca68dd16df63e65&id=hn_sepd&type=sz
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江新闻.png",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江国际.png",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江少儿.png",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江教科影视.png",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/之江纪录.png",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江民生休闲.png",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江经济生活.png",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/钱江都市.png",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/内蒙古农牧.png",内蒙古农牧
+http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/内蒙古新闻综合.png",内蒙古新闻综合
+http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/内蒙古少儿.png",内蒙古少儿
+http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/内蒙古文体娱乐.png",内蒙古文体娱乐
+http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/内蒙古经济生活.png",内蒙古经济生活
+http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/内蒙古蒙语卫视.png",内蒙古蒙语卫视
+http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/内蒙古蒙语文化.png",内蒙古蒙语文化
+http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png",凤凰中文
+https://mgev.188766.xyz/?migutoken=e664beb9f9f8d6d3a487883dd66c1ddc&id=fhzw&pp=1
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png",凤凰中文
+https://mgev.188766.xyz/?migutoken=d1ebc7cc381d399fe9b8c6f3d4c4bf30&id=hk_fhzw&type=dy
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png",凤凰资讯
+https://mgev.188766.xyz/?migutoken=ff779d41b1e0441225844ea79c1e86f6&id=fhzx&pp=1
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png",凤凰资讯
+https://mgev.188766.xyz/?migutoken=3c9d7d79b07005f6a3c0b3f4f75ea738&id=hk_fhzx&type=dy
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png",凤凰香港
+https://mgev.188766.xyz/?migutoken=6663da0bb2a813b108dbc14c575be154&id=fhhk&pp=1
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png",凤凰香港
+https://mgev.188766.xyz/?migutoken=820794241984053a29a4848e0e220a96&id=hk_fhhk&type=dy
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png",翡翠台
+https://mgev.188766.xyz/?migutoken=85e184821c6f262204c8aed85951324c&id=hk_fct&type=dy
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png",翡翠台4K
+https://mgev.188766.xyz/?migutoken=b05b64698c81d84097f41356d9518fb2&id=hk_fct4k&type=dy
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/无线新闻.png",无线新闻
+https://mgev.188766.xyz/?migutoken=0374df0a18161ad1ee138164654ff8ac&id=hk_wxxw&type=dy
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/NOW新闻台.png",Now新闻台
+https://mgev.188766.xyz/?migutoken=734daf3f72cda04cd135b8ac71682832&id=hk_now&type=dy
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/tvbplus.png",TVB Plus
+https://mgev.188766.xyz/?migutoken=68202b5547aa34e9af8e6da18c97d381&id=hk_tvbp&type=dy
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/明珠台.png",明珠台
+https://mgev.188766.xyz/?migutoken=8b4d6d591bcec7aea03296a627a4439f&id=hk_mzt&type=dy
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/TVB星河.png",TVB星河
+https://mgev.188766.xyz/?migutoken=bae6d40ec319ecccda6f3acd89a88caf&id=hk_tvbxh&type=dy
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/TVB功夫.png",TVB功夫
+https://mgev.188766.xyz/?migutoken=25b608d59dc7949fae3ea955c3882979&id=hk_yzwx&type=dy
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/八度空间.png",八度空间
+https://mgev.188766.xyz/?migutoken=1b6066d3048a30bd27c1c91f45111063&id=hk_8tv&type=dy
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channelu.png",CHU
+https://mgev.188766.xyz/?migutoken=324de3283bd271f08ab2634cfc6030bc&id=hk_chu&type=dy
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channel5.png",CH5
+https://mgev.188766.xyz/?migutoken=67e4d869fb57f4e4a2a374b29e655e8f&id=hk_ch5&type=dy
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channel8.png",CH8
+https://mgev.188766.xyz/?migutoken=77d6318f28a5d2c72865fc7f2c87ea92&id=hk_ch8&type=dy
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/澳视澳门.png",澳视澳门
+https://mgev.188766.xyz/?migutoken=eb08d1221c9fb7597848ff0cf9ae31f2&id=hk_asam&type=dy
+#EXTINF:-1 group-title="粤语频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/HOY77.png",HOY77
+https://mgev.188766.xyz/?migutoken=a007a3db71eefa91eb363032aaed16ae&id=hk_hoy&type=dy
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="GPT-香港",翡翠台
 https://smart.dxjc.pp.ua/smart.php?id=jade_twn&token=tmxk
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="GPT-香港",翡翠台
