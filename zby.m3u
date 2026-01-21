@@ -1,4 +1,304 @@
 #EXTM3U
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png",民視第一台
+http://142.171.7.225:50007/4gtv-4gtv003/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png",民視台灣台
+http://142.171.7.225:50007/4gtv-4gtv001/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png",民視HD
+http://142.171.7.225:50007/4gtv-4gtv002/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png",Arirang TV
+http://142.171.7.225:50007/4gtv-4gtv079/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TITV.png",原住民族電視台
+http://142.171.7.225:50007/4gtv-live014/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png",東森購物一台
+http://142.171.7.225:50007/4gtv-4gtv102/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png",民視香港频道
+http://142.171.7.225:50007/litv-ftv13/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png",東森購物二台
+http://142.171.7.225:50007/4gtv-4gtv103/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png",民視香港频道
+http://142.171.7.225:50007/4gtv-4gtv004/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png",豬哥亮歌廳秀
+http://142.171.7.225:50007/4gtv-4gtv006/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png",民視旅遊
+http://142.171.7.225:50007/litv-ftv07/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png",滾動力 Rollor
+http://142.171.7.225:50007/4gtv-live012/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png",公視戲劇
+http://142.171.7.225:50007/4gtv-4gtv042/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png",民視影劇
+http://142.171.7.225:50007/litv-ftv09/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MyCinema.png",歐洲光影
+http://142.171.7.225:50007/4gtv-live157/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/France24.png",FRANCE24 英文台
+http://142.171.7.225:50007/4gtv-live146/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNBCAsia.png",CNBC Asia 財經台
+http://142.171.7.225:50007/4gtv-live130/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DWChannel.png",DW德國之聲
+http://142.171.7.225:50007/4gtv-live071/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png",國會頻道1
+http://142.171.7.225:50007/4gtv-4gtv084/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png",國會頻道2
+http://142.171.7.225:50007/4gtv-4gtv085/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live021_pc.png",經典電影台
+http://142.171.7.225:50007/4gtv-live021/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live022_pc.png",經典卡通台
+http://142.171.7.225:50007/4gtv-live022/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live024_pc.png",精選動漫台
+http://142.171.7.225:50007/4gtv-live024/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png",民視第一台
+http://142.171.7.225:50007/li-4gtv-4gtv003/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png",民視台灣台
+http://142.171.7.225:50007/li-4gtv-4gtv001/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png",中視
+http://142.171.7.225:50007/li-4gtv-4gtv040/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png",中視經典台
+http://142.171.7.225:50007/li-4gtv-4gtv080/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png",華視
+http://142.171.7.225:50007/li-4gtv-4gtv041/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png",華視香港频道台
+http://142.171.7.225:50007/li-4gtv-4gtv052/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png",龍華洋片
+http://142.171.7.225:50007/li-litv-longturn02/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png",龍華卡通
+http://142.171.7.225:50007/li-litv-longturn01/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png",龍華電影
+http://142.171.7.225:50007/li-litv-longturn03/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png",龍華日韓
+http://142.171.7.225:50007/li-litv-longturn11/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png",龍華偶像
+http://142.171.7.225:50007/li-litv-longturn12/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png",龍華戲劇
+http://142.171.7.225:50007/li-litv-longturn18/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png",龍華經典
+http://142.171.7.225:50007/li-litv-longturn21/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast6.png",博斯魅力
+http://142.171.7.225:50007/litv-longturn04/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast3.png",博斯高球I
+http://142.171.7.225:50007/litv-longturn05/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast4.png",博斯高球II
+http://142.171.7.225:50007/litv-longturn06/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast1.png",博斯香港频道I
+http://142.171.7.225:50007/litv-longturn07/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast2.png",博斯香港频道II
+http://142.171.7.225:50007/litv-longturn08/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast5.png",博斯網球
+http://142.171.7.225:50007/litv-longturn09/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast7.png",博斯無限I
+http://142.171.7.225:50007/litv-longturn10/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast8.png",博斯無限II
+http://142.171.7.225:50007/litv-longturn13/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png",非凡香港频道
+http://142.171.7.225:50007/4gtv-4gtv010/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png",非凡商業
+http://142.171.7.225:50007/4gtv-4gtv048/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png",台視財經台
+http://142.171.7.225:50007/4gtv-4gtv056/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png",中天亞洲台
+http://142.171.7.225:50007/4gtv-4gtv109/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png",客家電視
+http://142.171.7.225:50007/li-4gtv-4gtv043/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png",八大香港频道
+http://142.171.7.225:50007/li-4gtv-4gtv039/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png",中視菁采台
+http://142.171.7.225:50007/li-4gtv-4gtv064/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png",TVBS精采台
+http://142.171.7.225:50007/li-4gtv-4gtv067/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png",ELTA娛樂
+http://142.171.7.225:50007/li-4gtv-4gtv070/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png",靖天香港频道
+http://142.171.7.225:50007/li-4gtv-4gtv046/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png",靖天日本
+http://142.171.7.225:50007/li-4gtv-4gtv047/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png",Arirang TV
+http://142.171.7.225:50007/li-4gtv-4gtv079/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png",達文西
+http://142.171.7.225:50007/li-4gtv-4gtv018/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png",ELTV生活英語台
+http://142.171.7.225:50007/li-litv-longturn20/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png",靖天卡通
+http://142.171.7.225:50007/li-4gtv-4gtv044/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png",靖洋卡通
+http://142.171.7.225:50007/li-4gtv-4gtv057/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png",東森香港频道
+http://142.171.7.225:50007/li-4gtv-4gtv152/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png",民視香港频道
+http://142.171.7.225:50007/li-litv-ftv13/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png",TVBS香港频道台
+http://142.171.7.225:50007/li-4gtv-4gtv072/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png",東森財經香港频道
+http://142.171.7.225:50007/li-4gtv-4gtv153/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png",中視香港频道台
+http://142.171.7.225:50007/li-4gtv-4gtv074/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png",中天香港频道台
+http://142.171.7.225:50007/li-4gtv-4gtv009/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png",寰宇香港频道
+http://142.171.7.225:50007/li-litv-longturn14/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png",寰宇香港频道台灣台
+http://142.171.7.225:50007/li-4gtv-4gtv156/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png",寰宇財經
+http://142.171.7.225:50007/li-4gtv-4gtv158/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png",TVBS HD
+http://142.171.7.225:50007/li-4gtv-4gtv073/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png",民視香港频道
+http://142.171.7.225:50007/li-4gtv-4gtv004/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png",豬哥亮歌廳秀
+http://142.171.7.225:50007/li-4gtv-4gtv006/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png",靖天育樂
+http://142.171.7.225:50007/li-4gtv-4gtv062/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png",靖天國際
+http://142.171.7.225:50007/li-4gtv-4gtv063/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png",靖天歡樂
+http://142.171.7.225:50007/li-4gtv-4gtv054/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png",靖天資訊
+http://142.171.7.225:50007/li-4gtv-4gtv065/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png",TVBS歡樂台
+http://142.171.7.225:50007/li-4gtv-4gtv068/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png",Trace Urban
+http://142.171.7.225:50007/li-4gtv-4gtv082/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png",MEZZO LIVE HD
+http://142.171.7.225:50007/li-4gtv-4gtv083/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png",CLASSICA 古典樂
+http://142.171.7.225:50007/li-4gtv-4gtv059/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png",TRACE Sport Stars
+http://142.171.7.225:50007/li-4gtv-4gtv077/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png",智林體育
+http://142.171.7.225:50007/li-4gtv-4gtv101/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png",時尚香港频道X
+http://142.171.7.225:50007/li-4gtv-4gtv014/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png",GINX Esports TV
+http://142.171.7.225:50007/li-4gtv-4gtv053/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png",民視旅遊
+http://142.171.7.225:50007/li-litv-ftv07/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png",亞洲旅遊
+http://142.171.7.225:50007/li-4gtv-4gtv076/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png",公視戲劇
+http://142.171.7.225:50007/li-4gtv-4gtv042/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png",民視影劇
+http://142.171.7.225:50007/li-litv-ftv09/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png",八大精彩
+http://142.171.7.225:50007/li-4gtv-4gtv034/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png",靖天戲劇
+http://142.171.7.225:50007/li-4gtv-4gtv058/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png",靖洋戲劇
+http://142.171.7.225:50007/li-4gtv-4gtv045/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png",視納華仁紀實頻道
+http://142.171.7.225:50007/li-4gtv-4gtv013/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png",影迷數位紀實台
+http://142.171.7.225:50007/li-litv-ftv15/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png",采昌影劇
+http://142.171.7.225:50007/li-4gtv-4gtv049/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png",靖天映畫
+http://142.171.7.225:50007/li-4gtv-4gtv055/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png",靖天電影
+http://142.171.7.225:50007/li-4gtv-4gtv061/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png",影迷數位電影台
+http://142.171.7.225:50007/li-4gtv-4gtv011/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png",好消息
+http://142.171.7.225:50007/li-litv-ftv16/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png",好消息2台
+http://142.171.7.225:50007/li-litv-ftv17/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png",VOA 美國之音
+http://142.171.7.225:50007/li-litv-ftv03/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png",國會頻道1
+http://142.171.7.225:50007/li-4gtv-4gtv084/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png",國會頻道2
+http://142.171.7.225:50007/li-4gtv-4gtv085/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png",台灣戲劇台
+http://142.171.7.225:50007/li-litv-longturn22/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png",Smart知識台
+http://142.171.7.225:50007/li-litv-longturn19/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png",台視香港频道台
+http://142.171.7.225:50007/li-4gtv-4gtv051/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png",台視HD
+http://142.171.7.225:50007/li-4gtv-4gtv066/index.m3u8
+#EXTINF:-1 group-title="台湾直播" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png",第1商業台
+http://142.171.7.225:50007/li-4gtv-4gtv104/index.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/翡翠台.png",翡翠台4K
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/翡翠台.png",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/华丽翡翠台.png",华丽翡翠台
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/TVB星河.png",TVB星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/明珠台.png",明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/tvbplus.png",TVB Plus
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/无线新闻.png",无线新闻
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/viutv.png",ViuTV
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/VIUTVSIX.png",ViuTVSix
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/rthk31.png",RTHK31
+http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/rthk32.png",RTHK32
+http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png",千禧经典台
+http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png",美亚电影台
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/天映.png",天映频道
+http://php.jdshipin.com:8880/smt.php?id=Celestial
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/天映经典.png",天映经典
+http://php.jdshipin.com:8880/smt.php?id=Celestial2
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png",凤凰中文
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png",凤凰资讯
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png",凤凰香港
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/八度空间.png",八度空间
+http://php.jdshipin.com:8880/smt.php?id=TV8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/AstroAOD.png",Astro AOD
+http://php.jdshipin.com:8880/smt.php?id=Aodhd
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/AstroAEC.png",Astro AEC
+http://php.jdshipin.com:8880/smt.php?id=AEC
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/爱奇艺.png",爱奇艺
+http://php.jdshipin.com:8880/smt.php?id=Qiyi
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/ASTROQUANJIA.png",Astro QJ
+http://php.jdshipin.com:8880/smt.php?id=Quanjia
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png",Astro欢喜台
+http://php.jdshipin.com:8880/smt.php?id=Huahee
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png",[BD]ช่อง 澳视澳门
+https://stream1.freetv.fun/14ab57c2f60a541dd8f75219ee88553faf0194f96019a9dd38b46f41e3ada1fc.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png",[BD]澳视澳门
+https://stream1.freetv.fun/763163422eb12cc3476ec51f71afced753e0d2956126f1961dd7f77d1f08558e.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png",[BD]ช่อง 澳视澳门
+https://stream1.freetv.fun/d2e26396288b9f363e26cc630f13e4f1fde8fae958a0bde4ff2dac09f9a6ec9c.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png",[BD]澳視澳門
+https://stream1.freetv.fun/03548f52945ed6c816a972deb0746e7e30892babff59c022f2927b21ed3baed0.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521133414352048_88.jpg",[BD]澳門香港频道
+https://stream1.freetv.fun/7168df2b953d3427282ee18a7ed70314364d489570e3fd98cc30119138b73a5f.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521133414352048_88.jpg",[BD]澳视综艺
+https://stream1.freetv.fun/3fcd89f5033b6a5c0be73097d8d24992542548b6832a4b0787f8c4fe35e2e411.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg",[BD]澳视葡文
+https://stream1.freetv.fun/64e4fe8d5dde94075a01b835c2c3743b0189a9c0ff3b84820cfd372489679b03.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg",[BD]澳視葡文
+https://stream1.freetv.fun/470cc9f6910f54f75c4800037462a15e29c9a5e1239b8481209a25a18865d21f.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg",[BD]ช่อง 澳视葡文
+https://stream1.freetv.fun/e839812d2a06a88476bd79f66170c1a4b0097c1b2503f7e761a764e4fbb72e52.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2025/01/26/large/20250126043923468573_57.png",[BD]澳视资讯
+https://stream1.freetv.fun/d07d27544ddf57dc7242cf52cc41a240ad936b101821b7f52fdbbe209517b1ea.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2025/01/26/large/20250126043923468573_57.png",[BD]ช่อง 澳视资讯
+https://stream1.freetv.fun/5c02735dff29e990e0e735400c8dbc02e9819b70c4c95a6a11278f7145a8caa3.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143523253830_24.png",[BD]ช่อง 澳視體育
+https://stream1.freetv.fun/c1874db48a22a08dceee28ef41e671c56a7fedc6e5d285434acb468ec8e63874.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143523253830_24.png",[BD]澳视体育[geo-blocked]
+https://stream1.freetv.fun/11b0ee9026108d5eb2cfe40a42c071e49a7cde6b4302d06e58b24d36686d4429.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143523253830_24.png",[BD]澳門體育
+https://stream1.freetv.fun/9aef8e8f1c01b226c1f385bd2dc68af304041a908154aa383914763a3634011a.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143523253830_24.png",[BD]ช่อง 澳視體育
+https://stream1.freetv.fun/e7cba367253adf254be60a7d2a47b0670a18aaba00b10d2b4e2b9ae4eba2b82f.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521144701785913_98.jpeg",[BD]澳门macau
+https://stream1.freetv.fun/fddbf56ad443cd99c1e7f1af8ab24e3f9e06f42e62d050af643250eed0231f80.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521144701785913_98.jpeg",[BD]澳門MACAU
+https://stream1.freetv.fun/cddca3be72e1752fa1a211f70007dbf09875073ea2b9ddeb83b2b804a36209d4.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/2608cd4edd95a446eb0477f7ee3a95aa.jpg",[BD]澳门莲花
+https://stream1.freetv.fun/08764ad621127dbb1b20420ad2826045c7b636c066856b752355818be52560f0.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143215919020_21.jpg",[BD]澳門資訊
+https://stream1.freetv.fun/de4df17b6bdb5a7ef154d3ebc63b99ed5bb674f249bcf64c88cedc91aa53f0c1.m3u8
 #EXTINF:-1 group-title="香港直播",HOY TV
 http://pull.cly.alivecdn.com/live/39ecfe1253b307af2e93faa1cd0ae56b.m3u8?token=mytv123
 #EXTINF:-1 group-title="香港直播" tvg-logo="http://bxtv.3a.ink/logo/MYTVSUPER18.png",myTV SUPER 18台
