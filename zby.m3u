@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 group-title="台湾频道",TVBS新聞
+http://iptv.4666888.xyz/iptv2A.php?id=43
+#EXTINF:-1 group-title="台湾频道",華藝中文
+http://iptv.4666888.xyz/iptv2A.php?id=37
+#EXTINF:-1 group-title="台湾频道",龍華电影
+http://iptv.4666888.xyz/iptv2A.php?id=45
+#EXTINF:-1 group-title="台湾频道",TVBS精采
+http://iptv.4666888.xyz/iptv2A.php?id=47
+#EXTINF:-1 group-title="台湾频道",ROCK_Action
+http://iptv.4666888.xyz/iptv2A.php?id=50
+#EXTINF:-1 group-title="台湾频道",台视综合
+http://iptv.4666888.xyz/iptv2A.php?id=51
+#EXTINF:-1 group-title="台湾频道",八度空间
+http://iptv.4666888.xyz/iptv2A.php?id=52
 #EXTINF:-1 group-title="香港直播",HOY TV
 http://pull.cly.alivecdn.com/live/39ecfe1253b307af2e93faa1cd0ae56b.m3u8?token=mytv123
 #EXTINF:-1 group-title="香港直播" tvg-logo="http://bxtv.3a.ink/logo/MYTVSUPER18.png",myTV SUPER 18台
@@ -335,6 +349,34 @@ https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 group-title="超清频道" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视4K.png",北京卫视4K
 https://migu.188766.xyz/?migutoken=f8fe7ffde109c46d584afec0ecd3c02a&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="中国频道",CCTV1综合
+http://iptv.4666888.xyz/iptv2A.php?id=7
+#EXTINF:-1 group-title="中国频道",CCTV2财经
+http://iptv.4666888.xyz/iptv2A.php?id=8
+#EXTINF:-1 group-title="中国频道",CCTV3综艺
+http://iptv.4666888.xyz/iptv2A.php?id=9
+#EXTINF:-1 group-title="中国频道",CCTV4中文国际
+http://iptv.4666888.xyz/iptv2A.php?id=10
+#EXTINF:-1 group-title="中国频道",CCTV13新闻
+http://iptv.4666888.xyz/iptv2A.php?id=11
+#EXTINF:-1 group-title="中国频道",CCTV14少儿
+http://iptv.4666888.xyz/iptv2A.php?id=12
+#EXTINF:-1 group-title="中国频道",广东卫视
+http://iptv.4666888.xyz/iptv2A.php?id=18
+#EXTINF:-1 group-title="中国频道",广东珠江
+http://iptv.4666888.xyz/iptv2A.php?id=19
+#EXTINF:-1 group-title="中国频道",广东体育
+http://iptv.4666888.xyz/iptv2A.php?id=20
+#EXTINF:-1 group-title="中国频道",湖南卫视
+http://iptv.4666888.xyz/iptv2A.php?id=13
+#EXTINF:-1 group-title="中国频道",浙江卫视
+http://iptv.4666888.xyz/iptv2A.php?id=14
+#EXTINF:-1 group-title="中国频道",江苏卫视
+http://iptv.4666888.xyz/iptv2A.php?id=15
+#EXTINF:-1 group-title="中国频道",山西卫视
+http://iptv.4666888.xyz/iptv2A.php?id=16
+#EXTINF:-1 group-title="中国频道",青海卫视
+http://iptv.4666888.xyz/iptv2A.php?id=17
 #EXTINF:-1 group-title="中国频道",CCTV1
 http://www.douzhicloud.site:35455/gaoma/cctv1.m3u8
 #EXTINF:-1 group-title="中国频道",CCTV1
@@ -1511,6 +1553,13 @@ http://plex.cyruslee.top:8888/udp/239.77.1.224:5146
 http://plex.cyruslee.top:8888/udp/239.77.1.225:5146
 #EXTINF:-1 group-title="广东频道",珠海新闻综合
 http://plex.cyruslee.top:8888/udp/239.77.1.230:5146
+#EXTINF:-1 group-title="体育频道",SPOTV
+http://iptv.4666888.xyz/iptv2A.php?id=2
+#EXTINF:-1 group-title="体育频道",SPOTV2
+http://iptv.4666888.xyz/iptv2A.php?id=1
+#EXTINF:-1 group-title="体育频道",astroFootball
+http://iptv.4666888.xyz/iptv2A.php?id=4
+#EXTINF:-1 group-title="体育频道",博斯運動1
 #EXTINF:-1 group-title="体育频道",MBC体育❤️
 http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
 #EXTINF:-1 group-title="体育频道",红牛TV
@@ -2011,6 +2060,33 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 #EXTINF:-1 group-title="国际频道",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="港澳频频道",鳳凰中文
+http://iptv.4666888.xyz/iptv2A.php?id=27
+#EXTINF:-1 group-title="港澳频频道",TVB翡翠
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 group-title="港澳频频道",TVB明珠
+http://iptv.4666888.xyz/iptv2A.php?id=29
+#EXTINF:-1 group-title="港澳频频道",TVBJ1
+http://iptv.4666888.xyz/iptv2A.php?id=26
+#EXTINF:-1 group-title="港澳频频道",TVB1
+http://iptv.4666888.xyz/iptv2A.php?id=25
+#EXTINF:-1 group-title="港澳频频道",千禧经典
+http://iptv.4666888.xyz/iptv2A.php?id=22
+#EXTINF:-1 group-title="港澳频频道",HOY77
+http://iptv.4666888.xyz/iptv2A.php?id=35
+#EXTINF:-1 group-title="港澳频频道",HOY78
+http://iptv.4666888.xyz/iptv2A.php?id=31
+#EXTINF:-1 group-title="港澳频频道",RTHK31
+http://iptv.4666888.xyz/iptv2A.php?id=23
+#EXTINF:-1 group-title="港澳频频道",TVB娱乐新闻
+http://iptv.4666888.xyz/iptv2A.php?id=36
+#EXTINF:-1 group-title="港澳频频道",MYTV黃金翡翠
+http://iptv.4666888.xyz/iptv2A.php?id=32
+#EXTINF:-1 group-title="港澳频频道",TVB翡翠劇集
+http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1 group-title="港澳频频道",澳視澳門
+http://iptv.4666888.xyz/iptv2A.php?id=41
 #EXTINF:-1 group-title="港澳频道",翡翠台
 https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv8899&id=jade_twn
 #EXTINF:-1 group-title="港澳频道",翡翠台
