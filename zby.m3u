@@ -1,4 +1,110 @@
-#EXTM3U url-tvg="https://epg.iill.top/epg.xml.gz"
+#EXTM3U
+#EXTINF:-1 group-title="香港直播",HOY TV
+http://pull.cly.alivecdn.com/live/39ecfe1253b307af2e93faa1cd0ae56b.m3u8?token=mytv123
+#EXTINF:-1 group-title="香港直播" tvg-logo="http://bxtv.3a.ink/logo/MYTVSUPER18.png",myTV SUPER 18台
+http://bxtv.3a.ink/api.php?id=18
+#EXTINF:-1 group-title="香港直播" tvg-logo="http://bxtv.3a.ink/logo/TVBPLUS.png",TVB Plus
+http://bxtv.3a.ink/api.php?id=tvbp
+#EXTINF:-1 group-title="香港直播" tvg-logo="http://bxtv.3a.ink/logo/明珠.png",明珠台
+http://bxtv.3a.ink/api.php?id=mz
+#EXTINF:-1 group-title="香港直播" tvg-logo="http://bxtv.3a.ink/logo/无线新闻.png",無線新聞台
+http://bxtv.3a.ink/api.php?id=wxxw
+#EXTINF:-1 group-title="香港直播" tvg-logo="http://bxtv.3a.ink/logo/美亚电影.png",美亞電影台
+http://bxtv.3a.ink/api.php?id=meiya
+#EXTINF:-1 group-title="香港直播" tvg-logo="http://bxtv.3a.ink/logo/POPC.png",PopC
+http://bxtv.3a.ink/api.php?id=popc
+#EXTINF:-1 group-title="香港直播" tvg-logo="http://bxtv.3a.ink/logo/千禧经典.png",千禧經典台
+http://bxtv.3a.ink/api.php?id=qxjd
+#EXTINF:-1 group-title="香港直播" tvg-logo="http://bxtv.3a.ink/logo/翡翠.png",翡翠台
+http://bxtv.3a.ink/api.php?id=fct
+#EXTINF:-1 group-title="香港直播" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png",鳳凰衛視中文台
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 group-title="香港直播" tvg-logo="http://bxtv.3a.ink/logo/凤凰资讯.png",鳳凰衛視資訊台
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1 group-title="香港直播" tvg-logo="http://bxtv.3a.ink/logo/凤凰香港.png",鳳凰衛視香港台
+http://bxtv.3a.ink/api.php?id=fhhk
+#EXTINF:-1 group-title="香港直播",翡翠台字幕
+https://3.edge.101.qzz.io/o12.php?id=fct
+#EXTINF:-1 group-title="香港直播",明珠台字幕
+https://3.edge.101.qzz.io/o12.php?id=mzt
+#EXTINF:-1 group-title="香港直播",翡翠台
+https://6.edge.101.qzz.io/163189/fct
+#EXTINF:-1 group-title="香港直播",HOY TV
+https://6.edge.101.qzz.io/163189/hoy
+#EXTINF:-1 group-title="香港直播",凤凰资讯
+https://6.edge.101.qzz.io/163189/fhzx
+#EXTINF:-1 group-title="香港直播",凤凰香港
+https://6.edge.101.qzz.io/163189/fhhk
+#EXTINF:-1 group-title="香港直播",无线新闻台
+https://6.edge.101.qzz.io/163189/wxxw
+#EXTINF:-1 group-title="香港直播",八度空间
+https://6.edge.101.qzz.io/163189/8tv
+#EXTINF:-1 group-title="香港直播",CH5
+https://6.edge.101.qzz.io/163189/ch5
+#EXTINF:-1 group-title="香港直播",CH8
+https://6.edge.101.qzz.io/163189/ch8
+#EXTINF:-1 group-title="香港直播",CHU
+https://6.edge.101.qzz.io/163189/chu
+#EXTINF:-1 group-title="香港直播",广东珠江
+https://2.edge.101.qzz.io/163189/gdzj
+#EXTINF:-1 group-title="香港直播",广东体育
+https://2.edge.101.qzz.io/163189/gdty
+#EXTINF:-1 group-title="香港直播",翡翠台
+https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv123&id=jade_twn
+#EXTINF:-1 group-title="香港直播",翡翠台
+https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv123&id=jade_xue
+#EXTINF:-1 group-title="香港直播",华丽翡翠台
+https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv123&id=Tvbjade
+#EXTINF:-1 group-title="香港直播",无线新闻台
+https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv123&id=inews_twn
+#EXTINF:-1 group-title="香港直播",TVB PLUS
+https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv123&id=j2_twn
+#EXTINF:-1 group-title="香港直播",TVB星河
+https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv123&id=Xinhe
+#EXTINF:-1 group-title="香港直播",ViuTVSix
+https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv123&id=viusix_twn
+#EXTINF:-1 group-title="香港直播",RTHK31
+https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv123&id=rhk31_twn
+#EXTINF:-1 group-title="香港直播",RTHK32
+https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv123&id=rhk32_twn
+#EXTINF:-1 group-title="香港直播",凤凰中文
+https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv123&id=phoenixtv_hd
+#EXTINF:-1 group-title="香港直播",凤凰资讯
+https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv123&id=phoenixinfo_hd
+#EXTINF:-1 group-title="香港直播",凤凰香港
+https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv123&id=hkphoenix_twn
+#EXTINF:-1 group-title="香港直播",爱奇艺
+https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv123&id=Qiyi
+#EXTINF:-1 group-title="香港直播",Astro QJ
+https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv123&id=Quanjia
+#EXTINF:-1 group-title="香港直播",Astro欢喜台
+https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv123&id=Huahee
+#EXTINF:-1 group-title="香港直播",八度空间
+https://5.edge.101.qzz.io/smt3.2.1.php?token=mytv123&id=TV8
+#EXTINF:-1 group-title="香港直播",翡翠台
+http://fast.163189.xyz/163189/fct
+#EXTINF:-1 group-title="香港直播",HOY TV
+http://fast.163189.xyz/163189/hoy
+#EXTINF:-1 group-title="香港直播",凤凰资讯
+http://fast.163189.xyz/163189/fhzx
+#EXTINF:-1 group-title="香港直播",凤凰香港
+http://fast.163189.xyz/163189/fhhk
+#EXTINF:-1 group-title="香港直播",无线新闻台
+http://fast.163189.xyz/163189/wxxw
+#EXTINF:-1 group-title="香港直播",八度空间
+http://fast.163189.xyz/163189/8tv
+#EXTINF:-1 group-title="香港直播",CH5
+http://fast.163189.xyz/163189/ch5
+#EXTINF:-1 group-title="香港直播",CH8
+http://fast.163189.xyz/163189/ch8
+#EXTINF:-1 group-title="香港直播",CHU
+http://fast.163189.xyz/163189/chu
+#EXTINF:-1 group-title="香港直播",翡翠台
+https://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 group-title="香港直播",明珠台
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 group-title="香港直播",TVB PLUS
+https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="台湾直播",民視第一台
 https://4gtv.iill.top/4gtv/4gtv-4gtv003
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="台湾直播",民視台灣台
