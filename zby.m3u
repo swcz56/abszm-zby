@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz"
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="台湾直播",民視第一台
 http://142.171.7.225:50009/4gtv-live403/index.m3u8?token=r1rnXt8Z6AjnJO20VmhMgai0cHshXqPDvqBSUvRTINt1QyclZmb0rEdYwe5vcNKF
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="台湾直播",民視第一台
