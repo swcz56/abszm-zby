@@ -868,581 +868,1006 @@ https://rvsh.jtw.sh.gov.cn/live/200120a4-3d7c-4a7d-82dc-71fdfef3e045_sub/index.m
 #EXTINF:-1 group-title="👁️‍🗨️监控直播" tvg-logo="http://175.178.182.213/tb/%E4%B8%8A%E6%B5%B7%E4%B8%B4%E6%B8%AF%E5%A4%A7%E9%81%93%E4%B8%9C%E5%A4%A7%E5%85%AC%E8%B7%AF.png",上海临港大道东大公路
 https://rvsh.jtw.sh.gov.cn/live/310120a4-3d7c-4a7d-82dc-71fde233e060_sub/index.m3u8?t=1902119782&k=e5d9cad0fb4bde78
 
-#EXTINF:-1 group-title="GPT-香港",翡翠台
-http://142.171.7.225:5050/smart.php?id=jade_twn&token=swqz
-#EXTINF:-1 group-title="GPT-香港",翡翠台
-http://142.171.7.225:5050/smart.php?id=Jade_xue&token=swqz
-#EXTINF:-1 group-title="GPT-香港",明珠台
-http://142.171.7.225:5050/smart.php?id=pearl_twn&token=swqz
-#EXTINF:-1 group-title="GPT-香港",无线新闻
-http://142.171.7.225:5050/smart.php?id=inews_twn&token=swqz
-#EXTINF:-1 group-title="GPT-香港",TVBPLUS
-http://142.171.7.225:5050/smart.php?id=j2_twn&token=swqz
-#EXTINF:-1 group-title="GPT-香港",ViuTV
-http://142.171.7.225:5050/smart.php?id=viu1_twn&token=swqz
-#EXTINF:-1 group-title="GPT-香港",ViuTV 6
-http://142.171.7.225:5050/smart.php?id=viusix_twn&token=swqz
-#EXTINF:-1 group-title="GPT-香港",RTHK 31
-http://142.171.7.225:5050/smart.php?id=rhk31_twn&token=swqz
-#EXTINF:-1 group-title="GPT-香港",RTHK 32
-http://142.171.7.225:5050/smart.php?id=rhk32_twn&token=swqz
-#EXTINF:-1 group-title="GPT-香港",HOY TV
-http://142.171.7.225:5050/smart.php?id=hoycaijing_twn&token=swqz
-#EXTINF:-1 group-title="GPT-香港",凤凰中文
-http://142.171.7.225:5050/smart.php?id=phoenixtv_hd&token=swqz
-#EXTINF:-1 group-title="GPT-香港",凤凰资讯
-http://142.171.7.225:5050/smart.php?id=phoenixinfo_hd&token=swqz
-#EXTINF:-1 group-title="GPT-香港",凤凰香港
-http://142.171.7.225:5050/smart.php?id=hkphoenix_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",台视 HD
-http://142.171.7.225:5050/smart.php?id=ttv_taiwan&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",台视新闻
-http://142.171.7.225:5050/smart.php?id=ttvnews_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",台视综合
-http://142.171.7.225:5050/smart.php?id=ttvzhonghe&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",中视 HD
-http://142.171.7.225:5050/smart.php?id=zhongshihd_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",华视 HD
-http://142.171.7.225:5050/smart.php?id=ctshd_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",公视台语台
-http://142.171.7.225:5050/smart.php?id=ctv2_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",三立台湾台
-http://142.171.7.225:5050/smart.php?id=sanlitaiwan&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",三立综合台
-http://142.171.7.225:5050/smart.php?id=sanlizhonghe&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",三立戏剧台
-http://142.171.7.225:5050/smart.php?id=sanlixiju_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",东森新闻台
-http://142.171.7.225:5050/smart.php?id=ettvnews&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",东森财经新闻台
-http://142.171.7.225:5050/smart.php?id=ettvcaijing_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",东森综合台
-http://142.171.7.225:5050/smart.php?id=ettvzhonghe&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",东森戏剧台
-http://142.171.7.225:5050/smart.php?id=ettvdrama&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",东森电影台
-http://142.171.7.225:5050/smart.php?id=ettvmovie&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",东森洋片台
-http://142.171.7.225:5050/smart.php?id=ettvwestern&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",东森幼幼台
-http://142.171.7.225:5050/smart.php?id=yoyo_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",TVBS HD
-http://142.171.7.225:5050/smart.php?id=tvbs&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",TVBS 新闻台
-http://142.171.7.225:5050/smart.php?id=tvbs_n&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",TVBS 欢乐台
-http://142.171.7.225:5050/smart.php?id=tvbshuanle_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",民视 HD
-http://142.171.7.225:5050/smart.php?id=ftvhd_taiwan&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",民视新闻台
-http://142.171.7.225:5050/smart.php?id=ftvnew_taiwan&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",民视台湾台
-http://142.171.7.225:5050/smart.php?id=ftvtaiwan_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",中天综合
-http://142.171.7.225:5050/smart.php?id=ctizhonghe&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",中天娱乐
-http://142.171.7.225:5050/smart.php?id=ctient&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",中天亚洲
-http://142.171.7.225:5050/smart.php?id=ctiasia_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",中天新闻
-http://142.171.7.225:5050/smart.php?id=ctinews&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",寰宇新闻台
-http://142.171.7.225:5050/smart.php?id=huanyuxinwen_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",八大第一台
-http://142.171.7.225:5050/smart.php?id=badafirst&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",八大综合台
-http://142.171.7.225:5050/smart.php?id=badazhonghe&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",八大戏剧台
-http://142.171.7.225:5050/smart.php?id=badadrama&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",纬来体育
-http://142.171.7.225:5050/smart.php?id=videolandsport&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",纬来日本
-http://142.171.7.225:5050/smart.php?id=videolandjapan&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",纬来电影
-http://142.171.7.225:5050/smart.php?id=videolandmovie&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",纬来综合
-http://142.171.7.225:5050/smart.php?id=videolandzonghe&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",爱尔达体育2台
-http://142.171.7.225:5050/smart.php?id=eltasport2_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",爱尔达体育3台
-http://142.171.7.225:5050/smart.php?id=eltasport3_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",非凡新闻
-http://142.171.7.225:5050/smart.php?id=feifannews_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",年代新闻
-http://142.171.7.225:5050/smart.php?id=niandainews_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",龙华戏剧
-http://142.171.7.225:5050/smart.php?id=lunghuaxiju_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",龙华偶像
-http://142.171.7.225:5050/smart.php?id=lunghuaidol_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",靖天卡通
-http://142.171.7.225:5050/smart.php?id=jingtiancartoon_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",大愛電視
-http://142.171.7.225:5050/smart.php?id=daai_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",大愛二台
-http://142.171.7.225:5050/smart.php?id=daai2_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",EYE 旅游台
-http://142.171.7.225:5050/smart.php?id=eyetvtravel_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",EYE 戏剧台
-http://142.171.7.225:5050/smart.php?id=eyetvxiju_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",亚洲美食
-http://142.171.7.225:5050/smart.php?id=afc_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",TLC旅遊生活
-http://142.171.7.225:5050/smart.php?id=tlc_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",亚洲旅游台
-http://142.171.7.225:5050/smart.php?id=asiatravel_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",Arirang
-http://142.171.7.225:5050/smart.php?id=arirang_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",AXN Taiwan
-http://142.171.7.225:5050/smart.php?id=axn_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",MTV Live
-http://142.171.7.225:5050/smart.php?id=mtvhd_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",CINEMAX
-http://142.171.7.225:5050/smart.php?id=cinemax_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",好萊塢電影台
-http://142.171.7.225:5050/smart.php?id=hollywoodmovies_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",龙祥时代
-http://142.171.7.225:5050/smart.php?id=lungxiangtime_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",美亚电影
-http://142.171.7.225:5050/smart.php?id=meiyamovie_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",華藝綜合
-http://142.171.7.225:5050/smart.php?id=weishichinese_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",博斯运动一台
-http://142.171.7.225:5050/smart.php?id=bosisport1_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",博斯运动二台
-http://142.171.7.225:5050/smart.php?id=bosisport2_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",博斯高球二台
-http://142.171.7.225:5050/smart.php?id=bosigolf2_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",博斯网球台
-http://142.171.7.225:5050/smart.php?id=bositennis_twn&token=swqz
-#EXTINF:-1 group-title="GPT-台湾",博斯无限台
-http://142.171.7.225:5050/smart.php?id=bosiunlimited_twn&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CCTV-1 综合
-http://142.171.7.225:5050/smart.php?id=cctv1&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CCTV-2 财经
-http://142.171.7.225:5050/smart.php?id=cctv2&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CCTV-3 综艺
-http://142.171.7.225:5050/smart.php?id=cctv3&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CCTV-4 中文国际
-http://142.171.7.225:5050/smart.php?id=Cctv4&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CCTV-4 中文国际
-http://142.171.7.225:5050/smart.php?id=cctv4&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CCTV-5 体育
-http://142.171.7.225:5050/smart.php?id=cctv5&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CCTV-6 电影
-http://142.171.7.225:5050/smart.php?id=cctv6&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CCTV-7 国防军事
-http://142.171.7.225:5050/smart.php?id=cctv7&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CCTV-8 电视剧
-http://142.171.7.225:5050/smart.php?id=cctv8hd&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CCTV-9 记录
-http://142.171.7.225:5050/smart.php?id=cctv9hd&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CCTV-10 科教
-http://142.171.7.225:5050/smart.php?id=cctv10hd&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CCTV-11 戏曲
-http://142.171.7.225:5050/smart.php?id=cctv11&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CCTV-12 社会与法
-http://142.171.7.225:5050/smart.php?id=cctv12&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CCTV-13 新闻
-http://142.171.7.225:5050/smart.php?id=cctv13&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CCTV-14 少儿
-http://142.171.7.225:5050/smart.php?id=cctv14&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CCTV-15 音乐
-http://142.171.7.225:5050/smart.php?id=cctv15&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CCTV-5+ 体育赛事
-http://142.171.7.225:5050/smart.php?id=cctv5plus&token=swqz
-#EXTINF:-1 group-title="GPT-央视",湖南卫视
-http://142.171.7.225:5050/smart.php?id=hunan_twn&token=swqz
-#EXTINF:-1 group-title="GPT-央视",浙江卫视
-http://142.171.7.225:5050/smart.php?id=zhejiang_twn&token=swqz
-#EXTINF:-1 group-title="GPT-央视",江苏卫视
-http://142.171.7.225:5050/smart.php?id=jiangsu_twn&token=swqz
-#EXTINF:-1 group-title="GPT-央视",东方卫视
-http://142.171.7.225:5050/smart.php?id=dongfangweishi_twn&token=swqz
-#EXTINF:-1 group-title="GPT-央视",北京卫视
-http://142.171.7.225:5050/smart.php?id=beijing&token=swqz
-#EXTINF:-1 group-title="GPT-央视",深圳卫视
-http://142.171.7.225:5050/smart.php?id=shenzhen&token=swqz
-#EXTINF:-1 group-title="GPT-央视",广东卫视
-http://142.171.7.225:5050/smart.php?id=guangdongweishi_twn&token=swqz
-#EXTINF:-1 group-title="GPT-央视",大湾区卫视
-http://142.171.7.225:5050/smart.php?id=nanfang_twn&token=swqz
-#EXTINF:-1 group-title="GPT-央视",珠江台
-http://142.171.7.225:5050/smart.php?id=zhujiang&token=swqz
-#EXTINF:-1 group-title="GPT-央视",东南卫视
-http://142.171.7.225:5050/smart.php?id=fujian&token=swqz
-#EXTINF:-1 group-title="GPT-央视",广西卫视
-http://142.171.7.225:5050/smart.php?id=guangxi&token=swqz
-#EXTINF:-1 group-title="GPT-央视",湖北卫视
-http://142.171.7.225:5050/smart.php?id=hubei&token=swqz
-#EXTINF:-1 group-title="GPT-央视",四川卫视
-http://142.171.7.225:5050/smart.php?id=sichuan_twn&token=swqz
-#EXTINF:-1 group-title="GPT-央视",CGTN
-http://142.171.7.225:5050/smart.php?id=CGTN&token=swqz
-#EXTINF:-1 group-title="GPT-电影",天映频道
-http://142.171.7.225:5050/smart.php?id=Celestial&token=swqz
-#EXTINF:-1 group-title="GPT-电影",天映频道
-http://142.171.7.225:5050/smart.php?id=Celestialindo&token=swqz
-#EXTINF:-1 group-title="GPT-电影",天映经典
-http://142.171.7.225:5050/smart.php?id=Celestial2&token=swqz
-#EXTINF:-1 group-title="GPT-电影",Animax
-http://142.171.7.225:5050/smart.php?id=Animax&token=swqz
-#EXTINF:-1 group-title="GPT-电影",Hits
-http://142.171.7.225:5050/smart.php?id=Hits&token=swqz
-#EXTINF:-1 group-title="GPT-电影",Warner TV
-http://142.171.7.225:5050/smart.php?id=WarnerTV&token=swqz
-#EXTINF:-1 group-title="GPT-电影",HBO HD
-http://142.171.7.225:5050/smart.php?id=Hbo&token=swqz
-#EXTINF:-1 group-title="GPT-电影",HBO Signature
-http://142.171.7.225:5050/smart.php?id=Hbosignature&token=swqz
-#EXTINF:-1 group-title="GPT-电影",HBO Family
-http://142.171.7.225:5050/smart.php?id=Hbofamily&token=swqz
-#EXTINF:-1 group-title="GPT-电影",HBO Hits
-http://142.171.7.225:5050/smart.php?id=Hbohitshd&token=swqz
-#EXTINF:-1 group-title="GPT-电影",Cinemax
-http://142.171.7.225:5050/smart.php?id=Cinemax&token=swqz
-#EXTINF:-1 group-title="GPT-电影",Dreamworks
-http://142.171.7.225:5050/smart.php?id=Dreamworks&token=swqz
-#EXTINF:-1 group-title="GPT-电影",SCM
-http://142.171.7.225:5050/smart.php?id=Weishimovie&token=swqz
-#EXTINF:-1 group-title="GPT-电影",Thrill
-http://142.171.7.225:5050/smart.php?id=Thrill&token=swqz
-#EXTINF:-1 group-title="GPT-电影",Hits Movie
-http://142.171.7.225:5050/smart.php?id=Hitsmovie&token=swqz
-#EXTINF:-1 group-title="GPT-电影",One
-http://142.171.7.225:5050/smart.php?id=One&token=swqz
-#EXTINF:-1 group-title="GPT-电影",tvN Movie
-http://142.171.7.225:5050/smart.php?id=Tvnmovie&token=swqz
-#EXTINF:-1 group-title="GPT-电影",Axn HD
-http://142.171.7.225:5050/smart.php?id=Axn&token=swqz
-#EXTINF:-1 group-title="GPT-电影",Astrol Kplus
-http://142.171.7.225:5050/smart.php?id=Kplus&token=swqz
-#EXTINF:-1 group-title="GPT-电影",Rock Actions
-http://142.171.7.225:5050/smart.php?id=Rockaction&token=swqz
-#EXTINF:-1 group-title="GPT-电影",Rock Entertainment
-http://142.171.7.225:5050/smart.php?id=Rockentertain&token=swqz
-#EXTINF:-1 group-title="GPT-记录",CI
-http://142.171.7.225:5050/smart.php?id=ci_twn&token=swqz
-#EXTINF:-1 group-title="GPT-记录",NatGeo HD
-http://142.171.7.225:5050/smart.php?id=Natgeo&token=swqz
-#EXTINF:-1 group-title="GPT-记录",History
-http://142.171.7.225:5050/smart.php?id=History&token=swqz
-#EXTINF:-1 group-title="GPT-记录",BBC Earth HD
-http://142.171.7.225:5050/smart.php?id=bbcearth_twn&token=swqz
-#EXTINF:-1 group-title="GPT-记录",BBC Earth Lifestyle
-http://142.171.7.225:5050/smart.php?id=bbclifestyle_twn&token=swqz
-#EXTINF:-1 group-title="GPT-记录",NatGeo Wild HD
-http://142.171.7.225:5050/smart.php?id=Natgeowild&token=swqz
-#EXTINF:-1 group-title="GPT-记录",Animal Planet (Eng)
-http://142.171.7.225:5050/smart.php?id=AnimalPlanet&token=swqz
-#EXTINF:-1 group-title="GPT-记录",TLC
-http://142.171.7.225:5050/smart.php?id=Tlc&token=swqz
-#EXTINF:-1 group-title="GPT-记录",Foodnetwork Hd
-http://142.171.7.225:5050/smart.php?id=Foodnetwork&token=swqz
-#EXTINF:-1 group-title="GPT-记录",HGTV
-http://142.171.7.225:5050/smart.php?id=HGTV&token=swqz
-#EXTINF:-1 group-title="GPT-新闻",Skynews
-http://142.171.7.225:5050/smart.php?id=skynews_twn&token=swqz
-#EXTINF:-1 group-title="GPT-新闻",CBS HD
-http://142.171.7.225:5050/smart.php?id=cbshd_glo&token=swqz
-#EXTINF:-1 group-title="GPT-新闻",CBSN HD
-http://142.171.7.225:5050/smart.php?id=cbsn_glo&token=swqz
-#EXTINF:-1 group-title="GPT-新闻",France 24
-http://142.171.7.225:5050/smart.php?id=france24_twn&token=swqz
-#EXTINF:-1 group-title="GPT-新闻",DW (Deutsch)
-http://142.171.7.225:5050/smart.php?id=dw_twn&token=swqz
-#EXTINF:-1 group-title="GPT-新闻",Fox News
-http://142.171.7.225:5050/smart.php?id=foxnews_twn&token=swqz
-#EXTINF:-1 group-title="GPT-新闻",CGTN
-http://142.171.7.225:5050/smart.php?id=cgtn&token=swqz
-#EXTINF:-1 group-title="GPT-新闻",CNN International
-http://142.171.7.225:5050/smart.php?id=Cnn&token=swqz
-#EXTINF:-1 group-title="GPT-新闻",CNN backup
-http://142.171.7.225:5050/smart.php?id=cnn_twn&token=swqz
-#EXTINF:-1 group-title="GPT-新闻",CNA
-http://142.171.7.225:5050/smart.php?id=cna&token=swqz
-#EXTINF:-1 group-title="GPT-新闻",BBC World News
-http://142.171.7.225:5050/smart.php?id=Bbcnews&token=swqz
-#EXTINF:-1 group-title="GPT-新闻",Bloomberg News
-http://142.171.7.225:5050/smart.php?id=bloomberg_twn&token=swqz
-#EXTINF:-1 group-title="GPT-新闻",Al-Jazeera
-http://142.171.7.225:5050/smart.php?id=aljazeera_twn&token=swqz
-#EXTINF:-1 group-title="GPT-儿童",CBeebies
-http://142.171.7.225:5050/smart.php?id=Cbeebies&token=swqz
-#EXTINF:-1 group-title="GPT-儿童",Kids TV
-http://142.171.7.225:5050/smart.php?id=kidstv&token=swqz
-#EXTINF:-1 group-title="GPT-儿童",Momo TV
-http://142.171.7.225:5050/smart.php?id=momo1_twn&token=swqz
-#EXTINF:-1 group-title="GPT-儿童",MiaoMi
-http://142.171.7.225:5050/smart.php?id=MiaoMi&token=swqz
-#EXTINF:-1 group-title="GPT-儿童",Cartoon Network
-http://142.171.7.225:5050/smart.php?id=Cn&token=swqz
-#EXTINF:-1 group-title="GPT-儿童",Nickelodeon
-http://142.171.7.225:5050/smart.php?id=Nickelodeon&token=swqz
-#EXTINF:-1 group-title="GPT-儿童",Nick Jr
-http://142.171.7.225:5050/smart.php?id=Nickjr&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Astro Premier League 1
-http://142.171.7.225:5050/smart.php?id=go_assp1&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Astro EPL 1 backup
-http://142.171.7.225:5050/smart.php?id=go_assp1x&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Astro Football
-http://142.171.7.225:5050/smart.php?id=go_assp4&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Astro Sports Plus
-http://142.171.7.225:5050/smart.php?id=go_sportsplus&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Astro Badminton 1
-http://142.171.7.225:5050/smart.php?id=go_badminton1&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Astro W-Sports
-http://142.171.7.225:5050/smart.php?id=go_assp5&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Supersports 1
-http://142.171.7.225:5050/smart.php?id=Assp1&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Supersports 2
-http://142.171.7.225:5050/smart.php?id=Assp2&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Supersports 3
-http://142.171.7.225:5050/smart.php?id=Assp3&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Supersports 4
-http://142.171.7.225:5050/smart.php?id=Assp4&token=swqz
-#EXTINF:-1 group-title="GPT-体育",WWE
-http://142.171.7.225:5050/smart.php?id=wwe&token=swqz
-#EXTINF:-1 group-title="GPT-体育",NBA TV
-http://142.171.7.225:5050/smart.php?id=Nba&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Astro Cricket
-http://142.171.7.225:5050/smart.php?id=Acricket&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Astro Golf
-http://142.171.7.225:5050/smart.php?id=agolf&token=swqz
-#EXTINF:-1 group-title="GPT-体育",TNT Sports 4
-http://142.171.7.225:5050/smart.php?id=tntsport4&token=swqz
-#EXTINF:-1 group-title="GPT-体育",SPOTV 1 HD
-http://142.171.7.225:5050/smart.php?id=go_spotv&token=swqz
-#EXTINF:-1 group-title="GPT-体育",SPO TV 2
-http://142.171.7.225:5050/smart.php?id=go_spotv2&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Skysports F1
-http://142.171.7.225:5050/smart.php?id=tiankongf1&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Skysports Cricket
-http://142.171.7.225:5050/smart.php?id=tiankongcricket&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Skysports EPL
-http://142.171.7.225:5050/smart.php?id=tiankongepl&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Skysports Main Event
-http://142.171.7.225:5050/smart.php?id=tiankongmain&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Skysports Mix
-http://142.171.7.225:5050/smart.php?id=tiankongmix&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Rugby Pass TV
-http://142.171.7.225:5050/smart.php?id=Rugbypasstv&token=swqz
-#EXTINF:-1 group-title="GPT-体育",RTM Sports HD
-http://142.171.7.225:5050/smart.php?id=Rtmsport&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Arena
-http://142.171.7.225:5050/smart.php?id=Arena&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Arena 2
-http://142.171.7.225:5050/smart.php?id=Arena2&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Astro Beinsports 1
-http://142.171.7.225:5050/smart.php?id=astrobein1&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Astro Beinsports 2
-http://142.171.7.225:5050/smart.php?id=astrobein2&token=swqz
-#EXTINF:-1 group-title="GPT-体育",Astro Beinsports 3
-http://142.171.7.225:5050/smart.php?id=astrobein3&token=swqz
-#EXTINF:-1 group-title="GPT-新加坡",Channel 5
-http://142.171.7.225:5050/smart.php?id=channel5hd&token=swqz
-#EXTINF:-1 group-title="GPT-新加坡",Suria
-http://142.171.7.225:5050/smart.php?id=suria&token=swqz
-#EXTINF:-1 group-title="GPT-新加坡",MeWatch Ch 5
-http://142.171.7.225:5050/smart.php?id=Mewatch_ch5&token=swqz
-#EXTINF:-1 group-title="GPT-新加坡",MeWatch Ch 8
-http://142.171.7.225:5050/smart.php?id=Mewatch_ch8&token=swqz
-#EXTINF:-1 group-title="GPT-新加坡",MeWatch Ch U
-http://142.171.7.225:5050/smart.php?id=Mewatch_chU&token=swqz
-#EXTINF:-1 group-title="GPT-新加坡",MeWatch Suria
-http://142.171.7.225:5050/smart.php?id=Mewatch_Suria&token=swqz
-#EXTINF:-1 group-title="GPT-新加坡",MeWatch Vasantham
-http://142.171.7.225:5050/smart.php?id=Mewatch_Vasantham&token=swqz
-#EXTINF:-1 group-title="GPT-新加坡",MeWatch CNA
-http://142.171.7.225:5050/smart.php?id=Mewatch_cna&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",TV1
-http://142.171.7.225:5050/smart.php?id=TV1&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",TV1 backup
-http://142.171.7.225:5050/smart.php?id=TV1_backup&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",TV2
-http://142.171.7.225:5050/smart.php?id=TV2&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",TV3
-http://142.171.7.225:5050/smart.php?id=TV3&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",TV3 SD
-http://142.171.7.225:5050/smart.php?id=TV3_mega&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",NTV7
-http://142.171.7.225:5050/smart.php?id=NTV7&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",TV8
-http://142.171.7.225:5050/smart.php?id=TV8&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",TV9
-http://142.171.7.225:5050/smart.php?id=TV9&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Ria
-http://142.171.7.225:5050/smart.php?id=Ria-0&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Ria-3
-http://142.171.7.225:5050/smart.php?id=Ria_backup&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Al-Hijrah
-http://142.171.7.225:5050/smart.php?id=Alhijrah&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Awani
-http://142.171.7.225:5050/smart.php?id=Awani&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Bernama
-http://142.171.7.225:5050/smart.php?id=Bernama&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Prima backup 2
-http://142.171.7.225:5050/smart.php?id=AAprima&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Ceria
-http://142.171.7.225:5050/smart.php?id=Ceria&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Astro MTV
-http://142.171.7.225:5050/smart.php?id=AstroMTV&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Mecca Live HD
-http://142.171.7.225:5050/smart.php?id=quran_mido&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Madinah HD
-http://142.171.7.225:5050/smart.php?id=sunnah_mido&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Oasis
-http://142.171.7.225:5050/smart.php?id=Oasis&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Siar
-http://142.171.7.225:5050/smart.php?id=Siar&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Citra backup
-http://142.171.7.225:5050/smart.php?id=AAcitra1&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",KBS World
-http://142.171.7.225:5050/smart.php?id=KBS&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Boo
-http://142.171.7.225:5050/smart.php?id=Boo&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Awesome TV
-http://142.171.7.225:5050/smart.php?id=Dsangat&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Sony HD
-http://142.171.7.225:5050/smart.php?id=SetOne&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",TvN
-http://142.171.7.225:5050/smart.php?id=TVN&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",AEC
-http://142.171.7.225:5050/smart.php?id=AEC&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",华丽台 HD （Wah Lai Toi）
-http://142.171.7.225:5050/smart.php?id=Wlt&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Astro QJ
-http://142.171.7.225:5050/smart.php?id=Quanjia&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",TVB Jade
-http://142.171.7.225:5050/smart.php?id=Tvbjade&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",TVB Asia
-http://142.171.7.225:5050/smart.php?id=Tvbasia&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",TVB Entertainment
-http://142.171.7.225:5050/smart.php?id=Tvbentertainment&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",TVB Classic
-http://142.171.7.225:5050/smart.php?id=Tvbclassic&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",AOD
-http://142.171.7.225:5050/smart.php?id=Aodhd&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",爱奇艺 iQiyi
-http://142.171.7.225:5050/smart.php?id=Qiyi&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",BolaArena 2
-http://142.171.7.225:5050/smart.php?id=Bolaarena2&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",Astro LOL
-http://142.171.7.225:5050/smart.php?id=Astro_lol&token=swqz
-#EXTINF:-1 group-title="GPT-马来西亚",WION
-http://142.171.7.225:5050/smart.php?id=Wion&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",TVRI National
-http://142.171.7.225:5050/smart.php?id=TVRI&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",RCTI
-http://142.171.7.225:5050/smart.php?id=Rcti&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",Berita Satu
-http://142.171.7.225:5050/smart.php?id=BeritaSatu_eko&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",Indosiar HD
-http://142.171.7.225:5050/smart.php?id=Indosiar&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",AnTV
-http://142.171.7.225:5050/smart.php?id=Antv&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",MNC TV
-http://142.171.7.225:5050/smart.php?id=Mnctv&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",Trans 7
-http://142.171.7.225:5050/smart.php?id=Trans7_eko&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",Transtv
-http://142.171.7.225:5050/smart.php?id=Transtv&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",JTV
-http://142.171.7.225:5050/smart.php?id=JTV_eko&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",Metro TV
-http://142.171.7.225:5050/smart.php?id=metrotv_eko&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",SCTV
-http://142.171.7.225:5050/smart.php?id=SCTV&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",Tvone
-http://142.171.7.225:5050/smart.php?id=Tvone&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",TVMU
-http://142.171.7.225:5050/smart.php?id=TVMU_eko&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",GTV
-http://142.171.7.225:5050/smart.php?id=Gtv&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",RTV
-http://142.171.7.225:5050/smart.php?id=Rtv&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",Jak TV
-http://142.171.7.225:5050/smart.php?id=JakTV&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",iNews TV
-http://142.171.7.225:5050/smart.php?id=Inewstv&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",Daai TV
-http://142.171.7.225:5050/smart.php?id=DaaiTV&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",Net TV
-http://142.171.7.225:5050/smart.php?id=NetTV&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",Tawaf TV
-http://142.171.7.225:5050/smart.php?id=TawafTV&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",Vision Prime
-http://142.171.7.225:5050/smart.php?id=VisionPrime&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",Muslim TV
-http://142.171.7.225:5050/smart.php?id=MuslimTV&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",Music TV
-http://142.171.7.225:5050/smart.php?id=MusicTV&token=swqz
-#EXTINF:-1 group-title="GPT-印尼",Lifestyle&Fashion
-http://142.171.7.225:5050/smart.php?id=Lifestyle&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Sun TV HD
-http://142.171.7.225:5050/smart.php?id=Suntv&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Star Vijay
-http://142.171.7.225:5050/smart.php?id=Starvijay&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Colors Tamil
-http://142.171.7.225:5050/smart.php?id=Colorstam&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Sun Music
-http://142.171.7.225:5050/smart.php?id=Sunmusic&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Astro Sunlife
-http://142.171.7.225:5050/smart.php?id=Sunlife&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Astro Vaanavil
-http://142.171.7.225:5050/smart.php?id=Vaanavil&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Zee Tamil
-http://142.171.7.225:5050/smart.php?id=Zeetamil&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Zee Business
-http://142.171.7.225:5050/smart.php?id=Zeebusiness&token=swqz
-#EXTINF:-1 group-title="GPT-印度",News 18 Tamil
-http://142.171.7.225:5050/smart.php?id=news18tamil_raj&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Adithya
-http://142.171.7.225:5050/smart.php?id=Adithya&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Makkal TV
-http://142.171.7.225:5050/smart.php?id=Makkaltv&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Astro KTV
-http://142.171.7.225:5050/smart.php?id=Astroktv&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Zee Cinema HD
-http://142.171.7.225:5050/smart.php?id=Zeecinemahd&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Color HD
-http://142.171.7.225:5050/smart.php?id=Colorhd&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Starplus HD
-http://142.171.7.225:5050/smart.php?id=Starplushd&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Asianet
-http://142.171.7.225:5050/smart.php?id=asianet_raj&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Discovery World Tamil
-http://142.171.7.225:5050/smart.php?id=discoveryworldtam_raj&token=swqz
-#EXTINF:-1 group-title="GPT-印度",History Tamil
-http://142.171.7.225:5050/smart.php?id=historytam_raj&token=swqz
-#EXTINF:-1 group-title="GPT-印度",NatGeo Tamil
-http://142.171.7.225:5050/smart.php?id=natgeotamil_raj&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Discovery Kids Tamil
-http://142.171.7.225:5050/smart.php?id=discoverykidtamil_raj&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Sony Yay Tamil
-http://142.171.7.225:5050/smart.php?id=sonyyaytam_raj&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Starmaa HD
-http://142.171.7.225:5050/smart.php?id=starmaa_raj&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Starmaa Movies HD
-http://142.171.7.225:5050/smart.php?id=starmaamovies_raj&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Bollyone
-http://142.171.7.225:5050/smart.php?id=Bollyone&token=swqz
-#EXTINF:-1 group-title="GPT-印度",Vellithirai
-http://142.171.7.225:5050/smart.php?id=Vellithirai&token=swqz
-#EXTINF:-1 group-title="GPT-泰国",Channel 3 Thailand
-http://142.171.7.225:5050/smart.php?id=ch3_pat&token=swqz
-#EXTINF:-1 group-title="GPT-泰国",Channel 5 Thailand
-http://142.171.7.225:5050/smart.php?id=ch5_pat&token=swqz
-#EXTINF:-1 group-title="GPT-泰国",Channel 7 Thailand
-http://142.171.7.225:5050/smart.php?id=ch7_pat&token=swqz
-#EXTINF:-1 group-title="GPT-泰国",Amarin
-http://142.171.7.225:5050/smart.php?id=amarin_pat&token=swqz
-#EXTINF:-1 group-title="GPT-泰国",Ch 8
-http://142.171.7.225:5050/smart.php?id=ch8_pat&token=swqz
-#EXTINF:-1 group-title="GPT-泰国",tpbs
-http://142.171.7.225:5050/smart.php?id=tpbs_pat&token=swqz
-#EXTINF:-1 group-title="GPT-泰国",TPTV
-http://142.171.7.225:5050/smart.php?id=tptv_pat&token=swqz
-#EXTINF:-1 group-title="GPT-英国",Kids TV
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="GPT-香港",翡翠台
+https://smart.dxjc.pp.ua/smart.php?id=jade_twn&token=tmxk
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="GPT-香港",翡翠台
+https://smart.dxjc.pp.ua/smart.php?id=Jade_xue&token=tmxk
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="" group-title="GPT-香港",明珠台
+https://smart.dxjc.pp.ua/smart.php?id=pearl_twn&token=tmxk
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="" group-title="GPT-香港",无线新闻
+https://smart.dxjc.pp.ua/smart.php?id=inews_twn&token=tmxk
+#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="" group-title="GPT-香港",TVBPLUS
+https://smart.dxjc.pp.ua/smart.php?id=j2_twn&token=tmxk
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="" group-title="GPT-香港",ViuTV
+https://smart.dxjc.pp.ua/smart.php?id=viu1_twn&token=tmxk
+#EXTINF:-1 tvg-id="ViuTV 6" tvg-name="ViuTV 6" tvg-logo="" group-title="GPT-香港",ViuTV 6
+https://smart.dxjc.pp.ua/smart.php?id=viusix_twn&token=tmxk
+#EXTINF:-1 tvg-id="RTHK 31" tvg-name="RTHK 31" tvg-logo="" group-title="GPT-香港",RTHK 31
+https://smart.dxjc.pp.ua/smart.php?id=rhk31_twn&token=tmxk
+#EXTINF:-1 tvg-id="RTHK 32" tvg-name="RTHK 32" tvg-logo="" group-title="GPT-香港",RTHK 32
+https://smart.dxjc.pp.ua/smart.php?id=rhk32_twn&token=tmxk
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="" group-title="GPT-香港",HOY TV
+https://smart.dxjc.pp.ua/smart.php?id=hoycaijing_twn&token=tmxk
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="GPT-香港",凤凰中文
+https://smart.dxjc.pp.ua/smart.php?id=phoenixtv_hd&token=tmxk
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="GPT-香港",凤凰资讯
+https://smart.dxjc.pp.ua/smart.php?id=phoenixinfo_hd&token=tmxk
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="GPT-香港",凤凰香港
+https://smart.dxjc.pp.ua/smart.php?id=hkphoenix_twn&token=tmxk
+#EXTINF:-1 tvg-id="台视 HD" tvg-name="台视 HD" tvg-logo="" group-title="GPT-台湾",台视 HD
+https://smart.dxjc.pp.ua/smart.php?id=ttv_taiwan&token=tmxk
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="" group-title="GPT-台湾",台视新闻
+https://smart.dxjc.pp.ua/smart.php?id=ttvnews_twn&token=tmxk
+#EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="" group-title="GPT-台湾",台视综合
+https://smart.dxjc.pp.ua/smart.php?id=ttvzhonghe&token=tmxk
+#EXTINF:-1 tvg-id="中视 HD" tvg-name="中视 HD" tvg-logo="" group-title="GPT-台湾",中视 HD
+https://smart.dxjc.pp.ua/smart.php?id=zhongshihd_twn&token=tmxk
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="" group-title="GPT-台湾",中视新闻
+https://smart.dxjc.pp.ua/smart.php?id=zhongshinews_twn&token=tmxk
+#EXTINF:-1 tvg-id="中视经典" tvg-name="中视经典" tvg-logo="" group-title="GPT-台湾",中视经典
+https://smart.dxjc.pp.ua/smart.php?id=zhongshi_twn&token=tmxk
+#EXTINF:-1 tvg-id="华视 HD" tvg-name="华视 HD" tvg-logo="" group-title="GPT-台湾",华视 HD
+https://smart.dxjc.pp.ua/smart.php?id=ctshd_twn&token=tmxk
+#EXTINF:-1 tvg-id="公视 HD" tvg-name="公视 HD" tvg-logo="" group-title="GPT-台湾",公视 HD
+https://smart.dxjc.pp.ua/smart.php?id=ctv_taiwan&token=tmxk
+#EXTINF:-1 tvg-id="公视台语台" tvg-name="公视台语台" tvg-logo="" group-title="GPT-台湾",公视台语台
+https://smart.dxjc.pp.ua/smart.php?id=ctv2_twn&token=tmxk
+#EXTINF:-1 tvg-id="三立台湾台" tvg-name="三立台湾台" tvg-logo="" group-title="GPT-台湾",三立台湾台
+https://smart.dxjc.pp.ua/smart.php?id=sanlitaiwan&token=tmxk
+#EXTINF:-1 tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="" group-title="GPT-台湾",三立都会台
+https://smart.dxjc.pp.ua/smart.php?id=sanlidouhui&token=tmxk
+#EXTINF:-1 tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="" group-title="GPT-台湾",三立综合台
+https://smart.dxjc.pp.ua/smart.php?id=sanlizhonghe&token=tmxk
+#EXTINF:-1 tvg-id="三立戏剧台" tvg-name="三立戏剧台" tvg-logo="" group-title="GPT-台湾",三立戏剧台
+https://smart.dxjc.pp.ua/smart.php?id=sanlixiju_twn&token=tmxk
+#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="" group-title="GPT-台湾",东森新闻台
+https://smart.dxjc.pp.ua/smart.php?id=ettvnews&token=tmxk
+#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="" group-title="GPT-台湾",东森财经新闻台
+https://smart.dxjc.pp.ua/smart.php?id=ettvcaijing_twn&token=tmxk
+#EXTINF:-1 tvg-id="东森综合台" tvg-name="东森综合台" tvg-logo="" group-title="GPT-台湾",东森综合台
+https://smart.dxjc.pp.ua/smart.php?id=ettvzhonghe&token=tmxk
+#EXTINF:-1 tvg-id="东森戏剧台" tvg-name="东森戏剧台" tvg-logo="" group-title="GPT-台湾",东森戏剧台
+https://smart.dxjc.pp.ua/smart.php?id=ettvdrama&token=tmxk
+#EXTINF:-1 tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="" group-title="GPT-台湾",东森电影台
+https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
+#EXTINF:-1 tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="" group-title="GPT-台湾",东森洋片台
+https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
+#EXTINF:-1 tvg-id="东森幼幼台" tvg-name="东森幼幼台" tvg-logo="" group-title="GPT-台湾",东森幼幼台
+https://smart.dxjc.pp.ua/smart.php?id=yoyo_twn&token=tmxk
+#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="" group-title="GPT-台湾",东森超视
+https://smart.dxjc.pp.ua/smart.php?id=ettvsuper&token=tmxk
+#EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="" group-title="GPT-台湾",TVBS HD
+https://smart.dxjc.pp.ua/smart.php?id=tvbs&token=tmxk
+#EXTINF:-1 tvg-id="TVBS 新闻台" tvg-name="TVBS 新闻台" tvg-logo="" group-title="GPT-台湾",TVBS 新闻台
+https://smart.dxjc.pp.ua/smart.php?id=tvbs_n&token=tmxk
+#EXTINF:-1 tvg-id="TVBS 欢乐台" tvg-name="TVBS 欢乐台" tvg-logo="" group-title="GPT-台湾",TVBS 欢乐台
+https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
+#EXTINF:-1 tvg-id="民视 HD" tvg-name="民视 HD" tvg-logo="" group-title="GPT-台湾",民视 HD
+https://smart.dxjc.pp.ua/smart.php?id=ftvhd_taiwan&token=tmxk
+#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="" group-title="GPT-台湾",民视新闻台
+https://smart.dxjc.pp.ua/smart.php?id=ftvnew_taiwan&token=tmxk
+#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="" group-title="GPT-台湾",民视台湾台
+https://smart.dxjc.pp.ua/smart.php?id=ftvtaiwan_twn&token=tmxk
+#EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合" tvg-logo="" group-title="GPT-台湾",中天综合
+https://smart.dxjc.pp.ua/smart.php?id=ctizhonghe&token=tmxk
+#EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="" group-title="GPT-台湾",中天娱乐
+https://smart.dxjc.pp.ua/smart.php?id=ctient&token=tmxk
+#EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="" group-title="GPT-台湾",中天亚洲
+https://smart.dxjc.pp.ua/smart.php?id=ctiasia_twn&token=tmxk
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="" group-title="GPT-台湾",中天新闻
+https://smart.dxjc.pp.ua/smart.php?id=ctinews&token=tmxk
+#EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="" group-title="GPT-台湾",寰宇新闻台
+https://smart.dxjc.pp.ua/smart.php?id=huanyuxinwen_twn&token=tmxk
+#EXTINF:-1 tvg-id="寰宇财经台" tvg-name="寰宇财经台" tvg-logo="" group-title="GPT-台湾",寰宇财经台
+https://smart.dxjc.pp.ua/smart.php?id=huanyutaiwan_twn&token=tmxk
+#EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="" group-title="GPT-台湾",八大第一台
+https://smart.dxjc.pp.ua/smart.php?id=badafirst&token=tmxk
+#EXTINF:-1 tvg-id="八大综合台" tvg-name="八大综合台" tvg-logo="" group-title="GPT-台湾",八大综合台
+https://smart.dxjc.pp.ua/smart.php?id=badazhonghe&token=tmxk
+#EXTINF:-1 tvg-id="八大戏剧台" tvg-name="八大戏剧台" tvg-logo="" group-title="GPT-台湾",八大戏剧台
+https://smart.dxjc.pp.ua/smart.php?id=badadrama&token=tmxk
+#EXTINF:-1 tvg-id="八大娱乐台" tvg-name="八大娱乐台" tvg-logo="" group-title="GPT-台湾",八大娱乐台
+https://smart.dxjc.pp.ua/smart.php?id=badaentertain&token=tmxk
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="" group-title="GPT-台湾",纬来体育
+https://smart.dxjc.pp.ua/smart.php?id=videolandsport&token=tmxk
+#EXTINF:-1 tvg-id="纬来精彩" tvg-name="纬来精彩" tvg-logo="" group-title="GPT-台湾",纬来精彩
+https://smart.dxjc.pp.ua/smart.php?id=videolandspecial_twn&token=tmxk
+#EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="" group-title="GPT-台湾",纬来日本
+https://smart.dxjc.pp.ua/smart.php?id=videolandjapan&token=tmxk
+#EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="" group-title="GPT-台湾",纬来电影
+https://smart.dxjc.pp.ua/smart.php?id=videolandmovie&token=tmxk
+#EXTINF:-1 tvg-id="纬来综合" tvg-name="纬来综合" tvg-logo="" group-title="GPT-台湾",纬来综合
+https://smart.dxjc.pp.ua/smart.php?id=videolandzonghe&token=tmxk
+#EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="" group-title="GPT-台湾",纬来育乐
+https://smart.dxjc.pp.ua/smart.php?id=videolandyule&token=tmxk
+#EXTINF:-1 tvg-id="爱尔达综合台" tvg-name="爱尔达综合台" tvg-logo="" group-title="GPT-台湾",爱尔达综合台
+https://smart.dxjc.pp.ua/smart.php?id=eltazonghe_twn&token=tmxk
+#EXTINF:-1 tvg-id="爱尔达影剧台" tvg-name="爱尔达影剧台" tvg-logo="" group-title="GPT-台湾",爱尔达影剧台
+https://smart.dxjc.pp.ua/smart.php?id=eltayingju_twn&token=tmxk
+#EXTINF:-1 tvg-id="爱尔达体育1台" tvg-name="爱尔达体育1台" tvg-logo="" group-title="GPT-台湾",爱尔达体育1台
+https://smart.dxjc.pp.ua/smart.php?id=eltasport_twn&token=tmxk
+#EXTINF:-1 tvg-id="爱尔达体育2台" tvg-name="爱尔达体育2台" tvg-logo="" group-title="GPT-台湾",爱尔达体育2台
+https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
+#EXTINF:-1 tvg-id="爱尔达体育3台" tvg-name="爱尔达体育3台" tvg-logo="" group-title="GPT-台湾",爱尔达体育3台
+https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
+#EXTINF:-1 tvg-id="爱尔达体育4台" tvg-name="爱尔达体育4台" tvg-logo="" group-title="GPT-台湾",爱尔达体育4台
+https://smart.dxjc.pp.ua/smart.php?id=eltasports4_twn&token=tmxk
+#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="" group-title="GPT-台湾",非凡新闻
+https://smart.dxjc.pp.ua/smart.php?id=feifannews_twn&token=tmxk
+#EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="" group-title="GPT-台湾",年代新闻
+https://smart.dxjc.pp.ua/smart.php?id=niandainews_twn&token=tmxk
+#EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="" group-title="GPT-台湾",龙华戏剧
+https://smart.dxjc.pp.ua/smart.php?id=lunghuaxiju_twn&token=tmxk
+#EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="" group-title="GPT-台湾",龙华偶像
+https://smart.dxjc.pp.ua/smart.php?id=lunghuaidol_twn&token=tmxk
+#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="" group-title="GPT-台湾",龙华电影
+https://smart.dxjc.pp.ua/smart.php?id=xingwei_movie&token=tmxk
+#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="" group-title="GPT-台湾",龙华洋片
+https://smart.dxjc.pp.ua/smart.php?id=lunghuawestern_twn&token=tmxk
+#EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="" group-title="GPT-台湾",龙华经典
+https://smart.dxjc.pp.ua/smart.php?id=lunghuajingdian_twn&token=tmxk
+#EXTINF:-1 tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="" group-title="GPT-台湾",靖天国际
+https://smart.dxjc.pp.ua/smart.php?id=jingtianintl_twn&token=tmxk
+#EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="" group-title="GPT-台湾",靖天卡通
+https://smart.dxjc.pp.ua/smart.php?id=jingtiancartoon_twn&token=tmxk
+#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="" group-title="GPT-台湾",大愛電視
+https://smart.dxjc.pp.ua/smart.php?id=daai_twn&token=tmxk
+#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="" group-title="GPT-台湾",大愛二台
+https://smart.dxjc.pp.ua/smart.php?id=daai2_twn&token=tmxk
+#EXTINF:-1 tvg-id="EYE 旅游台" tvg-name="EYE 旅游台" tvg-logo="" group-title="GPT-台湾",EYE 旅游台
+https://smart.dxjc.pp.ua/smart.php?id=eyetvtravel_twn&token=tmxk
+#EXTINF:-1 tvg-id="EYE 戏剧台" tvg-name="EYE 戏剧台" tvg-logo="" group-title="GPT-台湾",EYE 戏剧台
+https://smart.dxjc.pp.ua/smart.php?id=eyetvxiju_twn&token=tmxk
+#EXTINF:-1 tvg-id="亚洲美食" tvg-name="亚洲美食" tvg-logo="" group-title="GPT-台湾",亚洲美食
+https://smart.dxjc.pp.ua/smart.php?id=afc_twn&token=tmxk
+#EXTINF:-1 tvg-id="美食星球" tvg-name="美食星球" tvg-logo="" group-title="GPT-台湾",美食星球
+https://smart.dxjc.pp.ua/smart.php?id=foodplanet_twn&token=tmxk
+#EXTINF:-1 tvg-id="TLC旅遊生活" tvg-name="TLC旅遊生活" tvg-logo="" group-title="GPT-台湾",TLC旅遊生活
+https://smart.dxjc.pp.ua/smart.php?id=tlc_twn&token=tmxk
+#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="" group-title="GPT-台湾",亚洲旅游台
+https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="" group-title="GPT-台湾",Arirang
+https://smart.dxjc.pp.ua/smart.php?id=arirang_twn&token=tmxk
+#EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN Taiwan" tvg-logo="" group-title="GPT-台湾",AXN Taiwan
+https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="" group-title="GPT-台湾",MTV Live
+https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
+#EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO_HD" tvg-logo="" group-title="GPT-台湾",HBO_HD
+https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
+#EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HBO_HITS" tvg-logo="" group-title="GPT-台湾",HBO_HITS
+https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="GPT-台湾",CINEMAX
+https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
+#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="" group-title="GPT-台湾",好萊塢電影台
+https://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
+#EXTINF:-1 tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="" group-title="GPT-台湾",卫视电影台
+https://smart.dxjc.pp.ua/smart.php?id=weishimovie_twn&token=tmxk
+#EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="" group-title="GPT-台湾",龙祥时代
+https://smart.dxjc.pp.ua/smart.php?id=lungxiangtime_twn&token=tmxk
+#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="" group-title="GPT-台湾",美亚电影
+https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
+#EXTINF:-1 tvg-id="華藝綜合" tvg-name="華藝綜合" tvg-logo="" group-title="GPT-台湾",華藝綜合
+https://smart.dxjc.pp.ua/smart.php?id=weishichinese_twn&token=tmxk
+#EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" tvg-logo="" group-title="GPT-台湾",博斯运动一台
+https://smart.dxjc.pp.ua/smart.php?id=bosisport1_twn&token=tmxk
+#EXTINF:-1 tvg-id="博斯运动二台" tvg-name="博斯运动二台" tvg-logo="" group-title="GPT-台湾",博斯运动二台
+https://smart.dxjc.pp.ua/smart.php?id=bosisport2_twn&token=tmxk
+#EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" tvg-logo="" group-title="GPT-台湾",博斯高球一台
+https://smart.dxjc.pp.ua/smart.php?id=bosigolf1_twn&token=tmxk
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="" group-title="GPT-台湾",博斯高球二台
+https://smart.dxjc.pp.ua/smart.php?id=bosigolf2_twn&token=tmxk
+#EXTINF:-1 tvg-id="博斯网球台" tvg-name="博斯网球台" tvg-logo="" group-title="GPT-台湾",博斯网球台
+https://smart.dxjc.pp.ua/smart.php?id=bositennis_twn&token=tmxk
+#EXTINF:-1 tvg-id="博斯无限台" tvg-name="博斯无限台" tvg-logo="" group-title="GPT-台湾",博斯无限台
+https://smart.dxjc.pp.ua/smart.php?id=bosiunlimited_twn&token=tmxk
+#EXTINF:-1 tvg-id="好消息 2" tvg-name="好消息 2" tvg-logo="" group-title="GPT-台湾",好消息 2
+https://smart.dxjc.pp.ua/smart.php?id=good2_twn&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="" group-title="GPT-央视",CCTV-1 综合
+https://smart.dxjc.pp.ua/smart.php?id=cctv1&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-2 财经" tvg-name="CCTV-2 财经" tvg-logo="" group-title="GPT-央视",CCTV-2 财经
+https://smart.dxjc.pp.ua/smart.php?id=cctv2&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-3 综艺" tvg-name="CCTV-3 综艺" tvg-logo="" group-title="GPT-央视",CCTV-3 综艺
+https://smart.dxjc.pp.ua/smart.php?id=cctv3&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-4 中文国际" tvg-name="CCTV-4 中文国际" tvg-logo="" group-title="GPT-央视",CCTV-4 中文国际
+https://smart.dxjc.pp.ua/smart.php?id=Cctv4&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-4 中文国际" tvg-name="CCTV-4 中文国际" tvg-logo="" group-title="GPT-央视",CCTV-4 中文国际
+https://smart.dxjc.pp.ua/smart.php?id=cctv4&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="" group-title="GPT-央视",CCTV-5 体育
+https://smart.dxjc.pp.ua/smart.php?id=cctv5&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-6 电影" tvg-name="CCTV-6 电影" tvg-logo="" group-title="GPT-央视",CCTV-6 电影
+https://smart.dxjc.pp.ua/smart.php?id=cctv6&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-7 国防军事" tvg-name="CCTV-7 国防军事" tvg-logo="" group-title="GPT-央视",CCTV-7 国防军事
+https://smart.dxjc.pp.ua/smart.php?id=cctv7&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-8 电视剧" tvg-name="CCTV-8 电视剧" tvg-logo="" group-title="GPT-央视",CCTV-8 电视剧
+https://smart.dxjc.pp.ua/smart.php?id=cctv8hd&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-9 记录" tvg-name="CCTV-9 记录" tvg-logo="" group-title="GPT-央视",CCTV-9 记录
+https://smart.dxjc.pp.ua/smart.php?id=cctv9hd&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-10 科教" tvg-name="CCTV-10 科教" tvg-logo="" group-title="GPT-央视",CCTV-10 科教
+https://smart.dxjc.pp.ua/smart.php?id=cctv10hd&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-11 戏曲" tvg-name="CCTV-11 戏曲" tvg-logo="" group-title="GPT-央视",CCTV-11 戏曲
+https://smart.dxjc.pp.ua/smart.php?id=cctv11&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-12 社会与法" tvg-name="CCTV-12 社会与法" tvg-logo="" group-title="GPT-央视",CCTV-12 社会与法
+https://smart.dxjc.pp.ua/smart.php?id=cctv12&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-13 新闻" tvg-name="CCTV-13 新闻" tvg-logo="" group-title="GPT-央视",CCTV-13 新闻
+https://smart.dxjc.pp.ua/smart.php?id=cctv13&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-14 少儿" tvg-name="CCTV-14 少儿" tvg-logo="" group-title="GPT-央视",CCTV-14 少儿
+https://smart.dxjc.pp.ua/smart.php?id=cctv14&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-15 音乐" tvg-name="CCTV-15 音乐" tvg-logo="" group-title="GPT-央视",CCTV-15 音乐
+https://smart.dxjc.pp.ua/smart.php?id=cctv15&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-16 奥林匹克" tvg-name="CCTV-16 奥林匹克" tvg-logo="" group-title="GPT-央视",CCTV-16 奥林匹克
+https://smart.dxjc.pp.ua/smart.php?id=cctv16&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-17 农业农村" tvg-name="CCTV-17 农业农村" tvg-logo="" group-title="GPT-央视",CCTV-17 农业农村
+https://smart.dxjc.pp.ua/smart.php?id=cctv17&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="" group-title="GPT-央视",CCTV-5+ 体育赛事
+https://smart.dxjc.pp.ua/smart.php?id=cctv5plus&token=tmxk
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="GPT-央视",湖南卫视
+https://smart.dxjc.pp.ua/smart.php?id=hunan_twn&token=tmxk
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="GPT-央视",浙江卫视
+https://smart.dxjc.pp.ua/smart.php?id=zhejiang_twn&token=tmxk
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="GPT-央视",江苏卫视
+https://smart.dxjc.pp.ua/smart.php?id=jiangsu_twn&token=tmxk
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="GPT-央视",东方卫视
+https://smart.dxjc.pp.ua/smart.php?id=dongfangweishi_twn&token=tmxk
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="GPT-央视",北京卫视
+https://smart.dxjc.pp.ua/smart.php?id=beijing&token=tmxk
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="" group-title="GPT-央视",深圳卫视
+https://smart.dxjc.pp.ua/smart.php?id=shenzhen&token=tmxk
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="GPT-央视",广东卫视
+https://smart.dxjc.pp.ua/smart.php?id=guangdongweishi_twn&token=tmxk
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="" group-title="GPT-央视",大湾区卫视
+https://smart.dxjc.pp.ua/smart.php?id=nanfang_twn&token=tmxk
+#EXTINF:-1 tvg-id="珠江台" tvg-name="珠江台" tvg-logo="" group-title="GPT-央视",珠江台
+https://smart.dxjc.pp.ua/smart.php?id=zhujiang&token=tmxk
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="" group-title="GPT-央视",东南卫视
+https://smart.dxjc.pp.ua/smart.php?id=fujian&token=tmxk
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="" group-title="GPT-央视",广西卫视
+https://smart.dxjc.pp.ua/smart.php?id=guangxi&token=tmxk
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="GPT-央视",湖北卫视
+https://smart.dxjc.pp.ua/smart.php?id=hubei&token=tmxk
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="" group-title="GPT-央视",四川卫视
+https://smart.dxjc.pp.ua/smart.php?id=sichuan_twn&token=tmxk
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="GPT-央视",CGTN
+https://smart.dxjc.pp.ua/smart.php?id=CGTN&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="" group-title="GPT-电影",CCTV-6
+https://smart.dxjc.pp.ua/smart.php?id=cctv6&token=tmxk
+#EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN Taiwan" tvg-logo="" group-title="GPT-电影",AXN Taiwan
+https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
+#EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO_HD" tvg-logo="" group-title="GPT-电影",HBO_HD
+https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
+#EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HBO_HITS" tvg-logo="" group-title="GPT-电影",HBO_HITS
+https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="GPT-电影",CINEMAX
+https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
+#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="" group-title="GPT-电影",好萊塢電影台
+https://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
+#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="" group-title="GPT-电影",东森电影
+https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
+#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="" group-title="GPT-电影",东森洋片
+https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
+#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="" group-title="GPT-电影",龙华电影
+https://smart.dxjc.pp.ua/smart.php?id=xingwei_movie&token=tmxk
+#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="" group-title="GPT-电影",龙华洋片
+https://smart.dxjc.pp.ua/smart.php?id=lunghuawestern_twn&token=tmxk
+#EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="" group-title="GPT-电影",龙祥时代
+https://smart.dxjc.pp.ua/smart.php?id=lungxiangtime_twn&token=tmxk
+#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="" group-title="GPT-电影",美亚电影
+https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
+#EXTINF:-1 tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="" group-title="GPT-电影",卫视电影台
+https://smart.dxjc.pp.ua/smart.php?id=weishimovie_twn&token=tmxk
+#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="" group-title="GPT-电影",天映频道
+https://smart.dxjc.pp.ua/smart.php?id=Celestial&token=tmxk
+#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="" group-title="GPT-电影",天映频道
+https://smart.dxjc.pp.ua/smart.php?id=Celestialindo&token=tmxk
+#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="" group-title="GPT-电影",天映经典
+https://smart.dxjc.pp.ua/smart.php?id=Celestial2&token=tmxk
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="GPT-电影",Animax
+https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
+#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="" group-title="GPT-电影",Movies Now HD
+https://smart.dxjc.pp.ua/smart.php?id=moviesnow_raj&token=tmxk
+#EXTINF:-1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-logo="" group-title="GPT-电影",Star Movies HD
+https://smart.dxjc.pp.ua/smart.php?id=starmovies_raj&token=tmxk
+#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="" group-title="GPT-电影",Hits
+https://smart.dxjc.pp.ua/smart.php?id=Hits&token=tmxk
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="GPT-电影",Warner TV
+https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="GPT-电影",HBO HD
+https://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="" group-title="GPT-电影",HBO Signature
+https://smart.dxjc.pp.ua/smart.php?id=Hbosignature&token=tmxk
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="" group-title="GPT-电影",HBO Family
+https://smart.dxjc.pp.ua/smart.php?id=Hbofamily&token=tmxk
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="" group-title="GPT-电影",HBO Hits
+https://smart.dxjc.pp.ua/smart.php?id=Hbohitshd&token=tmxk
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="" group-title="GPT-电影",Cinemax
+https://smart.dxjc.pp.ua/smart.php?id=Cinemax&token=tmxk
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="" group-title="GPT-电影",Dreamworks
+https://smart.dxjc.pp.ua/smart.php?id=Dreamworks&token=tmxk
+#EXTINF:-1 tvg-id="SCM" tvg-name="SCM" tvg-logo="" group-title="GPT-电影",SCM
+https://smart.dxjc.pp.ua/smart.php?id=Weishimovie&token=tmxk
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="GPT-电影",Thrill
+https://smart.dxjc.pp.ua/smart.php?id=Thrill&token=tmxk
+#EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="GPT-电影",Hits Movie
+https://smart.dxjc.pp.ua/smart.php?id=Hitsmovie&token=tmxk
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="GPT-电影",One
+https://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
+#EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="GPT-电影",tvN Movie
+https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
+#EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="" group-title="GPT-电影",Axn HD
+https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="" group-title="GPT-电影",Paramount Network
+https://smart.dxjc.pp.ua/smart.php?id=Paramountnetwork&token=tmxk
+#EXTINF:-1 tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="" group-title="GPT-电影",Astrol Kplus
+https://smart.dxjc.pp.ua/smart.php?id=Kplus&token=tmxk
+#EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="" group-title="GPT-电影",Rock Actions
+https://smart.dxjc.pp.ua/smart.php?id=Rockaction&token=tmxk
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="" group-title="GPT-电影",Rock Entertainment
+https://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
+#EXTINF:-1 tvg-id="Natgeo_HD" tvg-name="Natgeo_HD" tvg-logo="" group-title="GPT-记录",Natgeo_HD
+https://smart.dxjc.pp.ua/smart.php?id=natgeohd_twn&token=tmxk
+#EXTINF:-1 tvg-id="NatGeo_Wild HD" tvg-name="NatGeo_Wild HD" tvg-logo="" group-title="GPT-记录",NatGeo_Wild HD
+https://smart.dxjc.pp.ua/smart.php?id=natgeowild_twn&token=tmxk
+#EXTINF:-1 tvg-id="Animal_Planet" tvg-name="Animal_Planet" tvg-logo="" group-title="GPT-记录",Animal_Planet
+https://smart.dxjc.pp.ua/smart.php?id=animalplanet_twn&token=tmxk
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="" group-title="GPT-记录",Discovery Asia
+https://smart.dxjc.pp.ua/smart.php?id=discoverytwn_twn&token=tmxk
+#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="" group-title="GPT-记录",CI
+https://smart.dxjc.pp.ua/smart.php?id=ci_twn&token=tmxk
+#EXTINF:-1 tvg-id="Asia Travel" tvg-name="Asia Travel" tvg-logo="" group-title="GPT-记录",Asia Travel
+https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="" group-title="GPT-记录",Discovery HD
+https://smart.dxjc.pp.ua/smart.php?id=discoveryhd_twn&token=tmxk
+#EXTINF:-1 tvg-id="亚洲美食" tvg-name="亚洲美食" tvg-logo="" group-title="GPT-记录",亚洲美食
+https://smart.dxjc.pp.ua/smart.php?id=afc_twn&token=tmxk
+#EXTINF:-1 tvg-id="美食星球" tvg-name="美食星球" tvg-logo="" group-title="GPT-记录",美食星球
+https://smart.dxjc.pp.ua/smart.php?id=foodplanet_twn&token=tmxk
+#EXTINF:-1 tvg-id="亚洲TLC" tvg-name="亚洲TLC" tvg-logo="" group-title="GPT-记录",亚洲TLC
+https://smart.dxjc.pp.ua/smart.php?id=tlc_twn&token=tmxk
+#EXTINF:-1 tvg-id="NatGeo HD" tvg-name="NatGeo HD" tvg-logo="" group-title="GPT-记录",NatGeo HD
+https://smart.dxjc.pp.ua/smart.php?id=Natgeo&token=tmxk
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="" group-title="GPT-记录",Fashion TV
+https://smart.dxjc.pp.ua/smart.php?id=fashiontv_twn&token=tmxk
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="" group-title="GPT-记录",History
+https://smart.dxjc.pp.ua/smart.php?id=History&token=tmxk
+#EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="BBC Earth HD" tvg-logo="" group-title="GPT-记录",BBC Earth HD
+https://smart.dxjc.pp.ua/smart.php?id=bbcearth_twn&token=tmxk
+#EXTINF:-1 tvg-id="BBC Earth Lifestyle" tvg-name="BBC Earth Lifestyle" tvg-logo="" group-title="GPT-记录",BBC Earth Lifestyle
+https://smart.dxjc.pp.ua/smart.php?id=bbclifestyle_twn&token=tmxk
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="" group-title="GPT-记录",MTV Live
+https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="" group-title="GPT-记录",NatGeo Wild HD
+https://smart.dxjc.pp.ua/smart.php?id=Natgeowild&token=tmxk
+#EXTINF:-1 tvg-id="Animal Planet (Eng)" tvg-name="Animal Planet (Eng)" tvg-logo="" group-title="GPT-记录",Animal Planet (Eng)
+https://smart.dxjc.pp.ua/smart.php?id=AnimalPlanet&token=tmxk
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="" group-title="GPT-记录",TLC
+https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
+#EXTINF:-1 tvg-id="Foodnetwork Hd" tvg-name="Foodnetwork Hd" tvg-logo="" group-title="GPT-记录",Foodnetwork Hd
+https://smart.dxjc.pp.ua/smart.php?id=Foodnetwork&token=tmxk
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="" group-title="GPT-记录",HGTV
+https://smart.dxjc.pp.ua/smart.php?id=HGTV&token=tmxk
+#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="" group-title="GPT-记录",亚洲旅游台
+https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
+#EXTINF:-1 tvg-id="Skynews" tvg-name="Skynews" tvg-logo="" group-title="GPT-新闻",Skynews
+https://smart.dxjc.pp.ua/smart.php?id=skynews_twn&token=tmxk
+#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="" group-title="GPT-新闻",ABC News
+https://smart.dxjc.pp.ua/smart.php?id=abcnews_glo&token=tmxk
+#EXTINF:-1 tvg-id="东森财经新闻" tvg-name="东森财经新闻" tvg-logo="" group-title="GPT-新闻",东森财经新闻
+https://smart.dxjc.pp.ua/smart.php?id=ettvcaijing_twn&token=tmxk
+#EXTINF:-1 tvg-id="CBS HD" tvg-name="CBS HD" tvg-logo="" group-title="GPT-新闻",CBS HD
+https://smart.dxjc.pp.ua/smart.php?id=cbshd_glo&token=tmxk
+#EXTINF:-1 tvg-id="CBSN HD" tvg-name="CBSN HD" tvg-logo="" group-title="GPT-新闻",CBSN HD
+https://smart.dxjc.pp.ua/smart.php?id=cbsn_glo&token=tmxk
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="" group-title="GPT-新闻",France 24
+https://smart.dxjc.pp.ua/smart.php?id=france24_twn&token=tmxk
+#EXTINF:-1 tvg-id="DW (Deutsch)" tvg-name="DW (Deutsch)" tvg-logo="" group-title="GPT-新闻",DW (Deutsch)
+https://smart.dxjc.pp.ua/smart.php?id=dw_twn&token=tmxk
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="" group-title="GPT-新闻",NHK World
+https://smart.dxjc.pp.ua/smart.php?id=nhkworld_japan&token=tmxk
+#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="" group-title="GPT-新闻",Fox News
+https://smart.dxjc.pp.ua/smart.php?id=foxnews_twn&token=tmxk
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="GPT-新闻",CGTN
+https://smart.dxjc.pp.ua/smart.php?id=CGTN&token=tmxk
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="" group-title="GPT-新闻",CNN International
+https://smart.dxjc.pp.ua/smart.php?id=Cnn&token=tmxk
+#EXTINF:-1 tvg-id="CNN backup" tvg-name="CNN backup" tvg-logo="" group-title="GPT-新闻",CNN backup
+https://smart.dxjc.pp.ua/smart.php?id=cnn_twn&token=tmxk
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="" group-title="GPT-新闻",CNBC
+https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="GPT-新闻",CNA
+https://smart.dxjc.pp.ua/smart.php?id=cna&token=tmxk
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="GPT-新闻",BBC World News
+https://smart.dxjc.pp.ua/smart.php?id=bbcnews_twn&token=tmxk
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="GPT-新闻",BBC World News
+https://smart.dxjc.pp.ua/smart.php?id=Bbcnews&token=tmxk
+#EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-logo="" group-title="GPT-新闻",Bloomberg News
+https://smart.dxjc.pp.ua/smart.php?id=bloomberg_twn&token=tmxk
+#EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="Al-Jazeera" tvg-logo="" group-title="GPT-新闻",Al-Jazeera
+https://smart.dxjc.pp.ua/smart.php?id=aljazeera_twn&token=tmxk
+#EXTINF:-1 tvg-id="Baby TV Eng" tvg-name="Baby TV Eng" tvg-logo="" group-title="GPT-儿童",Baby TV Eng
+https://smart.dxjc.pp.ua/smart.php?id=Babytv&token=tmxk
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="" group-title="GPT-儿童",CBeebies
+https://smart.dxjc.pp.ua/smart.php?id=Cbeebies&token=tmxk
+#EXTINF:-1 tvg-id="Kids TV" tvg-name="Kids TV" tvg-logo="" group-title="GPT-儿童",Kids TV
+https://smart.dxjc.pp.ua/smart.php?id=KidsTV&token=tmxk
+#EXTINF:-1 tvg-id="Momo TV" tvg-name="Momo TV" tvg-logo="" group-title="GPT-儿童",Momo TV
+https://smart.dxjc.pp.ua/smart.php?id=momo1_twn&token=tmxk
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="GPT-儿童",Animax
+https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="" group-title="GPT-儿童",Baby TV
+https://smart.dxjc.pp.ua/smart.php?id=babytv_twn&token=tmxk
+#EXTINF:-1 tvg-id="MiaoMi" tvg-name="MiaoMi" tvg-logo="" group-title="GPT-儿童",MiaoMi
+https://smart.dxjc.pp.ua/smart.php?id=MiaoMi&token=tmxk
+#EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="" group-title="GPT-儿童",靖天卡通
+https://smart.dxjc.pp.ua/smart.php?id=jingtiancartoon_twn&token=tmxk
+#EXTINF:-1 tvg-id="东森幼幼" tvg-name="东森幼幼" tvg-logo="" group-title="GPT-儿童",东森幼幼
+https://smart.dxjc.pp.ua/smart.php?id=yoyo_twn&token=tmxk
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="" group-title="GPT-儿童",Cartoon Network
+https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="" group-title="GPT-儿童",Nickelodeon
+https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="" group-title="GPT-儿童",Nick Jr
+https://smart.dxjc.pp.ua/smart.php?id=Nickjr&token=tmxk
+#EXTINF:-1 tvg-id="Astro Premier League 1" tvg-name="Astro Premier League 1" tvg-logo="" group-title="GPT-体育",Astro Premier League 1
+https://smart.dxjc.pp.ua/smart.php?id=go_assp1&token=tmxk
+#EXTINF:-1 tvg-id="Astro EPL 1 backup" tvg-name="Astro EPL 1 backup" tvg-logo="" group-title="GPT-体育",Astro EPL 1 backup
+https://smart.dxjc.pp.ua/smart.php?id=go_assp1x&token=tmxk
+#EXTINF:-1 tvg-id="Astro Premier League 2" tvg-name="Astro Premier League 2" tvg-logo="" group-title="GPT-体育",Astro Premier League 2
+https://smart.dxjc.pp.ua/smart.php?id=go_assp2&token=tmxk
+#EXTINF:-1 tvg-id="Astro Grandstand" tvg-name="Astro Grandstand" tvg-logo="" group-title="GPT-体育",Astro Grandstand
+https://smart.dxjc.pp.ua/smart.php?id=go_assp3&token=tmxk
+#EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="" group-title="GPT-体育",Astro Football
+https://smart.dxjc.pp.ua/smart.php?id=go_assp4&token=tmxk
+#EXTINF:-1 tvg-id="Astro Sports Plus" tvg-name="Astro Sports Plus" tvg-logo="" group-title="GPT-体育",Astro Sports Plus
+https://smart.dxjc.pp.ua/smart.php?id=go_sportsplus&token=tmxk
+#EXTINF:-1 tvg-id="Astro Badminton 1" tvg-name="Astro Badminton 1" tvg-logo="" group-title="GPT-体育",Astro Badminton 1
+https://smart.dxjc.pp.ua/smart.php?id=go_badminton1&token=tmxk
+#EXTINF:-1 tvg-id="Astro Badminton 2" tvg-name="Astro Badminton 2" tvg-logo="" group-title="GPT-体育",Astro Badminton 2
+https://smart.dxjc.pp.ua/smart.php?id=go_badminton2&token=tmxk
+#EXTINF:-1 tvg-id="Astro W-Sports" tvg-name="Astro W-Sports" tvg-logo="" group-title="GPT-体育",Astro W-Sports
+https://smart.dxjc.pp.ua/smart.php?id=go_assp5&token=tmxk
+#EXTINF:-1 tvg-id="Supersports 1" tvg-name="Supersports 1" tvg-logo="" group-title="GPT-体育",Supersports 1
+https://smart.dxjc.pp.ua/smart.php?id=Assp1&token=tmxk
+#EXTINF:-1 tvg-id="Supersports 2" tvg-name="Supersports 2" tvg-logo="" group-title="GPT-体育",Supersports 2
+https://smart.dxjc.pp.ua/smart.php?id=Assp2&token=tmxk
+#EXTINF:-1 tvg-id="Supersports 3" tvg-name="Supersports 3" tvg-logo="" group-title="GPT-体育",Supersports 3
+https://smart.dxjc.pp.ua/smart.php?id=Assp3&token=tmxk
+#EXTINF:-1 tvg-id="Supersports 4" tvg-name="Supersports 4" tvg-logo="" group-title="GPT-体育",Supersports 4
+https://smart.dxjc.pp.ua/smart.php?id=Assp4&token=tmxk
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="" group-title="GPT-体育",WWE
+https://smart.dxjc.pp.ua/smart.php?id=Wwe&token=tmxk
+#EXTINF:-1 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="" group-title="GPT-体育",Fight Sports
+https://smart.dxjc.pp.ua/smart.php?id=Fs&token=tmxk
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="" group-title="GPT-体育",NBA TV
+https://smart.dxjc.pp.ua/smart.php?id=Nba&token=tmxk
+#EXTINF:-1 tvg-id="Astro Cricket" tvg-name="Astro Cricket" tvg-logo="" group-title="GPT-体育",Astro Cricket
+https://smart.dxjc.pp.ua/smart.php?id=Acricket&token=tmxk
+#EXTINF:-1 tvg-id="Astro Golf" tvg-name="Astro Golf" tvg-logo="" group-title="GPT-体育",Astro Golf
+https://smart.dxjc.pp.ua/smart.php?id=Agolf&token=tmxk
+#EXTINF:-1 tvg-id="Tnt Sports 1" tvg-name="Tnt Sports 1" tvg-logo="" group-title="GPT-体育",Tnt Sports 1
+https://smart.dxjc.pp.ua/smart.php?id=6fac0aaead&token=tmxk
+#EXTINF:-1 tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="" group-title="GPT-体育",TNT Sports 2
+https://smart.dxjc.pp.ua/smart.php?id=d9a76a79cc&token=tmxk
+#EXTINF:-1 tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" tvg-logo="" group-title="GPT-体育",TNT Sports 3
+https://smart.dxjc.pp.ua/smart.php?id=5fea4d73db&token=tmxk
+#EXTINF:-1 tvg-id="TNT Sports 4" tvg-name="TNT Sports 4" tvg-logo="" group-title="GPT-体育",TNT Sports 4
+https://smart.dxjc.pp.ua/smart.php?id=tntsport4&token=tmxk
+#EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="" group-title="GPT-体育",Sony Ten 1
+https://smart.dxjc.pp.ua/smart.php?id=ten1_raj&token=tmxk
+#EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="" group-title="GPT-体育",Sony Ten 2
+https://smart.dxjc.pp.ua/smart.php?id=ten2_raj&token=tmxk
+#EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="" group-title="GPT-体育",Sony Ten 3
+https://smart.dxjc.pp.ua/smart.php?id=ten3_raj&token=tmxk
+#EXTINF:-1 tvg-id="SPOTV 1 HD" tvg-name="SPOTV 1 HD" tvg-logo="" group-title="GPT-体育",SPOTV 1 HD
+https://smart.dxjc.pp.ua/smart.php?id=go_spotv&token=tmxk
+#EXTINF:-1 tvg-id="SPO TV 2" tvg-name="SPO TV 2" tvg-logo="" group-title="GPT-体育",SPO TV 2
+https://smart.dxjc.pp.ua/smart.php?id=go_spotv2&token=tmxk
+#EXTINF:-1 tvg-id="Skysports F1" tvg-name="Skysports F1" tvg-logo="" group-title="GPT-体育",Skysports F1
+https://smart.dxjc.pp.ua/smart.php?id=tiankongf1&token=tmxk
+#EXTINF:-1 tvg-id="Skysports Cricket" tvg-name="Skysports Cricket" tvg-logo="" group-title="GPT-体育",Skysports Cricket
+https://smart.dxjc.pp.ua/smart.php?id=tiankongcricket&token=tmxk
+#EXTINF:-1 tvg-id="Skysports EPL" tvg-name="Skysports EPL" tvg-logo="" group-title="GPT-体育",Skysports EPL
+https://smart.dxjc.pp.ua/smart.php?id=tiankongepl&token=tmxk
+#EXTINF:-1 tvg-id="Skysports Main Event" tvg-name="Skysports Main Event" tvg-logo="" group-title="GPT-体育",Skysports Main Event
+https://smart.dxjc.pp.ua/smart.php?id=tiankongmain&token=tmxk
+#EXTINF:-1 tvg-id="Skysports News" tvg-name="Skysports News" tvg-logo="" group-title="GPT-体育",Skysports News
+https://smart.dxjc.pp.ua/smart.php?id=tiankongnews&token=tmxk
+#EXTINF:-1 tvg-id="Skysports Mix" tvg-name="Skysports Mix" tvg-logo="" group-title="GPT-体育",Skysports Mix
+https://smart.dxjc.pp.ua/smart.php?id=tiankongmix&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-5 体育频道" tvg-name="CCTV-5 体育频道" tvg-logo="" group-title="GPT-体育",CCTV-5 体育频道
+https://smart.dxjc.pp.ua/smart.php?id=cctv5&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-5+ 体育赛事 HD" tvg-name="CCTV-5+ 体育赛事 HD" tvg-logo="" group-title="GPT-体育",CCTV-5+ 体育赛事 HD
+https://smart.dxjc.pp.ua/smart.php?id=cctv5plus&token=tmxk
+#EXTINF:-1 tvg-id="爱尔达体育2台" tvg-name="爱尔达体育2台" tvg-logo="" group-title="GPT-体育",爱尔达体育2台
+https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
+#EXTINF:-1 tvg-id="爱尔达体育3台" tvg-name="爱尔达体育3台" tvg-logo="" group-title="GPT-体育",爱尔达体育3台
+https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
+#EXTINF:-1 tvg-id="Rugby Pass TV" tvg-name="Rugby Pass TV" tvg-logo="" group-title="GPT-体育",Rugby Pass TV
+https://smart.dxjc.pp.ua/smart.php?id=Rugbypasstv&token=tmxk
+#EXTINF:-1 tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" tvg-logo="" group-title="GPT-体育",RTM Sports HD
+https://smart.dxjc.pp.ua/smart.php?id=Rtmsport&token=tmxk
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="" group-title="GPT-体育",Arena
+https://smart.dxjc.pp.ua/smart.php?id=Arena&token=tmxk
+#EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2" tvg-logo="" group-title="GPT-体育",Arena 2
+https://smart.dxjc.pp.ua/smart.php?id=Arena2&token=tmxk
+#EXTINF:-1 tvg-id="BolaArena 1" tvg-name="BolaArena 1" tvg-logo="" group-title="GPT-体育",BolaArena 1
+https://smart.dxjc.pp.ua/smart.php?id=Bolaarena1&token=tmxk
+#EXTINF:-1 tvg-id="BolaArena 2" tvg-name="BolaArena 2" tvg-logo="" group-title="GPT-体育",BolaArena 2
+https://smart.dxjc.pp.ua/smart.php?id=Bolaarena2&token=tmxk
+#EXTINF:-1 tvg-id="Astro Beinsports 1" tvg-name="Astro Beinsports 1" tvg-logo="" group-title="GPT-体育",Astro Beinsports 1
+https://smart.dxjc.pp.ua/smart.php?id=Astrobein1&token=tmxk
+#EXTINF:-1 tvg-id="Astro Beinsports 2" tvg-name="Astro Beinsports 2" tvg-logo="" group-title="GPT-体育",Astro Beinsports 2
+https://smart.dxjc.pp.ua/smart.php?id=Astrobein2&token=tmxk
+#EXTINF:-1 tvg-id="Astro Beinsports 3" tvg-name="Astro Beinsports 3" tvg-logo="" group-title="GPT-体育",Astro Beinsports 3
+https://smart.dxjc.pp.ua/smart.php?id=Astrobein3&token=tmxk
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="" group-title="GPT-新加坡",Channel 5
+https://smart.dxjc.pp.ua/smart.php?id=Channel5HD&token=tmxk
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="" group-title="GPT-新加坡",Channel 8
+https://smart.dxjc.pp.ua/smart.php?id=Channel8HD&token=tmxk
+#EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="" group-title="GPT-新加坡",Suria
+https://smart.dxjc.pp.ua/smart.php?id=Suria&token=tmxk
+#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="" group-title="GPT-新加坡",Channel U
+https://smart.dxjc.pp.ua/smart.php?id=ChannelU&token=tmxk
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="" group-title="GPT-新加坡",Vasantham
+https://smart.dxjc.pp.ua/smart.php?id=Vasantham&token=tmxk
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="GPT-新加坡",CNA
+https://smart.dxjc.pp.ua/smart.php?id=cna&token=tmxk
+#EXTINF:-1 tvg-id="CNA backup" tvg-name="CNA backup" tvg-logo="" group-title="GPT-新加坡",CNA backup
+https://smart.dxjc.pp.ua/smart.php?id=cna_twn&token=tmxk
+#EXTINF:-1 tvg-id="MeWatch Ch 5" tvg-name="MeWatch Ch 5" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch 5
+https://smart.dxjc.pp.ua/smart.php?id=Mewatch_ch5&token=tmxk
+#EXTINF:-1 tvg-id="MeWatch Ch 8" tvg-name="MeWatch Ch 8" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch 8
+https://smart.dxjc.pp.ua/smart.php?id=Mewatch_ch8&token=tmxk
+#EXTINF:-1 tvg-id="MeWatch Ch U" tvg-name="MeWatch Ch U" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch U
+https://smart.dxjc.pp.ua/smart.php?id=Mewatch_chU&token=tmxk
+#EXTINF:-1 tvg-id="MeWatch Suria" tvg-name="MeWatch Suria" tvg-logo="" group-title="GPT-新加坡",MeWatch Suria
+https://smart.dxjc.pp.ua/smart.php?id=Mewatch_Suria&token=tmxk
+#EXTINF:-1 tvg-id="MeWatch Vasantham" tvg-name="MeWatch Vasantham" tvg-logo="" group-title="GPT-新加坡",MeWatch Vasantham
+https://smart.dxjc.pp.ua/smart.php?id=Mewatch_Vasantham&token=tmxk
+#EXTINF:-1 tvg-id="MeWatch CNA" tvg-name="MeWatch CNA" tvg-logo="" group-title="GPT-新加坡",MeWatch CNA
+https://smart.dxjc.pp.ua/smart.php?id=Mewatch_cna&token=tmxk
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="" group-title="GPT-马来西亚",TV1
+https://smart.dxjc.pp.ua/smart.php?id=TV1&token=tmxk
+#EXTINF:-1 tvg-id="TV1 backup" tvg-name="TV1 backup" tvg-logo="" group-title="GPT-马来西亚",TV1 backup
+https://smart.dxjc.pp.ua/smart.php?id=TV1_backup&token=tmxk
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="" group-title="GPT-马来西亚",TV2
+https://smart.dxjc.pp.ua/smart.php?id=TV2&token=tmxk
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="" group-title="GPT-马来西亚",TV3
+https://smart.dxjc.pp.ua/smart.php?id=TV3&token=tmxk
+#EXTINF:-1 tvg-id="TV3 SD" tvg-name="TV3 SD" tvg-logo="" group-title="GPT-马来西亚",TV3 SD
+https://smart.dxjc.pp.ua/smart.php?id=TV3_mega&token=tmxk
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="" group-title="GPT-马来西亚",NTV7
+https://smart.dxjc.pp.ua/smart.php?id=NTV7&token=tmxk
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="" group-title="GPT-马来西亚",TV8
+https://smart.dxjc.pp.ua/smart.php?id=TV8&token=tmxk
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="" group-title="GPT-马来西亚",TV9
+https://smart.dxjc.pp.ua/smart.php?id=TV9&token=tmxk
+#EXTINF:-1 tvg-id="Ria" tvg-name="Ria" tvg-logo="" group-title="GPT-马来西亚",Ria
+https://smart.dxjc.pp.ua/smart.php?id=Ria-0&token=tmxk
+#EXTINF:-1 tvg-id="Ria-3" tvg-name="Ria-3" tvg-logo="" group-title="GPT-马来西亚",Ria-3
+https://smart.dxjc.pp.ua/smart.php?id=Ria_backup&token=tmxk
+#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Al-Hijrah" tvg-logo="" group-title="GPT-马来西亚",Al-Hijrah
+https://smart.dxjc.pp.ua/smart.php?id=Alhijrah&token=tmxk
+#EXTINF:-1 tvg-id="Al-Hijrah backup" tvg-name="Al-Hijrah backup" tvg-logo="" group-title="GPT-马来西亚",Al-Hijrah backup
+https://smart.dxjc.pp.ua/smart.php?id=Alhijrah_backup&token=tmxk
+#EXTINF:-1 tvg-id="Awani" tvg-name="Awani" tvg-logo="" group-title="GPT-马来西亚",Awani
+https://smart.dxjc.pp.ua/smart.php?id=Awani&token=tmxk
+#EXTINF:-1 tvg-id="Bernama" tvg-name="Bernama" tvg-logo="" group-title="GPT-马来西亚",Bernama
+https://smart.dxjc.pp.ua/smart.php?id=Bernama&token=tmxk
+#EXTINF:-1 tvg-id="Prima" tvg-name="Prima" tvg-logo="" group-title="GPT-马来西亚",Prima
+https://smart.dxjc.pp.ua/smart.php?id=Prima-0&token=tmxk
+#EXTINF:-1 tvg-id="Prima backup" tvg-name="Prima backup" tvg-logo="" group-title="GPT-马来西亚",Prima backup
+https://smart.dxjc.pp.ua/smart.php?id=AAprima1&token=tmxk
+#EXTINF:-1 tvg-id="Prima backup 2" tvg-name="Prima backup 2" tvg-logo="" group-title="GPT-马来西亚",Prima backup 2
+https://smart.dxjc.pp.ua/smart.php?id=AAprima&token=tmxk
+#EXTINF:-1 tvg-id="Ceria" tvg-name="Ceria" tvg-logo="" group-title="GPT-马来西亚",Ceria
+https://smart.dxjc.pp.ua/smart.php?id=Ceria&token=tmxk
+#EXTINF:-1 tvg-id="Astro MTV" tvg-name="Astro MTV" tvg-logo="" group-title="GPT-马来西亚",Astro MTV
+https://smart.dxjc.pp.ua/smart.php?id=AstroMTV&token=tmxk
+#EXTINF:-1 tvg-id="Mecca Live HD" tvg-name="Mecca Live HD" tvg-logo="" group-title="GPT-马来西亚",Mecca Live HD
+https://smart.dxjc.pp.ua/smart.php?id=quran_mido&token=tmxk
+#EXTINF:-1 tvg-id="Madinah HD" tvg-name="Madinah HD" tvg-logo="" group-title="GPT-马来西亚",Madinah HD
+https://smart.dxjc.pp.ua/smart.php?id=sunnah_mido&token=tmxk
+#EXTINF:-1 tvg-id="Oasis" tvg-name="Oasis" tvg-logo="" group-title="GPT-马来西亚",Oasis
+https://smart.dxjc.pp.ua/smart.php?id=Oasis&token=tmxk
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="GPT-马来西亚",HBO HD
+https://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="" group-title="GPT-马来西亚",HBO Signature
+https://smart.dxjc.pp.ua/smart.php?id=Hbosignature&token=tmxk
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="" group-title="GPT-马来西亚",HBO Hits
+https://smart.dxjc.pp.ua/smart.php?id=Hbohitshd&token=tmxk
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="" group-title="GPT-马来西亚",NatGeo Wild HD
+https://smart.dxjc.pp.ua/smart.php?id=Natgeowild&token=tmxk
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="" group-title="GPT-马来西亚",Cartoon Network
+https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="" group-title="GPT-马来西亚",Nickelodeon
+https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="" group-title="GPT-马来西亚",Nick Jr
+https://smart.dxjc.pp.ua/smart.php?id=Nickjr&token=tmxk
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="" group-title="GPT-马来西亚",Dreamworks
+https://smart.dxjc.pp.ua/smart.php?id=Dreamworks&token=tmxk
+#EXTINF:-1 tvg-id="Siar" tvg-name="Siar" tvg-logo="" group-title="GPT-马来西亚",Siar
+https://smart.dxjc.pp.ua/smart.php?id=Siar&token=tmxk
+#EXTINF:-1 tvg-id="Citra" tvg-name="Citra" tvg-logo="" group-title="GPT-马来西亚",Citra
+https://smart.dxjc.pp.ua/smart.php?id=AAcitra&token=tmxk
+#EXTINF:-1 tvg-id="Citra backup" tvg-name="Citra backup" tvg-logo="" group-title="GPT-马来西亚",Citra backup
+https://smart.dxjc.pp.ua/smart.php?id=AAcitra1&token=tmxk
+#EXTINF:-1 tvg-id="Sensasi" tvg-name="Sensasi" tvg-logo="" group-title="GPT-马来西亚",Sensasi
+https://smart.dxjc.pp.ua/smart.php?id=Sensasi&token=tmxk
+#EXTINF:-1 tvg-id="Aura" tvg-name="Aura" tvg-logo="" group-title="GPT-马来西亚",Aura
+https://smart.dxjc.pp.ua/smart.php?id=Aura&token=tmxk
+#EXTINF:-1 tvg-id="Rania" tvg-name="Rania" tvg-logo="" group-title="GPT-马来西亚",Rania
+https://smart.dxjc.pp.ua/smart.php?id=Rania&token=tmxk
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="" group-title="GPT-马来西亚",KBS World
+https://smart.dxjc.pp.ua/smart.php?id=KBS&token=tmxk
+#EXTINF:-1 tvg-id="Boo" tvg-name="Boo" tvg-logo="" group-title="GPT-马来西亚",Boo
+https://smart.dxjc.pp.ua/smart.php?id=Boo&token=tmxk
+#EXTINF:-1 tvg-id="Awesome TV" tvg-name="Awesome TV" tvg-logo="" group-title="GPT-马来西亚",Awesome TV
+https://smart.dxjc.pp.ua/smart.php?id=Dsangat&token=tmxk
+#EXTINF:-1 tvg-id="Astro Sonypix" tvg-name="Astro Sonypix" tvg-logo="" group-title="GPT-马来西亚",Astro Sonypix
+https://smart.dxjc.pp.ua/smart.php?id=Asonypix&token=tmxk
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="" group-title="GPT-马来西亚",Sony HD
+https://smart.dxjc.pp.ua/smart.php?id=SetOne&token=tmxk
+#EXTINF:-1 tvg-id="TvN" tvg-name="TvN" tvg-logo="" group-title="GPT-马来西亚",TvN
+https://smart.dxjc.pp.ua/smart.php?id=TVN&token=tmxk
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="" group-title="GPT-马来西亚",AEC
+https://smart.dxjc.pp.ua/smart.php?id=AEC&token=tmxk
+#EXTINF:-1 tvg-id="华丽台 HD （Wah Lai Toi）" tvg-name="华丽台 HD （Wah Lai Toi）" tvg-logo="" group-title="GPT-马来西亚",华丽台 HD （Wah Lai Toi）
+https://smart.dxjc.pp.ua/smart.php?id=Wlt&token=tmxk
+#EXTINF:-1 tvg-id="欢喜台 HD （Hua Hee Tai）" tvg-name="欢喜台 HD （Hua Hee Tai）" tvg-logo="" group-title="GPT-马来西亚",欢喜台 HD （Hua Hee Tai）
+https://smart.dxjc.pp.ua/smart.php?id=Huahee&token=tmxk
+#EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="" group-title="GPT-马来西亚",Astro QJ
+https://smart.dxjc.pp.ua/smart.php?id=Quanjia&token=tmxk
+#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="GPT-马来西亚",TVB Jade
+https://smart.dxjc.pp.ua/smart.php?id=Tvbjade&token=tmxk
+#EXTINF:-1 tvg-id="TVB Asia" tvg-name="TVB Asia" tvg-logo="" group-title="GPT-马来西亚",TVB Asia
+https://smart.dxjc.pp.ua/smart.php?id=Tvbasia&token=tmxk
+#EXTINF:-1 tvg-id="TVB Entertainment" tvg-name="TVB Entertainment" tvg-logo="" group-title="GPT-马来西亚",TVB Entertainment
+https://smart.dxjc.pp.ua/smart.php?id=Tvbentertainment&token=tmxk
+#EXTINF:-1 tvg-id="TVB Classic" tvg-name="TVB Classic" tvg-logo="" group-title="GPT-马来西亚",TVB Classic
+https://smart.dxjc.pp.ua/smart.php?id=Tvbclassic&token=tmxk
+#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="" group-title="GPT-马来西亚",AOD
+https://smart.dxjc.pp.ua/smart.php?id=Aodhd&token=tmxk
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="GPT-马来西亚",One
+https://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
+#EXTINF:-1 tvg-id="TVB 星河台 Xing He" tvg-name="TVB 星河台 Xing He" tvg-logo="" group-title="GPT-马来西亚",TVB 星河台 Xing He
+https://smart.dxjc.pp.ua/smart.php?id=Xinhe&token=tmxk
+#EXTINF:-1 tvg-id="爱奇艺 iQiyi" tvg-name="爱奇艺 iQiyi" tvg-logo="" group-title="GPT-马来西亚",爱奇艺 iQiyi
+https://smart.dxjc.pp.ua/smart.php?id=Qiyi&token=tmxk
+#EXTINF:-1 tvg-id="Animal Planet (Eng)" tvg-name="Animal Planet (Eng)" tvg-logo="" group-title="GPT-马来西亚",Animal Planet (Eng)
+https://smart.dxjc.pp.ua/smart.php?id=AnimalPlanet&token=tmxk
+#EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="GPT-马来西亚",tvN Movie
+https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
+#EXTINF:-1 tvg-id="CNN backup" tvg-name="CNN backup" tvg-logo="" group-title="GPT-马来西亚",CNN backup
+https://smart.dxjc.pp.ua/smart.php?id=cnn_twn&token=tmxk
+#EXTINF:-1 tvg-id="Celestial Classic" tvg-name="Celestial Classic" tvg-logo="" group-title="GPT-马来西亚",Celestial Classic
+https://smart.dxjc.pp.ua/smart.php?id=Celestial2&token=tmxk
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="" group-title="GPT-马来西亚",CNBC
+https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="" group-title="GPT-马来西亚",TLC
+https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="GPT-马来西亚",CNA
+https://smart.dxjc.pp.ua/smart.php?id=cna&token=tmxk
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="GPT-马来西亚",BBC World News
+https://smart.dxjc.pp.ua/smart.php?id=bbcnews_twn&token=tmxk
+#EXTINF:-1 tvg-id="Foodnetwork Hd" tvg-name="Foodnetwork Hd" tvg-logo="" group-title="GPT-马来西亚",Foodnetwork Hd
+https://smart.dxjc.pp.ua/smart.php?id=Foodnetwork&token=tmxk
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="" group-title="GPT-马来西亚",HGTV
+https://smart.dxjc.pp.ua/smart.php?id=HGTV&token=tmxk
+#EXTINF:-1 tvg-id="Goshop" tvg-name="Goshop" tvg-logo="" group-title="GPT-马来西亚",Goshop
+https://smart.dxjc.pp.ua/smart.php?id=Goshop&token=tmxk
+#EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="" group-title="GPT-马来西亚",Celestial Movies HD
+https://smart.dxjc.pp.ua/smart.php?id=Celestial&token=tmxk
+#EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="" group-title="GPT-马来西亚",Axn HD
+https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="" group-title="GPT-马来西亚",Paramount Network
+https://smart.dxjc.pp.ua/smart.php?id=Paramountnetwork&token=tmxk
+#EXTINF:-1 tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="" group-title="GPT-马来西亚",Astrol Kplus
+https://smart.dxjc.pp.ua/smart.php?id=Kplus&token=tmxk
+#EXTINF:-1 tvg-id="AFC 亚洲旅游台" tvg-name="AFC 亚洲旅游台" tvg-logo="" group-title="GPT-马来西亚",AFC 亚洲旅游台
+https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
+#EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="" group-title="GPT-马来西亚",Rock Actions
+https://smart.dxjc.pp.ua/smart.php?id=Rockaction&token=tmxk
+#EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-logo="" group-title="GPT-马来西亚",Bloomberg News
+https://smart.dxjc.pp.ua/smart.php?id=bloomberg_twn&token=tmxk
+#EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="Al-Jazeera" tvg-logo="" group-title="GPT-马来西亚",Al-Jazeera
+https://smart.dxjc.pp.ua/smart.php?id=aljazeera_twn&token=tmxk
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="" group-title="GPT-马来西亚",Rock Entertainment
+https://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
+#EXTINF:-1 tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" tvg-logo="" group-title="GPT-马来西亚",RTM Sports HD
+https://smart.dxjc.pp.ua/smart.php?id=Rtmsport&token=tmxk
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="" group-title="GPT-马来西亚",Arena
+https://smart.dxjc.pp.ua/smart.php?id=Arena&token=tmxk
+#EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2" tvg-logo="" group-title="GPT-马来西亚",Arena 2
+https://smart.dxjc.pp.ua/smart.php?id=Arena2&token=tmxk
+#EXTINF:-1 tvg-id="BolaArena 1" tvg-name="BolaArena 1" tvg-logo="" group-title="GPT-马来西亚",BolaArena 1
+https://smart.dxjc.pp.ua/smart.php?id=Bolaarena1&token=tmxk
+#EXTINF:-1 tvg-id="BolaArena 2" tvg-name="BolaArena 2" tvg-logo="" group-title="GPT-马来西亚",BolaArena 2
+https://smart.dxjc.pp.ua/smart.php?id=Bolaarena2&token=tmxk
+#EXTINF:-1 tvg-id="Astro LOL" tvg-name="Astro LOL" tvg-logo="" group-title="GPT-马来西亚",Astro LOL
+https://smart.dxjc.pp.ua/smart.php?id=Astro_lol&token=tmxk
+#EXTINF:-1 tvg-id="Astro Rusi" tvg-name="Astro Rusi" tvg-logo="" group-title="GPT-马来西亚",Astro Rusi
+https://smart.dxjc.pp.ua/smart.php?id=Rusi&token=tmxk
+#EXTINF:-1 tvg-id="WION" tvg-name="WION" tvg-logo="" group-title="GPT-马来西亚",WION
+https://smart.dxjc.pp.ua/smart.php?id=Wion&token=tmxk
+#EXTINF:-1 tvg-id="RTM Asean" tvg-name="RTM Asean" tvg-logo="" group-title="GPT-马来西亚",RTM Asean
+https://smart.dxjc.pp.ua/smart.php?id=Rtmasean&token=tmxk
+#EXTINF:-1 tvg-id="TVRI National" tvg-name="TVRI National" tvg-logo="" group-title="GPT-印尼",TVRI National
+https://smart.dxjc.pp.ua/smart.php?id=TVRI&token=tmxk
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="" group-title="GPT-印尼",RCTI
+https://smart.dxjc.pp.ua/smart.php?id=Rcti&token=tmxk
+#EXTINF:-1 tvg-id="Kompass TV" tvg-name="Kompass TV" tvg-logo="" group-title="GPT-印尼",Kompass TV
+https://smart.dxjc.pp.ua/smart.php?id=Kompass&token=tmxk
+#EXTINF:-1 tvg-id="Berita Satu" tvg-name="Berita Satu" tvg-logo="" group-title="GPT-印尼",Berita Satu
+https://smart.dxjc.pp.ua/smart.php?id=BeritaSatu_eko&token=tmxk
+#EXTINF:-1 tvg-id="Indosiar HD" tvg-name="Indosiar HD" tvg-logo="" group-title="GPT-印尼",Indosiar HD
+https://smart.dxjc.pp.ua/smart.php?id=Indosiar&token=tmxk
+#EXTINF:-1 tvg-id="AnTV" tvg-name="AnTV" tvg-logo="" group-title="GPT-印尼",AnTV
+https://smart.dxjc.pp.ua/smart.php?id=Antv&token=tmxk
+#EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-logo="" group-title="GPT-印尼",MNC TV
+https://smart.dxjc.pp.ua/smart.php?id=Mnctv&token=tmxk
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="" group-title="GPT-印尼",Trans 7
+https://smart.dxjc.pp.ua/smart.php?id=Trans7_eko&token=tmxk
+#EXTINF:-1 tvg-id="Transtv" tvg-name="Transtv" tvg-logo="" group-title="GPT-印尼",Transtv
+https://smart.dxjc.pp.ua/smart.php?id=Transtv&token=tmxk
+#EXTINF:-1 tvg-id="JTV" tvg-name="JTV" tvg-logo="" group-title="GPT-印尼",JTV
+https://smart.dxjc.pp.ua/smart.php?id=JTV_eko&token=tmxk
+#EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="" group-title="GPT-印尼",Metro TV
+https://smart.dxjc.pp.ua/smart.php?id=metrotv_eko&token=tmxk
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="" group-title="GPT-印尼",Cinemax
+https://smart.dxjc.pp.ua/smart.php?id=Cinemax&token=tmxk
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="" group-title="GPT-印尼",SCTV
+https://smart.dxjc.pp.ua/smart.php?id=SCTV&token=tmxk
+#EXTINF:-1 tvg-id="Tvone" tvg-name="Tvone" tvg-logo="" group-title="GPT-印尼",Tvone
+https://smart.dxjc.pp.ua/smart.php?id=Tvone&token=tmxk
+#EXTINF:-1 tvg-id="TVMU" tvg-name="TVMU" tvg-logo="" group-title="GPT-印尼",TVMU
+https://smart.dxjc.pp.ua/smart.php?id=TVMU_eko&token=tmxk
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="" group-title="GPT-印尼",GTV
+https://smart.dxjc.pp.ua/smart.php?id=Gtv&token=tmxk
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="" group-title="GPT-印尼",RTV
+https://smart.dxjc.pp.ua/smart.php?id=Rtv&token=tmxk
+#EXTINF:-1 tvg-id="Jak TV" tvg-name="Jak TV" tvg-logo="" group-title="GPT-印尼",Jak TV
+https://smart.dxjc.pp.ua/smart.php?id=JakTV&token=tmxk
+#EXTINF:-1 tvg-id="iNews TV" tvg-name="iNews TV" tvg-logo="" group-title="GPT-印尼",iNews TV
+https://smart.dxjc.pp.ua/smart.php?id=Inewstv&token=tmxk
+#EXTINF:-1 tvg-id="Daai TV" tvg-name="Daai TV" tvg-logo="" group-title="GPT-印尼",Daai TV
+https://smart.dxjc.pp.ua/smart.php?id=DaaiTV&token=tmxk
+#EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="" group-title="GPT-印尼",Net TV
+https://smart.dxjc.pp.ua/smart.php?id=NetTV&token=tmxk
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="GPT-印尼",Animax
+https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
+#EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-logo="" group-title="GPT-印尼",EWTN
+https://smart.dxjc.pp.ua/smart.php?id=Ewtn&token=tmxk
+#EXTINF:-1 tvg-id="AlQuran AlKareem" tvg-name="AlQuran AlKareem" tvg-logo="" group-title="GPT-印尼",AlQuran AlKareem
+https://smart.dxjc.pp.ua/smart.php?id=AlQuran&token=tmxk
+#EXTINF:-1 tvg-id="Tawaf TV" tvg-name="Tawaf TV" tvg-logo="" group-title="GPT-印尼",Tawaf TV
+https://smart.dxjc.pp.ua/smart.php?id=TawafTV&token=tmxk
+#EXTINF:-1 tvg-id="Vision Prime" tvg-name="Vision Prime" tvg-logo="" group-title="GPT-印尼",Vision Prime
+https://smart.dxjc.pp.ua/smart.php?id=VisionPrime&token=tmxk
+#EXTINF:-1 tvg-id="Muslim TV" tvg-name="Muslim TV" tvg-logo="" group-title="GPT-印尼",Muslim TV
+https://smart.dxjc.pp.ua/smart.php?id=MuslimTV&token=tmxk
+#EXTINF:-1 tvg-id="Music TV" tvg-name="Music TV" tvg-logo="" group-title="GPT-印尼",Music TV
+https://smart.dxjc.pp.ua/smart.php?id=MusicTV&token=tmxk
+#EXTINF:-1 tvg-id="Lifestyle&Fashion" tvg-name="Lifestyle&Fashion" tvg-logo="" group-title="GPT-印尼",Lifestyle&Fashion
+https://smart.dxjc.pp.ua/smart.php?id=Lifestyle&token=tmxk
+#EXTINF:-1 tvg-id="Entertain" tvg-name="Entertain" tvg-logo="" group-title="GPT-印尼",Entertain
+https://smart.dxjc.pp.ua/smart.php?id=Entertain&token=tmxk
+#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="" group-title="GPT-印尼",Hits
+https://smart.dxjc.pp.ua/smart.php?id=Hits&token=tmxk
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="GPT-印尼",Warner TV
+https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
+#EXTINF:-1 tvg-id="SCM" tvg-name="SCM" tvg-logo="" group-title="GPT-印尼",SCM
+https://smart.dxjc.pp.ua/smart.php?id=Weishimovie&token=tmxk
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="GPT-印尼",Thrill
+https://smart.dxjc.pp.ua/smart.php?id=Thrill&token=tmxk
+#EXTINF:-1 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="" group-title="GPT-印尼",Fight Sports
+https://smart.dxjc.pp.ua/smart.php?id=Fs&token=tmxk
+#EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="GPT-印尼",Hits Movie
+https://smart.dxjc.pp.ua/smart.php?id=Hitsmovie&token=tmxk
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="GPT-印尼",One
+https://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
+#EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="GPT-印尼",tvN Movie
+https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
+#EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="" group-title="GPT-印尼",Celestial Movies HD
+https://smart.dxjc.pp.ua/smart.php?id=Celestialindo&token=tmxk
+#EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="" group-title="GPT-印尼",Rock Actions
+https://smart.dxjc.pp.ua/smart.php?id=Rockaction&token=tmxk
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="" group-title="GPT-印尼",Rock Entertainment
+https://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
+#EXTINF:-1 tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-logo="" group-title="GPT-印度",Sun TV HD
+https://smart.dxjc.pp.ua/smart.php?id=Suntv&token=tmxk
+#EXTINF:-1 tvg-id="Star Vijay" tvg-name="Star Vijay" tvg-logo="" group-title="GPT-印度",Star Vijay
+https://smart.dxjc.pp.ua/smart.php?id=Starvijay&token=tmxk
+#EXTINF:-1 tvg-id="Colors Tamil" tvg-name="Colors Tamil" tvg-logo="" group-title="GPT-印度",Colors Tamil
+https://smart.dxjc.pp.ua/smart.php?id=Colorstam&token=tmxk
+#EXTINF:-1 tvg-id="Sun Music" tvg-name="Sun Music" tvg-logo="" group-title="GPT-印度",Sun Music
+https://smart.dxjc.pp.ua/smart.php?id=Sunmusic&token=tmxk
+#EXTINF:-1 tvg-id="Astro Sunlife" tvg-name="Astro Sunlife" tvg-logo="" group-title="GPT-印度",Astro Sunlife
+https://smart.dxjc.pp.ua/smart.php?id=Sunlife&token=tmxk
+#EXTINF:-1 tvg-id="Astro Vaanavil" tvg-name="Astro Vaanavil" tvg-logo="" group-title="GPT-印度",Astro Vaanavil
+https://smart.dxjc.pp.ua/smart.php?id=Vaanavil&token=tmxk
+#EXTINF:-1 tvg-id="Zee Tamil" tvg-name="Zee Tamil" tvg-logo="" group-title="GPT-印度",Zee Tamil
+https://smart.dxjc.pp.ua/smart.php?id=Zeetamil&token=tmxk
+#EXTINF:-1 tvg-id="Zee Business" tvg-name="Zee Business" tvg-logo="" group-title="GPT-印度",Zee Business
+https://smart.dxjc.pp.ua/smart.php?id=Zeebusiness&token=tmxk
+#EXTINF:-1 tvg-id="News 18 Tamil" tvg-name="News 18 Tamil" tvg-logo="" group-title="GPT-印度",News 18 Tamil
+https://smart.dxjc.pp.ua/smart.php?id=news18tamil_raj&token=tmxk
+#EXTINF:-1 tvg-id="Adithya" tvg-name="Adithya" tvg-logo="" group-title="GPT-印度",Adithya
+https://smart.dxjc.pp.ua/smart.php?id=Adithya&token=tmxk
+#EXTINF:-1 tvg-id="Makkal TV" tvg-name="Makkal TV" tvg-logo="" group-title="GPT-印度",Makkal TV
+https://smart.dxjc.pp.ua/smart.php?id=Makkaltv&token=tmxk
+#EXTINF:-1 tvg-id="Zee Action" tvg-name="Zee Action" tvg-logo="" group-title="GPT-印度",Zee Action
+https://smart.dxjc.pp.ua/smart.php?id=Zeeaction&token=tmxk
+#EXTINF:-1 tvg-id="Astro KTV" tvg-name="Astro KTV" tvg-logo="" group-title="GPT-印度",Astro KTV
+https://smart.dxjc.pp.ua/smart.php?id=Astroktv&token=tmxk
+#EXTINF:-1 tvg-id="Zee TV HD" tvg-name="Zee TV HD" tvg-logo="" group-title="GPT-印度",Zee TV HD
+https://smart.dxjc.pp.ua/smart.php?id=Zeetvhd&token=tmxk
+#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-name="Zee Cinema HD" tvg-logo="" group-title="GPT-印度",Zee Cinema HD
+https://smart.dxjc.pp.ua/smart.php?id=Zeecinemahd&token=tmxk
+#EXTINF:-1 tvg-id="Color HD" tvg-name="Color HD" tvg-logo="" group-title="GPT-印度",Color HD
+https://smart.dxjc.pp.ua/smart.php?id=Colorhd&token=tmxk
+#EXTINF:-1 tvg-id="Starplus HD" tvg-name="Starplus HD" tvg-logo="" group-title="GPT-印度",Starplus HD
+https://smart.dxjc.pp.ua/smart.php?id=Starplushd&token=tmxk
+#EXTINF:-1 tvg-id="Picture HD" tvg-name="Picture HD" tvg-logo="" group-title="GPT-印度",Picture HD
+https://smart.dxjc.pp.ua/smart.php?id=Npicture&token=tmxk
+#EXTINF:-1 tvg-id="Zee News" tvg-name="Zee News" tvg-logo="" group-title="GPT-印度",Zee News
+https://smart.dxjc.pp.ua/smart.php?id=Zeenews&token=tmxk
+#EXTINF:-1 tvg-id="Asianet" tvg-name="Asianet" tvg-logo="" group-title="GPT-印度",Asianet
+https://smart.dxjc.pp.ua/smart.php?id=asianet_raj&token=tmxk
+#EXTINF:-1 tvg-id="Asianet News" tvg-name="Asianet News" tvg-logo="" group-title="GPT-印度",Asianet News
+https://smart.dxjc.pp.ua/smart.php?id=asianetnews_raj&token=tmxk
+#EXTINF:-1 tvg-id="Discovery World Tamil" tvg-name="Discovery World Tamil" tvg-logo="" group-title="GPT-印度",Discovery World Tamil
+https://smart.dxjc.pp.ua/smart.php?id=discoveryworldtam_raj&token=tmxk
+#EXTINF:-1 tvg-id="History Tamil" tvg-name="History Tamil" tvg-logo="" group-title="GPT-印度",History Tamil
+https://smart.dxjc.pp.ua/smart.php?id=historytam_raj&token=tmxk
+#EXTINF:-1 tvg-id="NatGeo Tamil" tvg-name="NatGeo Tamil" tvg-logo="" group-title="GPT-印度",NatGeo Tamil
+https://smart.dxjc.pp.ua/smart.php?id=natgeotamil_raj&token=tmxk
+#EXTINF:-1 tvg-id="Natgeo Wild Tamil" tvg-name="Natgeo Wild Tamil" tvg-logo="" group-title="GPT-印度",Natgeo Wild Tamil
+https://smart.dxjc.pp.ua/smart.php?id=natgeowildtamil_raj&token=tmxk
+#EXTINF:-1 tvg-id="Astro Sonypix" tvg-name="Astro Sonypix" tvg-logo="" group-title="GPT-印度",Astro Sonypix
+https://smart.dxjc.pp.ua/smart.php?id=Asonypix&token=tmxk
+#EXTINF:-1 tvg-id="Discovery Kids Tamil" tvg-name="Discovery Kids Tamil" tvg-logo="" group-title="GPT-印度",Discovery Kids Tamil
+https://smart.dxjc.pp.ua/smart.php?id=discoverykidtamil_raj&token=tmxk
+#EXTINF:-1 tvg-id="Discovery Tamil" tvg-name="Discovery Tamil" tvg-logo="" group-title="GPT-印度",Discovery Tamil
+https://smart.dxjc.pp.ua/smart.php?id=discoverytamil_raj&token=tmxk
+#EXTINF:-1 tvg-id="Sony Yay Tamil" tvg-name="Sony Yay Tamil" tvg-logo="" group-title="GPT-印度",Sony Yay Tamil
+https://smart.dxjc.pp.ua/smart.php?id=sonyyaytam_raj&token=tmxk
+#EXTINF:-1 tvg-id="Sun TV India" tvg-name="Sun TV India" tvg-logo="" group-title="GPT-印度",Sun TV India
+https://smart.dxjc.pp.ua/smart.php?id=suntv_raj&token=tmxk
+#EXTINF:-1 tvg-id="Starmaa HD" tvg-name="Starmaa HD" tvg-logo="" group-title="GPT-印度",Starmaa HD
+https://smart.dxjc.pp.ua/smart.php?id=starmaa_raj&token=tmxk
+#EXTINF:-1 tvg-id="Starmaa Movies HD" tvg-name="Starmaa Movies HD" tvg-logo="" group-title="GPT-印度",Starmaa Movies HD
+https://smart.dxjc.pp.ua/smart.php?id=starmaamovies_raj&token=tmxk
+#EXTINF:-1 tvg-id="Bollyone" tvg-name="Bollyone" tvg-logo="" group-title="GPT-印度",Bollyone
+https://smart.dxjc.pp.ua/smart.php?id=Bollyone&token=tmxk
+#EXTINF:-1 tvg-id="Astro Sunmusic" tvg-name="Astro Sunmusic" tvg-logo="" group-title="GPT-印度",Astro Sunmusic
+https://smart.dxjc.pp.ua/smart.php?id=Sunmusic&token=tmxk
+#EXTINF:-1 tvg-id="Vijay Super" tvg-name="Vijay Super" tvg-logo="" group-title="GPT-印度",Vijay Super
+https://smart.dxjc.pp.ua/smart.php?id=vijaysuper_raj&token=tmxk
+#EXTINF:-1 tvg-id="Vellithirai" tvg-name="Vellithirai" tvg-logo="" group-title="GPT-印度",Vellithirai
+https://smart.dxjc.pp.ua/smart.php?id=Vellithirai&token=tmxk
+#EXTINF:-1 tvg-id="Channel 3 Thailand" tvg-name="Channel 3 Thailand" tvg-logo="" group-title="GPT-泰国",Channel 3 Thailand
+https://smart.dxjc.pp.ua/smart.php?id=ch3_pat&token=tmxk
+#EXTINF:-1 tvg-id="Channel 5 Thailand" tvg-name="Channel 5 Thailand" tvg-logo="" group-title="GPT-泰国",Channel 5 Thailand
+https://smart.dxjc.pp.ua/smart.php?id=ch5_pat&token=tmxk
+#EXTINF:-1 tvg-id="Channel 7 Thailand" tvg-name="Channel 7 Thailand" tvg-logo="" group-title="GPT-泰国",Channel 7 Thailand
+https://smart.dxjc.pp.ua/smart.php?id=ch7_pat&token=tmxk
+#EXTINF:-1 tvg-id="MCOT HD Thailand-1" tvg-name="MCOT HD Thailand-1" tvg-logo="" group-title="GPT-泰国",MCOT HD Thailand-1
+https://smart.dxjc.pp.ua/smart.php?id=mcot_pat&token=tmxk
+#EXTINF:-1 tvg-id="PPTV Thailand1" tvg-name="PPTV Thailand1" tvg-logo="" group-title="GPT-泰国",PPTV Thailand1
+https://smart.dxjc.pp.ua/smart.php?id=pptv_pat&token=tmxk
+#EXTINF:-1 tvg-id="Thai Thai" tvg-name="Thai Thai" tvg-logo="" group-title="GPT-泰国",Thai Thai
+https://smart.dxjc.pp.ua/smart.php?id=thaithai_pat&token=tmxk
+#EXTINF:-1 tvg-id="Amarin" tvg-name="Amarin" tvg-logo="" group-title="GPT-泰国",Amarin
+https://smart.dxjc.pp.ua/smart.php?id=amarin_pat&token=tmxk
+#EXTINF:-1 tvg-id="Ch 8" tvg-name="Ch 8" tvg-logo="" group-title="GPT-泰国",Ch 8
+https://smart.dxjc.pp.ua/smart.php?id=ch8_pat&token=tmxk
+#EXTINF:-1 tvg-id="GmmOne" tvg-name="GmmOne" tvg-logo="" group-title="GPT-泰国",GmmOne
+https://smart.dxjc.pp.ua/smart.php?id=gmmone_pat&token=tmxk
+#EXTINF:-1 tvg-id="Mono" tvg-name="Mono" tvg-logo="" group-title="GPT-泰国",Mono
+https://smart.dxjc.pp.ua/smart.php?id=mono_pat&token=tmxk
+#EXTINF:-1 tvg-id="Thairath" tvg-name="Thairath" tvg-logo="" group-title="GPT-泰国",Thairath
+https://smart.dxjc.pp.ua/smart.php?id=thairath_pat&token=tmxk
+#EXTINF:-1 tvg-id="tpbs" tvg-name="tpbs" tvg-logo="" group-title="GPT-泰国",tpbs
+https://smart.dxjc.pp.ua/smart.php?id=tpbs_pat&token=tmxk
+#EXTINF:-1 tvg-id="Workpoint" tvg-name="Workpoint" tvg-logo="" group-title="GPT-泰国",Workpoint
+https://smart.dxjc.pp.ua/smart.php?id=workpoint_pat&token=tmxk
+#EXTINF:-1 tvg-id="Gmm Channel" tvg-name="Gmm Channel" tvg-logo="" group-title="GPT-泰国",Gmm Channel
+https://smart.dxjc.pp.ua/smart.php?id=gmmchannel_pat&token=tmxk
+#EXTINF:-1 tvg-id="Nation" tvg-name="Nation" tvg-logo="" group-title="GPT-泰国",Nation
+https://smart.dxjc.pp.ua/smart.php?id=nation_pat&token=tmxk
+#EXTINF:-1 tvg-id="Tnn24" tvg-name="Tnn24" tvg-logo="" group-title="GPT-泰国",Tnn24
+https://smart.dxjc.pp.ua/smart.php?id=tnn24_pat&token=tmxk
+#EXTINF:-1 tvg-id="Nbt" tvg-name="Nbt" tvg-logo="" group-title="GPT-泰国",Nbt
+https://smart.dxjc.pp.ua/smart.php?id=nbt_pat&token=tmxk
+#EXTINF:-1 tvg-id="New" tvg-name="New" tvg-logo="" group-title="GPT-泰国",New
+https://smart.dxjc.pp.ua/smart.php?id=new_pat&token=tmxk
+#EXTINF:-1 tvg-id="TPTV" tvg-name="TPTV" tvg-logo="" group-title="GPT-泰国",TPTV
+https://smart.dxjc.pp.ua/smart.php?id=tptv_pat&token=tmxk
+#EXTINF:-1 tvg-id="BBC 1" tvg-name="BBC 1" tvg-logo="" group-title="GPT-英国",BBC 1
+https://smart.dxjc.pp.ua/smart.php?id=bbc1_antik&token=tmxk
+#EXTINF:-1 tvg-id="BBC 2" tvg-name="BBC 2" tvg-logo="" group-title="GPT-英国",BBC 2
+https://smart.dxjc.pp.ua/smart.php?id=bbc2_antik&token=tmxk
+#EXTINF:-1 tvg-id="CBBC" tvg-name="CBBC" tvg-logo="" group-title="GPT-英国",CBBC
+https://smart.dxjc.pp.ua/smart.php?id=cbbc_antik&token=tmxk
+#EXTINF:-1 tvg-id="More4" tvg-name="More4" tvg-logo="" group-title="GPT-英国",More4
+https://smart.dxjc.pp.ua/smart.php?id=more4_antik&token=tmxk
+#EXTINF:-1 tvg-id="Freesports" tvg-name="Freesports" tvg-logo="" group-title="GPT-英国",Freesports
+https://smart.dxjc.pp.ua/smart.php?id=freesports_antik&token=tmxk
+#EXTINF:-1 tvg-id="Skynews" tvg-name="Skynews" tvg-logo="" group-title="GPT-英国",Skynews
+https://smart.dxjc.pp.ua/smart.php?id=skynews_twn&token=tmxk
+#EXTINF:-1 tvg-id="Pick TV" tvg-name="Pick TV" tvg-logo="" group-title="GPT-英国",Pick TV
+https://smart.dxjc.pp.ua/smart.php?id=picktv_antik&token=tmxk
+#EXTINF:-1 tvg-id="itv 1" tvg-name="itv 1" tvg-logo="" group-title="GPT-英国",itv 1
+https://smart.dxjc.pp.ua/smart.php?id=itv1_antik&token=tmxk
+#EXTINF:-1 tvg-id="itv 2" tvg-name="itv 2" tvg-logo="" group-title="GPT-英国",itv 2
+https://smart.dxjc.pp.ua/smart.php?id=itv2_antik&token=tmxk
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="" group-title="GPT-英国",Euronews
+https://smart.dxjc.pp.ua/smart.php?id=euronews_antik&token=tmxk
+#EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="" group-title="GPT-英国",Channel 4
+https://smart.dxjc.pp.ua/smart.php?id=channel4_antik&token=tmxk
+#EXTINF:-1 tvg-id="NatGeo HD" tvg-name="NatGeo HD" tvg-logo="" group-title="GPT-英国",NatGeo HD
+https://smart.dxjc.pp.ua/smart.php?id=Natgeo&token=tmxk
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="" group-title="GPT-英国",CBeebies
+https://smart.dxjc.pp.ua/smart.php?id=Cbeebies&token=tmxk
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="" group-title="GPT-英国",History
+https://smart.dxjc.pp.ua/smart.php?id=History&token=tmxk
+#EXTINF:-1 tvg-id="Kids TV" tvg-name="Kids TV" tvg-logo="" group-title="GPT-英国",Kids TV
+https://smart.dxjc.pp.ua/smart.php?id=KidsTV&token=tmxk
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="" group-title="GPT-英国",France 24
+https://smart.dxjc.pp.ua/smart.php?id=france24_twn&token=tmxk
+#EXTINF:-1 tvg-id="DW (Deutsch)" tvg-name="DW (Deutsch)" tvg-logo="" group-title="GPT-英国",DW (Deutsch)
+https://smart.dxjc.pp.ua/smart.php?id=dw_twn&token=tmxk
+#EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="BBC Earth HD" tvg-logo="" group-title="GPT-英国",BBC Earth HD
+https://smart.dxjc.pp.ua/smart.php?id=bbcearth_twn&token=tmxk
+#EXTINF:-1 tvg-id="BBC Earth Lifestyle" tvg-name="BBC Earth Lifestyle" tvg-logo="" group-title="GPT-英国",BBC Earth Lifestyle
+https://smart.dxjc.pp.ua/smart.php?id=bbclifestyle_twn&token=tmxk
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="" group-title="GPT-英国",MTV Live
+https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
+#EXTINF:-1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-logo="" group-title="GPT-英国",Star Movies HD
+https://smart.dxjc.pp.ua/smart.php?id=starmovies_raj&token=tmxk
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="" group-title="GPT-英国",NHK World
+https://smart.dxjc.pp.ua/smart.php?id=nhkworld_japan&token=tmxk
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="GPT-英国",Warner TV
+https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="GPT-英国",HBO HD
+https://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="" group-title="GPT-英国",NatGeo Wild HD
+https://smart.dxjc.pp.ua/smart.php?id=Natgeowild&token=tmxk
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="" group-title="GPT-英国",Nickelodeon
+https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="" group-title="GPT-英国",Nick Jr
+https://smart.dxjc.pp.ua/smart.php?id=Nickjr&token=tmxk
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="GPT-英国",Thrill
+https://smart.dxjc.pp.ua/smart.php?id=Thrill&token=tmxk
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="GPT-英国",CGTN
+https://smart.dxjc.pp.ua/smart.php?id=CGTN&token=tmxk
+#EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="GPT-英国",Hits Movie
+https://smart.dxjc.pp.ua/smart.php?id=Hitsmovie&token=tmxk
+#EXTINF:-1 tvg-id="Animal Planet (Eng)" tvg-name="Animal Planet (Eng)" tvg-logo="" group-title="GPT-英国",Animal Planet (Eng)
+https://smart.dxjc.pp.ua/smart.php?id=AnimalPlanet&token=tmxk
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="" group-title="GPT-英国",CNBC
+https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="" group-title="GPT-英国",TLC
+https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="GPT-英国",BBC World News
+https://smart.dxjc.pp.ua/smart.php?id=bbcworldnews_antik&token=tmxk
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="" group-title="GPT-英国",HGTV
+https://smart.dxjc.pp.ua/smart.php?id=HGTV&token=tmxk
+#EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="" group-title="GPT-英国",Axn HD
+https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
+#EXTINF:-1 tvg-id="Skysports F1" tvg-name="Skysports F1" tvg-logo="" group-title="GPT-英国",Skysports F1
+https://smart.dxjc.pp.ua/smart.php?id=tiankongf1&token=tmxk
+#EXTINF:-1 tvg-id="Skysports Cricket" tvg-name="Skysports Cricket" tvg-logo="" group-title="GPT-英国",Skysports Cricket
+https://smart.dxjc.pp.ua/smart.php?id=tiankongcricket&token=tmxk
+#EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-logo="" group-title="GPT-英国",Bloomberg News
+https://smart.dxjc.pp.ua/smart.php?id=bloomberg_twn&token=tmxk
+#EXTINF:-1 tvg-id="Skysports EPL" tvg-name="Skysports EPL" tvg-logo="" group-title="GPT-英国",Skysports EPL
+https://smart.dxjc.pp.ua/smart.php?id=tiankongepl&token=tmxk
+#EXTINF:-1 tvg-id="Skysports Main Event" tvg-name="Skysports Main Event" tvg-logo="" group-title="GPT-英国",Skysports Main Event
+https://smart.dxjc.pp.ua/smart.php?id=tiankongmain&token=tmxk
+#EXTINF:-1 tvg-id="Skysports News" tvg-name="Skysports News" tvg-logo="" group-title="GPT-英国",Skysports News
+https://smart.dxjc.pp.ua/smart.php?id=tiankongnews&token=tmxk
+#EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="Al-Jazeera" tvg-logo="" group-title="GPT-英国",Al-Jazeera
+https://smart.dxjc.pp.ua/smart.php?id=aljazeera_twn&token=tmxk
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="超清频道",湖南卫视4K
 https://migu.188766.xyz/?migutoken=f6c3328758d4b041a7e7f24c944c4d98&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
