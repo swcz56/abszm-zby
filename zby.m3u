@@ -770,6 +770,104 @@ http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jWSyxRh7ZNSNVrfOVCsIVCel6iI
 #EXTINF:-1 tvg-id="dLQOnET2jWSgpWnu6Rq7xUnGZNSNVrfOVCsIVCel6iIMdN0h" tvg-name="探索频道" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b0b5131a2_T2qC.png" group-title="台湾",探索频道
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jWSgpWnu6Rq7xUnGZNSNVrfOVCsIVCel6iIMdN0h&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3D5a076cab%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3D0c4d531d318449b93a22aacf5541c0ba
 
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3db81b45be_Hh0H.png" tvg-name="Astro PL 1" group-title="体育频道",Astro PL 1
+http://142.171.7.225/trams/1788/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687352fad593a_NYzy.png" tvg-name="Astro PL 1 (Back Up 1)" group-title="体育频道",Astro PL 1 (Back Up 1)
+http://142.171.7.225/trams/2820/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873530f773d3_901z.png" tvg-name="Astro PL 1 (Back Up 2)" group-title="体育频道",Astro PL 1 (Back Up 2)
+http://142.171.7.225/trams/2839/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6717d4ed62014_CLKW.jpeg" tvg-name="Astro W-Sports" group-title="体育频道",Astro W-Sports
+http://142.171.7.225/trams/2834/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687352e3bc356_Ze61.png" tvg-name="Astro PL 2" group-title="体育频道",Astro PL 2
+http://142.171.7.225/trams/2821/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7e268145b2a_8D8s.png" tvg-name="WWE" group-title="体育频道",WWE
+http://142.171.7.225/trams/1922/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f32607f4a_wZ5H.png" tvg-name="博斯高球2 HD" group-title="体育频道",博斯高球2 HD
+http://142.171.7.225/trams/2085/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f37b7740e_E2eC.png" tvg-name="博斯网球 HD" group-title="体育频道",博斯网球 HD
+http://142.171.7.225/trams/2086/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5c2e37740d88a_LHbt.png" tvg-name="NBA TV" group-title="体育频道",NBA TV
+http://142.171.7.225/trams/1694/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dbdc7d39e_Vd9U.png" tvg-name="Arena" group-title="体育频道",Arena
+http://142.171.7.225/trams/2651/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dbe7b03f2_4JBX.png" tvg-name="Arena 2" group-title="体育频道",Arena 2
+http://142.171.7.225/trams/2710/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dc0869b0a_z66A.png" tvg-name="Arena Bola 1" group-title="体育频道",Arena Bola 1
+http://142.171.7.225/trams/2691/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dc1dca270_C70Y.png" tvg-name="Arena Bola 2" group-title="体育频道",Arena Bola 2
+http://142.171.7.225/trams/2781/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6313d0823d489_cuuc.png" tvg-name="Astro Golf" group-title="体育频道",Astro Golf
+http://142.171.7.225/trams/2611/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ca85501a4694_01x0.jpg" tvg-name="RTM Sports HD" group-title="体育频道",RTM Sports HD
+http://142.171.7.225/trams/1745/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687352f02420a_U9RC.png" tvg-name="Astro Football" group-title="体育频道",Astro Football
+http://142.171.7.225/trams/2823/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3daee1904e_K0Yv.png" tvg-name="Astro Football (Back Up 1)" group-title="体育频道",Astro Football (Back Up 1)
+http://142.171.7.225/trams/1791/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873536f40b50_nnOO.png" tvg-name="Astro Badminton" group-title="体育频道",Astro Badminton
+http://142.171.7.225/trams/2832/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873537eda97e_44L1.webp" tvg-name="Astro Badminton 2" group-title="体育频道",Astro Badminton 2
+http://142.171.7.225/trams/2833/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/644eaba65a543_A0u6.png" tvg-name="SPOTV 1 HD" group-title="体育频道",SPOTV 1 HD
+http://142.171.7.225/trams/2709/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/636ce992c5fb3_4XFa.png" tvg-name="SPO TV 2" group-title="体育频道",SPO TV 2
+http://142.171.7.225/trams/2628/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ba76f63a5e4f_bnN4.png" tvg-name="CCTV-5 體育" group-title="体育频道",CCTV-5 體育
+http://142.171.7.225/trams/1631/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21137727b90_Ay7G.png" tvg-name="CCTV-5+ 體育" group-title="体育频道",CCTV-5+ 體育
+http://142.171.7.225/trams/890/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5cdd7d464cc88_2Ong.jpg" tvg-name="Supersports 2" group-title="体育频道",Supersports 2
+http://142.171.7.225/trams/1789/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873520deb744_WA4y.png" tvg-name="Astro Grandstand" group-title="体育频道",Astro Grandstand
+http://142.171.7.225/trams/2822/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63b0f03b82a7a_ca4k.png" tvg-name="Astro Cricket" group-title="体育频道",Astro Cricket
+http://142.171.7.225/trams/2653/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6951fec4a8044_bwpD.png" tvg-name="Tnt Sports 1" group-title="体育频道",Tnt Sports 1
+http://142.171.7.225/trams/2764/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dab338837_y8bs.png" tvg-name="Astro Grandstand (Back Up 1)" group-title="体育频道",Astro Grandstand (Back Up 1)
+http://142.171.7.225/trams/1790/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6951fed5dbbd6_2ez5.png" tvg-name="TNT Sports 2" group-title="体育频道",TNT Sports 2
+http://142.171.7.225/trams/2765/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6951fee405567_7p3b.png" tvg-name="TNT Sports 3" group-title="体育频道",TNT Sports 3
+http://142.171.7.225/trams/2766/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6951fef17a1b7_THvq.png" tvg-name="TNT Sports 4" group-title="体育频道",TNT Sports 4
+http://142.171.7.225/trams/2767/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873535cc3304_c1LG.png" tvg-name="Astro Sports Plus" group-title="体育频道",Astro Sports Plus
+http://142.171.7.225/trams/2610/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937c66da8e5_u3ny.png" tvg-name="Elta体育1台" group-title="体育频道",Elta体育1台
+http://142.171.7.225/trams/2871/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cf42c66b7_iSKc.png" tvg-name="Elta體育2台" group-title="体育频道",Elta體育2台
+http://142.171.7.225/trams/1541/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/628f3a3f9692d_U55i.png" tvg-name="Elta體育3台" group-title="体育频道",Elta體育3台
+http://142.171.7.225/trams/2578/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64007fee62c4f_Sk2S.png" tvg-name="Rugby Pass TV" group-title="体育频道",Rugby Pass TV
+http://142.171.7.225/trams/2695/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66d49c6028713_cGsV.jpeg" tvg-name="Astro Beinsports 1" group-title="体育频道",Astro Beinsports 1
+http://142.171.7.225/trams/2825/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66d49c8fe4e81_wV3l.jpeg" tvg-name="Astro Beinsports 2" group-title="体育频道",Astro Beinsports 2
+http://142.171.7.225/trams/2826/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66d49ca8b4d0f_h999.jpeg" tvg-name="Astro Beinsports 3" group-title="体育频道",Astro Beinsports 3
+http://142.171.7.225/trams/2827/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b83271dcd_Bwme.png" tvg-name="Skysports Cricket" group-title="体育频道",Skysports Cricket
+http://142.171.7.225/trams/2861/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b85b83d1f_l6Dz.png" tvg-name="Skysports EPL" group-title="体育频道",Skysports EPL
+http://142.171.7.225/trams/2862/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b87c2d727_E7CU.png" tvg-name="Skysports F1" group-title="体育频道",Skysports F1
+http://142.171.7.225/trams/2863/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b8a043a6f_1ZT6.png" tvg-name="Skysports Golf" group-title="体育频道",Skysports Golf
+http://142.171.7.225/trams/2864/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b8c44cc6f_ILRn.png" tvg-name="Skysports Main Event" group-title="体育频道",Skysports Main Event
+http://142.171.7.225/trams/2865/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b8daa4763_e00V.png" tvg-name="Skysports Mix" group-title="体育频道",Skysports Mix
+http://142.171.7.225/trams/2866/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b9cd53a9b_MMsH.png" tvg-name="Skysports Racing" group-title="体育频道",Skysports Racing
+http://142.171.7.225/trams/2867/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a3c30070_7uCt.png" tvg-name="DAZN 1" group-title="体育频道",DAZN 1
+http://142.171.7.225/trams/2869/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a5570df2_vtEZ.png" tvg-name="DAZN 2" group-title="体育频道",DAZN 2
+http://142.171.7.225/trams/2870/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcdd832b40_4793.png" tvg-name="Eurosport" group-title="体育频道",Eurosport
+http://142.171.7.225/trams/2890/playlist.m3u8?token=abc123
 #EXTINF:-1 tvg-id="dLQOnET2jBslpNm2jNt8QZe8vZnBjRBl6PF" tvg-name="Astro PL 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3db81b45be_Hh0H.png" group-title="体育频道",Astro PL 1
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jBslpNm2jNt8QZe8vZnBjRBl6PF&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3Dd4d54bca%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3D4d048bac2687572ac91abbc595c9f444
 #EXTINF:-1 tvg-id="dLQOnET2jW6uZWslpNm2jNt8QZe8vZnBjRBl6PF" tvg-name="Astro PL 1 (Back Up 1)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687352fad593a_NYzy.png" group-title="体育频道",Astro PL 1 (Back Up 1)
@@ -835,6 +933,74 @@ http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jNSgQUIkVWIcVUehjNt8QZe8vZn
 #EXTINF:-1 tvg-id="dLQOnET2jNSgQUIkVWIcpRsLvUIcjNt8QZe8vZnBjRBl6PF" tvg-name="Skysports Racing" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b9cd53a9b_MMsH.png" group-title="体育频道",Skysports Racing
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jNSgQUIkVWIcpRsLvUIcjNt8QZe8vZnBjRBl6PF&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3Df43b5bcd%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3D59c92c86ded7052aa832966f0f64f150
 
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5cb8817d7cecf_EBE0.jpg" tvg-name="ABC News" group-title="新闻频道",ABC News
+http://142.171.7.225/trams/1766/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b83f4998635d_x402.png" tvg-name="iNews 互動新聞台" group-title="新闻频道",iNews 互動新聞台
+http://142.171.7.225/trams/1619/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5cb8822242313_f6rG.png" tvg-name="CBS HD" group-title="新闻频道",CBS HD
+http://142.171.7.225/trams/1768/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5cb882d8dc647_oT2y.jpg" tvg-name="CBSN HD" group-title="新闻频道",CBSN HD
+http://142.171.7.225/trams/1769/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbc460918d_68QZ.png" tvg-name="CCTV-13 新聞與頻道" group-title="新闻频道",CCTV-13 新聞與頻道
+http://142.171.7.225/trams/723/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/625f9b1cc90c7_jyH8.png" tvg-name="CGTN" group-title="新闻频道",CGTN
+http://142.171.7.225/trams/2562/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e5b30d607_CZ93.png" tvg-name="DW (Deutsch)" group-title="新闻频道",DW (Deutsch)
+http://142.171.7.225/trams/440/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/623d9e56cce2f_NDGe.png" tvg-name="Fox News" group-title="新闻频道",Fox News
+http://142.171.7.225/trams/2535/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6071521dd57ca_NLaz.png" tvg-name="NHK World" group-title="新闻频道",NHK World
+http://142.171.7.225/trams/2392/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f35d6bc9f_jpuU.png" tvg-name="TVBS News 新聞台" group-title="新闻频道",TVBS News 新聞台
+http://142.171.7.225/trams/738/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fb7da12fc3_kWXh.png" tvg-name="Al-Jazeera" group-title="新闻频道",Al-Jazeera
+http://142.171.7.225/trams/1089/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe1c7e1e0e_lTle.png" tvg-name="Bloomberg News" group-title="新闻频道",Bloomberg News
+http://142.171.7.225/trams/267/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa66e2bfd_0a3a.jpg" tvg-name="東森新聞 ETTV News" group-title="新闻频道",東森新聞 ETTV News
+http://142.171.7.225/trams/544/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20fa57a4f36_U0S8.png" tvg-name="東森財經新聞 ETTV Business" group-title="新闻频道",東森財經新聞 ETTV Business
+http://142.171.7.225/trams/761/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d864efce07b1_Cob7.jpg" tvg-name="中天新聞 CTI News" group-title="新闻频道",中天新聞 CTI News
+http://142.171.7.225/trams/1923/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07b5cf79950_l89e.png" tvg-name="非凡新聞台" group-title="新闻频道",非凡新聞台
+http://142.171.7.225/trams/575/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6207d2af93f01_C8ET.jpg" tvg-name="台視新聞台 TTV News" group-title="新闻频道",台視新聞台 TTV News
+http://142.171.7.225/trams/2502/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f508d3945_OF2b.png" tvg-name="民視新聞台 FTV News" group-title="新闻频道",民視新聞台 FTV News
+http://142.171.7.225/trams/746/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcf0e86fdd_I4D4.png" tvg-name="Al_Jazeera" group-title="新闻频道",Al_Jazeera
+http://142.171.7.225/trams/2893/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6207d1e2785ef_Z1HU.png" tvg-name="寰宇新聞台" group-title="新闻频道",寰宇新聞台
+http://142.171.7.225/trams/2501/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e79e1c173ffc_Ffv5.png" tvg-name="中視新聞台" group-title="新闻频道",中視新聞台
+http://142.171.7.225/trams/1989/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6472347d7a4c2_DyJ8.png" tvg-name="CNN" group-title="新闻频道",CNN
+http://142.171.7.225/trams/2715/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0583a98287b_hwW9.png" tvg-name="CNN backup" group-title="新闻频道",CNN backup
+http://142.171.7.225/trams/2074/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f69e925d7c6c_0tcF.png" tvg-name="BBC World News" group-title="新闻频道",BBC World News
+http://142.171.7.225/trams/2113/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/647234ed62f99_Z1I1.png" tvg-name="BBC World News" group-title="新闻频道",BBC World News
+http://142.171.7.225/trams/2717/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe18c9cc7e_769j.png" tvg-name="CNBC" group-title="新闻频道",CNBC
+http://142.171.7.225/trams/265/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcbc5460bb_wkzS.png" tvg-name="Bloomberg TV" group-title="新闻频道",Bloomberg TV
+http://142.171.7.225/trams/2884/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15728f76b_8JYq.svg" tvg-name="CNA" group-title="新闻频道",CNA
+http://142.171.7.225/trams/677/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcc5bf2af2_QS8q.png" tvg-name="DW" group-title="新闻频道",DW
+http://142.171.7.225/trams/2886/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e59a634e5_h4rA.png" tvg-name="France 24" group-title="新闻频道",France 24
+http://142.171.7.225/trams/439/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbccbf74ff6_GXzb.png" tvg-name="France 24" group-title="新闻频道",France 24
+http://142.171.7.225/trams/2887/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbce29bcfe9_RNF6.png" tvg-name="Skynews" group-title="新闻频道",Skynews
+http://142.171.7.225/trams/2891/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9181c124463_omAE.jpg" tvg-name="Skynews" group-title="新闻频道",Skynews
+http://142.171.7.225/trams/2220/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbceda857b0_rPg7.png" tvg-name="NHK Premium" group-title="新闻频道",NHK Premium
+http://142.171.7.225/trams/2892/playlist.m3u8?token=abc123
 #EXTINF:-1 tvg-id="dLQOnET2jWsrQWIe6NnbzW2ujNt8QZe8vZnBjRBl6PF" tvg-name="ABC News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5cb8817d7cecf_EBE0.jpg" group-title="新闻频道",ABC News
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jWsrQWIe6NnbzW2ujNt8QZe8vZnBjRBl6PF&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3Db879ef95%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3Da302c5bb75c6838b857dd3c1fc9b1803
 #EXTINF:-1 tvg-id="dLQOnET2jWnrpWy9ZW68V7fOVCsIVCel6iIMdN0h" tvg-name="CBS HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5cb8822242313_f6rG.png" group-title="新闻频道",CBS HD
@@ -856,6 +1022,36 @@ http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jWz7QUILzP1BZNSNVrfOVCsIVCe
 #EXTINF:-1 tvg-id="dLQOnET2jNnkxUIe6Nnb6564jNt8QZe8vZnBjRBl6PF" tvg-name="Skynews" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9181c124463_omAE.jpg" group-title="新闻频道",Skynews
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jNnkxUIe6Nnb6564jNt8QZe8vZnBjRBl6PF&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3D653a3e1b%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3Dd58dd741d2c0969632cc78eea1b7c813
 
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b1586ec269_o2Me.svg" tvg-name="Channel 5" group-title="Singapore",Channel 5
+http://142.171.7.225/trams/1601/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b157aa4baf_l0Ja.svg" tvg-name="Channel 5 backup" group-title="Singapore",Channel 5 backup
+http://142.171.7.225/trams/2788/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b1590c0b47_NFzf.png" tvg-name="Channel 8" group-title="Singapore",Channel 8
+http://142.171.7.225/trams/1602/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15a592231_P9T3.png" tvg-name="Channel 8 backup" group-title="Singapore",Channel 8 backup
+http://142.171.7.225/trams/2789/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15d38c8ab_5d38.svg" tvg-name="Channel U" group-title="Singapore",Channel U
+http://142.171.7.225/trams/286/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15e094c01_FpLQ.svg" tvg-name="Channel U backup" group-title="Singapore",Channel U backup
+http://142.171.7.225/trams/2790/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15b0c13d9_0Cf7.png" tvg-name="Suria" group-title="Singapore",Suria
+http://142.171.7.225/trams/284/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15b7ccc43_707s.png" tvg-name="Suria backup" group-title="Singapore",Suria backup
+http://142.171.7.225/trams/2791/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b1607166a7_gV7i.jpg" tvg-name="Vasantham" group-title="Singapore",Vasantham
+http://142.171.7.225/trams/287/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6690ff4482a5c_mmEk.jpeg" tvg-name="Vasantham backup" group-title="Singapore",Vasantham backup
+http://142.171.7.225/trams/2792/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b156c4f2d5_wdd0.svg" tvg-name="CNA backup1" group-title="Singapore",CNA backup1
+http://142.171.7.225/trams/2793/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b1560ce063_SBS2.svg" tvg-name="CNA backup2" group-title="Singapore",CNA backup2
+http://142.171.7.225/trams/2664/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6472347d7a4c2_DyJ8.png" tvg-name="CNN" group-title="Singapore",CNN
+http://142.171.7.225/trams/2715/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0583a98287b_hwW9.png" tvg-name="CNN backup" group-title="Singapore",CNN backup
+http://142.171.7.225/trams/2074/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15728f76b_8JYq.svg" tvg-name="CNA" group-title="Singapore",CNA
+http://142.171.7.225/trams/677/playlist.m3u8?token=abc123
 #EXTINF:-1 tvg-id="dLQOnET2jBnGQUI4zUOa3T_upC2yxU2gpN_4VPnaAm" tvg-name="Channel 5" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b1586ec269_o2Me.svg" group-title="Singapore",Channel 5
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jBnGQUI4zUOa3T_upC2yxU2gpN_4VPnaAm&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3D2e84dee8%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3D91a23b3a1a55fae404efcc746f1f154a
 #EXTINF:-1 tvg-id="dLQOnET2jBae6WsBQWybQWFajNt8QZe8vZnBjRBl6PF" tvg-name="Channel 5 backup" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b157aa4baf_l0Ja.svg" group-title="Singapore",Channel 5 backup
@@ -887,6 +1083,88 @@ http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jWn4VefB6WhupC2yxU2gpN_4VPn
 #EXTINF:-1 tvg-id="dLQOnET2jWn4Q3fOVCsIVCel6iIMdN0h" tvg-name="CNA" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15728f76b_8JYq.svg" group-title="Singapore",CNA
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jWn4Q3fOVCsIVCel6iIMdN0h&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3D6cc8ec82%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3D9860dbafd403e30fa9072eb3d4194575
 
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b868548cd8db_6uIi.jpg" tvg-name="TVRi National" group-title="印度尼西亚",TVRi National
+http://142.171.7.225/trams/1622/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720e1c86fdf_RNTK.png" tvg-name="RCTI" group-title="印度尼西亚",RCTI
+http://142.171.7.225/trams/47/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720dbfc7a1f_61p1.png" tvg-name="Kompass TV" group-title="印度尼西亚",Kompass TV
+http://142.171.7.225/trams/43/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f00764563909_bMva.png" tvg-name="Berita Satu" group-title="印度尼西亚",Berita Satu
+http://142.171.7.225/trams/2066/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5caf378249963_FkKU.png" tvg-name="Indosiar HD" group-title="印度尼西亚",Indosiar HD
+http://142.171.7.225/trams/1032/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a216573903bf_s163.jpg" tvg-name="Metro TV" group-title="印度尼西亚",Metro TV
+http://142.171.7.225/trams/1014/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720dd61dfe1_76P7.png" tvg-name="SCTV" group-title="印度尼西亚",SCTV
+http://142.171.7.225/trams/44/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0075b5b7925_d3YY.png" tvg-name="AnTV" group-title="印度尼西亚",AnTV
+http://142.171.7.225/trams/2064/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d721d4389da4_G1ZL.png" tvg-name="MNC TV" group-title="印度尼西亚",MNC TV
+http://142.171.7.225/trams/1887/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0076089b349_kPFK.png" tvg-name="Trans 7" group-title="印度尼西亚",Trans 7
+http://142.171.7.225/trams/2065/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ebe907d0f9fb_rxyZ.png" tvg-name="Transtv" group-title="印度尼西亚",Transtv
+http://142.171.7.225/trams/2005/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0077280b78a_tAHQ.png" tvg-name="JTV" group-title="印度尼西亚",JTV
+http://142.171.7.225/trams/2069/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65018cd0f1d7d_57r5.png" tvg-name="Cinemax" group-title="印度尼西亚",Cinemax
+http://142.171.7.225/trams/2732/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ebe906a86d36_gP9r.png" tvg-name="Tvone" group-title="印度尼西亚",Tvone
+http://142.171.7.225/trams/2006/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0074cf550bf_Y0yL.png" tvg-name="TVMU" group-title="印度尼西亚",TVMU
+http://142.171.7.225/trams/2061/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/60463af7167fc_95Ol.png" tvg-name="GTV" group-title="印度尼西亚",GTV
+http://142.171.7.225/trams/2263/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/62f38e53d15bd_TDbd.jpg" tvg-name="RTV" group-title="印度尼西亚",RTV
+http://142.171.7.225/trams/2606/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5b1d1df8d_Pp10.png" tvg-name="Jak TV" group-title="印度尼西亚",Jak TV
+http://142.171.7.225/trams/2264/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5b424fc79_hSEN.png" tvg-name="iNews TV" group-title="印度尼西亚",iNews TV
+http://142.171.7.225/trams/2265/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5b5fc58d2_R114.png" tvg-name="Daai TV" group-title="印度尼西亚",Daai TV
+http://142.171.7.225/trams/2266/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5b75a7203_1GdF.png" tvg-name="Net TV" group-title="印度尼西亚",Net TV
+http://142.171.7.225/trams/2267/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59b103887_nVWq.png" tvg-name="Animax" group-title="印度尼西亚",Animax
+http://142.171.7.225/trams/2291/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" tvg-name="EWTN" group-title="印度尼西亚",EWTN
+http://142.171.7.225/trams/2268/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5bb2666d3_MUwh.png" tvg-name="AlQuran AlKareem" group-title="印度尼西亚",AlQuran AlKareem
+http://142.171.7.225/trams/2270/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5bc805240_fvfz.png" tvg-name="Tawaf TV" group-title="印度尼西亚",Tawaf TV
+http://142.171.7.225/trams/2271/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5bdb2da92_ZJ2K.png" tvg-name="Vision Prime" group-title="印度尼西亚",Vision Prime
+http://142.171.7.225/trams/2272/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5bfceac3d_ERMT.png" tvg-name="Muslim TV" group-title="印度尼西亚",Muslim TV
+http://142.171.7.225/trams/2273/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5c59b9f86_i9Ef.png" tvg-name="Music TV" group-title="印度尼西亚",Music TV
+http://142.171.7.225/trams/2275/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5cb41c0ac_0XLC.png" tvg-name="Lifestyle&amp;Fashion" group-title="印度尼西亚",Lifestyle&amp;Fashion
+http://142.171.7.225/trams/2276/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5cd2f0f20_QB2k.png" tvg-name="Entertain" group-title="印度尼西亚",Entertain
+http://142.171.7.225/trams/2304/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59d6a6de1_8h0h.png" tvg-name="Hits" group-title="印度尼西亚",Hits
+http://142.171.7.225/trams/2292/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59eb3a668_w1aF.png" tvg-name="Warner TV" group-title="印度尼西亚",Warner TV
+http://142.171.7.225/trams/2293/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5a1f01819_pHwR.png" tvg-name="SCM" group-title="印度尼西亚",SCM
+http://142.171.7.225/trams/2295/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5a44bfe16_FwQ7.png" tvg-name="Thrill" group-title="印度尼西亚",Thrill
+http://142.171.7.225/trams/2297/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5b0bec9f9_EFfE.png" tvg-name="Hits Movie" group-title="印度尼西亚",Hits Movie
+http://142.171.7.225/trams/2299/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6046399aabce3_PKQH.jpg" tvg-name="tvN Movie" group-title="印度尼西亚",tvN Movie
+http://142.171.7.225/trams/2300/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59ffa80a7_H00Q.png" tvg-name="One" group-title="印度尼西亚",One
+http://142.171.7.225/trams/2294/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68735747ca2b9_622X.webp" tvg-name="天映頻道Celestial Movies" group-title="印度尼西亚",天映頻道Celestial Movies
+http://142.171.7.225/trams/2427/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/646898c9642fe_D9Re.jpg" tvg-name="Rock Actions" group-title="印度尼西亚",Rock Actions
+http://142.171.7.225/trams/2713/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/646898eea5975_32x1.jpg" tvg-name="Rock Entertainment" group-title="印度尼西亚",Rock Entertainment
+http://142.171.7.225/trams/2714/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" tvg-name="Diar_Indo" group-title="印度尼西亚",Diar_Indo
+http://142.171.7.225/trams/2896/playlist.m3u8?token=abc123
 #EXTINF:-1 tvg-id="dLQOnET2jaSU099upC2yxU2gpN_4VPnaAm" tvg-name="TVRi National" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b868548cd8db_6uIi.jpg" group-title="印度尼西亚",TVRi National
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jaSU099upC2yxU2gpN_4VPnaAm&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3D10848b0a%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3D22a9212335c0e23cb385409954d3103e
 #EXTINF:-1 tvg-id="dLQOnET2jaJL6C9upC2yxU2gpN_4VPnaAm" tvg-name="RCTI" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720e1c86fdf_RNTK.png" group-title="印度尼西亚",RCTI
@@ -960,6 +1238,68 @@ http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jByg65nMVNzgz3fOVCsIVCel6iI
 #EXTINF:-1 tvg-id="dLQOnET2jBneVCql6CeyVCe4zCDupC2yxU2gpN_4VPnaAm" tvg-name="天映頻道Celestial Movies" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68735747ca2b9_622X.webp" group-title="印度尼西亚",天映頻道Celestial Movies
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jBneVCql6CeyVCe4zCDupC2yxU2gpN_4VPnaAm&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3D86cd6d8f%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3Dccd2824bc3c5fbe8c0bb116da43e071b
 
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac5f370fd2_Gyr3.png" tvg-name="Arirang HD" group-title="韩国",Arirang HD
+http://142.171.7.225/trams/2421/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac4686a2e5_QQCz.png" tvg-name="Yonhap News" group-title="韩国",Yonhap News
+http://142.171.7.225/trams/2416/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e5bb08904e62_zFph.png" tvg-name="CBS" group-title="韩国",CBS
+http://142.171.7.225/trams/1975/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac56a260e8_Lx0W.png" tvg-name="EBS 1" group-title="韩国",EBS 1
+http://142.171.7.225/trams/2419/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e5bb0d927d1d_6EaA.png" tvg-name="EBS2" group-title="韩国",EBS2
+http://142.171.7.225/trams/1976/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e5bb11e57dea_06bi.jpg" tvg-name="EBS Plus2" group-title="韩国",EBS Plus2
+http://142.171.7.225/trams/1977/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e5bb17e8d5b5_zt6T.png" tvg-name="SBS Plus" group-title="韩国",SBS Plus
+http://142.171.7.225/trams/1978/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac1f0e6107_TlZT.png" tvg-name="YTN" group-title="韩国",YTN
+http://142.171.7.225/trams/2410/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac24c2c8dd_99xd.jpg" tvg-name="KBS World 24" group-title="韩国",KBS World 24
+http://142.171.7.225/trams/2411/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac35893c14_9fd9.png" tvg-name="YTN Science" group-title="韩国",YTN Science
+http://142.171.7.225/trams/2412/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac39701e9b_TM4a.png" tvg-name="YTN Korean" group-title="韩国",YTN Korean
+http://142.171.7.225/trams/2413/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac3cd1cf33_s57d.png" tvg-name="YTN DMB" group-title="韩国",YTN DMB
+http://142.171.7.225/trams/2414/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" tvg-name="Apps TV" group-title="韩国",Apps TV
+http://142.171.7.225/trams/2415/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac4bbaa0df_8s7B.png" tvg-name="All the Kpop" group-title="韩国",All the Kpop
+http://142.171.7.225/trams/2417/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" tvg-name="J the Kpop" group-title="韩国",J the Kpop
+http://142.171.7.225/trams/2418/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac5a3a4ec0_lBY2.png" tvg-name="EBS Kids" group-title="韩国",EBS Kids
+http://142.171.7.225/trams/2420/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac62748808_59Yv.png" tvg-name="CGNTV" group-title="韩国",CGNTV
+http://142.171.7.225/trams/2422/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aeded5e1a572_L8od.png" tvg-name="NHK-総合-2" group-title="日本",NHK-総合-2
+http://142.171.7.225/trams/1397/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aededab2e3c3_8NNR.png" tvg-name="NHK-E" group-title="日本",NHK-E
+http://142.171.7.225/trams/1398/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedee79e389c_d18e.jpg" tvg-name="テレビ朝日 Asahi TV" group-title="日本",テレビ朝日 Asahi TV
+http://142.171.7.225/trams/1400/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedec68ee3ce_25ZB.png" tvg-name="JET 綜合" group-title="日本",JET 綜合
+http://142.171.7.225/trams/1394/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedeefd3fbb2_bR8K.jpg" tvg-name="テレビ東京 Tokyo TV" group-title="日本",テレビ東京 Tokyo TV
+http://142.171.7.225/trams/1402/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedef71785ca_JKjZ.jpg" tvg-name="TOKYOMX" group-title="日本",TOKYOMX
+http://142.171.7.225/trams/1404/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf21de25da_HS3R.jpg" tvg-name="NHKBS1" group-title="日本",NHKBS1
+http://142.171.7.225/trams/1412/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf2639f151_F5H6.jpg" tvg-name="NHKBSプレミア Premium" group-title="日本",NHKBSプレミア Premium
+http://142.171.7.225/trams/1413/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf35aae288_A34G.png" tvg-name="BSジャパン 181" group-title="日本",BSジャパン 181
+http://142.171.7.225/trams/1417/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf39725ca1_hD8X.jpg" tvg-name="BSフジ BS Fuji" group-title="日本",BSフジ BS Fuji
+http://142.171.7.225/trams/1418/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf9959bae8_0j0Y.png" tvg-name="CNA Japan" group-title="日本",CNA Japan
+http://142.171.7.225/trams/1439/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0d79d296d5c_wYKk.png" tvg-name="BS-TBS" group-title="日本",BS-TBS
+http://142.171.7.225/trams/2075/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0d7b0a69215_N6az.jpg" tvg-name="NHK Oaska" group-title="日本",NHK Oaska
+http://142.171.7.225/trams/2076/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6071521dd57ca_NLaz.png" tvg-name="NHK World" group-title="日本",NHK World
+http://142.171.7.225/trams/2392/playlist.m3u8?token=abc123
 #EXTINF:-1 tvg-id="dLQOnET2jWs7vZJyVR6b6564jNt8QZe8vZnBjRBl6PF" tvg-name="Arirang HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac5f370fd2_Gyr3.png" group-title="韩国",Arirang HD
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jWs7vZJyVR6b6564jNt8QZe8vZnBjRBl6PF&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3D686063a9%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3D9f2f110cc1a971b87a89b9661c5f86dd
 #EXTINF:-1 tvg-id="dLQOnET2jNeuVRyypCIe6NnbvWf7zUTupC2yxU2gpN_4VPnaAm" tvg-name="Yonhap News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac4686a2e5_QQCz.png" group-title="韩国",Yonhap News
@@ -1021,6 +1361,126 @@ http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jWJl6CJlZWgypCs4jNt8QZe8vZn
 #EXTINF:-1 tvg-id="dLQOnET2jWIGvWflQUMyZWgypCs4jNt8QZe8vZnBjRBl6PF" tvg-name="NHK Oaska" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0d7b0a69215_N6az.jpg" group-title="日本",NHK Oaska
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jWIGvWflQUMyZWgypCs4jNt8QZe8vZnBjRBl6PF&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3D72866a35%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3D904e2086e829795040422ea784866a02
 
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919d7fb6b1d_23g3.jpeg" tvg-name="ANTV" group-title="越南",ANTV
+http://142.171.7.225/trams/2751/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919dffee49d_PX1x.png" tvg-name="VTV 1" group-title="越南",VTV 1
+http://142.171.7.225/trams/2752/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/689383832f484_cZjE.png" tvg-name="VTV 3" group-title="越南",VTV 3
+http://142.171.7.225/trams/2753/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6893839e3ccf3_JYI5.png" tvg-name="VTV 4" group-title="越南",VTV 4
+http://142.171.7.225/trams/2872/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/689383b6b9644_9077.png" tvg-name="VTV 6" group-title="越南",VTV 6
+http://142.171.7.225/trams/2873/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919e86b58c6_Z5Ei.png" tvg-name="HTV 7" group-title="越南",HTV 7
+http://142.171.7.225/trams/2754/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919eba63ed7_mxc0.png" tvg-name="HTV 9" group-title="越南",HTV 9
+http://142.171.7.225/trams/2755/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6893863848ab4_G363.jpeg" tvg-name="THVL HD" group-title="越南",THVL HD
+http://142.171.7.225/trams/2874/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" tvg-name="TBKTV" group-title="越南",TBKTV
+http://142.171.7.225/trams/2875/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68938686dba8c_rV34.png" tvg-name="BTV HD" group-title="越南",BTV HD
+http://142.171.7.225/trams/2876/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68938699e928b_666x.png" tvg-name="CTV HD" group-title="越南",CTV HD
+http://142.171.7.225/trams/2877/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a701c71cc5c9_VRp5.jpg" tvg-name="ABS-CBN" group-title="菲律宾",ABS-CBN
+http://142.171.7.225/trams/1064/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a701ec123a80_D0xG.jpg" tvg-name="ABS-CBN Sports" group-title="菲律宾",ABS-CBN Sports
+http://142.171.7.225/trams/1065/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7b3e43f0cd1_bD29.jpg" tvg-name="GMA 7" group-title="菲律宾",GMA 7
+http://142.171.7.225/trams/1082/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7b3edce5375_1dpn.jpg" tvg-name="GMA News" group-title="菲律宾",GMA News
+http://142.171.7.225/trams/1083/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3f6030da1_gegO.png" tvg-name="One Media" group-title="菲律宾",One Media
+http://142.171.7.225/trams/1907/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3f94be2f6_7nat.png" tvg-name="One News" group-title="菲律宾",One News
+http://142.171.7.225/trams/1908/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3fd26db45_PBl6.png" tvg-name="One Sports" group-title="菲律宾",One Sports
+http://142.171.7.225/trams/1909/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3b2b93d9d_XHaf.png" tvg-name="CNN Philippines" group-title="菲律宾",CNN Philippines
+http://142.171.7.225/trams/1892/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7031a29622e_2dKp.jpeg" tvg-name="DZMM" group-title="菲律宾",DZMM
+http://142.171.7.225/trams/1073/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7032af9ec4b_PbpB.jpg" tvg-name="DZRH" group-title="菲律宾",DZRH
+http://142.171.7.225/trams/1074/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3cb5caa03_Q4q9.png" tvg-name="ESPN 5" group-title="菲律宾",ESPN 5
+http://142.171.7.225/trams/1897/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3d016d29e_iA1C.png" tvg-name="ESPN 5 Plus" group-title="菲律宾",ESPN 5 Plus
+http://142.171.7.225/trams/1898/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a70209018184_WwX9.PNG" tvg-name="MTV" group-title="菲律宾",MTV
+http://142.171.7.225/trams/1067/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7022218b16c_ucVr.jpg" tvg-name="Cinema One" group-title="菲律宾",Cinema One
+http://142.171.7.225/trams/1070/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a70335c83b85_Llt4.png" tvg-name="Fox Filipino" group-title="菲律宾",Fox Filipino
+http://142.171.7.225/trams/1075/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3c247512e_GuTN.png" tvg-name="Classica" group-title="菲律宾",Classica
+http://142.171.7.225/trams/1895/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3eed085f4_1Htw.jpg" tvg-name="Movies Central" group-title="菲律宾",Movies Central
+http://142.171.7.225/trams/1905/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3f28a45d6_3s3A.jpg" tvg-name="Movies Pinoy" group-title="菲律宾",Movies Pinoy
+http://142.171.7.225/trams/1906/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7024cbb930d_AtbT.jpg" tvg-name="GPC" group-title="菲律宾",GPC
+http://142.171.7.225/trams/1071/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7b4011d5296_360F.png" tvg-name="IBC" group-title="菲律宾",IBC
+http://142.171.7.225/trams/1085/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7b40f481466_7u5g.png" tvg-name="INC TV" group-title="菲律宾",INC TV
+http://142.171.7.225/trams/1086/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7c94b1d0999_FG2I.jpg" tvg-name="Jack TV" group-title="菲律宾",Jack TV
+http://142.171.7.225/trams/1087/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7c9629f402d_b1PP.jpg" tvg-name="Jeepney TV" group-title="菲律宾",Jeepney TV
+http://142.171.7.225/trams/1088/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fcedfee145_kVMW.png" tvg-name="MYx" group-title="菲律宾",MYx
+http://142.171.7.225/trams/1134/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fcfa524d36_Jxh3.jpg" tvg-name="Net25" group-title="菲律宾",Net25
+http://142.171.7.225/trams/1135/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fd064726b5_885w.jpg" tvg-name="PBO" group-title="菲律宾",PBO
+http://142.171.7.225/trams/1136/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fd13ceed1f_cM13.jpg" tvg-name="Pinoy Extreme" group-title="菲律宾",Pinoy Extreme
+http://142.171.7.225/trams/1137/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ddbaff1c6586_c81R.jpg" tvg-name="PTV News" group-title="菲律宾",PTV News
+http://142.171.7.225/trams/1940/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fd27fdaa3a_hkZ9.png" tvg-name="Sari Sari" group-title="菲律宾",Sari Sari
+http://142.171.7.225/trams/1139/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fd3e5be04d_6bC9.jpg" tvg-name="Viva TV" group-title="菲律宾",Viva TV
+http://142.171.7.225/trams/1141/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ae17394a375b_r4Yr.png" tvg-name="ANC" group-title="菲律宾",ANC
+http://142.171.7.225/trams/1353/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ae1744e735d6_iNy7.jpg" tvg-name="Knowledge" group-title="菲律宾",Knowledge
+http://142.171.7.225/trams/1356/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ae17497626d9_glbG.jpg" tvg-name="Liga HD" group-title="菲律宾",Liga HD
+http://142.171.7.225/trams/1358/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3a688735b_vii0.jpg" tvg-name="Asia Novela" group-title="菲律宾",Asia Novela
+http://142.171.7.225/trams/1890/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3ba7bc58d_5Z0J.png" tvg-name="Channel V" group-title="菲律宾",Channel V
+http://142.171.7.225/trams/1893/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3be836d6b_zu7e.png" tvg-name="City 36" group-title="菲律宾",City 36
+http://142.171.7.225/trams/1894/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3c71cdbda_LW4h.png" tvg-name="Colours" group-title="菲律宾",Colours
+http://142.171.7.225/trams/1896/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3d434ee49_znng.png" tvg-name="ETC" group-title="菲律宾",ETC
+http://142.171.7.225/trams/1899/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3dd261d3f_2mQI.png" tvg-name="Eurosports" group-title="菲律宾",Eurosports
+http://142.171.7.225/trams/1901/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3e824cb9e_967t.jpg" tvg-name="Metro" group-title="菲律宾",Metro
+http://142.171.7.225/trams/1903/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3eb538138_D9A9.jpg" tvg-name="K+" group-title="菲律宾",K+
+http://142.171.7.225/trams/1904/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a402a827bc_GQwW.png" tvg-name="Red HBO" group-title="菲律宾",Red HBO
+http://142.171.7.225/trams/1910/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a40c9cfdfc_fdF8.jpg" tvg-name="Shop TV" group-title="菲律宾",Shop TV
+http://142.171.7.225/trams/1911/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a41063d66d_4zbw.png" tvg-name="Solar Sports" group-title="菲律宾",Solar Sports
+http://142.171.7.225/trams/1912/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a414362999_sn8f.jpg" tvg-name="TV Shop" group-title="菲律宾",TV Shop
+http://142.171.7.225/trams/1913/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a41804afbe_8ME2.jpg" tvg-name="TeleNovela" group-title="菲律宾",TeleNovela
+http://142.171.7.225/trams/1914/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a41c6bb49f_W48g.png" tvg-name="UNTV" group-title="菲律宾",UNTV
+http://142.171.7.225/trams/1915/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a4202b006e_ySHO.jpg" tvg-name="Zee Sine" group-title="菲律宾",Zee Sine
+http://142.171.7.225/trams/1916/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3d8ee188c_wpYz.png" tvg-name="EWTN" group-title="菲律宾",EWTN
+http://142.171.7.225/trams/1900/playlist.m3u8?token=abc123
 #EXTINF:-1 tvg-id="dLQOnET2jNzBVefyVcSWjNt8QZe8vZnBjRBl6PF" tvg-name="ANTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919d7fb6b1d_23g3.jpeg" group-title="越南",ANTV
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jNzBVefyVcSWjNt8QZe8vZnBjRBl6PF&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3Dfa55d896%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3De72f5691f5ffd2ce00dfdda267050307
 #EXTINF:-1 tvg-id="dLQOnET2jNzBVefW65Q2jNt8QZe8vZnBjRBl6PF" tvg-name="VTV 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919dffee49d_PX1x.png" group-title="越南",VTV 1
@@ -1044,6 +1504,54 @@ http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jNzBVefr65zGzifOVCsIVCel6iI
 #EXTINF:-1 tvg-id="dLQOnET2jNzBVefL65zGzifOVCsIVCel6iIMdN0h" tvg-name="CTV HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68938699e928b_666x.png" group-title="越南",CTV HD
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jNzBVefL65zGzifOVCsIVCel6iIMdN0h&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3D2f10fbe1%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3Dd3a2953eb8b07818c82876d03756f7aa
 
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e70c40dd4_T8h6.png" tvg-name="Channel 3 Thailand" group-title="泰国",Channel 3 Thailand
+http://142.171.7.225/trams/458/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e71f9cee0_XB5x.png" tvg-name="Channel 5 Thailand" group-title="泰国",Channel 5 Thailand
+http://142.171.7.225/trams/459/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e732f3348_Ffio.png" tvg-name="Channel 7 Thailand" group-title="泰国",Channel 7 Thailand
+http://142.171.7.225/trams/460/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2161a61b037_yk0Y.png" tvg-name="MCOT HD Thailand-1" group-title="泰国",MCOT HD Thailand-1
+http://142.171.7.225/trams/1000/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2161cd2228a_YN8B.png" tvg-name="PPTV Thailand1" group-title="泰国",PPTV Thailand1
+http://142.171.7.225/trams/1001/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ce2b42784930_uGGp.png" tvg-name="Thai Thai" group-title="泰国",Thai Thai
+http://142.171.7.225/trams/1794/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6bff61073_5wWR.jpg" tvg-name="Amarin" group-title="泰国",Amarin
+http://142.171.7.225/trams/2239/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6c2cc80d8_WEQW.jpg" tvg-name="Ch 8" group-title="泰国",Ch 8
+http://142.171.7.225/trams/2240/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6c58f1bd5_vTOq.jpg" tvg-name="GmmOne" group-title="泰国",GmmOne
+http://142.171.7.225/trams/2241/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6c7bb98e0_HaF9.jpg" tvg-name="Mono" group-title="泰国",Mono
+http://142.171.7.225/trams/2242/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6ca5ef161_zub7.jpg" tvg-name="Thairath" group-title="泰国",Thairath
+http://142.171.7.225/trams/2243/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6cd48b4f1_G59B.jpg" tvg-name="tpbs" group-title="泰国",tpbs
+http://142.171.7.225/trams/2244/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6cfb7ab51_1Iot.jpg" tvg-name="Workpoint" group-title="泰国",Workpoint
+http://142.171.7.225/trams/2245/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6d2f39072_6OC4.jpg" tvg-name="Gmm Channel" group-title="泰国",Gmm Channel
+http://142.171.7.225/trams/2246/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6d5c60ab4_q47M.png" tvg-name="Nation" group-title="泰国",Nation
+http://142.171.7.225/trams/2247/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6d8843603_4UjT.jpg" tvg-name="Tnn24" group-title="泰国",Tnn24
+http://142.171.7.225/trams/2248/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6dae4e33a_R8Nn.jpg" tvg-name="Nbt" group-title="泰国",Nbt
+http://142.171.7.225/trams/2249/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6dcc71d25_Z59H.jpg" tvg-name="New" group-title="泰国",New
+http://142.171.7.225/trams/2250/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6df1cfb05_Cdhn.jpg" tvg-name="TPTV" group-title="泰国",TPTV
+http://142.171.7.225/trams/2251/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" tvg-name="Test 1" group-title="泰国",Test 1
+http://142.171.7.225/trams/2879/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" tvg-name="Test 2" group-title="泰国",Test 2
+http://142.171.7.225/trams/2880/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" tvg-name="Test 3" group-title="泰国",Test 3
+http://142.171.7.225/trams/2881/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" tvg-name="Test 4" group-title="泰国",Test 4
+http://142.171.7.225/trams/2882/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" tvg-name="Test 5" group-title="泰国",Test 5
+http://142.171.7.225/trams/2883/playlist.m3u8?token=abc123
 #EXTINF:-1 tvg-id="dLQOnET2jWnGdafOQZ_upC2yxU2gpN_4VPnaAm" tvg-name="Channel 3 Thailand" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e70c40dd4_T8h6.png" group-title="泰国",Channel 3 Thailand
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jWnGdafOQZ_upC2yxU2gpN_4VPnaAm&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3Dc07feeb4%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3Def89d4651e82833f789b8dae1b67bd31
 #EXTINF:-1 tvg-id="dLQOnET2jWnGnqfOQZ_upC2yxU2gpN_4VPnaAm" tvg-name="Channel 5 Thailand" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e71f9cee0_XB5x.png" group-title="泰国",Channel 5 Thailand
@@ -1093,7 +1601,81 @@ http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jBst_P_upC2yxU2gpN_4VPnaAm&
 #EXTINF:-1 tvg-id="dLQOnET2jBst_P0upC2yxU2gpN_4VPnaAm" tvg-name="Test 5" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="泰国",Test 5
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jBst_P0upC2yxU2gpN_4VPnaAm&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3Dc2dd3ec4%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3D1ad584e3c0fb4600a2ac97c50e5e3371
 
-#EXTINF:-1 tvg-id="dLQOnET2janaVcSWjNt8QZe8vZnBjRBl6PF" tvg-name="Sun TV HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720bd5ad276_2fLh.png" group-title="印度",Sun TV HD
+
+#E#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720bd5ad276_2fLh.png" tvg-name="Sun TV HD" group-title="印度",Sun TV HD
+http://142.171.7.225/trams/127/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5bde79b44b581_zctk.png" tvg-name="Star Vijay" group-title="印度",Star Vijay
+http://142.171.7.225/trams/1648/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63ca447a45615_y5dY.png" tvg-name="Colors Tamil" group-title="印度",Colors Tamil
+http://142.171.7.225/trams/2666/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f86d564060e7_TLJ5.jpg" tvg-name="Sun Music" group-title="印度",Sun Music
+http://142.171.7.225/trams/2127/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/659febc9aa201_I6zi.jpeg" tvg-name="Astro Sunlife" group-title="印度",Astro Sunlife
+http://142.171.7.225/trams/2763/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65828b9c056e9_ep50.jpg" tvg-name="Astro Vaanavil" group-title="印度",Astro Vaanavil
+http://142.171.7.225/trams/2749/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720c21be323_jTbt.png" tvg-name="Zee Tamil" group-title="印度",Zee Tamil
+http://142.171.7.225/trams/130/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b459391b44df_6sLy.jpg" tvg-name="Zee Business" group-title="印度",Zee Business
+http://142.171.7.225/trams/1593/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5df78e8a30d1f_FhMw.png" tvg-name="News 18 Tamil" group-title="印度",News 18 Tamil
+http://142.171.7.225/trams/1946/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63ca446205444_H53Z.jpg" tvg-name="Adithya" group-title="印度",Adithya
+http://142.171.7.225/trams/2665/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a8fb0f567099_cWsS.jpg" tvg-name="Makkal TV" group-title="印度",Makkal TV
+http://142.171.7.225/trams/1196/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720c3ad6398_MzK8.png" tvg-name="Zee Action" group-title="印度",Zee Action
+http://142.171.7.225/trams/131/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65e2c2b71c8aa_vHS1.jpeg" tvg-name="Astro KTV" group-title="印度",Astro KTV
+http://142.171.7.225/trams/2770/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07b89e4c687_YSn7.png" tvg-name="Zee TV HD" group-title="印度",Zee TV HD
+http://142.171.7.225/trams/364/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07b8b7e0ea9_n1Sp.png" tvg-name="Zee Cinema HD" group-title="印度",Zee Cinema HD
+http://142.171.7.225/trams/365/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07d1c2b1312_1OC1.png" tvg-name="Color HD" group-title="印度",Color HD
+http://142.171.7.225/trams/366/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65f802455089e_lY3a.png" tvg-name="Starplus HD" group-title="印度",Starplus HD
+http://142.171.7.225/trams/2771/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07d1e1133e2_aNSE.png" tvg-name="Picture HD" group-title="印度",Picture HD
+http://142.171.7.225/trams/367/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07d1f5e3bdd_9US4.png" tvg-name="Zee News" group-title="印度",Zee News
+http://142.171.7.225/trams/368/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b051cd3be76c_NCN2.jpg" tvg-name="Asianet" group-title="印度",Asianet
+http://142.171.7.225/trams/1474/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d89a68425e4f_5YMH.png" tvg-name="Asianet News" group-title="印度",Asianet News
+http://142.171.7.225/trams/1924/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d2ae6bc37c57_4are.jpg" tvg-name="Discovery World Tamil" group-title="印度",Discovery World Tamil
+http://142.171.7.225/trams/1834/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d2ae78b2bc27_e9E9.png" tvg-name="History Tamil" group-title="印度",History Tamil
+http://142.171.7.225/trams/1836/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d2af69bb9249_fbAn.png" tvg-name="NatGeo Tamil" group-title="印度",NatGeo Tamil
+http://142.171.7.225/trams/1838/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d2af6e3dec12_1y8U.jpg" tvg-name="Natgeo Wild Tamil" group-title="印度",Natgeo Wild Tamil
+http://142.171.7.225/trams/1839/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d2af7807ed93_9kNf.png" tvg-name="Discovery Kids Tamil" group-title="印度",Discovery Kids Tamil
+http://142.171.7.225/trams/1841/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d8c31234c5c2_bSx0.jpg" tvg-name="Sony Yay Tamil" group-title="印度",Sony Yay Tamil
+http://142.171.7.225/trams/1927/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5e91c61d3_92Qa.png" tvg-name="Sun TV India" group-title="印度",Sun TV India
+http://142.171.7.225/trams/2279/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/611323e2ed95e_22zj.jpeg" tvg-name="Starmaa HD" group-title="印度",Starmaa HD
+http://142.171.7.225/trams/2463/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/611324084bb32_6dsS.jpeg" tvg-name="Starmaa Movies HD" group-title="印度",Starmaa Movies HD
+http://142.171.7.225/trams/2464/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65f802bbaaf57_eL3y.jpg" tvg-name="Vijay Super" group-title="印度",Vijay Super
+http://142.171.7.225/trams/2772/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64007ddb953e7_gcyW.png" tvg-name="Bollyone" group-title="印度",Bollyone
+http://142.171.7.225/trams/2693/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64007f816651c_PI50.png" tvg-name="Astro Sunmusic" group-title="印度",Astro Sunmusic
+http://142.171.7.225/trams/2694/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68282f8f72628_xa5b.jpeg" tvg-name="Thangathirai" group-title="印度",Thangathirai
+http://142.171.7.225/trams/2841/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68282fb923acd_QsnE.jpeg" tvg-name="Vinmeen" group-title="印度",Vinmeen
+http://142.171.7.225/trams/2842/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66c8e2afe9fa7_NNg5.png" tvg-name="Vellithirai" group-title="印度",Vellithirai
+http://142.171.7.225/trams/2816/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b5671debb_ss5R.png" tvg-name="Sony Pictures HD" group-title="印度",Sony Pictures HD
+http://142.171.7.225/trams/2857/playlist.m3u8?token=abc123XTINF:-1 tvg-id="dLQOnET2janaVcSWjNt8QZe8vZnBjRBl6PF" tvg-name="Sun TV HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720bd5ad276_2fLh.png" group-title="印度",Sun TV HD
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2janaVcSWjNt8QZe8vZnBjRBl6PF&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3D283b28e9%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3D5ddfce531b915e607ba1ceb2ae1bc0f6
 #EXTINF:-1 tvg-id="dLQOnET2janBQZJWvUgyx3fOVCsIVCel6iIMdN0h" tvg-name="Star Vijay" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5bde79b44b581_zctk.png" group-title="印度",Star Vijay
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2janBQZJWvUgyx3fOVCsIVCel6iIMdN0h&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3Df10dd25b%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3Dde6c3cdfa63797bfadf5676629ac9c5e
@@ -1157,6 +1739,119 @@ http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jNnBQZJMQUsMVNzgzZnbpRsKjNt
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jNzgvRsIpNqOzZJbpRsKjNt8QZe8vZnBjRBl6PF&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3Dfec27efb%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3D00c4692aeee87b123bbf34dd751cb9aa
 #EXTINF:-1 tvg-id="dLQOnET2jNnuVceOvZFupC2yxU2gpN_4VPnaAm" tvg-name="Sony Pictures HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b5671debb_ss5R.png" group-title="印度",Sony Pictures HD
 http://xclasvgas.sylu.net:8080/smt.php?id=lr/dLQOnET2jNnuVceOvZFupC2yxU2gpN_4VPnaAm&h=xclasvgas.sylu.net&p=18081&q=cu%3Dff8ce8a1%26cd%3Da3177ace%26cp%3D06e29fae%26cn%3D4fa6b2bc%26rp%3DdLmajLThn3h2dPF4dP02%26tid%3Dm81463717%26tsum%3D24b7b60459e4e1d9a2bf04cbda3187ce
+
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dd54a5b01_AQwz.png" tvg-name="CCTV-6 電影" group-title="电影频道",CCTV-6 電影
+http://142.171.7.225/trams/501/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214c5249a75_DKEB.png" tvg-name="HBO_HD" group-title="电影频道",HBO_HD
+http://142.171.7.225/trams/898/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98c1dfc0d15_7wpj.png" tvg-name="HBO_HITS" group-title="电影频道",HBO_HITS
+http://142.171.7.225/trams/1207/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a1fa102b_37U1.png" tvg-name="HBO Signature Taiwan" group-title="电影频道",HBO Signature Taiwan
+http://142.171.7.225/trams/2868/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe14e0a469_2mEo.png" tvg-name="Hollywood Movies" group-title="电影频道",Hollywood Movies
+http://142.171.7.225/trams/278/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214f430ba32_4W5w.png" tvg-name="AXN Taiwan" group-title="电影频道",AXN Taiwan
+http://142.171.7.225/trams/906/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dbea69aba_ufhU.png" tvg-name="CINEMAX" group-title="电影频道",CINEMAX
+http://142.171.7.225/trams/496/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65018cd0f1d7d_57r5.png" tvg-name="Cinemax" group-title="电影频道",Cinemax
+http://142.171.7.225/trams/2732/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/62caac4b4e685_4aD4.png" tvg-name="大爱2台" group-title="电影频道",大爱2台
+http://142.171.7.225/trams/508/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2151e2716d5_9LKH.jpg" tvg-name="东森电影 ETTV Movie" group-title="电影频道",东森电影 ETTV Movie
+http://142.171.7.225/trams/924/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687359d5b4f76_uR3E.jpg" tvg-name="东森洋片 ETTV Western" group-title="电影频道",东森洋片 ETTV Western
+http://142.171.7.225/trams/763/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21049520fc1_QIVj.png" tvg-name="龙华洋片 Lunghua Western" group-title="电影频道",龙华洋片 Lunghua Western
+http://142.171.7.225/trams/810/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59b103887_nVWq.png" tvg-name="Animax" group-title="电影频道",Animax
+http://142.171.7.225/trams/2291/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4745db8d4f_IsS5.jpg" tvg-name="龙详时代" group-title="电影频道",龙详时代
+http://142.171.7.225/trams/2024/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ff2f91b795d2_KROR.png" tvg-name="Movies Now HD" group-title="电影频道",Movies Now HD
+http://142.171.7.225/trams/2256/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ff2fd101059d_XUc4.png" tvg-name="Star Movies HD" group-title="电影频道",Star Movies HD
+http://142.171.7.225/trams/2258/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16ef902a949_C0FF.jpg" tvg-name="卫视中文台 Star Movies Chinese" group-title="电影频道",卫视中文台 Star Movies Chinese
+http://142.171.7.225/trams/2078/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59d6a6de1_8h0h.png" tvg-name="Hits" group-title="电影频道",Hits
+http://142.171.7.225/trams/2292/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59eb3a668_w1aF.png" tvg-name="Warner TV" group-title="电影频道",Warner TV
+http://142.171.7.225/trams/2293/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2edf3bc7057_sF6F.png" tvg-name="美亚电影" group-title="电影频道",美亚电影
+http://142.171.7.225/trams/2099/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5a1f01819_pHwR.png" tvg-name="SCM" group-title="电影频道",SCM
+http://142.171.7.225/trams/2295/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5a44bfe16_FwQ7.png" tvg-name="Thrill" group-title="电影频道",Thrill
+http://142.171.7.225/trams/2297/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/645e165a87fea_Llf4.png" tvg-name="HBO Family" group-title="电影频道",HBO Family
+http://142.171.7.225/trams/2711/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2166dcd0c33_p0em.png" tvg-name="Axn HD" group-title="电影频道",Axn HD
+http://142.171.7.225/trams/1023/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a216594043cc_iIRr.png" tvg-name="HBO HD" group-title="电影频道",HBO HD
+http://142.171.7.225/trams/1015/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64e03ea042dbb_AX33.png" tvg-name="HBO Signature" group-title="电影频道",HBO Signature
+http://142.171.7.225/trams/2722/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6624d76b20337_4k7x.png" tvg-name="HBO Hits" group-title="电影频道",HBO Hits
+http://142.171.7.225/trams/2782/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6678f8fdc31dc_1E9W.png" tvg-name="Dreamworks" group-title="电影频道",Dreamworks
+http://142.171.7.225/trams/2785/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5b0bec9f9_EFfE.png" tvg-name="Hits Movie" group-title="电影频道",Hits Movie
+http://142.171.7.225/trams/2299/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6046399aabce3_PKQH.jpg" tvg-name="tvN Movie" group-title="电影频道",tvN Movie
+http://142.171.7.225/trams/2300/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/640080a3bebdf_2Zm2.png" tvg-name="Astrol Kplus" group-title="电影频道",Astrol Kplus
+http://142.171.7.225/trams/2697/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59ffa80a7_H00Q.png" tvg-name="One" group-title="电影频道",One
+http://142.171.7.225/trams/2294/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68735747ca2b9_622X.webp" tvg-name="天映頻道Celestial Movies" group-title="电影频道",天映頻道Celestial Movies
+http://142.171.7.225/trams/2427/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b3df32c37b0b_2c1C.jpg" tvg-name="Celestial Classic" group-title="电影频道",Celestial Classic
+http://142.171.7.225/trams/1587/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/646898c9642fe_D9Re.jpg" tvg-name="Rock Actions" group-title="电影频道",Rock Actions
+http://142.171.7.225/trams/2713/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/646898eea5975_32x1.jpg" tvg-name="Rock Entertainment" group-title="电影频道",Rock Entertainment
+http://142.171.7.225/trams/2714/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98f24ab1e1e_lcJU.png" tvg-name="CI" group-title="纪录频道",CI
+http://142.171.7.225/trams/1243/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e202a1f2a_rv0X.png" tvg-name="Asia Travel" group-title="纪录频道",Asia Travel
+http://142.171.7.225/trams/479/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cb6e4ec03_5cx5.jpg" tvg-name="亚洲美食" group-title="纪录频道",亚洲美食
+http://142.171.7.225/trams/2035/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5fa3ba3874dd6_052Z.png" tvg-name="NatGeo HD" group-title="纪录频道",NatGeo HD
+http://142.171.7.225/trams/2235/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f6b2d6f239ec_Oob3.jpg" tvg-name="Fashion TV" group-title="纪录频道",Fashion TV
+http://142.171.7.225/trams/2117/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e090ed797_tvMv.png" tvg-name="History" group-title="纪录频道",History
+http://142.171.7.225/trams/472/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4ccb450d60_liZo.jpg" tvg-name="BBC Earth HD" group-title="纪录频道",BBC Earth HD
+http://142.171.7.225/trams/2037/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cce6aa24d_WykD.jpg" tvg-name="BBC Earth Lifestyle" group-title="纪录频道",BBC Earth Lifestyle
+http://142.171.7.225/trams/2038/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d38506957_oDZu.jpg" tvg-name="亚洲旅游 TLC Asia" group-title="纪录频道",亚洲旅游 TLC Asia
+http://142.171.7.225/trams/2055/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d0fabc707_0V7z.jpg" tvg-name="MTV Live" group-title="纪录频道",MTV Live
+http://142.171.7.225/trams/2046/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98f64207d24_Z7IR.png" tvg-name="NatGeo_Wild HD" group-title="纪录频道",NatGeo_Wild HD
+http://142.171.7.225/trams/1255/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e0b6e4e25_1t87.png" tvg-name="Animal_Planet" group-title="纪录频道",Animal_Planet
+http://142.171.7.225/trams/474/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6230103f0133e_OdSA.png" tvg-name="HGTV" group-title="纪录频道",HGTV
+http://142.171.7.225/trams/2508/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b502a10ccb7c_HELo.png" tvg-name="TLC" group-title="纪录频道",TLC
+http://142.171.7.225/trams/1595/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6319a9164e71e_3i8V.png" tvg-name="Foodnetwork Hd" group-title="纪录频道",Foodnetwork Hd
+http://142.171.7.225/trams/2615/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6915b1b5d62a3_A6Zw.png" tvg-name="Asia Food Network" group-title="纪录频道",Asia Food Network
+http://142.171.7.225/trams/1042/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ecf924651f26_c7eN.png" tvg-name="Animal Planet (Eng)" group-title="纪录频道",Animal Planet (Eng)
+http://142.171.7.225/trams/2011/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f5238eb84441_i5BZ.png" tvg-name="NatGeo Wild HD" group-title="纪录频道",NatGeo Wild HD
+http://142.171.7.225/trams/2106/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbccddd541a_zfGf.png" tvg-name="Discovery Asia" group-title="纪录频道",Discovery Asia
+http://142.171.7.225/trams/2888/playlist.m3u8?token=abc123
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcd907aad2_kPeK.jpeg" tvg-name="Dmax" group-title="纪录频道",Dmax
+http://142.171.7.225/trams/2889/playlist.m3u8?token=abc123
 
 #EXTINF:-1 group-title="🔥❷全网通央卫视" tvg-logo="http://175.178.182.213/tb/CCTV1.png",CCTV1
 http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
