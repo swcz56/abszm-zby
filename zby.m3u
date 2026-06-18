@@ -1646,6 +1646,7 @@ http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 #EXTINF:-1 group-title="🔮港澳台直播" tvg-logo="http://175.178.182.213/tb/%E8%80%80%E6%89%8D%E8%B4%A2%E7%BB%8F%E5%8F%B0.png",耀才财经台
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+
 #EXTINF:-1 group-title="4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视4K.png",北京卫视4K
 http://47.110.243.216:7088/udp/233.50.202.100:5140
 #EXTINF:-1 group-title="4K" tvg-logo="https://live.fanmingming.cn/tv/东方卫视4K.png",东方卫视4K
@@ -1869,3 +1870,258 @@ http://23.237.104.106:8080/USA_WE_TV/mpegts
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 group-title="🇺🇸美国直播" tvg-logo="https://epg.112114.xyz/logo/VICE.png",VICE
 https://d1ocru52bkg5e9.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqr9z4dqrkb9m/b07d20d9-38d3-44e4-a74d-386f99542384/3.m3u8
+
+#EXTINF:-1 group-title="🇬🇧英国直播" tvg-logo="https://epg.112114.xyz/logo/PARAMOUND EAST HD.png",PARAMOUND EAST HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23082
+#EXTINF:-1 group-title="🇬🇧英国直播" tvg-logo="https://epg.112114.xyz/logo/Story HD.png",Story HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23085
+#EXTINF:-1 group-title="🇬🇧英国直播" tvg-logo="https://epg.112114.xyz/logo/Newsnation (WGNA) HD.png",Newsnation (WGNA) HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23102
+#EXTINF:-1 group-title="🇹🇭泰国直播" tvg-logo="https://epg.112114.xyz/logo/UNIVERSAL CINEMA HD.png",UNIVERSAL CINEMA HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23051
+#EXTINF:-1 group-title="🇹🇭泰国直播" tvg-logo="https://epg.112114.xyz/logo/FOX SPORTS 3 HD.png",FOX SPORTS 3 HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23055
+#EXTINF:-1 group-title="🇹🇭泰国直播" tvg-logo="https://epg.112114.xyz/logo/Hallmark Movie west HD.png",Hallmark Movie west HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23060
+#EXTINF:-1 group-title="🇹🇭泰国直播" tvg-logo="https://epg.112114.xyz/logo/BET Caribe HD.png",BET Caribe HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23062
+#EXTINF:-1 group-title="🇨🇦加拿大直播" tvg-logo="https://epg.112114.xyz/logo/CJB.png",CJB
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+#EXTINF:-1 group-title="🇨🇦加拿大直播" tvg-logo="https://epg.112114.xyz/logo/SBS CJB (540p) [Not 24/7].png",SBS CJB (540p) [Not 24/7]
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇦加拿大直播" tvg-logo="https://epg.112114.xyz/logo/TELEMUNDO EAST HD.png",TELEMUNDO EAST HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23003
+#EXTINF:-1 group-title="🇨🇦加拿大直播" tvg-logo="https://epg.112114.xyz/logo/PARAMOUND  WEST HD.png",PARAMOUND  WEST HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23012
+#EXTINF:-1 group-title="🇨🇦加拿大直播" tvg-logo="https://epg.112114.xyz/logo/LOGO EAST HD.png",LOGO EAST HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23014
+#EXTINF:-1 group-title="🇨🇦加拿大直播" tvg-logo="https://epg.112114.xyz/logo/NICK JR HD.png",NICK JR HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23044
+#EXTINF:-1 group-title="🇨🇦加拿大直播" tvg-logo="https://epg.112114.xyz/logo/CARTOON NETWORK HD.png",CARTOON NETWORK HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23045
+#EXTINF:-1 group-title="🇨🇦加拿大直播" tvg-logo="https://epg.112114.xyz/logo/美国NBA.png",美国NBA
+http://103.148.44.38:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/俄罗斯Astrakhan 24 (Opt-2).png",俄罗斯Astrakhan 24 (Opt-2)
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/俄罗斯First Music (Opt-3).png",俄罗斯First Music (Opt-3)
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/俄罗斯RBC (Opt-1).png",俄罗斯RBC (Opt-1)
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/俄罗斯RBC (Opt-2).png",俄罗斯RBC (Opt-2)
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/俄罗斯RBC (Opt-3).png",俄罗斯RBC (Opt-3)
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/俄罗斯Shanson TV (Opt-1).png",俄罗斯Shanson TV (Opt-1)
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/俄罗斯Shanson TV (Opt-2).png",俄罗斯Shanson TV (Opt-2)
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/俄罗斯TRO Soyuz.png",俄罗斯TRO Soyuz
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/俄罗斯RT.png",俄罗斯RT
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/俄罗斯金砖TV.png",俄罗斯金砖TV
+https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/France 24.png",France 24
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/俄罗斯BRIDGE DELUXE.png",俄罗斯BRIDGE DELUXE
+http://194.143.150.123:8080/udp/239.195.5.213:1234
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/俄罗斯ЖAPA.png",俄罗斯ЖAPA
+http://194.143.150.123:8080/udp/239.195.5.11:1234
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/尼克少儿.png",尼克少儿
+http://23.237.104.106:8080/USA_NICKELODEON/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/尼克少儿 俄罗斯.png",尼克少儿 俄罗斯
+http://de2.mirror-tv.net:80/nickelodeon-hd/tracks-v1a1a2a3/mono.m3u8?token=cy5g5hwf_1vda
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/俄罗斯GITV.png",俄罗斯GITV
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/俄罗斯camapa.png",俄罗斯camapa
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺俄罗斯直播" tvg-logo="https://epg.112114.xyz/logo/俄罗斯Russia Today.png",俄罗斯Russia Today
+https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇦🇹奥地利Moviesphere.png",🇦🇹奥地利Moviesphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇳🇬尼日利亚Pulse.png",🇳🇬尼日利亚Pulse
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇱🇰斯里兰卡Mon Tamil TV.png",🇱🇰斯里兰卡Mon Tamil TV
+http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇺🇿乌兹别克斯坦Ilm va Tabiat.png",🇺🇿乌兹别克斯坦Ilm va Tabiat
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇹🇯塔吉克斯坦TV Sayohi.png",🇹🇯塔吉克斯坦TV Sayohi
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇨🇱智利Chile Channel.png",🇨🇱智利Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇨🇷哥斯达黎加Costa Rica Channel.png",🇨🇷哥斯达黎加Costa Rica Channel
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇲🇽墨西哥Alcarria TV.png",🇲🇽墨西哥Alcarria TV
+http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇧🇪比利时BX1 Redif.png",🇧🇪比利时BX1 Redif
+http://iptv.zkbhj.com/tv/url/go?id=f1be0d493321f4c33715e1b7e70c09d0f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇷🇴罗马尼亚Kanal Jadid.png",🇷🇴罗马尼亚Kanal Jadid
+http://iptv.zkbhj.com/tv/url/go?id=fb81bb9b43e59961094aa63269613455f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇱🇦老挝LOOK THOONG TV HD.png",🇱🇦老挝LOOK THOONG TV HD
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇱🇦老挝Hmong Star TV.png",🇱🇦老挝Hmong Star TV
+http://iptv.zkbhj.com/tv/url/go?id=4feaf426ab2c3414a12910e0c7b7377ef2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇨🇭瑞士Couleur 3.png",🇨🇭瑞士Couleur 3
+http://iptv.zkbhj.com/tv/url/go?id=f7a5956bd68adc236551b69cbbc3543bf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇦🇺澳大利亚2GB SYDNEY.png",🇦🇺澳大利亚2GB SYDNEY
+http://iptv.zkbhj.com/tv/url/go?id=09f8e2b6f395bdde601a600466f56558f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇯🇵日本映画.png",🇯🇵日本映画
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇯🇵日本东映.png",🇯🇵日本东映
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇯🇵日本日テレNEWS24.png",🇯🇵日本日テレNEWS24
+http://iptv.zkbhj.com/tv/url/go?id=729942d34e8518d7d5d61c380136549bf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇪🇸西班牙DW Español Ⓢ.png",🇪🇸西班牙DW Español Ⓢ
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇫🇮芬兰Alfa Ⓢ.png",🇫🇮芬兰Alfa Ⓢ
+https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇨🇷哥斯达黎加Canal 8.png",🇨🇷哥斯达黎加Canal 8
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇳🇱荷兰Omrop Fryslân.png",🇳🇱荷兰Omrop Fryslân
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇮🇩印度尼西亚CNN Indonesia.png",🇮🇩印度尼西亚CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇺🇦乌克兰KPBIM.png",🇺🇦乌克兰KPBIM
+https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇬🇧英国Desi Plus.png",🇬🇧英国Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇸🇬新加坡Channel News Asia.png",🇸🇬新加坡Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇶🇦卡塔尔Al Jazeera Arabic.png",🇶🇦卡塔尔Al Jazeera Arabic
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇵🇹葡萄牙Kuriakos Cine.png",🇵🇹葡萄牙Kuriakos Cine
+http://iptv.zkbhj.com/tv/url/go?id=1a2e5feef49364eb0d6876bf52df13c0f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇧🇩孟加拉国DESHI TV.png",🇧🇩孟加拉国DESHI TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇹🇷土耳其TRT World.png",🇹🇷土耳其TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇨🇦加拿大Global News.png",🇨🇦加拿大Global News
+http://iptv.zkbhj.com/tv/url/go?id=188da1cd42026cce4e3c6fd900520b5bf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇹🇭泰国Thai PBS.png",🇹🇭泰国Thai PBS
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇹🇭泰国ASTV.png",🇹🇭泰国ASTV
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇮🇹意大利Food Network.png",🇮🇹意大利Food Network
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇮🇹意大利A2itv.png",🇮🇹意大利A2itv
+http://iptv.zkbhj.com/tv/url/go?id=269ccbfcaddd5a80e4366cc007620dfff2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇿🇦南非Wild Earth.png",🇿🇦南非Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇿🇦南非KZNTV.png",🇿🇦南非KZNTV
+http://iptv.zkbhj.com/tv/url/go?id=023c6f5c22ab16bc1522811c64e2ee48f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇮🇷伊朗IMAM HUSSEIN TV.png",🇮🇷伊朗IMAM HUSSEIN TV
+http://iptv.zkbhj.com/tv/url/go?id=bb8533acad61cc2dff6197ebee0c17b3f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇮🇷伊朗SL 2.png",🇮🇷伊朗SL 2
+http://iptv.zkbhj.com/tv/url/go?id=40d00fa8b0851918ea131a8d3516326ef2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇬🇷希腊Play TV.png",🇬🇷希腊Play TV
+http://iptv.zkbhj.com/tv/url/go?id=db5ea64393fca800733b26552d6eb188f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇬🇷希腊Action 24.png",🇬🇷希腊Action 24
+http://iptv.zkbhj.com/tv/url/go?id=4db03e9f679d9326568d74d500a9c5a4f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇮🇪爱尔兰AVA Family.png",🇮🇪爱尔兰AVA Family
+http://iptv.zkbhj.com/tv/url/go?id=6270d446d0cbc40f4be353e8013efc04f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇮🇪爱尔兰PTE.png",🇮🇪爱尔兰PTE
+http://iptv.zkbhj.com/tv/url/go?id=d4dd1ef144307e03186671c87f7bd80cf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇸🇴索马里Cherifla TV.png",🇸🇴索马里Cherifla TV
+http://iptv.zkbhj.com/tv/url/go?id=ecc3baf428c12aa87ae23f80dd2d1cfbf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇦🇫阿富汗AFP.png",🇦🇫阿富汗AFP
+http://iptv.zkbhj.com/tv/url/go?id=10d59bfa8f43d0fa3436a84f77910cabf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇦🇫阿富汗5AAB TV.png",🇦🇫阿富汗5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇧🇷巴西Classique TV.png",🇧🇷巴西Classique TV
+http://iptv.zkbhj.com/tv/url/go?id=2a8cb45c3f7a32b8f3735e302938fa4ff2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇧🇷巴西KMKYV.png",🇧🇷巴西KMKYV
+https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇷🇺俄罗斯Astrakhan Sport.png",🇷🇺俄罗斯Astrakhan Sport
+http://iptv.zkbhj.com/tv/url/go?id=3cf26103fa35806de782cbf3d1454b2df2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇷🇺俄罗斯MIR.png",🇷🇺俄罗斯MIR
+http://iptv.zkbhj.com/tv/url/go?id=171f8e7331b3b2c5281f377ddfc445f4f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇷🇺俄罗斯Zvezda TV.png",🇷🇺俄罗斯Zvezda TV
+http://iptv.zkbhj.com/tv/url/go?id=6414b076391433933457f71277ba6947f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇮🇶伊拉克Dijlah TV.png",🇮🇶伊拉克Dijlah TV
+https://ghaasiflu.online/Dijlah/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇮🇶伊拉克Al Sharqiya.png",🇮🇶伊拉克Al Sharqiya
+http://iptv.zkbhj.com/tv/url/go?id=31c41d899589de3591b8ac0157fc3a26f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇮🇶伊拉克Sharqiya News.png",🇮🇶伊拉克Sharqiya News
+http://iptv.zkbhj.com/tv/url/go?id=22631bd2308603231957203b0436f7cdf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇰🇷韩国MBC.png",🇰🇷韩国MBC
+http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇰🇷韩国AriangTV.png",🇰🇷韩国AriangTV
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇰🇷韩国GS Shop.png",🇰🇷韩国GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇺🇸美国BratTV.png",🇺🇸美国BratTV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇺🇸美国Fox weather.png",🇺🇸美国Fox weather
+https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇺🇸美国Cable News Network.png",🇺🇸美国Cable News Network
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇺🇸美国Pac-12 Network.png",🇺🇸美国Pac-12 Network
+https://pac12-samsungus.amagi.tv/playlist480_p.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇺🇸美国Palm Beaches TV.png",🇺🇸美国Palm Beaches TV
+https://live.feed.thepalmbeaches.tv/index.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇺🇸美国Brevard FL.png",🇺🇸美国Brevard FL
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇮🇳印度 Kappa TV.png",🇮🇳印度 Kappa TV
+https://cdn-3.pishow.tv/live/1123/master.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇮🇳印度9Bharatvarsh.png",🇮🇳印度9Bharatvarsh
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇮🇳印度NDTV India.png",🇮🇳印度NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-logo="https://epg.112114.xyz/logo/🇮🇳印度NDTV 24x7.png",🇮🇳印度NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+#EXTINF:-1 group-title="🏀[国内]体育直播" tvg-logo="https://epg.112114.xyz/logo/劲爆体育.png",劲爆体育
+http://173.208.212.130:8181/1080p/jbty.m3u8
+#EXTINF:-1 group-title="🏀[国内]体育直播" tvg-logo="https://epg.112114.xyz/logo/飞镖专场.png",飞镖专场
+https://live.ottiptv.cc/huya/30631766
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/ESPN1.png",ESPN1
+http://46.151.196.223:14432/
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/ESPN2.png",ESPN2
+http://46.151.196.223:14438/
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/ESPN3.png",ESPN3
+http://46.151.196.223:14444/
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/ESPN4.png",ESPN4
+http://46.151.196.223:14450/
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/RMTV.png",RMTV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/lexter.png",lexter
+https://lextertv300.com/memfs/82521bda-38b9-4967-b49f-3812515985ea.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/MAX SPORT 3 🇧🇬.png",MAX SPORT 3 🇧🇬
+http://77.46.130.252:99/maxsport3
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/Setanta Sport 1 🇬🇪.png",Setanta Sport 1 🇬🇪
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/ESPN 2 🇨🇴.png",ESPN 2 🇨🇴
+http://200.10.30.241:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/Africa 24 Sport 🇳🇬.png",Africa 24 Sport 🇳🇬
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/TELETRAK 🇨🇱.png",TELETRAK 🇨🇱
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/INFOSPORT 🇫🇷.png",INFOSPORT 🇫🇷
+http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/HT SPOR 🇹🇷.png",HT SPOR 🇹🇷
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/KCMN-LD6 🇻🇳.png",KCMN-LD6 🇻🇳
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/Qazaqstan Sport SD 🇰🇿.png",Qazaqstan Sport SD 🇰🇿
+https://stream.qaztv.kz/live/stream9/index.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/Turkmenistan Sport 🇹🇲.png",Turkmenistan Sport 🇹🇲
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/X SPORT 🇷🇺.png",X SPORT 🇷🇺
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/Red Bull TV.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/Automotion.png",Automotion
+https://streams2.sofast.tv/umaxx/v1/0196fcdb0ee01ea506ec1fab16cfab/0196fcdf09931ea5064918d106ecf7/Automotions_eng_2500k.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/Team USA TV.png",Team USA TV
+https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist360P.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/Fox Sports.png",Fox Sports
+https://d1jzu95oc8fgt3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zyqcok4bm0lgq/FOX_Sports.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/PFL.png",PFL
+https://d2w9b8sam7j3zv.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5g55ahrn9ajah/2f1fe122-e239-4138-9f90-2aad7e4aaa54/0.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/STADIUM.png",STADIUM
+https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/Trace Sports.png",Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/World Poker Tour.png",World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
