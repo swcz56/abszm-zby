@@ -2267,3 +2267,103 @@ https://d1jzu95oc8fgt3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
 #EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/Trace Sports.png",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/ESPN1.png",ESPN1
+http://46.151.196.223:14432/
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/ESPN2.png",ESPN2
+http://46.151.196.223:14438/
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/ESPN3.png",ESPN3
+http://46.151.196.223:14444/
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/ESPN4.png",ESPN4
+http://46.151.196.223:14450/
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/RMTV.png",RMTV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/lexter.png",lexter
+https://lextertv300.com/memfs/82521bda-38b9-4967-b49f-3812515985ea.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/MAX SPORT 3 🇧🇬.png",MAX SPORT 3 🇧🇬
+http://77.46.130.252:99/maxsport3
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/Setanta Sport 1 🇬🇪.png",Setanta Sport 1 🇬🇪
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/ESPN 2 🇨🇴.png",ESPN 2 🇨🇴
+http://200.10.30.241:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/TELETRAK 🇨🇱.png",TELETRAK 🇨🇱
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/INFOSPORT 🇫🇷.png",INFOSPORT 🇫🇷
+http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/KCMN-LD6 🇻🇳.png",KCMN-LD6 🇻🇳
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/Turkmenistan Sport 🇹🇲.png",Turkmenistan Sport 🇹🇲
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/X SPORT 🇷🇺.png",X SPORT 🇷🇺
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/Red Bull TV.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/Fox Sports.png",Fox Sports
+https://d1jzu95oc8fgt3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zyqcok4bm0lgq/FOX_Sports.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/STADIUM.png",STADIUM
+https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/FIFA+.png",FIFA+
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/FIFA+.png",FIFA+
+https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/035f3906-e664-4f1b-83f0-a7547730adce/0.m3u8
+#EXTINF:-1 group-title="🏀[海外]体育直播" tvg-logo="https://epg.112114.xyz/logo/FIFA+.png",FIFA+
+https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/b31ebba5-b6b6-4083-9426-1c4bd66b7119/0.m3u8
+#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/华数电影.png",华数电影
+http://hmfs.f3322.net:3388/hls/40/index.m3u8
+#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/华数动作影院.png",华数动作影院
+http://113.25.252.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png",CHC家庭影院
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png",CHC动作电影
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png",CHC影迷电影
+http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/推流影院.png",推流影院
+http://222.186.39.38:8000/587078/index.m3u8
+#EXTINF:-1 group-title="💽纪录片直播" tvg-logo="https://epg.112114.xyz/logo/碎片记.png",碎片记
+http://live.nctv.top/douyu1.php?id=9412981
+#EXTINF:-1 group-title="💽纪录片直播" tvg-logo="https://epg.112114.xyz/logo/宇宙视界.png",宇宙视界
+http://live.nctv.top/douyu1.php?id=9498354
+#EXTINF:-1 group-title="💽纪录片直播" tvg-logo="https://epg.112114.xyz/logo/宇宙探索飞船.png",宇宙探索飞船
+http://live.nctv.top/douyu1.php?id=9456028
+#EXTINF:-1 group-title="💽纪录片直播" tvg-logo="https://epg.112114.xyz/logo/世界未解之谜.png",世界未解之谜
+http://live.nctv.top/douyu1.php?id=9369468
+#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/单机/三国战记.png",单机/三国战记
+http://live.nctv.top/douyu1.php?id=6122419
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/周杰伦专场.png",周杰伦专场
+http://live.nctv.top/douyu1.php?id=7537296
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/双笙专场.png",双笙专场
+http://live.nctv.top/douyu1.php?id=6476693
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/室外专场.png",室外专场
+http://live.nctv.top/douyu1.php?id=9627625
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/翻唱专场.png",翻唱专场
+http://live.nctv.top/douyu1.php?id=9572351
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/动漫音乐专场.png",动漫音乐专场
+http://live.nctv.top/douyu1.php?id=9409703
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/阿七点歌台.png",阿七点歌台
+http://live.nctv.top/douyu1.php?id=3186217
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/音悦喵点歌台.png",音悦喵点歌台
+http://live.nctv.top/douyu1.php?id=3870925
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/音乐台长.png",音乐台长
+http://live.nctv.top/douyu1.php?id=9629943
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/下饭音乐.png",下饭音乐
+http://live.nctv.top/douyu1.php?id=8661966
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/音乐Wu哥.png",音乐Wu哥
+http://live.nctv.top/douyu1.php?id=8667755
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/音乐快斗.png",音乐快斗
+http://live.nctv.top/douyu1.php?id=8324627
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/蚕豆电台.png",蚕豆电台
+http://live.nctv.top/douyu1.php?id=8768792
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/音乐猛抬头.png",音乐猛抬头
+http://live.nctv.top/douyu1.php?id=8666105
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/喵喵音乐台.png",喵喵音乐台
+http://live.nctv.top/douyu1.php?id=9568091
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/黑糖音乐秀.png",黑糖音乐秀
+http://live.nctv.top/douyu1.php?id=9560563
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/荒草音乐.png",荒草音乐
+http://live.nctv.top/douyu1.php?id=8706465
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/热星音乐菌.png",热星音乐菌
+http://live.nctv.top/douyu1.php?id=8405922
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/音乐Fans小琼.png",音乐Fans小琼
+http://live.nctv.top/douyu1.php?id=8666210
+#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/小飞飞流行DJ音乐.png",小飞飞流行DJ音乐
+http://live.nctv.top/douyu1.php?id=10469362
