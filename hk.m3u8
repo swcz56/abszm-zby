@@ -324,3 +324,849 @@ http://192.236.245.10/mytv.php?url=http://o11.163189.xyz/stream/tvb/fct/
 http://192.236.245.10/mytv.php?url=http://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台(多音轨字幕)
 http://192.236.245.10/mytv.php?url=http://o11.163189.xyz/stream/tvb/mzt/
+
+#EXTM3U url-tvg="http://192.236.245.10:8008/epg" x-tvg-url="http://192.236.245.10:8008/epg"
+#EXTINF:-1 channel-id="abc" tvg-id="abc" tvg-name="ABC" tvg-logo="https://img.rebeliptv.net/channel/abc.png" tvg-country="US" tvg-language="English" group-title="Broadcast",ABC
+http://192.236.245.10:8008/stream/abc.ts
+#EXTINF:-1 channel-id="cbs" tvg-id="cbs" tvg-name="CBS" tvg-logo="https://img.rebeliptv.net/channel/cbs.png" tvg-country="US" tvg-language="English" group-title="Broadcast",CBS
+http://192.236.245.10:8008/stream/cbs.ts
+#EXTINF:-1 channel-id="nbc" tvg-id="nbc" tvg-name="NBC" tvg-logo="https://img.rebeliptv.net/channel/nbc.png" tvg-country="US" tvg-language="English" group-title="Broadcast",NBC
+http://192.236.245.10:8008/stream/nbc.ts
+#EXTINF:-1 channel-id="fox" tvg-id="fox" tvg-name="FOX" tvg-logo="https://img.rebeliptv.net/channel/fox.png" tvg-country="US" tvg-language="English" group-title="Broadcast",FOX
+http://192.236.245.10:8008/stream/fox.ts
+#EXTINF:-1 channel-id="cw" tvg-id="cw" tvg-name="CW" tvg-logo="https://img.rebeliptv.net/channel/cw.png" tvg-country="US" tvg-language="English" group-title="Broadcast",CW
+http://192.236.245.10:8008/stream/cw.ts
+#EXTINF:-1 channel-id="pbs" tvg-id="pbs" tvg-name="PBS" tvg-logo="https://img.rebeliptv.net/channel/pbs.png" tvg-country="US" tvg-language="English" group-title="Broadcast",PBS
+http://192.236.245.10:8008/stream/pbs.ts
+#EXTINF:-1 channel-id="ion" tvg-id="ion" tvg-name="ION" tvg-logo="https://img.rebeliptv.net/channel/ion.png" tvg-country="US" tvg-language="English" group-title="Broadcast",ION
+http://192.236.245.10:8008/stream/ion.ts
+#EXTINF:-1 channel-id="aande" tvg-id="aande" tvg-name="A&E" tvg-logo="https://img.rebeliptv.net/channel/aande.png" tvg-country="US" tvg-language="English" group-title="Entertainment",A&E
+http://192.236.245.10:8008/stream/aande.ts
+#EXTINF:-1 channel-id="abc-news" tvg-id="abc-news" tvg-name="ABC News" tvg-logo="https://img.rebeliptv.net/channel/abc-news.png" tvg-country="US" tvg-language="English" group-title="News",ABC News
+http://192.236.245.10:8008/stream/abc-news.ts
+#EXTINF:-1 channel-id="acc-network" tvg-id="acc-network" tvg-name="ACC Network" tvg-logo="https://img.rebeliptv.net/channel/acc-network.png" tvg-country="US" tvg-language="English" group-title="Sports",ACC Network
+http://192.236.245.10:8008/stream/acc-network.ts
+#EXTINF:-1 channel-id="accuweather" tvg-id="accuweather" tvg-name="AccuWeather" tvg-logo="https://img.rebeliptv.net/channel/accuweather.png" tvg-country="US" tvg-language="English" group-title="News",AccuWeather
+http://192.236.245.10:8008/stream/accuweather.ts
+#EXTINF:-1 channel-id="adult-swim" tvg-id="adult-swim" tvg-name="Adult Swim" tvg-logo="https://img.rebeliptv.net/channel/adult-swim.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Adult Swim
+http://192.236.245.10:8008/stream/adult-swim.ts
+#EXTINF:-1 channel-id="altitude-sports" tvg-id="altitude-sports" tvg-name="Altitude Sports" tvg-logo="https://img.rebeliptv.net/channel/altitude-sports.png" tvg-country="US" tvg-language="English" group-title="Sports",Altitude Sports
+http://192.236.245.10:8008/stream/altitude-sports.ts
+#EXTINF:-1 channel-id="amc" tvg-id="amc" tvg-name="AMC" tvg-logo="https://img.rebeliptv.net/channel/amc.png" tvg-country="US" tvg-language="English" group-title="Movies",AMC
+http://192.236.245.10:8008/stream/amc.ts
+#EXTINF:-1 channel-id="american-heroes-channel" tvg-id="american-heroes-channel" tvg-name="American Heroes Channel" tvg-logo="https://img.rebeliptv.net/channel/american-heroes-channel.png" tvg-country="US" tvg-language="English" group-title="Documentary",American Heroes Channel
+http://192.236.245.10:8008/stream/american-heroes-channel.ts
+#EXTINF:-1 channel-id="animal-planet" tvg-id="animal-planet" tvg-name="Animal Planet" tvg-logo="https://img.rebeliptv.net/channel/animal-planet.png" tvg-country="US" tvg-language="English" group-title="Documentary",Animal Planet
+http://192.236.245.10:8008/stream/animal-planet.ts
+#EXTINF:-1 channel-id="aspire-tv" tvg-id="aspire-tv" tvg-name="Aspire TV" tvg-logo="https://img.rebeliptv.net/channel/aspire-tv.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Aspire TV
+http://192.236.245.10:8008/stream/aspire-tv.ts
+#EXTINF:-1 channel-id="axs-tv" tvg-id="axs-tv" tvg-name="AXS TV" tvg-logo="https://img.rebeliptv.net/channel/axs-tv.png" tvg-country="US" tvg-language="English" group-title="Entertainment",AXS TV
+http://192.236.245.10:8008/stream/axs-tv.ts
+#EXTINF:-1 channel-id="bbc-america" tvg-id="bbc-america" tvg-name="BBC America" tvg-logo="https://img.rebeliptv.net/channel/bbc-america.png" tvg-country="US" tvg-language="English" group-title="Entertainment",BBC America
+http://192.236.245.10:8008/stream/bbc-america.ts
+#EXTINF:-1 channel-id="bbc-1" tvg-id="bbc-1" tvg-name="BBC One" tvg-logo="https://img.rebeliptv.net/channel/bbc-1.png" tvg-country="GB" tvg-language="English" group-title="Broadcast;Entertainment",BBC One
+http://192.236.245.10:8008/stream/bbc-1.ts
+#EXTINF:-1 channel-id="bbc-news" tvg-id="bbc-news" tvg-name="BBC News" tvg-logo="https://img.rebeliptv.net/channel/bbc-news.png" tvg-country="GB" tvg-language="English" group-title="Broadcast;News",BBC News
+http://192.236.245.10:8008/stream/bbc-news.ts
+#EXTINF:-1 channel-id="bbc-four" tvg-id="bbc-four" tvg-name="BBC Four" tvg-logo="https://img.rebeliptv.net/channel/bbc-four.png" tvg-country="GB" tvg-language="English" group-title="Broadcast;Entertainment",BBC Four
+http://192.236.245.10:8008/stream/bbc-four.ts
+#EXTINF:-1 channel-id="bbc-2" tvg-id="bbc-2" tvg-name="BBC Two" tvg-logo="https://img.rebeliptv.net/channel/bbc-2.png" tvg-country="GB" tvg-language="English" group-title="Broadcast;Entertainment",BBC Two
+http://192.236.245.10:8008/stream/bbc-2.ts
+#EXTINF:-1 channel-id="bein-sports" tvg-id="bein-sports" tvg-name="BeIN Sports" tvg-logo="https://img.rebeliptv.net/channel/bein-sports.png" tvg-country="US" tvg-language="English" group-title="Sports",BeIN Sports
+http://192.236.245.10:8008/stream/bein-sports.ts
+#EXTINF:-1 channel-id="bbc-one" tvg-id="bbc-one" tvg-name="BBC One" tvg-logo="https://img.rebeliptv.net/channel/bbc-one.png" tvg-country="GB" tvg-language="English" group-title="Broadcast;Entertainment",BBC One
+http://192.236.245.10:8008/stream/bbc-one.ts
+#EXTINF:-1 channel-id="bbc-3" tvg-id="bbc-3" tvg-name="BBC Three" tvg-logo="https://img.rebeliptv.net/channel/bbc-3.png" tvg-country="GB" tvg-language="English" group-title="Broadcast;Entertainment",BBC Three
+http://192.236.245.10:8008/stream/bbc-3.ts
+#EXTINF:-1 channel-id="bet" tvg-id="bet" tvg-name="BET" tvg-logo="https://img.rebeliptv.net/channel/bet.png" tvg-country="US" tvg-language="English" group-title="Entertainment",BET
+http://192.236.245.10:8008/stream/bet.ts
+#EXTINF:-1 channel-id="bbc-two" tvg-id="bbc-two" tvg-name="BBC Two" tvg-logo="https://img.rebeliptv.net/channel/bbc-two.png" tvg-country="GB" tvg-language="English" group-title="Broadcast;Entertainment",BBC Two
+http://192.236.245.10:8008/stream/bbc-two.ts
+#EXTINF:-1 channel-id="bbc-4" tvg-id="bbc-4" tvg-name="BBC Four" tvg-logo="https://img.rebeliptv.net/channel/bbc-4.png" tvg-country="GB" tvg-language="English" group-title="Broadcast;Entertainment",BBC Four
+http://192.236.245.10:8008/stream/bbc-4.ts
+#EXTINF:-1 channel-id="bet-gospel" tvg-id="bet-gospel" tvg-name="BET Gospel" tvg-logo="https://img.rebeliptv.net/channel/bet-gospel.png" tvg-country="US" tvg-language="English" group-title="Music",BET Gospel
+http://192.236.245.10:8008/stream/bet-gospel.ts
+#EXTINF:-1 channel-id="bbc-three" tvg-id="bbc-three" tvg-name="BBC Three" tvg-logo="https://img.rebeliptv.net/channel/bbc-three.png" tvg-country="GB" tvg-language="English" group-title="Broadcast;Entertainment",BBC Three
+http://192.236.245.10:8008/stream/bbc-three.ts
+#EXTINF:-1 channel-id="bet-her" tvg-id="bet-her" tvg-name="BET Her" tvg-logo="https://img.rebeliptv.net/channel/bet-her.png" tvg-country="US" tvg-language="English" group-title="Entertainment",BET Her
+http://192.236.245.10:8008/stream/bet-her.ts
+#EXTINF:-1 channel-id="bet-jams" tvg-id="bet-jams" tvg-name="BET Jams" tvg-logo="https://img.rebeliptv.net/channel/bet-jams.png" tvg-country="US" tvg-language="English" group-title="Music",BET Jams
+http://192.236.245.10:8008/stream/bet-jams.ts
+#EXTINF:-1 channel-id="bet-soul" tvg-id="bet-soul" tvg-name="BET Soul" tvg-logo="https://img.rebeliptv.net/channel/bet-soul.png" tvg-country="US" tvg-language="English" group-title="Music",BET Soul
+http://192.236.245.10:8008/stream/bet-soul.ts
+#EXTINF:-1 channel-id="big-ten-network" tvg-id="big-ten-network" tvg-name="Big Ten Network" tvg-logo="https://img.rebeliptv.net/channel/big-ten-network.png" tvg-country="US" tvg-language="English" group-title="Sports",Big Ten Network
+http://192.236.245.10:8008/stream/big-ten-network.ts
+#EXTINF:-1 channel-id="bloomberg-tv" tvg-id="bloomberg-tv" tvg-name="Bloomberg TV" tvg-logo="https://img.rebeliptv.net/channel/bloomberg-tv.png" tvg-country="US" tvg-language="English" group-title="Economics;News",Bloomberg TV
+http://192.236.245.10:8008/stream/bloomberg-tv.ts
+#EXTINF:-1 channel-id="boomerang" tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://img.rebeliptv.net/channel/boomerang.png" tvg-country="US" tvg-language="English" group-title="Kids",Boomerang
+http://192.236.245.10:8008/stream/boomerang.ts
+#EXTINF:-1 channel-id="bounce-tv" tvg-id="bounce-tv" tvg-name="Bounce TV" tvg-logo="https://img.rebeliptv.net/channel/bounce-tv.png" tvg-country="US" tvg-language="English" group-title="Broadcast",Bounce TV
+http://192.236.245.10:8008/stream/bounce-tv.ts
+#EXTINF:-1 channel-id="bravo" tvg-id="bravo" tvg-name="Bravo" tvg-logo="https://img.rebeliptv.net/channel/bravo.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Bravo
+http://192.236.245.10:8008/stream/bravo.ts
+#EXTINF:-1 channel-id="buzzr" tvg-id="buzzr" tvg-name="Buzzr" tvg-logo="https://img.rebeliptv.net/channel/buzzr.png" tvg-country="US" tvg-language="English" group-title="Broadcast",Buzzr
+http://192.236.245.10:8008/stream/buzzr.ts
+#EXTINF:-1 channel-id="c-span" tvg-id="c-span" tvg-name="C SPAN" tvg-logo="https://img.rebeliptv.net/channel/c-span.png" tvg-country="US" tvg-language="English" group-title="News",C SPAN
+http://192.236.245.10:8008/stream/c-span.ts
+#EXTINF:-1 channel-id="c-span-2" tvg-id="c-span-2" tvg-name="C SPAN 2" tvg-logo="https://img.rebeliptv.net/channel/c-span-2.png" tvg-country="US" tvg-language="English" group-title="News",C SPAN 2
+http://192.236.245.10:8008/stream/c-span-2.ts
+#EXTINF:-1 channel-id="c-span-3" tvg-id="c-span-3" tvg-name="C SPAN 3" tvg-logo="https://img.rebeliptv.net/channel/c-span-3.png" tvg-country="US" tvg-language="English" group-title="News",C SPAN 3
+http://192.236.245.10:8008/stream/c-span-3.ts
+#EXTINF:-1 channel-id="cartoon-network" tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://img.rebeliptv.net/channel/cartoon-network.png" tvg-country="US" tvg-language="English" group-title="Kids",Cartoon Network
+http://192.236.245.10:8008/stream/cartoon-network.ts
+#EXTINF:-1 channel-id="cbs-sports-network" tvg-id="cbs-sports-network" tvg-name="CBS Sports Network" tvg-logo="https://img.rebeliptv.net/channel/cbs-sports-network.png" tvg-country="US" tvg-language="English" group-title="Sports",CBS Sports Network
+http://192.236.245.10:8008/stream/cbs-sports-network.ts
+#EXTINF:-1 channel-id="charge" tvg-id="charge" tvg-name="Charge!" tvg-logo="https://img.rebeliptv.net/channel/charge.png" tvg-country="US" tvg-language="English" group-title="Broadcast",Charge!
+http://192.236.245.10:8008/stream/charge.ts
+#EXTINF:-1 channel-id="chicago-sports-network" tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network" tvg-logo="https://img.rebeliptv.net/channel/chicago-sports-network.png" tvg-country="US" tvg-language="English" group-title="Sports",Chicago Sports Network
+http://192.236.245.10:8008/stream/chicago-sports-network.ts
+#EXTINF:-1 channel-id="channel-4" tvg-id="channel-4" tvg-name="Channel 4" tvg-logo="https://img.rebeliptv.net/channel/channel-4.png" tvg-country="GB" tvg-language="English" group-title="Broadcast;Entertainment",Channel 4
+http://192.236.245.10:8008/stream/channel-4.ts
+#EXTINF:-1 channel-id="cinemax" tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://img.rebeliptv.net/channel/cinemax.png" tvg-country="US" tvg-language="English" group-title="Movies",Cinemax
+http://192.236.245.10:8008/stream/cinemax.ts
+#EXTINF:-1 channel-id="channel-5" tvg-id="channel-5" tvg-name="Channel 5" tvg-logo="https://img.rebeliptv.net/channel/channel-5.png" tvg-country="GB" tvg-language="English" group-title="Broadcast;Entertainment",Channel 5
+http://192.236.245.10:8008/stream/channel-5.ts
+#EXTINF:-1 channel-id="cinemax-hits" tvg-id="cinemax-hits" tvg-name="Cinemax Hits" tvg-logo="https://img.rebeliptv.net/channel/cinemax-hits.png" tvg-country="US" tvg-language="English" group-title="Movies",Cinemax Hits
+http://192.236.245.10:8008/stream/cinemax-hits.ts
+#EXTINF:-1 channel-id="cleo-tv" tvg-id="cleo-tv" tvg-name="Cleo TV" tvg-logo="https://img.rebeliptv.net/channel/cleo-tv.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Cleo TV
+http://192.236.245.10:8008/stream/cleo-tv.ts
+#EXTINF:-1 channel-id="cmt" tvg-id="cmt" tvg-name="CMT" tvg-logo="https://img.rebeliptv.net/channel/cmt.png" tvg-country="US" tvg-language="English" group-title="Music",CMT
+http://192.236.245.10:8008/stream/cmt.ts
+#EXTINF:-1 channel-id="cnbc" tvg-id="cnbc" tvg-name="CNBC" tvg-logo="https://img.rebeliptv.net/channel/cnbc.png" tvg-country="US" tvg-language="English" group-title="Economics",CNBC
+http://192.236.245.10:8008/stream/cnbc.ts
+#EXTINF:-1 channel-id="cnbc-world" tvg-id="cnbc-world" tvg-name="CNBC World" tvg-logo="https://img.rebeliptv.net/channel/cnbc-world.png" tvg-country="US" tvg-language="English" group-title="Economics",CNBC World
+http://192.236.245.10:8008/stream/cnbc-world.ts
+#EXTINF:-1 channel-id="cnn" tvg-id="cnn" tvg-name="CNN" tvg-logo="https://img.rebeliptv.net/channel/cnn.png" tvg-country="US" tvg-language="English" group-title="News",CNN
+http://192.236.245.10:8008/stream/cnn.ts
+#EXTINF:-1 channel-id="cnn-international" tvg-id="cnn-international" tvg-name="CNN International" tvg-logo="https://img.rebeliptv.net/channel/cnn-international.png" tvg-country="US" tvg-language="English" group-title="News",CNN International
+http://192.236.245.10:8008/stream/cnn-international.ts
+#EXTINF:-1 channel-id="comedy-central" tvg-id="comedy-central" tvg-name="Comedy Central" tvg-logo="https://img.rebeliptv.net/channel/comedy-central.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Comedy Central
+http://192.236.245.10:8008/stream/comedy-central.ts
+#EXTINF:-1 channel-id="comet" tvg-id="comet" tvg-name="Comet" tvg-logo="https://img.rebeliptv.net/channel/comet.png" tvg-country="US" tvg-language="English" group-title="Broadcast",Comet
+http://192.236.245.10:8008/stream/comet.ts
+#EXTINF:-1 channel-id="cooking-channel" tvg-id="cooking-channel" tvg-name="Cooking Channel" tvg-logo="https://img.rebeliptv.net/channel/cooking-channel.png" tvg-country="US" tvg-language="English" group-title="Lifestyle",Cooking Channel
+http://192.236.245.10:8008/stream/cooking-channel.ts
+#EXTINF:-1 channel-id="court-tv" tvg-id="court-tv" tvg-name="Court TV" tvg-logo="https://img.rebeliptv.net/channel/court-tv.png" tvg-country="US" tvg-language="English" group-title="Broadcast",Court TV
+http://192.236.245.10:8008/stream/court-tv.ts
+#EXTINF:-1 channel-id="cowboy-channel" tvg-id="cowboy-channel" tvg-name="Cowboy Channel" tvg-logo="https://img.rebeliptv.net/channel/cowboy-channel.png" tvg-country="US" tvg-language="English" group-title="Sports",Cowboy Channel
+http://192.236.245.10:8008/stream/cowboy-channel.ts
+#EXTINF:-1 channel-id="cp24" tvg-id="cp24" tvg-name="CP24" tvg-logo="https://img.rebeliptv.net/channel/cp24.png" tvg-country="CA" tvg-language="English" group-title="News",CP24
+http://192.236.245.10:8008/stream/cp24.ts
+#EXTINF:-1 channel-id="crime-and-investigation" tvg-id="crime-and-investigation" tvg-name="Crime & Investigation" tvg-logo="https://img.rebeliptv.net/channel/crime-and-investigation.png" tvg-country="US" tvg-language="English" group-title="Documentary",Crime & Investigation
+http://192.236.245.10:8008/stream/crime-and-investigation.ts
+#EXTINF:-1 channel-id="destination-america" tvg-id="destination-america" tvg-name="Destination America" tvg-logo="https://img.rebeliptv.net/channel/destination-america.png" tvg-country="US" tvg-language="English" group-title="Documentary",Destination America
+http://192.236.245.10:8008/stream/destination-america.ts
+#EXTINF:-1 channel-id="discovery-channel" tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="https://img.rebeliptv.net/channel/discovery-channel.png" tvg-country="US" tvg-language="English" group-title="Documentary",Discovery Channel
+http://192.236.245.10:8008/stream/discovery-channel.ts
+#EXTINF:-1 channel-id="discovery-family" tvg-id="discovery-family" tvg-name="Discovery Family" tvg-logo="https://img.rebeliptv.net/channel/discovery-family.png" tvg-country="US" tvg-language="English" group-title="Kids",Discovery Family
+http://192.236.245.10:8008/stream/discovery-family.ts
+#EXTINF:-1 channel-id="discovery-life" tvg-id="discovery-life" tvg-name="Discovery Life" tvg-logo="https://img.rebeliptv.net/channel/discovery-life.png" tvg-country="US" tvg-language="English" group-title="Documentary",Discovery Life
+http://192.236.245.10:8008/stream/discovery-life.ts
+#EXTINF:-1 channel-id="discovery-turbo" tvg-id="discovery-turbo" tvg-name="Discovery Turbo" tvg-logo="https://img.rebeliptv.net/channel/discovery-turbo.png" tvg-country="US" tvg-language="English" group-title="Documentary",Discovery Turbo
+http://192.236.245.10:8008/stream/discovery-turbo.ts
+#EXTINF:-1 channel-id="disney-channel" tvg-id="disney-channel" tvg-name="Disney Channel" tvg-logo="https://img.rebeliptv.net/channel/disney-channel.png" tvg-country="US" tvg-language="English" group-title="Kids",Disney Channel
+http://192.236.245.10:8008/stream/disney-channel.ts
+#EXTINF:-1 channel-id="disney-junior" tvg-id="disney-junior" tvg-name="Disney Junior" tvg-logo="https://img.rebeliptv.net/channel/disney-junior.png" tvg-country="US" tvg-language="English" group-title="Kids",Disney Junior
+http://192.236.245.10:8008/stream/disney-junior.ts
+#EXTINF:-1 channel-id="disney-xd" tvg-id="disney-xd" tvg-name="Disney XD" tvg-logo="https://img.rebeliptv.net/channel/disney-xd.png" tvg-country="US" tvg-language="English" group-title="Kids",Disney XD
+http://192.236.245.10:8008/stream/disney-xd.ts
+#EXTINF:-1 channel-id="e-entertainment" tvg-id="e-entertainment" tvg-name="E! Entertainment" tvg-logo="https://img.rebeliptv.net/channel/e-entertainment.png" tvg-country="US" tvg-language="English" group-title="Entertainment",E! Entertainment
+http://192.236.245.10:8008/stream/e-entertainment.ts
+#EXTINF:-1 channel-id="espn" tvg-id="espn" tvg-name="ESPN" tvg-logo="https://img.rebeliptv.net/channel/espn.png" tvg-country="US" tvg-language="English" group-title="Sports",ESPN
+http://192.236.245.10:8008/stream/espn.ts
+#EXTINF:-1 channel-id="espn-deportes" tvg-id="espn-deportes" tvg-name="ESPN Deportes" tvg-logo="https://img.rebeliptv.net/channel/espn-deportes.png" tvg-country="US" tvg-language="Spanish" group-title="Sports;Spanish",ESPN Deportes
+http://192.236.245.10:8008/stream/espn-deportes.ts
+#EXTINF:-1 channel-id="espn2" tvg-id="espn2" tvg-name="ESPN2" tvg-logo="https://img.rebeliptv.net/channel/espn2.png" tvg-country="US" tvg-language="English" group-title="Sports",ESPN2
+http://192.236.245.10:8008/stream/espn2.ts
+#EXTINF:-1 channel-id="espnews" tvg-id="espnews" tvg-name="ESPNews" tvg-logo="https://img.rebeliptv.net/channel/espnews.png" tvg-country="US" tvg-language="English" group-title="Sports",ESPNews
+http://192.236.245.10:8008/stream/espnews.ts
+#EXTINF:-1 channel-id="espnu" tvg-id="espnu" tvg-name="ESPNU" tvg-logo="https://img.rebeliptv.net/channel/espnu.png" tvg-country="US" tvg-language="English" group-title="Sports",ESPNU
+http://192.236.245.10:8008/stream/espnu.ts
+#EXTINF:-1 channel-id="family-movie-classics" tvg-id="family-movie-classics" tvg-name="Family Movie Classics" tvg-logo="https://img.rebeliptv.net/channel/family-movie-classics.png" tvg-country="US" tvg-language="English" group-title="Movies",Family Movie Classics
+http://192.236.245.10:8008/stream/family-movie-classics.ts
+#EXTINF:-1 channel-id="fanduel-racing" tvg-id="fanduel-racing" tvg-name="FanDuel Racing" tvg-logo="https://img.rebeliptv.net/channel/fanduel-racing.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Racing
+http://192.236.245.10:8008/stream/fanduel-racing.ts
+#EXTINF:-1 channel-id="fanduel-sports-network-florida" tvg-id="fanduel-sports-network-florida" tvg-name="FanDuel Sports Florida" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-florida.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Florida
+http://192.236.245.10:8008/stream/fanduel-sports-network-florida.ts
+#EXTINF:-1 channel-id="fanduel-sports-network-indiana" tvg-id="fanduel-sports-network-indiana" tvg-name="FanDuel Sports Indiana" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-indiana.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Indiana
+http://192.236.245.10:8008/stream/fanduel-sports-network-indiana.ts
+#EXTINF:-1 channel-id="fanduel-sports-network-kansas-city" tvg-id="fanduel-sports-network-kansas-city" tvg-name="FanDuel Sports Kansas City" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-kansas-city.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Kansas City
+http://192.236.245.10:8008/stream/fanduel-sports-network-kansas-city.ts
+#EXTINF:-1 channel-id="fanduel-sports-network-midwest" tvg-id="fanduel-sports-network-midwest" tvg-name="FanDuel Sports Midwest" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-midwest.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Midwest
+http://192.236.245.10:8008/stream/fanduel-sports-network-midwest.ts
+#EXTINF:-1 channel-id="fanduel-sports-network-north" tvg-id="fanduel-sports-network-north" tvg-name="FanDuel Sports North" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-north.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports North
+http://192.236.245.10:8008/stream/fanduel-sports-network-north.ts
+#EXTINF:-1 channel-id="fanduel-sports-network-ohio" tvg-id="fanduel-sports-network-ohio" tvg-name="FanDuel Sports Ohio" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-ohio.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Ohio
+http://192.236.245.10:8008/stream/fanduel-sports-network-ohio.ts
+#EXTINF:-1 channel-id="fanduel-sports-network-oklahoma" tvg-id="fanduel-sports-network-oklahoma" tvg-name="FanDuel Sports Oklahoma" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-oklahoma.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Oklahoma
+http://192.236.245.10:8008/stream/fanduel-sports-network-oklahoma.ts
+#EXTINF:-1 channel-id="fanduel-sports-network-socal" tvg-id="fanduel-sports-network-socal" tvg-name="FanDuel Sports SoCal" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-socal.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports SoCal
+http://192.236.245.10:8008/stream/fanduel-sports-network-socal.ts
+#EXTINF:-1 channel-id="fanduel-sports-network-south" tvg-id="fanduel-sports-network-south" tvg-name="FanDuel Sports South" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-south.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports South
+http://192.236.245.10:8008/stream/fanduel-sports-network-south.ts
+#EXTINF:-1 channel-id="fanduel-sports-network-southeast" tvg-id="fanduel-sports-network-southeast" tvg-name="FanDuel Sports Southeast" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-southeast.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Southeast
+http://192.236.245.10:8008/stream/fanduel-sports-network-southeast.ts
+#EXTINF:-1 channel-id="fanduel-sports-network-sun" tvg-id="fanduel-sports-network-sun" tvg-name="FanDuel Sports Sun" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-sun.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Sun
+http://192.236.245.10:8008/stream/fanduel-sports-network-sun.ts
+#EXTINF:-1 channel-id="fanduel-sports-network-west" tvg-id="fanduel-sports-network-west" tvg-name="FanDuel Sports West" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-west.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports West
+http://192.236.245.10:8008/stream/fanduel-sports-network-west.ts
+#EXTINF:-1 channel-id="fanduel-sports-network-wisconsin" tvg-id="fanduel-sports-network-wisconsin" tvg-name="FanDuel Sports Wisconsin" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-wisconsin.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Wisconsin
+http://192.236.245.10:8008/stream/fanduel-sports-network-wisconsin.ts
+#EXTINF:-1 channel-id="fanduel-tv" tvg-id="fanduel-tv" tvg-name="FanDuel TV" tvg-logo="https://img.rebeliptv.net/channel/fanduel-tv.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel TV
+http://192.236.245.10:8008/stream/fanduel-tv.ts
+#EXTINF:-1 channel-id="food-network" tvg-id="food-network" tvg-name="Food Network" tvg-logo="https://img.rebeliptv.net/channel/food-network.png" tvg-country="US" tvg-language="English" group-title="Lifestyle",Food Network
+http://192.236.245.10:8008/stream/food-network.ts
+#EXTINF:-1 channel-id="fox-business" tvg-id="fox-business" tvg-name="Fox Business" tvg-logo="https://img.rebeliptv.net/channel/fox-business.png" tvg-country="US" tvg-language="English" group-title="Economics",Fox Business
+http://192.236.245.10:8008/stream/fox-business.ts
+#EXTINF:-1 channel-id="fox-deportes" tvg-id="fox-deportes" tvg-name="FOX Deportes" tvg-logo="https://img.rebeliptv.net/channel/fox-deportes.png" tvg-country="US" tvg-language="Spanish" group-title="Sports;Spanish",FOX Deportes
+http://192.236.245.10:8008/stream/fox-deportes.ts
+#EXTINF:-1 channel-id="fox-news" tvg-id="fox-news" tvg-name="Fox News" tvg-logo="https://img.rebeliptv.net/channel/fox-news.png" tvg-country="US" tvg-language="English" group-title="News",Fox News
+http://192.236.245.10:8008/stream/fox-news.ts
+#EXTINF:-1 channel-id="fox-soccer-plus" tvg-id="fox-soccer-plus" tvg-name="Fox Soccer Plus" tvg-logo="https://img.rebeliptv.net/channel/fox-soccer-plus.png" tvg-country="US" tvg-language="English" group-title="Sports",Fox Soccer Plus
+http://192.236.245.10:8008/stream/fox-soccer-plus.ts
+#EXTINF:-1 channel-id="fox-sports-1" tvg-id="fox-sports-1" tvg-name="Fox Sports 1" tvg-logo="https://img.rebeliptv.net/channel/fox-sports-1.png" tvg-country="US" tvg-language="English" group-title="Sports",Fox Sports 1
+http://192.236.245.10:8008/stream/fox-sports-1.ts
+#EXTINF:-1 channel-id="fox-sports-2" tvg-id="fox-sports-2" tvg-name="Fox Sports 2" tvg-logo="https://img.rebeliptv.net/channel/fox-sports-2.png" tvg-country="US" tvg-language="English" group-title="Sports",Fox Sports 2
+http://192.236.245.10:8008/stream/fox-sports-2.ts
+#EXTINF:-1 channel-id="fox-weather" tvg-id="fox-weather" tvg-name="Fox Weather" tvg-logo="https://img.rebeliptv.net/channel/fox-weather.png" tvg-country="US" tvg-language="English" group-title="News",Fox Weather
+http://192.236.245.10:8008/stream/fox-weather.ts
+#EXTINF:-1 channel-id="freeform" tvg-id="freeform" tvg-name="Freeform" tvg-logo="https://img.rebeliptv.net/channel/freeform.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Freeform
+http://192.236.245.10:8008/stream/freeform.ts
+#EXTINF:-1 channel-id="fuse" tvg-id="fuse" tvg-name="FUSE" tvg-logo="https://img.rebeliptv.net/channel/fuse.png" tvg-country="US" tvg-language="English" group-title="Entertainment",FUSE
+http://192.236.245.10:8008/stream/fuse.ts
+#EXTINF:-1 channel-id="fx" tvg-id="fx" tvg-name="FX" tvg-logo="https://img.rebeliptv.net/channel/fx.png" tvg-country="US" tvg-language="English" group-title="Entertainment",FX
+http://192.236.245.10:8008/stream/fx.ts
+#EXTINF:-1 channel-id="fx-movie-channel" tvg-id="fx-movie-channel" tvg-name="FX Movie Channel" tvg-logo="https://img.rebeliptv.net/channel/fx-movie-channel.png" tvg-country="US" tvg-language="English" group-title="Movies",FX Movie Channel
+http://192.236.245.10:8008/stream/fx-movie-channel.ts
+#EXTINF:-1 channel-id="fxx" tvg-id="fxx" tvg-name="FXX" tvg-logo="https://img.rebeliptv.net/channel/fxx.png" tvg-country="US" tvg-language="English" group-title="Entertainment",FXX
+http://192.236.245.10:8008/stream/fxx.ts
+#EXTINF:-1 channel-id="fyi" tvg-id="fyi" tvg-name="FYI" tvg-logo="https://img.rebeliptv.net/channel/fyi.png" tvg-country="US" tvg-language="English" group-title="Entertainment",FYI
+http://192.236.245.10:8008/stream/fyi.ts
+#EXTINF:-1 channel-id="game-show-network" tvg-id="game-show-network" tvg-name="Game Show Network" tvg-logo="https://img.rebeliptv.net/channel/game-show-network.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Game Show Network
+http://192.236.245.10:8008/stream/game-show-network.ts
+#EXTINF:-1 channel-id="golf-channel" tvg-id="golf-channel" tvg-name="Golf Channel" tvg-logo="https://img.rebeliptv.net/channel/golf-channel.png" tvg-country="US" tvg-language="English" group-title="Sports",Golf Channel
+http://192.236.245.10:8008/stream/golf-channel.ts
+#EXTINF:-1 channel-id="grit" tvg-id="grit" tvg-name="Grit" tvg-logo="https://img.rebeliptv.net/channel/grit.png" tvg-country="US" tvg-language="English" group-title="Broadcast",Grit
+http://192.236.245.10:8008/stream/grit.ts
+#EXTINF:-1 channel-id="hallmark-channel" tvg-id="hallmark-channel" tvg-name="Hallmark Channel" tvg-logo="https://img.rebeliptv.net/channel/hallmark-channel.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Hallmark Channel
+http://192.236.245.10:8008/stream/hallmark-channel.ts
+#EXTINF:-1 channel-id="hallmark-family" tvg-id="hallmark-family" tvg-name="Hallmark Family" tvg-logo="https://img.rebeliptv.net/channel/hallmark-family.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Hallmark Family
+http://192.236.245.10:8008/stream/hallmark-family.ts
+#EXTINF:-1 channel-id="hallmark-mystery" tvg-id="hallmark-mystery" tvg-name="Hallmark Mystery" tvg-logo="https://img.rebeliptv.net/channel/hallmark-mystery.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Hallmark Mystery
+http://192.236.245.10:8008/stream/hallmark-mystery.ts
+#EXTINF:-1 channel-id="hbo" tvg-id="hbo" tvg-name="HBO" tvg-logo="https://img.rebeliptv.net/channel/hbo.png" tvg-country="US" tvg-language="English" group-title="Movies",HBO
+http://192.236.245.10:8008/stream/hbo.ts
+#EXTINF:-1 channel-id="hbo-comedy" tvg-id="hbo-comedy" tvg-name="HBO Comedy" tvg-logo="https://img.rebeliptv.net/channel/hbo-comedy.png" tvg-country="US" tvg-language="English" group-title="Movies",HBO Comedy
+http://192.236.245.10:8008/stream/hbo-comedy.ts
+#EXTINF:-1 channel-id="hbo-drama" tvg-id="hbo-drama" tvg-name="HBO Drama" tvg-logo="https://img.rebeliptv.net/channel/hbo-drama.png" tvg-country="US" tvg-language="English" group-title="Movies",HBO Drama
+http://192.236.245.10:8008/stream/hbo-drama.ts
+#EXTINF:-1 channel-id="hbo-hits" tvg-id="hbo-hits" tvg-name="HBO Hits" tvg-logo="https://img.rebeliptv.net/channel/hbo-hits.png" tvg-country="US" tvg-language="English" group-title="Movies",HBO Hits
+http://192.236.245.10:8008/stream/hbo-hits.ts
+#EXTINF:-1 channel-id="hbo-movies" tvg-id="hbo-movies" tvg-name="HBO Movies" tvg-logo="https://img.rebeliptv.net/channel/hbo-movies.png" tvg-country="US" tvg-language="English" group-title="Movies",HBO Movies
+http://192.236.245.10:8008/stream/hbo-movies.ts
+#EXTINF:-1 channel-id="heroes-and-icons" tvg-id="heroes-and-icons" tvg-name="Heroes & Icons" tvg-logo="https://img.rebeliptv.net/channel/heroes-and-icons.png" tvg-country="US" tvg-language="English" group-title="Broadcast",Heroes & Icons
+http://192.236.245.10:8008/stream/heroes-and-icons.ts
+#EXTINF:-1 channel-id="hgtv" tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://img.rebeliptv.net/channel/hgtv.png" tvg-country="US" tvg-language="English" group-title="Lifestyle",HGTV
+http://192.236.245.10:8008/stream/hgtv.ts
+#EXTINF:-1 channel-id="history-channel" tvg-id="history-channel" tvg-name="History Channel" tvg-logo="https://img.rebeliptv.net/channel/history-channel.png" tvg-country="US" tvg-language="English" group-title="Documentary",History Channel
+http://192.236.245.10:8008/stream/history-channel.ts
+#EXTINF:-1 channel-id="hln" tvg-id="hln" tvg-name="HLN" tvg-logo="https://img.rebeliptv.net/channel/hln.png" tvg-country="US" tvg-language="English" group-title="News",HLN
+http://192.236.245.10:8008/stream/hln.ts
+#EXTINF:-1 channel-id="ifc" tvg-id="ifc" tvg-name="IFC" tvg-logo="https://img.rebeliptv.net/channel/ifc.png" tvg-country="US" tvg-language="English" group-title="Movies",IFC
+http://192.236.245.10:8008/stream/ifc.ts
+#EXTINF:-1 channel-id="investigation-discovery" tvg-id="investigation-discovery" tvg-name="Investigation Discovery" tvg-logo="https://img.rebeliptv.net/channel/investigation-discovery.png" tvg-country="US" tvg-language="English" group-title="Documentary",Investigation Discovery
+http://192.236.245.10:8008/stream/investigation-discovery.ts
+#EXTINF:-1 channel-id="ion-mystery" tvg-id="ion-mystery" tvg-name="Ion Mystery" tvg-logo="https://img.rebeliptv.net/channel/ion-mystery.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Ion Mystery
+http://192.236.245.10:8008/stream/ion-mystery.ts
+#EXTINF:-1 channel-id="kabb" tvg-id="kabb" tvg-name="KABB San Antonio TX (FOX)" tvg-logo="https://img.rebeliptv.net/channel/kabb.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KABB San Antonio TX (FOX)
+http://192.236.245.10:8008/stream/kabb.ts
+#EXTINF:-1 channel-id="kabc" tvg-id="kabc" tvg-name="KABC Los Angeles CA (ABC)" tvg-logo="https://img.rebeliptv.net/channel/kabc.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KABC Los Angeles CA (ABC)
+http://192.236.245.10:8008/stream/kabc.ts
+#EXTINF:-1 channel-id="kare" tvg-id="kare" tvg-name="KARE Minneapolis MN (NBC)" tvg-logo="https://img.rebeliptv.net/channel/kare.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KARE Minneapolis MN (NBC)
+http://192.236.245.10:8008/stream/kare.ts
+#EXTINF:-1 channel-id="katu" tvg-id="katu" tvg-name="KATU Portland OR (ABC)" tvg-logo="https://img.rebeliptv.net/channel/katu.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KATU Portland OR (ABC)
+http://192.236.245.10:8008/stream/katu.ts
+#EXTINF:-1 channel-id="kauu" tvg-id="kauu" tvg-name="KAUU Anchorage AK (CBS)" tvg-logo="https://img.rebeliptv.net/channel/kauu.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KAUU Anchorage AK (CBS)
+http://192.236.245.10:8008/stream/kauu.ts
+#EXTINF:-1 channel-id="kcbs" tvg-id="kcbs" tvg-name="KCBS Los Angeles CA (CBS)" tvg-logo="https://img.rebeliptv.net/channel/kcbs.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KCBS Los Angeles CA (CBS)
+http://192.236.245.10:8008/stream/kcbs.ts
+#EXTINF:-1 channel-id="kcnc" tvg-id="kcnc" tvg-name="KCNC Denver CO (CBS)" tvg-logo="https://img.rebeliptv.net/channel/kcnc.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KCNC Denver CO (CBS)
+http://192.236.245.10:8008/stream/kcnc.ts
+#EXTINF:-1 channel-id="kcpq" tvg-id="kcpq" tvg-name="KCPQ Seattle WA (FOX)" tvg-logo="https://img.rebeliptv.net/channel/kcpq.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KCPQ Seattle WA (FOX)
+http://192.236.245.10:8008/stream/kcpq.ts
+#EXTINF:-1 channel-id="kcra" tvg-id="kcra" tvg-name="KCRA Sacramento CA (NBC)" tvg-logo="https://img.rebeliptv.net/channel/kcra.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KCRA Sacramento CA (NBC)
+http://192.236.245.10:8008/stream/kcra.ts
+#EXTINF:-1 channel-id="kctv" tvg-id="kctv" tvg-name="KCTV Kansas City MO (CBS)" tvg-logo="https://img.rebeliptv.net/channel/kctv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KCTV Kansas City MO (CBS)
+http://192.236.245.10:8008/stream/kctv.ts
+#EXTINF:-1 channel-id="kdfw" tvg-id="kdfw" tvg-name="KDFW Dallas-Fort Worth TX (FOX)" tvg-logo="https://img.rebeliptv.net/channel/kdfw.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KDFW Dallas-Fort Worth TX (FOX)
+http://192.236.245.10:8008/stream/kdfw.ts
+#EXTINF:-1 channel-id="kdka" tvg-id="kdka" tvg-name="KDKA Pittsburgh PA (CBS)" tvg-logo="https://img.rebeliptv.net/channel/kdka.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KDKA Pittsburgh PA (CBS)
+http://192.236.245.10:8008/stream/kdka.ts
+#EXTINF:-1 channel-id="kdnl" tvg-id="kdnl" tvg-name="KDNL St. Louis MO (ABC)" tvg-logo="https://img.rebeliptv.net/channel/kdnl.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KDNL St. Louis MO (ABC)
+http://192.236.245.10:8008/stream/kdnl.ts
+#EXTINF:-1 channel-id="kdvr" tvg-id="kdvr" tvg-name="KDVR Denver CO (FOX)" tvg-logo="https://img.rebeliptv.net/channel/kdvr.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KDVR Denver CO (FOX)
+http://192.236.245.10:8008/stream/kdvr.ts
+#EXTINF:-1 channel-id="kens" tvg-id="kens" tvg-name="KENS San Antonio TX (CBS)" tvg-logo="https://img.rebeliptv.net/channel/kens.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KENS San Antonio TX (CBS)
+http://192.236.245.10:8008/stream/kens.ts
+#EXTINF:-1 channel-id="keye" tvg-id="keye" tvg-name="KEYE Austin TX (CBS)" tvg-logo="https://img.rebeliptv.net/channel/keye.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KEYE Austin TX (CBS)
+http://192.236.245.10:8008/stream/keye.ts
+#EXTINF:-1 channel-id="kfmb" tvg-id="kfmb" tvg-name="KFMB San Diego CA (CBS)" tvg-logo="https://img.rebeliptv.net/channel/kfmb.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KFMB San Diego CA (CBS)
+http://192.236.245.10:8008/stream/kfmb.ts
+#EXTINF:-1 channel-id="kgmb" tvg-id="kgmb" tvg-name="KGMB Honolulu HI (CBS)" tvg-logo="https://img.rebeliptv.net/channel/kgmb.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KGMB Honolulu HI (CBS)
+http://192.236.245.10:8008/stream/kgmb.ts
+#EXTINF:-1 channel-id="kgo" tvg-id="kgo" tvg-name="KGO San Francisco CA (ABC)" tvg-logo="https://img.rebeliptv.net/channel/kgo.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KGO San Francisco CA (ABC)
+http://192.236.245.10:8008/stream/kgo.ts
+#EXTINF:-1 channel-id="kgtv" tvg-id="kgtv" tvg-name="KGTV San Diego CA (ABC)" tvg-logo="https://img.rebeliptv.net/channel/kgtv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KGTV San Diego CA (ABC)
+http://192.236.245.10:8008/stream/kgtv.ts
+#EXTINF:-1 channel-id="kgw" tvg-id="kgw" tvg-name="KGW Portland OR (NBC)" tvg-logo="https://img.rebeliptv.net/channel/kgw.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KGW Portland OR (NBC)
+http://192.236.245.10:8008/stream/kgw.ts
+#EXTINF:-1 channel-id="khnl" tvg-id="khnl" tvg-name="KHNL Honolulu HI (NBC)" tvg-logo="https://img.rebeliptv.net/channel/khnl.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KHNL Honolulu HI (NBC)
+http://192.236.245.10:8008/stream/khnl.ts
+#EXTINF:-1 channel-id="khon" tvg-id="khon" tvg-name="KHON Honolulu HI (FOX)" tvg-logo="https://img.rebeliptv.net/channel/khon.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KHON Honolulu HI (FOX)
+http://192.236.245.10:8008/stream/khon.ts
+#EXTINF:-1 channel-id="khou" tvg-id="khou" tvg-name="KHOU Houston TX (CBS)" tvg-logo="https://img.rebeliptv.net/channel/khou.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KHOU Houston TX (CBS)
+http://192.236.245.10:8008/stream/khou.ts
+#EXTINF:-1 channel-id="king" tvg-id="king" tvg-name="KING Seattle WA (NBC)" tvg-logo="https://img.rebeliptv.net/channel/king.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KING Seattle WA (NBC)
+http://192.236.245.10:8008/stream/king.ts
+#EXTINF:-1 channel-id="kiro" tvg-id="kiro" tvg-name="KIRO Seattle WA (CBS)" tvg-logo="https://img.rebeliptv.net/channel/kiro.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KIRO Seattle WA (CBS)
+http://192.236.245.10:8008/stream/kiro.ts
+#EXTINF:-1 channel-id="kitv" tvg-id="kitv" tvg-name="KITV Honolulu HI (ABC)" tvg-logo="https://img.rebeliptv.net/channel/kitv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KITV Honolulu HI (ABC)
+http://192.236.245.10:8008/stream/kitv.ts
+#EXTINF:-1 channel-id="klas" tvg-id="klas" tvg-name="KLAS Las Vegas NV (CBS)" tvg-logo="https://img.rebeliptv.net/channel/klas.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KLAS Las Vegas NV (CBS)
+http://192.236.245.10:8008/stream/klas.ts
+#EXTINF:-1 channel-id="kmbc" tvg-id="kmbc" tvg-name="KMBC Kansas City MO (ABC)" tvg-logo="https://img.rebeliptv.net/channel/kmbc.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KMBC Kansas City MO (ABC)
+http://192.236.245.10:8008/stream/kmbc.ts
+#EXTINF:-1 channel-id="kmgh" tvg-id="kmgh" tvg-name="KMGH Denver CO (ABC)" tvg-logo="https://img.rebeliptv.net/channel/kmgh.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KMGH Denver CO (ABC)
+http://192.236.245.10:8008/stream/kmgh.ts
+#EXTINF:-1 channel-id="kmov" tvg-id="kmov" tvg-name="KMOV St. Louis MO (CBS)" tvg-logo="https://img.rebeliptv.net/channel/kmov.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KMOV St. Louis MO (CBS)
+http://192.236.245.10:8008/stream/kmov.ts
+#EXTINF:-1 channel-id="kmsp" tvg-id="kmsp" tvg-name="KMSP Minneapolis MN (FOX)" tvg-logo="https://img.rebeliptv.net/channel/kmsp.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KMSP Minneapolis MN (FOX)
+http://192.236.245.10:8008/stream/kmsp.ts
+#EXTINF:-1 channel-id="knbc" tvg-id="knbc" tvg-name="KNBC Los Angeles CA (NBC)" tvg-logo="https://img.rebeliptv.net/channel/knbc.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KNBC Los Angeles CA (NBC)
+http://192.236.245.10:8008/stream/knbc.ts
+#EXTINF:-1 channel-id="knsd" tvg-id="knsd" tvg-name="KNSD San Diego CA (NBC)" tvg-logo="https://img.rebeliptv.net/channel/knsd.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KNSD San Diego CA (NBC)
+http://192.236.245.10:8008/stream/knsd.ts
+#EXTINF:-1 channel-id="kntv" tvg-id="kntv" tvg-name="KNTV San Francisco CA (NBC)" tvg-logo="https://img.rebeliptv.net/channel/kntv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KNTV San Francisco CA (NBC)
+http://192.236.245.10:8008/stream/kntv.ts
+#EXTINF:-1 channel-id="knxv" tvg-id="knxv" tvg-name="KNXV Phoenix AZ (ABC)" tvg-logo="https://img.rebeliptv.net/channel/knxv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KNXV Phoenix AZ (ABC)
+http://192.236.245.10:8008/stream/knxv.ts
+#EXTINF:-1 channel-id="koin" tvg-id="koin" tvg-name="KOIN Portland OR (CBS)" tvg-logo="https://img.rebeliptv.net/channel/koin.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KOIN Portland OR (CBS)
+http://192.236.245.10:8008/stream/koin.ts
+#EXTINF:-1 channel-id="komo" tvg-id="komo" tvg-name="KOMO Seattle WA (ABC)" tvg-logo="https://img.rebeliptv.net/channel/komo.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KOMO Seattle WA (ABC)
+http://192.236.245.10:8008/stream/komo.ts
+#EXTINF:-1 channel-id="kovr" tvg-id="kovr" tvg-name="KOVR Sacramento CA (CBS)" tvg-logo="https://img.rebeliptv.net/channel/kovr.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KOVR Sacramento CA (CBS)
+http://192.236.245.10:8008/stream/kovr.ts
+#EXTINF:-1 channel-id="kpho" tvg-id="kpho" tvg-name="KPHO Phoenix AZ (CBS)" tvg-logo="https://img.rebeliptv.net/channel/kpho.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KPHO Phoenix AZ (CBS)
+http://192.236.245.10:8008/stream/kpho.ts
+#EXTINF:-1 channel-id="kpix" tvg-id="kpix" tvg-name="KPIX San Francisco CA (CBS)" tvg-logo="https://img.rebeliptv.net/channel/kpix.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KPIX San Francisco CA (CBS)
+http://192.236.245.10:8008/stream/kpix.ts
+#EXTINF:-1 channel-id="kpnx" tvg-id="kpnx" tvg-name="KPNX Phoenix AZ (NBC)" tvg-logo="https://img.rebeliptv.net/channel/kpnx.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KPNX Phoenix AZ (NBC)
+http://192.236.245.10:8008/stream/kpnx.ts
+#EXTINF:-1 channel-id="kprc" tvg-id="kprc" tvg-name="KPRC Houston TX (NBC)" tvg-logo="https://img.rebeliptv.net/channel/kprc.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KPRC Houston TX (NBC)
+http://192.236.245.10:8008/stream/kprc.ts
+#EXTINF:-1 channel-id="kptv" tvg-id="kptv" tvg-name="KPTV Portland OR (FOX)" tvg-logo="https://img.rebeliptv.net/channel/kptv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KPTV Portland OR (FOX)
+http://192.236.245.10:8008/stream/kptv.ts
+#EXTINF:-1 channel-id="kriv" tvg-id="kriv" tvg-name="KRIV Houston TX (FOX)" tvg-logo="https://img.rebeliptv.net/channel/kriv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KRIV Houston TX (FOX)
+http://192.236.245.10:8008/stream/kriv.ts
+#EXTINF:-1 channel-id="ksat" tvg-id="ksat" tvg-name="KSAT San Antonio TX (ABC)" tvg-logo="https://img.rebeliptv.net/channel/ksat.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KSAT San Antonio TX (ABC)
+http://192.236.245.10:8008/stream/ksat.ts
+#EXTINF:-1 channel-id="ksaz" tvg-id="ksaz" tvg-name="KSAZ Phoenix AZ (FOX)" tvg-logo="https://img.rebeliptv.net/channel/ksaz.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KSAZ Phoenix AZ (FOX)
+http://192.236.245.10:8008/stream/ksaz.ts
+#EXTINF:-1 channel-id="ksdk" tvg-id="ksdk" tvg-name="KSDK St. Louis MO (NBC)" tvg-logo="https://img.rebeliptv.net/channel/ksdk.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KSDK St. Louis MO (NBC)
+http://192.236.245.10:8008/stream/ksdk.ts
+#EXTINF:-1 channel-id="kshb" tvg-id="kshb" tvg-name="KSHB Kansas City MO (NBC)" tvg-logo="https://img.rebeliptv.net/channel/kshb.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KSHB Kansas City MO (NBC)
+http://192.236.245.10:8008/stream/kshb.ts
+#EXTINF:-1 channel-id="ksl" tvg-id="ksl" tvg-name="KSL Salt Lake City UT (NBC)" tvg-logo="https://img.rebeliptv.net/channel/ksl.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KSL Salt Lake City UT (NBC)
+http://192.236.245.10:8008/stream/ksl.ts
+#EXTINF:-1 channel-id="ksnv" tvg-id="ksnv" tvg-name="KSNV Las Vegas NV (NBC)" tvg-logo="https://img.rebeliptv.net/channel/ksnv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KSNV Las Vegas NV (NBC)
+http://192.236.245.10:8008/stream/ksnv.ts
+#EXTINF:-1 channel-id="kstp" tvg-id="kstp" tvg-name="KSTP Minneapolis MN (ABC)" tvg-logo="https://img.rebeliptv.net/channel/kstp.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KSTP Minneapolis MN (ABC)
+http://192.236.245.10:8008/stream/kstp.ts
+#EXTINF:-1 channel-id="kstu" tvg-id="kstu" tvg-name="KSTU Salt Lake City UT (FOX)" tvg-logo="https://img.rebeliptv.net/channel/kstu.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KSTU Salt Lake City UT (FOX)
+http://192.236.245.10:8008/stream/kstu.ts
+#EXTINF:-1 channel-id="kswb" tvg-id="kswb" tvg-name="KSWB San Diego CA (FOX)" tvg-logo="https://img.rebeliptv.net/channel/kswb.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KSWB San Diego CA (FOX)
+http://192.236.245.10:8008/stream/kswb.ts
+#EXTINF:-1 channel-id="ktbc" tvg-id="ktbc" tvg-name="KTBC Austin TX (FOX)" tvg-logo="https://img.rebeliptv.net/channel/ktbc.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KTBC Austin TX (FOX)
+http://192.236.245.10:8008/stream/ktbc.ts
+#EXTINF:-1 channel-id="ktby" tvg-id="ktby" tvg-name="KTBY Anchorage AK (FOX)" tvg-logo="https://img.rebeliptv.net/channel/ktby.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KTBY Anchorage AK (FOX)
+http://192.236.245.10:8008/stream/ktby.ts
+#EXTINF:-1 channel-id="ktnv" tvg-id="ktnv" tvg-name="KTNV Las Vegas NV (ABC)" tvg-logo="https://img.rebeliptv.net/channel/ktnv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KTNV Las Vegas NV (ABC)
+http://192.236.245.10:8008/stream/ktnv.ts
+#EXTINF:-1 channel-id="ktrk" tvg-id="ktrk" tvg-name="KTRK Houston TX (ABC)" tvg-logo="https://img.rebeliptv.net/channel/ktrk.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KTRK Houston TX (ABC)
+http://192.236.245.10:8008/stream/ktrk.ts
+#EXTINF:-1 channel-id="kttv" tvg-id="kttv" tvg-name="KTTV Los Angeles CA (FOX)" tvg-logo="https://img.rebeliptv.net/channel/kttv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KTTV Los Angeles CA (FOX)
+http://192.236.245.10:8008/stream/kttv.ts
+#EXTINF:-1 channel-id="ktuu" tvg-id="ktuu" tvg-name="KTUU Anchorage AK (NBC)" tvg-logo="https://img.rebeliptv.net/channel/ktuu.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KTUU Anchorage AK (NBC)
+http://192.236.245.10:8008/stream/ktuu.ts
+#EXTINF:-1 channel-id="ktvi" tvg-id="ktvi" tvg-name="KTVI St. Louis MO (FOX)" tvg-logo="https://img.rebeliptv.net/channel/ktvi.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KTVI St. Louis MO (FOX)
+http://192.236.245.10:8008/stream/ktvi.ts
+#EXTINF:-1 channel-id="ktvt" tvg-id="ktvt" tvg-name="KTVT Dallas-Fort Worth TX (CBS)" tvg-logo="https://img.rebeliptv.net/channel/ktvt.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KTVT Dallas-Fort Worth TX (CBS)
+http://192.236.245.10:8008/stream/ktvt.ts
+#EXTINF:-1 channel-id="ktvu" tvg-id="ktvu" tvg-name="KTVU San Francisco CA (FOX)" tvg-logo="https://img.rebeliptv.net/channel/ktvu.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KTVU San Francisco CA (FOX)
+http://192.236.245.10:8008/stream/ktvu.ts
+#EXTINF:-1 channel-id="ktvx" tvg-id="ktvx" tvg-name="KTVX Salt Lake City UT (ABC)" tvg-logo="https://img.rebeliptv.net/channel/ktvx.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KTVX Salt Lake City UT (ABC)
+http://192.236.245.10:8008/stream/ktvx.ts
+#EXTINF:-1 channel-id="ktxl" tvg-id="ktxl" tvg-name="KTXL Sacramento CA (FOX)" tvg-logo="https://img.rebeliptv.net/channel/ktxl.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KTXL Sacramento CA (FOX)
+http://192.236.245.10:8008/stream/ktxl.ts
+#EXTINF:-1 channel-id="kusa" tvg-id="kusa" tvg-name="KUSA Denver CO (NBC)" tvg-logo="https://img.rebeliptv.net/channel/kusa.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KUSA Denver CO (NBC)
+http://192.236.245.10:8008/stream/kusa.ts
+#EXTINF:-1 channel-id="kutv" tvg-id="kutv" tvg-name="KUTV Salt Lake City UT (CBS)" tvg-logo="https://img.rebeliptv.net/channel/kutv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KUTV Salt Lake City UT (CBS)
+http://192.236.245.10:8008/stream/kutv.ts
+#EXTINF:-1 channel-id="kvue" tvg-id="kvue" tvg-name="KVUE Austin TX (ABC)" tvg-logo="https://img.rebeliptv.net/channel/kvue.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KVUE Austin TX (ABC)
+http://192.236.245.10:8008/stream/kvue.ts
+#EXTINF:-1 channel-id="kvvu" tvg-id="kvvu" tvg-name="KVVU Las Vegas NV (FOX)" tvg-logo="https://img.rebeliptv.net/channel/kvvu.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KVVU Las Vegas NV (FOX)
+http://192.236.245.10:8008/stream/kvvu.ts
+#EXTINF:-1 channel-id="kxan" tvg-id="kxan" tvg-name="KXAN Austin TX (NBC)" tvg-logo="https://img.rebeliptv.net/channel/kxan.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KXAN Austin TX (NBC)
+http://192.236.245.10:8008/stream/kxan.ts
+#EXTINF:-1 channel-id="kxas" tvg-id="kxas" tvg-name="KXAS Dallas-Fort Worth TX (NBC)" tvg-logo="https://img.rebeliptv.net/channel/kxas.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KXAS Dallas-Fort Worth TX (NBC)
+http://192.236.245.10:8008/stream/kxas.ts
+#EXTINF:-1 channel-id="kxtv" tvg-id="kxtv" tvg-name="KXTV Sacramento CA (ABC)" tvg-logo="https://img.rebeliptv.net/channel/kxtv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KXTV Sacramento CA (ABC)
+http://192.236.245.10:8008/stream/kxtv.ts
+#EXTINF:-1 channel-id="kyur" tvg-id="kyur" tvg-name="KYUR Anchorage AK (ABC)" tvg-logo="https://img.rebeliptv.net/channel/kyur.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KYUR Anchorage AK (ABC)
+http://192.236.245.10:8008/stream/kyur.ts
+#EXTINF:-1 channel-id="kyw" tvg-id="kyw" tvg-name="KYW Philadelphia PA (CBS)" tvg-logo="https://img.rebeliptv.net/channel/kyw.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",KYW Philadelphia PA (CBS)
+http://192.236.245.10:8008/stream/kyw.ts
+#EXTINF:-1 channel-id="lifetime" tvg-id="lifetime" tvg-name="Lifetime" tvg-logo="https://img.rebeliptv.net/channel/lifetime.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Lifetime
+http://192.236.245.10:8008/stream/lifetime.ts
+#EXTINF:-1 channel-id="lifetime-movies-lmn" tvg-id="lifetime-movies-lmn" tvg-name="Lifetime Movies" tvg-logo="https://img.rebeliptv.net/channel/lifetime-movies-lmn.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Lifetime Movies
+http://192.236.245.10:8008/stream/lifetime-movies-lmn.ts
+#EXTINF:-1 channel-id="logo-tv" tvg-id="logo-tv" tvg-name="LOGO TV" tvg-logo="https://img.rebeliptv.net/channel/logo-tv.png" tvg-country="US" tvg-language="English" group-title="Entertainment",LOGO TV
+http://192.236.245.10:8008/stream/logo-tv.ts
+#EXTINF:-1 channel-id="magnolia-network" tvg-id="magnolia-network" tvg-name="Magnolia Network" tvg-logo="https://img.rebeliptv.net/channel/magnolia-network.png" tvg-country="US" tvg-language="English" group-title="Lifestyle",Magnolia Network
+http://192.236.245.10:8008/stream/magnolia-network.ts
+#EXTINF:-1 channel-id="marquee-sports-network" tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network" tvg-logo="https://img.rebeliptv.net/channel/marquee-sports-network.png" tvg-country="US" tvg-language="English" group-title="Sports",Marquee Sports Network
+http://192.236.245.10:8008/stream/marquee-sports-network.ts
+#EXTINF:-1 channel-id="masn" tvg-id="masn" tvg-name="MASN" tvg-logo="https://img.rebeliptv.net/channel/masn.png" tvg-country="US" tvg-language="English" group-title="Sports",MASN
+http://192.236.245.10:8008/stream/masn.ts
+#EXTINF:-1 channel-id="metv" tvg-id="metv" tvg-name="MeTV" tvg-logo="https://img.rebeliptv.net/channel/metv.png" tvg-country="US" tvg-language="English" group-title="Broadcast",MeTV
+http://192.236.245.10:8008/stream/metv.ts
+#EXTINF:-1 channel-id="mgm-plus" tvg-id="mgm-plus" tvg-name="MGM+" tvg-logo="https://img.rebeliptv.net/channel/mgm-plus.png" tvg-country="US" tvg-language="English" group-title="Movies",MGM+
+http://192.236.245.10:8008/stream/mgm-plus.ts
+#EXTINF:-1 channel-id="military-history" tvg-id="military-history" tvg-name="Military History" tvg-logo="https://img.rebeliptv.net/channel/military-history.png" tvg-country="US" tvg-language="English" group-title="Documentary",Military History
+http://192.236.245.10:8008/stream/military-history.ts
+#EXTINF:-1 channel-id="mlb-network" tvg-id="mlb-network" tvg-name="MLB Network" tvg-logo="https://img.rebeliptv.net/channel/mlb-network.png" tvg-country="US" tvg-language="English" group-title="Sports",MLB Network
+http://192.236.245.10:8008/stream/mlb-network.ts
+#EXTINF:-1 channel-id="mlb-strike-zone" tvg-id="mlb-strike-zone" tvg-name="MLB Strike Zone" tvg-logo="https://img.rebeliptv.net/channel/mlb-strike-zone.png" tvg-country="US" tvg-language="English" group-title="Sports",MLB Strike Zone
+http://192.236.245.10:8008/stream/mlb-strike-zone.ts
+#EXTINF:-1 channel-id="monumental-sports-network" tvg-id="monumental-sports-network" tvg-name="Monumental Sports Network" tvg-logo="https://img.rebeliptv.net/channel/monumental-sports-network.png" tvg-country="US" tvg-language="English" group-title="Sports",Monumental Sports Network
+http://192.236.245.10:8008/stream/monumental-sports-network.ts
+#EXTINF:-1 channel-id="movies" tvg-id="movies" tvg-name="Movies!" tvg-logo="https://img.rebeliptv.net/channel/movies.png" tvg-country="US" tvg-language="English" group-title="Broadcast",Movies!
+http://192.236.245.10:8008/stream/movies.ts
+#EXTINF:-1 channel-id="ms-now" tvg-id="ms-now" tvg-name="MS NOW" tvg-logo="https://img.rebeliptv.net/channel/ms-now.png" tvg-country="US" tvg-language="English" group-title="News",MS NOW
+http://192.236.245.10:8008/stream/ms-now.ts
+#EXTINF:-1 channel-id="msg" tvg-id="msg" tvg-name="MSG" tvg-logo="https://img.rebeliptv.net/channel/msg.png" tvg-country="US" tvg-language="English" group-title="Sports",MSG
+http://192.236.245.10:8008/stream/msg.ts
+#EXTINF:-1 channel-id="mtv" tvg-id="mtv" tvg-name="MTV" tvg-logo="https://img.rebeliptv.net/channel/mtv.png" tvg-country="US" tvg-language="English" group-title="Music",MTV
+http://192.236.245.10:8008/stream/mtv.ts
+#EXTINF:-1 channel-id="mtv-classic" tvg-id="mtv-classic" tvg-name="MTV Classic" tvg-logo="https://img.rebeliptv.net/channel/mtv-classic.png" tvg-country="US" tvg-language="English" group-title="Music",MTV Classic
+http://192.236.245.10:8008/stream/mtv-classic.ts
+#EXTINF:-1 channel-id="mtv-live" tvg-id="mtv-live" tvg-name="MTV Live" tvg-logo="https://img.rebeliptv.net/channel/mtv-live.png" tvg-country="US" tvg-language="English" group-title="Music",MTV Live
+http://192.236.245.10:8008/stream/mtv-live.ts
+#EXTINF:-1 channel-id="mtv2" tvg-id="mtv2" tvg-name="MTV2" tvg-logo="https://img.rebeliptv.net/channel/mtv2.png" tvg-country="US" tvg-language="English" group-title="Music",MTV2
+http://192.236.245.10:8008/stream/mtv2.ts
+#EXTINF:-1 channel-id="mtvu" tvg-id="mtvu" tvg-name="MTVU" tvg-logo="https://img.rebeliptv.net/channel/mtvu.png" tvg-country="US" tvg-language="English" group-title="Music",MTVU
+http://192.236.245.10:8008/stream/mtvu.ts
+#EXTINF:-1 channel-id="mynetworktv" tvg-id="mynetworktv" tvg-name="MyNetworkTV" tvg-logo="https://img.rebeliptv.net/channel/mynetworktv.png" tvg-country="US" tvg-language="English" group-title="Broadcast",MyNetworkTV
+http://192.236.245.10:8008/stream/mynetworktv.ts
+#EXTINF:-1 channel-id="nat-geo-wild" tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="https://img.rebeliptv.net/channel/nat-geo-wild.png" tvg-country="US" tvg-language="English" group-title="Documentary",Nat Geo Wild
+http://192.236.245.10:8008/stream/nat-geo-wild.ts
+#EXTINF:-1 channel-id="national-geographic" tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="https://img.rebeliptv.net/channel/national-geographic.png" tvg-country="US" tvg-language="English" group-title="Documentary",National Geographic
+http://192.236.245.10:8008/stream/national-geographic.ts
+#EXTINF:-1 channel-id="nba-tv" tvg-id="nba-tv" tvg-name="NBA TV" tvg-logo="https://img.rebeliptv.net/channel/nba-tv.png" tvg-country="US" tvg-language="English" group-title="Sports",NBA TV
+http://192.236.245.10:8008/stream/nba-tv.ts
+#EXTINF:-1 channel-id="nbc-news" tvg-id="nbc-news" tvg-name="NBC News" tvg-logo="https://img.rebeliptv.net/channel/nbc-news.png" tvg-country="US" tvg-language="English" group-title="News",NBC News
+http://192.236.245.10:8008/stream/nbc-news.ts
+#EXTINF:-1 channel-id="nbc-sports-bay-area" tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area" tvg-logo="https://img.rebeliptv.net/channel/nbc-sports-bay-area.png" tvg-country="US" tvg-language="English" group-title="Sports",NBC Sports Bay Area
+http://192.236.245.10:8008/stream/nbc-sports-bay-area.ts
+#EXTINF:-1 channel-id="nbc-sports-boston" tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston" tvg-logo="https://img.rebeliptv.net/channel/nbc-sports-boston.png" tvg-country="US" tvg-language="English" group-title="Sports",NBC Sports Boston
+http://192.236.245.10:8008/stream/nbc-sports-boston.ts
+#EXTINF:-1 channel-id="nbc-sports-california" tvg-id="nbc-sports-california" tvg-name="NBC Sports California" tvg-logo="https://img.rebeliptv.net/channel/nbc-sports-california.png" tvg-country="US" tvg-language="English" group-title="Sports",NBC Sports California
+http://192.236.245.10:8008/stream/nbc-sports-california.ts
+#EXTINF:-1 channel-id="nbc-sports-philadelphia" tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia" tvg-logo="https://img.rebeliptv.net/channel/nbc-sports-philadelphia.png" tvg-country="US" tvg-language="English" group-title="Sports",NBC Sports Philadelphia
+http://192.236.245.10:8008/stream/nbc-sports-philadelphia.ts
+#EXTINF:-1 channel-id="nesn" tvg-id="nesn" tvg-name="New England Sports Network" tvg-logo="https://img.rebeliptv.net/channel/nesn.png" tvg-country="US" tvg-language="English" group-title="Sports",New England Sports Network
+http://192.236.245.10:8008/stream/nesn.ts
+#EXTINF:-1 channel-id="newsmax-tv" tvg-id="newsmax-tv" tvg-name="NewsMax TV" tvg-logo="https://img.rebeliptv.net/channel/newsmax-tv.png" tvg-country="US" tvg-language="English" group-title="News",NewsMax TV
+http://192.236.245.10:8008/stream/newsmax-tv.ts
+#EXTINF:-1 channel-id="newsnation" tvg-id="newsnation" tvg-name="NewsNation" tvg-logo="https://img.rebeliptv.net/channel/newsnation.png" tvg-country="US" tvg-language="English" group-title="News",NewsNation
+http://192.236.245.10:8008/stream/newsnation.ts
+#EXTINF:-1 channel-id="nfl-network" tvg-id="nfl-network" tvg-name="NFL Network" tvg-logo="https://img.rebeliptv.net/channel/nfl-network.png" tvg-country="US" tvg-language="English" group-title="Sports",NFL Network
+http://192.236.245.10:8008/stream/nfl-network.ts
+#EXTINF:-1 channel-id="nfl-redzone" tvg-id="nfl-redzone" tvg-name="NFL RedZone" tvg-logo="https://img.rebeliptv.net/channel/nfl-redzone.png" tvg-country="US" tvg-language="English" group-title="Sports",NFL RedZone
+http://192.236.245.10:8008/stream/nfl-redzone.ts
+#EXTINF:-1 channel-id="nhl-network" tvg-id="nhl-network" tvg-name="NHL Network" tvg-logo="https://img.rebeliptv.net/channel/nhl-network.png" tvg-country="US" tvg-language="English" group-title="Sports",NHL Network
+http://192.236.245.10:8008/stream/nhl-network.ts
+#EXTINF:-1 channel-id="nick-at-nite" tvg-id="nick-at-nite" tvg-name="Nick at Nite" tvg-logo="https://img.rebeliptv.net/channel/nick-at-nite.png" tvg-country="US" tvg-language="English" group-title="Kids",Nick at Nite
+http://192.236.245.10:8008/stream/nick-at-nite.ts
+#EXTINF:-1 channel-id="nick-jr" tvg-id="nick-jr" tvg-name="Nick Jr." tvg-logo="https://img.rebeliptv.net/channel/nick-jr.png" tvg-country="US" tvg-language="English" group-title="Kids",Nick Jr.
+http://192.236.245.10:8008/stream/nick-jr.ts
+#EXTINF:-1 channel-id="nickelodeon" tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://img.rebeliptv.net/channel/nickelodeon.png" tvg-country="US" tvg-language="English" group-title="Kids",Nickelodeon
+http://192.236.245.10:8008/stream/nickelodeon.ts
+#EXTINF:-1 channel-id="nickmusic" tvg-id="nickmusic" tvg-name="NickMusic" tvg-logo="https://img.rebeliptv.net/channel/nickmusic.png" tvg-country="US" tvg-language="English" group-title="Kids",NickMusic
+http://192.236.245.10:8008/stream/nickmusic.ts
+#EXTINF:-1 channel-id="nicktoons" tvg-id="nicktoons" tvg-name="Nicktoons" tvg-logo="https://img.rebeliptv.net/channel/nicktoons.png" tvg-country="US" tvg-language="English" group-title="Kids",Nicktoons
+http://192.236.245.10:8008/stream/nicktoons.ts
+#EXTINF:-1 channel-id="one-america-news-network-oan" tvg-id="one-america-news-network-oan" tvg-name="One America News Network" tvg-logo="https://img.rebeliptv.net/channel/one-america-news-network-oan.png" tvg-country="US" tvg-language="English" group-title="News",One America News Network
+http://192.236.245.10:8008/stream/one-america-news-network-oan.ts
+#EXTINF:-1 channel-id="outdoor-channel" tvg-id="outdoor-channel" tvg-name="Outdoor Channel" tvg-logo="https://img.rebeliptv.net/channel/outdoor-channel.png" tvg-country="US" tvg-language="English" group-title="Documentary",Outdoor Channel
+http://192.236.245.10:8008/stream/outdoor-channel.ts
+#EXTINF:-1 channel-id="own" tvg-id="own" tvg-name="OWN" tvg-logo="https://img.rebeliptv.net/channel/own.png" tvg-country="US" tvg-language="English" group-title="Entertainment",OWN
+http://192.236.245.10:8008/stream/own.ts
+#EXTINF:-1 channel-id="oxygen" tvg-id="oxygen" tvg-name="Oxygen" tvg-logo="https://img.rebeliptv.net/channel/oxygen.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Oxygen
+http://192.236.245.10:8008/stream/oxygen.ts
+#EXTINF:-1 channel-id="paramount-network" tvg-id="paramount-network" tvg-name="Paramount Network" tvg-logo="https://img.rebeliptv.net/channel/paramount-network.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Paramount Network
+http://192.236.245.10:8008/stream/paramount-network.ts
+#EXTINF:-1 channel-id="pbs-kids" tvg-id="pbs-kids" tvg-name="PBS Kids" tvg-logo="https://img.rebeliptv.net/channel/pbs-kids.png" tvg-country="US" tvg-language="English" group-title="Broadcast",PBS Kids
+http://192.236.245.10:8008/stream/pbs-kids.ts
+#EXTINF:-1 channel-id="pop-tv" tvg-id="pop-tv" tvg-name="Pop TV" tvg-logo="https://img.rebeliptv.net/channel/pop-tv.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Pop TV
+http://192.236.245.10:8008/stream/pop-tv.ts
+#EXTINF:-1 channel-id="real-americas-voice" tvg-id="real-americas-voice" tvg-name="Real America's Voice" tvg-logo="https://img.rebeliptv.net/channel/real-americas-voice.png" tvg-country="US" tvg-language="English" group-title="News",Real America's Voice
+http://192.236.245.10:8008/stream/real-americas-voice.ts
+#EXTINF:-1 channel-id="reelzchannel" tvg-id="reelzchannel" tvg-name="ReelzChannel" tvg-logo="https://img.rebeliptv.net/channel/reelzchannel.png" tvg-country="US" tvg-language="English" group-title="Entertainment",ReelzChannel
+http://192.236.245.10:8008/stream/reelzchannel.ts
+#EXTINF:-1 channel-id="rfd-tv" tvg-id="rfd-tv" tvg-name="RFD TV" tvg-logo="https://img.rebeliptv.net/channel/rfd-tv.png" tvg-country="US" tvg-language="English" group-title="Entertainment",RFD TV
+http://192.236.245.10:8008/stream/rfd-tv.ts
+#EXTINF:-1 channel-id="science-channel" tvg-id="science-channel" tvg-name="Science Channel" tvg-logo="https://img.rebeliptv.net/channel/science-channel.png" tvg-country="US" tvg-language="English" group-title="Documentary",Science Channel
+http://192.236.245.10:8008/stream/science-channel.ts
+#EXTINF:-1 channel-id="scripps-news" tvg-id="scripps-news" tvg-name="Scripps News" tvg-logo="https://img.rebeliptv.net/channel/scripps-news.png" tvg-country="US" tvg-language="English" group-title="News",Scripps News
+http://192.236.245.10:8008/stream/scripps-news.ts
+#EXTINF:-1 channel-id="sec-network" tvg-id="sec-network" tvg-name="SEC Network" tvg-logo="https://img.rebeliptv.net/channel/sec-network.png" tvg-country="US" tvg-language="English" group-title="Sports",SEC Network
+http://192.236.245.10:8008/stream/sec-network.ts
+#EXTINF:-1 channel-id="showtime" tvg-id="showtime" tvg-name="Showtime" tvg-logo="https://img.rebeliptv.net/channel/showtime.png" tvg-country="US" tvg-language="English" group-title="Movies",Showtime
+http://192.236.245.10:8008/stream/showtime.ts
+#EXTINF:-1 channel-id="showtime-2" tvg-id="showtime-2" tvg-name="Showtime 2" tvg-logo="https://img.rebeliptv.net/channel/showtime-2.png" tvg-country="US" tvg-language="English" group-title="Movies",Showtime 2
+http://192.236.245.10:8008/stream/showtime-2.ts
+#EXTINF:-1 channel-id="sky-sports-action" tvg-id="sky-sports-action" tvg-name="Sky Sports Action" tvg-logo="https://img.rebeliptv.net/channel/sky-sports-action.png" tvg-country="GB" tvg-language="English" group-title="Sports",Sky Sports Action
+http://192.236.245.10:8008/stream/sky-sports-action.ts
+#EXTINF:-1 channel-id="sky-sports-arena" tvg-id="sky-sports-arena" tvg-name="Sky Sports Arena" tvg-logo="https://img.rebeliptv.net/channel/sky-sports-arena.png" tvg-country="GB" tvg-language="English" group-title="Sports",Sky Sports Arena
+http://192.236.245.10:8008/stream/sky-sports-arena.ts
+#EXTINF:-1 channel-id="sky-sports-cricket" tvg-id="sky-sports-cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://img.rebeliptv.net/channel/sky-sports-cricket.png" tvg-country="GB" tvg-language="English" group-title="Sports",Sky Sports Cricket
+http://192.236.245.10:8008/stream/sky-sports-cricket.ts
+#EXTINF:-1 channel-id="sky-sports-f1" tvg-id="sky-sports-f1" tvg-name="Sky Sports F1" tvg-logo="https://img.rebeliptv.net/channel/sky-sports-f1.png" tvg-country="GB" tvg-language="English" group-title="Sports",Sky Sports F1
+http://192.236.245.10:8008/stream/sky-sports-f1.ts
+#EXTINF:-1 channel-id="sky-sports-football" tvg-id="sky-sports-football" tvg-name="Sky Sports Football" tvg-logo="https://img.rebeliptv.net/channel/sky-sports-football.png" tvg-country="GB" tvg-language="English" group-title="Sports",Sky Sports Football
+http://192.236.245.10:8008/stream/sky-sports-football.ts
+#EXTINF:-1 channel-id="sky-sports-golf" tvg-id="sky-sports-golf" tvg-name="Sky Sports Golf" tvg-logo="https://img.rebeliptv.net/channel/sky-sports-golf.png" tvg-country="GB" tvg-language="English" group-title="Sports",Sky Sports Golf
+http://192.236.245.10:8008/stream/sky-sports-golf.ts
+#EXTINF:-1 channel-id="sky-sports-main-event" tvg-id="sky-sports-main-event" tvg-name="Sky Sports Main Event" tvg-logo="https://img.rebeliptv.net/channel/sky-sports-main-event.png" tvg-country="GB" tvg-language="English" group-title="Sports",Sky Sports Main Event
+http://192.236.245.10:8008/stream/sky-sports-main-event.ts
+#EXTINF:-1 channel-id="sky-sports-mix" tvg-id="sky-sports-mix" tvg-name="Sky Sports Mix" tvg-logo="https://img.rebeliptv.net/channel/sky-sports-mix.png" tvg-country="GB" tvg-language="English" group-title="Sports",Sky Sports Mix
+http://192.236.245.10:8008/stream/sky-sports-mix.ts
+#EXTINF:-1 channel-id="sky-sports-news" tvg-id="sky-sports-news" tvg-name="Sky Sports News" tvg-logo="https://img.rebeliptv.net/channel/sky-sports-news.png" tvg-country="GB" tvg-language="English" group-title="Sports;News",Sky Sports News
+http://192.236.245.10:8008/stream/sky-sports-news.ts
+#EXTINF:-1 channel-id="sky-sports-plus" tvg-id="sky-sports-plus" tvg-name="Sky Sports Plus" tvg-logo="https://img.rebeliptv.net/channel/sky-sports-plus.png" tvg-country="GB" tvg-language="English" group-title="Sports",Sky Sports Plus
+http://192.236.245.10:8008/stream/sky-sports-plus.ts
+#EXTINF:-1 channel-id="sky-sports-premier-league" tvg-id="sky-sports-premier-league" tvg-name="Sky Sports Premier League" tvg-logo="https://img.rebeliptv.net/channel/sky-sports-premier-league.png" tvg-country="GB" tvg-language="English" group-title="Sports",Sky Sports Premier League
+http://192.236.245.10:8008/stream/sky-sports-premier-league.ts
+#EXTINF:-1 channel-id="sky-sports-racing" tvg-id="sky-sports-racing" tvg-name="Sky Sports Racing" tvg-logo="https://img.rebeliptv.net/channel/sky-sports-racing.png" tvg-country="GB" tvg-language="English" group-title="Sports",Sky Sports Racing
+http://192.236.245.10:8008/stream/sky-sports-racing.ts
+#EXTINF:-1 channel-id="sky-sports-tennis" tvg-id="sky-sports-tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://img.rebeliptv.net/channel/sky-sports-tennis.png" tvg-country="GB" tvg-language="English" group-title="Sports",Sky Sports Tennis
+http://192.236.245.10:8008/stream/sky-sports-tennis.ts
+#EXTINF:-1 channel-id="smithsonian-channel" tvg-id="smithsonian-channel" tvg-name="Smithsonian Channel" tvg-logo="https://img.rebeliptv.net/channel/smithsonian-channel.png" tvg-country="US" tvg-language="English" group-title="Documentary",Smithsonian Channel
+http://192.236.245.10:8008/stream/smithsonian-channel.ts
+#EXTINF:-1 channel-id="sny" tvg-id="sny" tvg-name="SNY" tvg-logo="https://img.rebeliptv.net/channel/sny.png" tvg-country="US" tvg-language="English" group-title="Sports",SNY
+http://192.236.245.10:8008/stream/sny.ts
+#EXTINF:-1 channel-id="spectrum-sportsnet" tvg-id="spectrum-sportsnet" tvg-name="Spectrum SportsNet" tvg-logo="https://img.rebeliptv.net/channel/spectrum-sportsnet.png" tvg-country="US" tvg-language="English" group-title="Sports",Spectrum SportsNet
+http://192.236.245.10:8008/stream/spectrum-sportsnet.ts
+#EXTINF:-1 channel-id="spectrum-sportsnet-la" tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA" tvg-logo="https://img.rebeliptv.net/channel/spectrum-sportsnet-la.png" tvg-country="US" tvg-language="English" group-title="Sports",Spectrum SportsNet LA
+http://192.236.245.10:8008/stream/spectrum-sportsnet-la.ts
+#EXTINF:-1 channel-id="sportsman-channel" tvg-id="sportsman-channel" tvg-name="Sportsman Channel" tvg-logo="https://img.rebeliptv.net/channel/sportsman-channel.png" tvg-country="US" tvg-language="English" group-title="Documentary",Sportsman Channel
+http://192.236.245.10:8008/stream/sportsman-channel.ts
+#EXTINF:-1 channel-id="sportsnet-360" tvg-id="sportsnet-360" tvg-name="Sportsnet 360" tvg-logo="https://img.rebeliptv.net/channel/sportsnet-360.png" tvg-country="CA" tvg-language="English" group-title="Sports",Sportsnet 360
+http://192.236.245.10:8008/stream/sportsnet-360.ts
+#EXTINF:-1 channel-id="sportsnet-east" tvg-id="sportsnet-east" tvg-name="Sportsnet East" tvg-logo="https://img.rebeliptv.net/channel/sportsnet-east.png" tvg-country="CA" tvg-language="English" group-title="Sports",Sportsnet East
+http://192.236.245.10:8008/stream/sportsnet-east.ts
+#EXTINF:-1 channel-id="sportsnet-one" tvg-id="sportsnet-one" tvg-name="Sportsnet One" tvg-logo="https://img.rebeliptv.net/channel/sportsnet-one.png" tvg-country="CA" tvg-language="English" group-title="Sports",Sportsnet One
+http://192.236.245.10:8008/stream/sportsnet-one.ts
+#EXTINF:-1 channel-id="sportsnet-ontario" tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario" tvg-logo="https://img.rebeliptv.net/channel/sportsnet-ontario.png" tvg-country="CA" tvg-language="English" group-title="Sports",Sportsnet Ontario
+http://192.236.245.10:8008/stream/sportsnet-ontario.ts
+#EXTINF:-1 channel-id="sportsnet-pacific" tvg-id="sportsnet-pacific" tvg-name="Sportsnet Pacific" tvg-logo="https://img.rebeliptv.net/channel/sportsnet-pacific.png" tvg-country="CA" tvg-language="English" group-title="Sports",Sportsnet Pacific
+http://192.236.245.10:8008/stream/sportsnet-pacific.ts
+#EXTINF:-1 channel-id="sportsnet-pittsburgh" tvg-id="sportsnet-pittsburgh" tvg-name="SportsNet Pittsburgh" tvg-logo="https://img.rebeliptv.net/channel/sportsnet-pittsburgh.png" tvg-country="US" tvg-language="English" group-title="Sports",SportsNet Pittsburgh
+http://192.236.245.10:8008/stream/sportsnet-pittsburgh.ts
+#EXTINF:-1 channel-id="sportsnet-west" tvg-id="sportsnet-west" tvg-name="Sportsnet West" tvg-logo="https://img.rebeliptv.net/channel/sportsnet-west.png" tvg-country="CA" tvg-language="English" group-title="Sports",Sportsnet West
+http://192.236.245.10:8008/stream/sportsnet-west.ts
+#EXTINF:-1 channel-id="starz" tvg-id="starz" tvg-name="Starz" tvg-logo="https://img.rebeliptv.net/channel/starz.png" tvg-country="US" tvg-language="English" group-title="Movies",Starz
+http://192.236.245.10:8008/stream/starz.ts
+#EXTINF:-1 channel-id="starz-cinema" tvg-id="starz-cinema" tvg-name="Starz Cinema" tvg-logo="https://img.rebeliptv.net/channel/starz-cinema.png" tvg-country="US" tvg-language="English" group-title="Movies",Starz Cinema
+http://192.236.245.10:8008/stream/starz-cinema.ts
+#EXTINF:-1 channel-id="starz-comedy" tvg-id="starz-comedy" tvg-name="Starz Comedy" tvg-logo="https://img.rebeliptv.net/channel/starz-comedy.png" tvg-country="US" tvg-language="English" group-title="Movies",Starz Comedy
+http://192.236.245.10:8008/stream/starz-comedy.ts
+#EXTINF:-1 channel-id="starz-edge" tvg-id="starz-edge" tvg-name="Starz Edge" tvg-logo="https://img.rebeliptv.net/channel/starz-edge.png" tvg-country="US" tvg-language="English" group-title="Movies",Starz Edge
+http://192.236.245.10:8008/stream/starz-edge.ts
+#EXTINF:-1 channel-id="starz-encore" tvg-id="starz-encore" tvg-name="Starz Encore" tvg-logo="https://img.rebeliptv.net/channel/starz-encore.png" tvg-country="US" tvg-language="English" group-title="Movies",Starz Encore
+http://192.236.245.10:8008/stream/starz-encore.ts
+#EXTINF:-1 channel-id="starz-encore-action" tvg-id="starz-encore-action" tvg-name="Starz Encore Action" tvg-logo="https://img.rebeliptv.net/channel/starz-encore-action.png" tvg-country="US" tvg-language="English" group-title="Movies",Starz Encore Action
+http://192.236.245.10:8008/stream/starz-encore-action.ts
+#EXTINF:-1 channel-id="starz-encore-black" tvg-id="starz-encore-black" tvg-name="Starz Encore Black" tvg-logo="https://img.rebeliptv.net/channel/starz-encore-black.png" tvg-country="US" tvg-language="English" group-title="Movies",Starz Encore Black
+http://192.236.245.10:8008/stream/starz-encore-black.ts
+#EXTINF:-1 channel-id="starz-encore-classic" tvg-id="starz-encore-classic" tvg-name="Starz Encore Classic" tvg-logo="https://img.rebeliptv.net/channel/starz-encore-classic.png" tvg-country="US" tvg-language="English" group-title="Movies",Starz Encore Classic
+http://192.236.245.10:8008/stream/starz-encore-classic.ts
+#EXTINF:-1 channel-id="starz-encore-family" tvg-id="starz-encore-family" tvg-name="Starz Encore Family" tvg-logo="https://img.rebeliptv.net/channel/starz-encore-family.png" tvg-country="US" tvg-language="English" group-title="Movies;Kids",Starz Encore Family
+http://192.236.245.10:8008/stream/starz-encore-family.ts
+#EXTINF:-1 channel-id="starz-encore-suspense" tvg-id="starz-encore-suspense" tvg-name="Starz Encore Suspense" tvg-logo="https://img.rebeliptv.net/channel/starz-encore-suspense.png" tvg-country="US" tvg-language="English" group-title="Movies",Starz Encore Suspense
+http://192.236.245.10:8008/stream/starz-encore-suspense.ts
+#EXTINF:-1 channel-id="starz-encore-westerns" tvg-id="starz-encore-westerns" tvg-name="Starz Encore Westerns" tvg-logo="https://img.rebeliptv.net/channel/starz-encore-westerns.png" tvg-country="US" tvg-language="English" group-title="Movies",Starz Encore Westerns
+http://192.236.245.10:8008/stream/starz-encore-westerns.ts
+#EXTINF:-1 channel-id="starz-in-black" tvg-id="starz-in-black" tvg-name="Starz in Black" tvg-logo="https://img.rebeliptv.net/channel/starz-in-black.png" tvg-country="US" tvg-language="English" group-title="Movies",Starz in Black
+http://192.236.245.10:8008/stream/starz-in-black.ts
+#EXTINF:-1 channel-id="starz-kids-family" tvg-id="starz-kids-family" tvg-name="Starz Kids & Family" tvg-logo="https://img.rebeliptv.net/channel/starz-kids-family.png" tvg-country="US" tvg-language="English" group-title="Movies;Kids",Starz Kids & Family
+http://192.236.245.10:8008/stream/starz-kids-family.ts
+#EXTINF:-1 channel-id="story-television" tvg-id="story-television" tvg-name="Story Television" tvg-logo="https://img.rebeliptv.net/channel/story-television.png" tvg-country="US" tvg-language="English" group-title="Broadcast",Story Television
+http://192.236.245.10:8008/stream/story-television.ts
+#EXTINF:-1 channel-id="sundancetv" tvg-id="sundancetv" tvg-name="SundanceTV" tvg-logo="https://img.rebeliptv.net/channel/sundancetv.png" tvg-country="US" tvg-language="English" group-title="Movies",SundanceTV
+http://192.236.245.10:8008/stream/sundancetv.ts
+#EXTINF:-1 channel-id="syfy" tvg-id="syfy" tvg-name="Syfy" tvg-logo="https://img.rebeliptv.net/channel/syfy.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Syfy
+http://192.236.245.10:8008/stream/syfy.ts
+#EXTINF:-1 channel-id="tbs" tvg-id="tbs" tvg-name="TBS" tvg-logo="https://img.rebeliptv.net/channel/tbs.png" tvg-country="US" tvg-language="English" group-title="Entertainment",TBS
+http://192.236.245.10:8008/stream/tbs.ts
+#EXTINF:-1 channel-id="tcm" tvg-id="tcm" tvg-name="TCM" tvg-logo="https://img.rebeliptv.net/channel/tcm.png" tvg-country="US" tvg-language="English" group-title="Movies",TCM
+http://192.236.245.10:8008/stream/tcm.ts
+#EXTINF:-1 channel-id="teennick" tvg-id="teennick" tvg-name="TeenNick" tvg-logo="https://img.rebeliptv.net/channel/teennick.png" tvg-country="US" tvg-language="English" group-title="Kids",TeenNick
+http://192.236.245.10:8008/stream/teennick.ts
+#EXTINF:-1 channel-id="tennis-channel" tvg-id="tennis-channel" tvg-name="Tennis Channel" tvg-logo="https://img.rebeliptv.net/channel/tennis-channel.png" tvg-country="US" tvg-language="English" group-title="Sports",Tennis Channel
+http://192.236.245.10:8008/stream/tennis-channel.ts
+#EXTINF:-1 channel-id="the-movie-channel-tmc" tvg-id="the-movie-channel-tmc" tvg-name="The Movie Channel" tvg-logo="https://img.rebeliptv.net/channel/the-movie-channel-tmc.png" tvg-country="US" tvg-language="English" group-title="Movies",The Movie Channel
+http://192.236.245.10:8008/stream/the-movie-channel-tmc.ts
+#EXTINF:-1 channel-id="the-weather-channel" tvg-id="the-weather-channel" tvg-name="The Weather Channel" tvg-logo="https://img.rebeliptv.net/channel/the-weather-channel.png" tvg-country="US" tvg-language="English" group-title="News",The Weather Channel
+http://192.236.245.10:8008/stream/the-weather-channel.ts
+#EXTINF:-1 channel-id="thegrio" tvg-id="thegrio" tvg-name="TheGrio" tvg-logo="https://img.rebeliptv.net/channel/thegrio.png" tvg-country="US" tvg-language="English" group-title="Entertainment",TheGrio
+http://192.236.245.10:8008/stream/thegrio.ts
+#EXTINF:-1 channel-id="tlc" tvg-id="tlc" tvg-name="TLC" tvg-logo="https://img.rebeliptv.net/channel/tlc.png" tvg-country="US" tvg-language="English" group-title="Entertainment",TLC
+http://192.236.245.10:8008/stream/tlc.ts
+#EXTINF:-1 channel-id="tnt" tvg-id="tnt" tvg-name="TNT" tvg-logo="https://img.rebeliptv.net/channel/tnt.png" tvg-country="US" tvg-language="English" group-title="Entertainment",TNT
+http://192.236.245.10:8008/stream/tnt.ts
+#EXTINF:-1 channel-id="travel-channel" tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="https://img.rebeliptv.net/channel/travel-channel.png" tvg-country="US" tvg-language="English" group-title="Documentary",Travel Channel
+http://192.236.245.10:8008/stream/travel-channel.ts
+#EXTINF:-1 channel-id="trutv" tvg-id="trutv" tvg-name="TruTV" tvg-logo="https://img.rebeliptv.net/channel/trutv.png" tvg-country="US" tvg-language="English" group-title="Entertainment",TruTV
+http://192.236.245.10:8008/stream/trutv.ts
+#EXTINF:-1 channel-id="tsn1" tvg-id="tsn1" tvg-name="TSN1" tvg-logo="https://img.rebeliptv.net/channel/tsn1.png" tvg-country="CA" tvg-language="English" group-title="Sports",TSN1
+http://192.236.245.10:8008/stream/tsn1.ts
+#EXTINF:-1 channel-id="tsn2" tvg-id="tsn2" tvg-name="TSN2" tvg-logo="https://img.rebeliptv.net/channel/tsn2.png" tvg-country="CA" tvg-language="English" group-title="Sports",TSN2
+http://192.236.245.10:8008/stream/tsn2.ts
+#EXTINF:-1 channel-id="tsn3" tvg-id="tsn3" tvg-name="TSN3" tvg-logo="https://img.rebeliptv.net/channel/tsn3.png" tvg-country="CA" tvg-language="English" group-title="Sports",TSN3
+http://192.236.245.10:8008/stream/tsn3.ts
+#EXTINF:-1 channel-id="tsn4" tvg-id="tsn4" tvg-name="TSN4" tvg-logo="https://img.rebeliptv.net/channel/tsn4.png" tvg-country="CA" tvg-language="English" group-title="Sports",TSN4
+http://192.236.245.10:8008/stream/tsn4.ts
+#EXTINF:-1 channel-id="tsn5" tvg-id="tsn5" tvg-name="TSN5" tvg-logo="https://img.rebeliptv.net/channel/tsn5.png" tvg-country="CA" tvg-language="English" group-title="Sports",TSN5
+http://192.236.245.10:8008/stream/tsn5.ts
+#EXTINF:-1 channel-id="tv-land" tvg-id="tv-land" tvg-name="TV Land" tvg-logo="https://img.rebeliptv.net/channel/tv-land.png" tvg-country="US" tvg-language="English" group-title="Entertainment",TV Land
+http://192.236.245.10:8008/stream/tv-land.ts
+#EXTINF:-1 channel-id="tv-one" tvg-id="tv-one" tvg-name="TV One" tvg-logo="https://img.rebeliptv.net/channel/tv-one.png" tvg-country="US" tvg-language="English" group-title="Entertainment",TV One
+http://192.236.245.10:8008/stream/tv-one.ts
+#EXTINF:-1 channel-id="usa-network" tvg-id="usa-network" tvg-name="USA Network" tvg-logo="https://img.rebeliptv.net/channel/usa-network.png" tvg-country="US" tvg-language="English" group-title="Entertainment",USA Network
+http://192.236.245.10:8008/stream/usa-network.ts
+#EXTINF:-1 channel-id="vh1" tvg-id="vh1" tvg-name="VH1" tvg-logo="https://img.rebeliptv.net/channel/vh1.png" tvg-country="US" tvg-language="English" group-title="Music",VH1
+http://192.236.245.10:8008/stream/vh1.ts
+#EXTINF:-1 channel-id="vice-tv" tvg-id="vice-tv" tvg-name="Vice TV" tvg-logo="https://img.rebeliptv.net/channel/vice-tv.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Vice TV
+http://192.236.245.10:8008/stream/vice-tv.ts
+#EXTINF:-1 channel-id="wabc" tvg-id="wabc" tvg-name="WABC New York NY (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wabc.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WABC New York NY (ABC)
+http://192.236.245.10:8008/stream/wabc.ts
+#EXTINF:-1 channel-id="waga" tvg-id="waga" tvg-name="WAGA Atlanta GA (FOX)" tvg-logo="https://img.rebeliptv.net/channel/waga.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WAGA Atlanta GA (FOX)
+http://192.236.245.10:8008/stream/waga.ts
+#EXTINF:-1 channel-id="wbal" tvg-id="wbal" tvg-name="WBAL Baltimore MD (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wbal.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WBAL Baltimore MD (NBC)
+http://192.236.245.10:8008/stream/wbal.ts
+#EXTINF:-1 channel-id="wbbm" tvg-id="wbbm" tvg-name="WBBM Chicago IL (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wbbm.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WBBM Chicago IL (CBS)
+http://192.236.245.10:8008/stream/wbbm.ts
+#EXTINF:-1 channel-id="wbff" tvg-id="wbff" tvg-name="WBFF Baltimore MD (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wbff.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WBFF Baltimore MD (FOX)
+http://192.236.245.10:8008/stream/wbff.ts
+#EXTINF:-1 channel-id="wbns" tvg-id="wbns" tvg-name="WBNS Columbus OH (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wbns.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WBNS Columbus OH (CBS)
+http://192.236.245.10:8008/stream/wbns.ts
+#EXTINF:-1 channel-id="wbts" tvg-id="wbts" tvg-name="WBTS Boston MA (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wbts.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WBTS Boston MA (NBC)
+http://192.236.245.10:8008/stream/wbts.ts
+#EXTINF:-1 channel-id="wbtv" tvg-id="wbtv" tvg-name="WBTV Charlotte NC (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wbtv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WBTV Charlotte NC (CBS)
+http://192.236.245.10:8008/stream/wbtv.ts
+#EXTINF:-1 channel-id="wbz" tvg-id="wbz" tvg-name="WBZ Boston MA (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wbz.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WBZ Boston MA (CBS)
+http://192.236.245.10:8008/stream/wbz.ts
+#EXTINF:-1 channel-id="wcau" tvg-id="wcau" tvg-name="WCAU Philadelphia PA (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wcau.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WCAU Philadelphia PA (NBC)
+http://192.236.245.10:8008/stream/wcau.ts
+#EXTINF:-1 channel-id="wcbs" tvg-id="wcbs" tvg-name="WCBS New York NY (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wcbs.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WCBS New York NY (CBS)
+http://192.236.245.10:8008/stream/wcbs.ts
+#EXTINF:-1 channel-id="wcco" tvg-id="wcco" tvg-name="WCCO Minneapolis MN (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wcco.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WCCO Minneapolis MN (CBS)
+http://192.236.245.10:8008/stream/wcco.ts
+#EXTINF:-1 channel-id="wcmh" tvg-id="wcmh" tvg-name="WCMH Columbus OH (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wcmh.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WCMH Columbus OH (NBC)
+http://192.236.245.10:8008/stream/wcmh.ts
+#EXTINF:-1 channel-id="wcnc" tvg-id="wcnc" tvg-name="WCNC Charlotte NC (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wcnc.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WCNC Charlotte NC (NBC)
+http://192.236.245.10:8008/stream/wcnc.ts
+#EXTINF:-1 channel-id="wcpo" tvg-id="wcpo" tvg-name="WCPO Cincinnati OH (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wcpo.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WCPO Cincinnati OH (ABC)
+http://192.236.245.10:8008/stream/wcpo.ts
+#EXTINF:-1 channel-id="wcvb" tvg-id="wcvb" tvg-name="WCVB Boston MA (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wcvb.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WCVB Boston MA (ABC)
+http://192.236.245.10:8008/stream/wcvb.ts
+#EXTINF:-1 channel-id="wdaf" tvg-id="wdaf" tvg-name="WDAF Kansas City MO (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wdaf.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WDAF Kansas City MO (FOX)
+http://192.236.245.10:8008/stream/wdaf.ts
+#EXTINF:-1 channel-id="wdiv" tvg-id="wdiv" tvg-name="WDIV Detroit MI (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wdiv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WDIV Detroit MI (NBC)
+http://192.236.245.10:8008/stream/wdiv.ts
+#EXTINF:-1 channel-id="wdjt" tvg-id="wdjt" tvg-name="WDJT Milwaukee WI (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wdjt.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WDJT Milwaukee WI (CBS)
+http://192.236.245.10:8008/stream/wdjt.ts
+#EXTINF:-1 channel-id="we-tv" tvg-id="we-tv" tvg-name="WE tv" tvg-logo="https://img.rebeliptv.net/channel/we-tv.png" tvg-country="US" tvg-language="English" group-title="Entertainment",WE tv
+http://192.236.245.10:8008/stream/we-tv.ts
+#EXTINF:-1 channel-id="weathernation-tv" tvg-id="weathernation-tv" tvg-name="WeatherNation TV" tvg-logo="https://img.rebeliptv.net/channel/weathernation-tv.png" tvg-country="US" tvg-language="English" group-title="News",WeatherNation TV
+http://192.236.245.10:8008/stream/weathernation-tv.ts
+#EXTINF:-1 channel-id="wesh" tvg-id="wesh" tvg-name="WESH Orlando FL (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wesh.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WESH Orlando FL (NBC)
+http://192.236.245.10:8008/stream/wesh.ts
+#EXTINF:-1 channel-id="wews" tvg-id="wews" tvg-name="WEWS Cleveland OH (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wews.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WEWS Cleveland OH (ABC)
+http://192.236.245.10:8008/stream/wews.ts
+#EXTINF:-1 channel-id="wfaa" tvg-id="wfaa" tvg-name="WFAA Dallas-Fort Worth TX (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wfaa.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WFAA Dallas-Fort Worth TX (ABC)
+http://192.236.245.10:8008/stream/wfaa.ts
+#EXTINF:-1 channel-id="wfla" tvg-id="wfla" tvg-name="WFLA Tampa-St. Petersburg FL (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wfla.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WFLA Tampa-St. Petersburg FL (NBC)
+http://192.236.245.10:8008/stream/wfla.ts
+#EXTINF:-1 channel-id="wfld" tvg-id="wfld" tvg-name="WFLD Chicago IL (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wfld.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WFLD Chicago IL (FOX)
+http://192.236.245.10:8008/stream/wfld.ts
+#EXTINF:-1 channel-id="wfor" tvg-id="wfor" tvg-name="WFOR Miami FL (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wfor.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WFOR Miami FL (CBS)
+http://192.236.245.10:8008/stream/wfor.ts
+#EXTINF:-1 channel-id="wfts" tvg-id="wfts" tvg-name="WFTS Tampa-St. Petersburg FL (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wfts.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WFTS Tampa-St. Petersburg FL (ABC)
+http://192.236.245.10:8008/stream/wfts.ts
+#EXTINF:-1 channel-id="wftv" tvg-id="wftv" tvg-name="WFTV Orlando FL (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wftv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WFTV Orlando FL (ABC)
+http://192.236.245.10:8008/stream/wftv.ts
+#EXTINF:-1 channel-id="wfxt" tvg-id="wfxt" tvg-name="WFXT Boston MA (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wfxt.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WFXT Boston MA (FOX)
+http://192.236.245.10:8008/stream/wfxt.ts
+#EXTINF:-1 channel-id="wisn" tvg-id="wisn" tvg-name="WISN Milwaukee WI (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wisn.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WISN Milwaukee WI (ABC)
+http://192.236.245.10:8008/stream/wisn.ts
+#EXTINF:-1 channel-id="witi" tvg-id="witi" tvg-name="WITI Milwaukee WI (FOX)" tvg-logo="https://img.rebeliptv.net/channel/witi.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WITI Milwaukee WI (FOX)
+http://192.236.245.10:8008/stream/witi.ts
+#EXTINF:-1 channel-id="wjbk" tvg-id="wjbk" tvg-name="WJBK Detroit MI (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wjbk.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WJBK Detroit MI (FOX)
+http://192.236.245.10:8008/stream/wjbk.ts
+#EXTINF:-1 channel-id="wjla" tvg-id="wjla" tvg-name="WJLA Washington DC (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wjla.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WJLA Washington DC (ABC)
+http://192.236.245.10:8008/stream/wjla.ts
+#EXTINF:-1 channel-id="wjw" tvg-id="wjw" tvg-name="WJW Cleveland OH (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wjw.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WJW Cleveland OH (FOX)
+http://192.236.245.10:8008/stream/wjw.ts
+#EXTINF:-1 channel-id="wjz" tvg-id="wjz" tvg-name="WJZ Baltimore MD (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wjz.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WJZ Baltimore MD (CBS)
+http://192.236.245.10:8008/stream/wjz.ts
+#EXTINF:-1 channel-id="wjzy" tvg-id="wjzy" tvg-name="WJZY Charlotte NC (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wjzy.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WJZY Charlotte NC (FOX)
+http://192.236.245.10:8008/stream/wjzy.ts
+#EXTINF:-1 channel-id="wkmg" tvg-id="wkmg" tvg-name="WKMG Orlando FL (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wkmg.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WKMG Orlando FL (CBS)
+http://192.236.245.10:8008/stream/wkmg.ts
+#EXTINF:-1 channel-id="wkrc" tvg-id="wkrc" tvg-name="WKRC Cincinnati OH (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wkrc.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WKRC Cincinnati OH (CBS)
+http://192.236.245.10:8008/stream/wkrc.ts
+#EXTINF:-1 channel-id="wkrn" tvg-id="wkrn" tvg-name="WKRN Nashville TN (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wkrn.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WKRN Nashville TN (ABC)
+http://192.236.245.10:8008/stream/wkrn.ts
+#EXTINF:-1 channel-id="wkyc" tvg-id="wkyc" tvg-name="WKYC Cleveland OH (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wkyc.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WKYC Cleveland OH (NBC)
+http://192.236.245.10:8008/stream/wkyc.ts
+#EXTINF:-1 channel-id="wls" tvg-id="wls" tvg-name="WLS Chicago IL (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wls.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WLS Chicago IL (ABC)
+http://192.236.245.10:8008/stream/wls.ts
+#EXTINF:-1 channel-id="wlwt" tvg-id="wlwt" tvg-name="WLWT Cincinnati OH (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wlwt.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WLWT Cincinnati OH (NBC)
+http://192.236.245.10:8008/stream/wlwt.ts
+#EXTINF:-1 channel-id="wmaq" tvg-id="wmaq" tvg-name="WMAQ Chicago IL (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wmaq.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WMAQ Chicago IL (NBC)
+http://192.236.245.10:8008/stream/wmaq.ts
+#EXTINF:-1 channel-id="wmar" tvg-id="wmar" tvg-name="WMAR Baltimore MD (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wmar.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WMAR Baltimore MD (ABC)
+http://192.236.245.10:8008/stream/wmar.ts
+#EXTINF:-1 channel-id="wnbc" tvg-id="wnbc" tvg-name="WNBC New York NY (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wnbc.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WNBC New York NY (NBC)
+http://192.236.245.10:8008/stream/wnbc.ts
+#EXTINF:-1 channel-id="wisc" tvg-id="wisc" tvg-name="WISC Madison WI (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wisc.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WISC Madison WI (CBS)
+http://192.236.245.10:8008/stream/wisc.ts
+#EXTINF:-1 channel-id="wncn" tvg-id="wncn" tvg-name="WNCN Raleigh-Durham NC (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wncn.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WNCN Raleigh-Durham NC (CBS)
+http://192.236.245.10:8008/stream/wncn.ts
+#EXTINF:-1 channel-id="wnwo" tvg-id="wnwo" tvg-name="WNWO Toledo OH (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wnwo.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WNWO Toledo OH (NBC)
+http://192.236.245.10:8008/stream/wnwo.ts
+#EXTINF:-1 channel-id="wnyw" tvg-id="wnyw" tvg-name="WNYW New York NY (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wnyw.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WNYW New York NY (FOX)
+http://192.236.245.10:8008/stream/wnyw.ts
+#EXTINF:-1 channel-id="woai" tvg-id="woai" tvg-name="WOAI San Antonio TX (NBC)" tvg-logo="https://img.rebeliptv.net/channel/woai.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WOAI San Antonio TX (NBC)
+http://192.236.245.10:8008/stream/woai.ts
+#EXTINF:-1 channel-id="wofl" tvg-id="wofl" tvg-name="WOFL Orlando FL (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wofl.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WOFL Orlando FL (FOX)
+http://192.236.245.10:8008/stream/wofl.ts
+#EXTINF:-1 channel-id="woio" tvg-id="woio" tvg-name="WOIO Cleveland OH (CBS)" tvg-logo="https://img.rebeliptv.net/channel/woio.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WOIO Cleveland OH (CBS)
+http://192.236.245.10:8008/stream/woio.ts
+#EXTINF:-1 channel-id="wpgh" tvg-id="wpgh" tvg-name="WPGH Pittsburgh PA (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wpgh.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WPGH Pittsburgh PA (FOX)
+http://192.236.245.10:8008/stream/wpgh.ts
+#EXTINF:-1 channel-id="wpix" tvg-id="wpix" tvg-name="WPIX New York NY (CW)" tvg-logo="https://img.rebeliptv.net/channel/wpix.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WPIX New York NY (CW)
+http://192.236.245.10:8008/stream/wpix.ts
+#EXTINF:-1 channel-id="wplg" tvg-id="wplg" tvg-name="WPLG Miami FL (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wplg.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WPLG Miami FL (ABC)
+http://192.236.245.10:8008/stream/wplg.ts
+#EXTINF:-1 channel-id="wpvi" tvg-id="wpvi" tvg-name="WPVI Philadelphia PA (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wpvi.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WPVI Philadelphia PA (ABC)
+http://192.236.245.10:8008/stream/wpvi.ts
+#EXTINF:-1 channel-id="wkow" tvg-id="wkow" tvg-name="WKOW Madison WI (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wkow.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WKOW Madison WI (ABC)
+http://192.236.245.10:8008/stream/wkow.ts
+#EXTINF:-1 channel-id="wpxi" tvg-id="wpxi" tvg-name="WPXI Pittsburgh PA (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wpxi.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WPXI Pittsburgh PA (NBC)
+http://192.236.245.10:8008/stream/wpxi.ts
+#EXTINF:-1 channel-id="wral" tvg-id="wral" tvg-name="WRAL Raleigh-Durham NC (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wral.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WRAL Raleigh-Durham NC (NBC)
+http://192.236.245.10:8008/stream/wral.ts
+#EXTINF:-1 channel-id="wraz" tvg-id="wraz" tvg-name="WRAZ Raleigh-Durham NC (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wraz.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WRAZ Raleigh-Durham NC (FOX)
+http://192.236.245.10:8008/stream/wraz.ts
+#EXTINF:-1 channel-id="wrc" tvg-id="wrc" tvg-name="WRC Washington DC (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wrc.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WRC Washington DC (NBC)
+http://192.236.245.10:8008/stream/wrc.ts
+#EXTINF:-1 channel-id="wrtv" tvg-id="wrtv" tvg-name="WRTV Indianapolis IN (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wrtv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WRTV Indianapolis IN (ABC)
+http://192.236.245.10:8008/stream/wrtv.ts
+#EXTINF:-1 channel-id="wsb" tvg-id="wsb" tvg-name="WSB Atlanta GA (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wsb.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WSB Atlanta GA (ABC)
+http://192.236.245.10:8008/stream/wsb.ts
+#EXTINF:-1 channel-id="wsmv" tvg-id="wsmv" tvg-name="WSMV Nashville TN (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wsmv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WSMV Nashville TN (NBC)
+http://192.236.245.10:8008/stream/wsmv.ts
+#EXTINF:-1 channel-id="wsoc" tvg-id="wsoc" tvg-name="WSOC Charlotte NC (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wsoc.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WSOC Charlotte NC (ABC)
+http://192.236.245.10:8008/stream/wsoc.ts
+#EXTINF:-1 channel-id="wsvn" tvg-id="wsvn" tvg-name="WSVN Miami FL (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wsvn.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WSVN Miami FL (FOX)
+http://192.236.245.10:8008/stream/wsvn.ts
+#EXTINF:-1 channel-id="wmsn" tvg-id="wmsn" tvg-name="WMSN Madison WI (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wmsn.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WMSN Madison WI (FOX)
+http://192.236.245.10:8008/stream/wmsn.ts
+#EXTINF:-1 channel-id="wsyx" tvg-id="wsyx" tvg-name="WSYX Columbus OH (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wsyx.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WSYX Columbus OH (ABC)
+http://192.236.245.10:8008/stream/wsyx.ts
+#EXTINF:-1 channel-id="wmtv" tvg-id="wmtv" tvg-name="WMTV Madison WI (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wmtv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WMTV Madison WI (NBC)
+http://192.236.245.10:8008/stream/wmtv.ts
+#EXTINF:-1 channel-id="wtae" tvg-id="wtae" tvg-name="WTAE Pittsburgh PA (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wtae.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTAE Pittsburgh PA (ABC)
+http://192.236.245.10:8008/stream/wtae.ts
+#EXTINF:-1 channel-id="wthr" tvg-id="wthr" tvg-name="WTHR Indianapolis IN (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wthr.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTHR Indianapolis IN (NBC)
+http://192.236.245.10:8008/stream/wthr.ts
+#EXTINF:-1 channel-id="wtmj" tvg-id="wtmj" tvg-name="WTMJ Milwaukee WI (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wtmj.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTMJ Milwaukee WI (NBC)
+http://192.236.245.10:8008/stream/wtmj.ts
+#EXTINF:-1 channel-id="wtol" tvg-id="wtol" tvg-name="WTOL Toledo OH (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wtol.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTOL Toledo OH (CBS)
+http://192.236.245.10:8008/stream/wtol.ts
+#EXTINF:-1 channel-id="wtsp" tvg-id="wtsp" tvg-name="WTSP Tampa-St. Petersburg FL (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wtsp.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTSP Tampa-St. Petersburg FL (CBS)
+http://192.236.245.10:8008/stream/wtsp.ts
+#EXTINF:-1 channel-id="wttg" tvg-id="wttg" tvg-name="WTTG Washington DC (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wttg.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTTG Washington DC (FOX)
+http://192.236.245.10:8008/stream/wttg.ts
+#EXTINF:-1 channel-id="wttv" tvg-id="wttv" tvg-name="WTTV Indianapolis IN (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wttv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTTV Indianapolis IN (CBS)
+http://192.236.245.10:8008/stream/wttv.ts
+#EXTINF:-1 channel-id="wtvd" tvg-id="wtvd" tvg-name="WTVD Raleigh-Durham NC (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wtvd.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTVD Raleigh-Durham NC (ABC)
+http://192.236.245.10:8008/stream/wtvd.ts
+#EXTINF:-1 channel-id="wtvf" tvg-id="wtvf" tvg-name="WTVF Nashville TN (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wtvf.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTVF Nashville TN (CBS)
+http://192.236.245.10:8008/stream/wtvf.ts
+#EXTINF:-1 channel-id="wtvg" tvg-id="wtvg" tvg-name="WTVG Toledo OH (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wtvg.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTVG Toledo OH (ABC)
+http://192.236.245.10:8008/stream/wtvg.ts
+#EXTINF:-1 channel-id="wtvj" tvg-id="wtvj" tvg-name="WTVJ Miami FL (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wtvj.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTVJ Miami FL (NBC)
+http://192.236.245.10:8008/stream/wtvj.ts
+#EXTINF:-1 channel-id="wtvt" tvg-id="wtvt" tvg-name="WTVT Tampa-St. Petersburg FL (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wtvt.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTVT Tampa-St. Petersburg FL (FOX)
+http://192.236.245.10:8008/stream/wtvt.ts
+#EXTINF:-1 channel-id="wtxf" tvg-id="wtxf" tvg-name="WTXF Philadelphia PA (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wtxf.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTXF Philadelphia PA (FOX)
+http://192.236.245.10:8008/stream/wtxf.ts
+#EXTINF:-1 channel-id="wupa" tvg-id="wupa" tvg-name="WUPA Atlanta GA (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wupa.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WUPA Atlanta GA (CBS)
+http://192.236.245.10:8008/stream/wupa.ts
+#EXTINF:-1 channel-id="wupw" tvg-id="wupw" tvg-name="WUPW Toledo OH (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wupw.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WUPW Toledo OH (FOX)
+http://192.236.245.10:8008/stream/wupw.ts
+#EXTINF:-1 channel-id="wusa" tvg-id="wusa" tvg-name="WUSA Washington DC (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wusa.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WUSA Washington DC (CBS)
+http://192.236.245.10:8008/stream/wusa.ts
+#EXTINF:-1 channel-id="wwe-network" tvg-id="wwe-network" tvg-name="WWE Network" tvg-logo="https://img.rebeliptv.net/channel/wwe-network.png" tvg-country="US" tvg-language="English" group-title="Entertainment",WWE Network
+http://192.236.245.10:8008/stream/wwe-network.ts
+#EXTINF:-1 channel-id="wwj" tvg-id="wwj" tvg-name="WWJ Detroit MI (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wwj.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WWJ Detroit MI (CBS)
+http://192.236.245.10:8008/stream/wwj.ts
+#EXTINF:-1 channel-id="wxia" tvg-id="wxia" tvg-name="WXIA Atlanta GA (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wxia.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WXIA Atlanta GA (NBC)
+http://192.236.245.10:8008/stream/wxia.ts
+#EXTINF:-1 channel-id="wxin" tvg-id="wxin" tvg-name="WXIN Indianapolis IN (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wxin.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WXIN Indianapolis IN (FOX)
+http://192.236.245.10:8008/stream/wxin.ts
+#EXTINF:-1 channel-id="wxix" tvg-id="wxix" tvg-name="WXIX Cincinnati OH (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wxix.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WXIX Cincinnati OH (FOX)
+http://192.236.245.10:8008/stream/wxix.ts
+#EXTINF:-1 channel-id="wxyz" tvg-id="wxyz" tvg-name="WXYZ Detroit MI (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wxyz.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WXYZ Detroit MI (ABC)
+http://192.236.245.10:8008/stream/wxyz.ts
+#EXTINF:-1 channel-id="wztv" tvg-id="wztv" tvg-name="WZTV Nashville TN (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wztv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WZTV Nashville TN (FOX)
+http://192.236.245.10:8008/stream/wztv.ts
+#EXTINF:-1 channel-id="yes-network" tvg-id="yes-network" tvg-name="YES Network" tvg-logo="https://img.rebeliptv.net/channel/yes-network.png" tvg-country="US" tvg-language="English" group-title="Sports",YES Network
+http://192.236.245.10:8008/stream/yes-network.ts
+#EXTINF:-1 channel-id="wlne" tvg-id="wlne" tvg-name="WLNE Providence RI (ABC)" tvg-logo="https://img.rebeliptv.net/channel/wlne.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WLNE Providence RI (ABC)
+http://192.236.245.10:8008/stream/wlne.ts
+#EXTINF:-1 channel-id="wjar" tvg-id="wjar" tvg-name="WJAR Providence RI (NBC)" tvg-logo="https://img.rebeliptv.net/channel/wjar.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WJAR Providence RI (NBC)
+http://192.236.245.10:8008/stream/wjar.ts
+#EXTINF:-1 channel-id="wnac" tvg-id="wnac" tvg-name="WNAC Providence RI (FOX)" tvg-logo="https://img.rebeliptv.net/channel/wnac.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WNAC Providence RI (FOX)
+http://192.236.245.10:8008/stream/wnac.ts
+#EXTINF:-1 channel-id="wpri" tvg-id="wpri" tvg-name="WPRI Providence RI (CBS)" tvg-logo="https://img.rebeliptv.net/channel/wpri.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WPRI Providence RI (CBS)
+http://192.236.245.10:8008/stream/wpri.ts
+#EXTINF:-1 channel-id="atl-vs-pit-mlb-2026-07-09" tvg-id="atl-vs-pit-mlb-2026-07-09" tvg-chno="5000" tvg-name="Atlanta Braves vs Pittsburgh Pirates" tvg-logo="https://img.rebeliptv.net/event/atl-vs-pit-mlb-2026-07-09.png" tvg-country="US" tvg-language="English" group-title="MLB",Atlanta Braves vs Pittsburgh Pirates
+http://192.236.245.10:8008/stream/atl-vs-pit-mlb-2026-07-09.ts
+#EXTINF:-1 channel-id="kcr-vs-nym-mlb-2026-07-09" tvg-id="kcr-vs-nym-mlb-2026-07-09" tvg-chno="5001" tvg-name="Kansas City Royals vs New York Mets" tvg-logo="https://img.rebeliptv.net/event/kcr-vs-nym-mlb-2026-07-09.png" tvg-country="US" tvg-language="English" group-title="MLB",Kansas City Royals vs New York Mets
+http://192.236.245.10:8008/stream/kcr-vs-nym-mlb-2026-07-09.ts
+#EXTINF:-1 channel-id="nyy-vs-tbr-mlb-2026-07-09" tvg-id="nyy-vs-tbr-mlb-2026-07-09" tvg-chno="5002" tvg-name="New York Yankees vs Tampa Bay Rays" tvg-logo="https://img.rebeliptv.net/event/nyy-vs-tbr-mlb-2026-07-09.png" tvg-country="US" tvg-language="English" group-title="MLB",New York Yankees vs Tampa Bay Rays
+http://192.236.245.10:8008/stream/nyy-vs-tbr-mlb-2026-07-09.ts
+#EXTINF:-1 channel-id="chc-vs-bal-mlb-2026-07-09" tvg-id="chc-vs-bal-mlb-2026-07-09" tvg-chno="5003" tvg-name="Chicago Cubs vs Baltimore Orioles" tvg-logo="https://img.rebeliptv.net/event/chc-vs-bal-mlb-2026-07-09.png" tvg-country="US" tvg-language="English" group-title="MLB",Chicago Cubs vs Baltimore Orioles
+http://192.236.245.10:8008/stream/chc-vs-bal-mlb-2026-07-09.ts
+#EXTINF:-1 channel-id="cle-vs-min-mlb-2026-07-09" tvg-id="cle-vs-min-mlb-2026-07-09" tvg-chno="5004" tvg-name="Cleveland Guardians vs Minnesota Twins" tvg-logo="https://img.rebeliptv.net/event/cle-vs-min-mlb-2026-07-09.png" tvg-country="US" tvg-language="English" group-title="MLB",Cleveland Guardians vs Minnesota Twins
+http://192.236.245.10:8008/stream/cle-vs-min-mlb-2026-07-09.ts
+#EXTINF:-1 channel-id="bos-vs-cws-mlb-2026-07-09" tvg-id="bos-vs-cws-mlb-2026-07-09" tvg-chno="5005" tvg-name="Boston Red Sox vs Chicago White Sox" tvg-logo="https://img.rebeliptv.net/event/bos-vs-cws-mlb-2026-07-09.png" tvg-country="US" tvg-language="English" group-title="MLB",Boston Red Sox vs Chicago White Sox
+http://192.236.245.10:8008/stream/bos-vs-cws-mlb-2026-07-09.ts
+#EXTINF:-1 channel-id="mar-vs-fra-fifa-2026-07-09" tvg-id="mar-vs-fra-fifa-2026-07-09" tvg-chno="5006" tvg-name="Morocco vs France" tvg-logo="https://img.rebeliptv.net/event/mar-vs-fra-fifa-2026-07-09.png" tvg-country="US" tvg-language="English" group-title="FIFA",Morocco vs France
+http://192.236.245.10:8008/stream/mar-vs-fra-fifa-2026-07-09.ts
