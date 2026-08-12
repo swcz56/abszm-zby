@@ -713,6 +713,7 @@ http://153.0.171.163:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 http://153.0.171.163:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🔥[酒店]央卫视直播" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png",青海卫视
 http://153.0.171.163:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 group-title="台湾直播" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png",民視第一台
 http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8
 #EXTINF:-1 group-title="台湾直播" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png",民視台灣台
@@ -851,6 +852,7 @@ https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾直播" tvg-logo="https://epg.112114.xyz/logo/AWE.png",AWE
 https://awe-lg.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="香港直播" tvg-logo="https://epg.112114.xyz/logo/TVB 新 聞.png",TVB 新 聞
 https://cdn6.cc.cd/163189/wxxw
 #EXTINF:-1 group-title="香港直播" tvg-logo="https://epg.112114.xyz/logo/翡翠 台.png",翡翠 台
@@ -908,8 +910,6 @@ http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
 http://211.72.174.95:8133/0.ts
 #EXTINF:-1 group-title="港澳台直播" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/LMN.png",LMN
 http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="港澳台直播" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/RTHK32.png",RTHK32
-http://67.220.71.199:2347/livehttpplay?channel_id=30067
 #EXTINF:-1 group-title="港澳台直播" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/Wild%20TV.png",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 #EXTINF:-1 group-title="港澳台直播" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%AD%E6%97%BA%E7%94%B5%E8%A7%86.png",中旺电视
@@ -1138,14 +1138,6 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 group-title="港澳台直播" tvg-logo="https://epg.112114.xyz/logo/凤凰电影频道.png",凤凰电影频道
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="港澳台直播" tvg-logo="https://live.fanmingming.cn/tv/TVB亚洲剧.png",TVB亚洲剧
-http://67.220.71.199:2347/livehttpplay?channel_id=13022
-#EXTINF:-1 group-title="港澳台直播" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广州综合.png",广州综合
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
-#EXTINF:-1 group-title="港澳台直播" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广州新闻.png",广州新闻
-https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
-#EXTINF:-1 group-title="港澳台直播" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广州南国都市.png",广州南国都市
-https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 group-title="港澳台直播" tvg-logo="https://epg.112114.xyz/logo/民视第一台.png",民视第一台
 http://74.91.26.218:82/live/ftvdy.m3u8
 #EXTINF:-1 group-title="港澳台直播" tvg-logo="https://epg.112114.xyz/logo/民视新闻.png",民视新闻
