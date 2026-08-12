@@ -716,6 +716,124 @@ http://153.0.171.163:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🔥[酒店]央卫视直播" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png",青海卫视
 http://153.0.171.163:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="台湾直播",民視第一台
+http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="台湾直播",民視台灣台
+http://4gtv.cnlive.club/channel/nce5d867/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="台湾直播",民視
+http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png" group-title="台湾直播",大愛電視
+http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="台湾直播",中視
+http://4gtv.cnlive.club/channel/n722644d8/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="台湾直播",華視
+http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" group-title="台湾直播",三立綜合台
+http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv043_mobile.png" group-title="台湾直播",客家電視台
+http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv410_mobile.png" group-title="台湾直播",八大綜藝台
+http://4gtv.cnlive.club/channel/662e9334/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="台湾直播",TVBS精采台
+http://4gtv.cnlive.club/channel/49d50255/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png" group-title="台湾直播",靖天綜合台
+http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png" group-title="台湾直播",靖天日本台
+http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live014_mobile.webp" group-title="台湾直播",原住民族電視台
+http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live030_mobile.png" group-title="台湾直播",LiveABC互動英語頻道
+http://4gtv.cnlive.club/channel/2a571abf/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="台湾直播",達文西頻道
+http://4gtv.cnlive.club/channel/n1d7d9ddb/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032.png" group-title="台湾直播",Nick Jr. 兒童頻道
+http://4gtv.cnlive.club/channel/23ac0723/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live105.png" group-title="台湾直播",尼克兒童頻道
+http://4gtv.cnlive.club/channel/51bbda39/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="台湾直播",DreamWorks 夢工廠動畫
+http://4gtv.cnlive.club/channel/n451655ef/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv044_mobile.png" group-title="台湾直播",靖天卡通台
+http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv057_mobile.png" group-title="台湾直播",靖洋卡通Nice Bingo
+http://4gtv.cnlive.club/channel/n15c65427/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live107.png" group-title="台湾直播",MOMO親子台
+http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="台湾直播",鏡電視新聞台
+http://4gtv.cnlive.club/channel/351c8485/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="台湾直播",東森新聞台
+http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="台湾直播",華視新聞
+http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="台湾直播",民視新聞台
+http://4gtv.cnlive.club/channel/nca14742/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live089_mobile.png" group-title="台湾直播",三立新聞iNEWS
+http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv072_mobile.png" group-title="台湾直播",TVBS新聞
+http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live019_mobile.png" group-title="台湾直播",東森財經新聞台
+http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="台湾直播",中視新聞
+http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="台湾直播",中天新聞台
+http://4gtv.cnlive.club/channel/3824d067/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="台湾直播",寰宇新聞台
+http://4gtv.cnlive.club/channel/n4da4274/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" group-title="台湾直播",寰宇新聞台灣台
+http://4gtv.cnlive.club/channel/n37458587/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="台湾直播",TVBS
+http://4gtv.cnlive.club/channel/58f128b2/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="台湾直播",民視綜藝台
+http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="台湾直播",豬哥亮歌廳秀
+http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv062_mobile.png" group-title="台湾直播",靖天育樂台
+http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv063_mobile.png" group-title="台湾直播",KLT-靖天國際台
+http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv054_mobile.png" group-title="台湾直播",Nice TV 靖天歡樂台
+http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv065_mobile.png" group-title="台湾直播",靖天資訊台
+http://4gtv.cnlive.club/channel/3fae463b/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" group-title="台湾直播",TVBS歡樂台
+http://4gtv.cnlive.club/channel/498f035d/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv042_mobile.png" group-title="台湾直播",公視戲劇
+http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png" group-title="台湾直播",八大精彩台
+http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png" group-title="台湾直播",靖天戲劇台
+http://4gtv.cnlive.club/channel/3f07b409/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv045_mobile.png" group-title="台湾直播",靖洋戲劇台
+http://4gtv.cnlive.club/channel/48117ce7/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live144_mobile.png" group-title="台湾直播",金光布袋戲
+http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="台湾直播",ROCK Action
+http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" group-title="台湾直播",采昌影劇台
+http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="台湾直播",靖天映畫
+http://4gtv.cnlive.club/channel/n610faa83/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="台湾直播",靖天電影台
+http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile-1.png" group-title="台湾直播",影迷數位電影台
+http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="台湾直播",amc電影台
+http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="台湾直播",CinemaWorld
+http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live106_mobile.png" group-title="台湾直播",大愛二台
+http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png" group-title="台湾直播",人間衛視
+http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live087_mobile.png" group-title="台湾直播",TVBS綜藝台
+http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live088_mobile.png" group-title="台湾直播",TVBS台劇台
+http://4gtv.cnlive.club/channel/49342c47/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="台湾直播",經典電影台
+http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="台湾直播",經典卡通台
+http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="台湾直播",精選動漫台
+http://4gtv.cnlive.club/channel/n1ecb3c7f/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/民视频道.png" group-title="台湾直播",民视频道
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/台视频道.png" group-title="台湾直播",台视频道
@@ -754,7 +872,6 @@ http://74.91.26.218:82/live/ctsnews.m3u8
 http://74.91.26.218:82/live/ftvnews.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/东森新闻.png" group-title="台湾直播",东森新闻
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/东森新闻美洲台.png" group-title="台湾直播",东森新闻美洲台
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台湾直播",民视新闻台
@@ -1009,124 +1126,7 @@ https://live5.tdm.com.mo/ch3/ch3.live/chunklist_w1839236055.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="香港直播",澳视澳门
 http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="台湾直播",民視第一台
-http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="台湾直播",民視台灣台
-http://4gtv.cnlive.club/channel/nce5d867/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="台湾直播",民視
-http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png" group-title="台湾直播",大愛電視
-http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="台湾直播",中視
-http://4gtv.cnlive.club/channel/n722644d8/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="台湾直播",華視
-http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" group-title="台湾直播",三立綜合台
-http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv043_mobile.png" group-title="台湾直播",客家電視台
-http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv410_mobile.png" group-title="台湾直播",八大綜藝台
-http://4gtv.cnlive.club/channel/662e9334/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="台湾直播",TVBS精采台
-http://4gtv.cnlive.club/channel/49d50255/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png" group-title="台湾直播",靖天綜合台
-http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png" group-title="台湾直播",靖天日本台
-http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live014_mobile.webp" group-title="台湾直播",原住民族電視台
-http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live030_mobile.png" group-title="台湾直播",LiveABC互動英語頻道
-http://4gtv.cnlive.club/channel/2a571abf/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="台湾直播",達文西頻道
-http://4gtv.cnlive.club/channel/n1d7d9ddb/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032.png" group-title="台湾直播",Nick Jr. 兒童頻道
-http://4gtv.cnlive.club/channel/23ac0723/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live105.png" group-title="台湾直播",尼克兒童頻道
-http://4gtv.cnlive.club/channel/51bbda39/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="台湾直播",DreamWorks 夢工廠動畫
-http://4gtv.cnlive.club/channel/n451655ef/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv044_mobile.png" group-title="台湾直播",靖天卡通台
-http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv057_mobile.png" group-title="台湾直播",靖洋卡通Nice Bingo
-http://4gtv.cnlive.club/channel/n15c65427/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live107.png" group-title="台湾直播",MOMO親子台
-http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="台湾直播",鏡電視新聞台
-http://4gtv.cnlive.club/channel/351c8485/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="台湾直播",東森新聞台
-http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="台湾直播",華視新聞
-http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="台湾直播",民視新聞台
-http://4gtv.cnlive.club/channel/nca14742/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live089_mobile.png" group-title="台湾直播",三立新聞iNEWS
-http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv072_mobile.png" group-title="台湾直播",TVBS新聞
-http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live019_mobile.png" group-title="台湾直播",東森財經新聞台
-http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="台湾直播",中視新聞
-http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="台湾直播",中天新聞台
-http://4gtv.cnlive.club/channel/3824d067/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="台湾直播",寰宇新聞台
-http://4gtv.cnlive.club/channel/n4da4274/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" group-title="台湾直播",寰宇新聞台灣台
-http://4gtv.cnlive.club/channel/n37458587/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="台湾直播",TVBS
-http://4gtv.cnlive.club/channel/58f128b2/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="台湾直播",民視綜藝台
-http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="台湾直播",豬哥亮歌廳秀
-http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv062_mobile.png" group-title="台湾直播",靖天育樂台
-http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv063_mobile.png" group-title="台湾直播",KLT-靖天國際台
-http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv054_mobile.png" group-title="台湾直播",Nice TV 靖天歡樂台
-http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv065_mobile.png" group-title="台湾直播",靖天資訊台
-http://4gtv.cnlive.club/channel/3fae463b/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" group-title="台湾直播",TVBS歡樂台
-http://4gtv.cnlive.club/channel/498f035d/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv042_mobile.png" group-title="台湾直播",公視戲劇
-http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png" group-title="台湾直播",八大精彩台
-http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png" group-title="台湾直播",靖天戲劇台
-http://4gtv.cnlive.club/channel/3f07b409/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv045_mobile.png" group-title="台湾直播",靖洋戲劇台
-http://4gtv.cnlive.club/channel/48117ce7/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live144_mobile.png" group-title="台湾直播",金光布袋戲
-http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="台湾直播",ROCK Action
-http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" group-title="台湾直播",采昌影劇台
-http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="台湾直播",靖天映畫
-http://4gtv.cnlive.club/channel/n610faa83/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="台湾直播",靖天電影台
-http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile-1.png" group-title="台湾直播",影迷數位電影台
-http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="台湾直播",amc電影台
-http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="台湾直播",CinemaWorld
-http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live106_mobile.png" group-title="台湾直播",大愛二台
-http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png" group-title="台湾直播",人間衛視
-http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live087_mobile.png" group-title="台湾直播",TVBS綜藝台
-http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live088_mobile.png" group-title="台湾直播",TVBS台劇台
-http://4gtv.cnlive.club/channel/49342c47/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="台湾直播",經典電影台
-http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="台湾直播",經典卡通台
-http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8
-#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="台湾直播",精選動漫台
-http://4gtv.cnlive.club/channel/n1ecb3c7f/index.m3u8
+
 
 #EXTINF:-1 group-title="港澳台直播" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/C%2B.png",C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
