@@ -1489,12 +1489,7 @@ http://8.138.7.223/tv/jsws4k.php
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://live.fanmingming.cn/tv/苏州4K.png",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png",CCTV4K
-http://home.wscxy.fun:30100/udp/233.18.204.204:5140
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png",CCTV4K
-http://home.wscxy.fun:30100/udp/233.18.204.188:5140
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png",CCTV4K
-http://bigy.timwin.top:5400/udp/239.3.1.245:2000
+
 
 #EXTINF:-1 group-title="🇲🇾马来西亚直播" tvg-logo="https://epg.112114.xyz/logo/APETITO.png",APETITO
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
