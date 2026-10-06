@@ -1776,6 +1776,271 @@ https://php.946985.filegear-sg.me/mytv265.php?id=GXTV
 https://php.946985.filegear-sg.me/mytv265.php?id=CCOC
 #EXTINF:-1 group-title="港澳台直播",東方衛視國際頻道
 https://php.946985.filegear-sg.me/mytv265.php?id=DTV
+
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/CGTN JP.png",CGTN JP
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/TBS Japan.png",TBS Japan
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/フジテレビ.png",フジテレビ
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/NHK 総合.png",NHK 総合
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/NHK G.png",NHK G
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/NHK E.png",NHK E
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/NTV.png",NTV
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/TV Asahi.png",TV Asahi
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/TBS.png",TBS
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/TV Tokyo.png",TV Tokyo
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Fuji TV.png",Fuji TV
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Tokyo MX1.png",Tokyo MX1
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Tokyo MX2.png",Tokyo MX2
+https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/NHK BS.png",NHK BS
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs11
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/BS NTV.png",BS NTV
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs02
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/BS Asahi.png",BS Asahi
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs03
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/BS TBS.png",BS TBS
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs04
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/BS TV Tokyo.png",BS TV Tokyo
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs05
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/BS Fuji.png",BS Fuji
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs06
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/BS 10.png",BS 10
+https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/BS 11.png",BS 11
+https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/BS 12.png",BS 12
+https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/NHK BS4K.png",NHK BS4K
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/WOWOW Prime.png",WOWOW Prime
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs12
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/WOWOW Cinema.png",WOWOW Cinema
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/WOWOW Live.png",WOWOW Live
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs07
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/BS 10 Premium.png",BS 10 Premium
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs08
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/JSport 1.png",JSport 1
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs18
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/JSport 2.png",JSport 2
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs19
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/JSport 3.png",JSport 3
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs21
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/JSport 4.png",JSport 4
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs22
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Green Channel.png",Green Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs14
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Animax.png",Animax
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs15
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Nihon Eiga Senmon.png",Nihon Eiga Senmon
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs23
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Fishing Vision.png",Fishing Vision
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs25
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/WOWOW Plus.png",WOWOW Plus
+https://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Disney Channel.png",Disney Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs24
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Jcom BS.png",Jcom BS
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs31
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/BS Yoshimoto.png",BS Yoshimoto
+https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Sky A.png",Sky A
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs01
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/GAORA.png",GAORA
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs17
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/AT-X.png",AT-X
+https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Space Shower TV.png",Space Shower TV
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs26
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/MTV.png",MTV
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs18
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Mnet.png",Mnet
+https://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Kayo Pops.png",Kayo Pops
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs13
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Kids Station.png",Kids Station
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs07
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/NTV G+.png",NTV G+
+https://haru.charandom.blog/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/NTV Plus.png",NTV Plus
+https://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Family Gekijo.png",Family Gekijo
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs20
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Mondo TV.png",Mondo TV
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs21
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/TBS Channel 1.png",TBS Channel 1
+https://haru.charandom.blog/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/TV Asahi Channel 2.png",TV Asahi Channel 2
+https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Fuji TV Next.png",Fuji TV Next
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs26
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Neco Channel.png",Neco Channel
+https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Dlife.png",Dlife
+https://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Toei Channel.png",Toei Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs27
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Fighting TV Samurai.png",Fighting TV Samurai
+https://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Home Drama Channel.png",Home Drama Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs05
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Channel Ginga.png",Channel Ginga
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs29
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Tabi Channel.png",Tabi Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs12
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Music On!.png",Music On!
+https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Mystery Channel.png",Mystery Channel
+https://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Shop Channel.png",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/QVC.png",QVC
+https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/GSTV.png",GSTV
+https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Jidaigeki Senmon.png",Jidaigeki Senmon
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs04
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Eisei Gekijo.png",Eisei Gekijo
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs22
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Movie Plus.png",Movie Plus
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs14
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Golf Network.png",Golf Network
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs03
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Music Japan.png",Music Japan
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs06
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/LaLa TV.png",LaLa TV
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs19
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Sky Stage.png",Sky Stage
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs28
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/National Geographic.png",National Geographic
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs10
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Disney Junior.png",Disney Junior
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs23
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Discovery.png",Discovery
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs08
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/Animal Planet.png",Animal Planet
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs24
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/History Channel.png",History Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs09
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/KNTV.png",KNTV
+https://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/NTV News24.png",NTV News24
+https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/CNNj.png",CNNj
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs16
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/BBC News.png",BBC News
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs15
+#EXTINF:-1 group-title="日本JAPAN" tvg-logo="https://epg.112114.xyz/logo/TBS News.png",TBS News
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs11
+
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/KCTV CH05 광주.png",KCTV CH05 광주
+http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/KCTV CH05 광주.png",KCTV CH05 광주
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/KCTV CH05 광주.png",KCTV CH05 광주
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/KCTV.png",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1668602111.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/KCTV.png",KCTV
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/CJ OnStyle.png",CJ OnStyle
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/CJ OnStyle+.png",CJ OnStyle+
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS +1.png",EBS +1
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS +2.png",EBS +2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS 1.png",EBS 1
+http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS 1.png",EBS 1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS 1.png",EBS 1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS 1.png",EBS 1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/SBS 강심장.png",SBS 강심장
+https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/SBS 닥터스.png",SBS 닥터스
+https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/SBS 清州放送.png",SBS 清州放送
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/SBS 스페셜.png",SBS 스페셜
+https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l3cinzxwxwpnp-prod/hls-harvester2-1293-prod/us-east-1/cc-l3cinzxwxwpnp/master.m3u8?
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/SBS 패밀리가 떴다.png",SBS 패밀리가 떴다
+https://d1rio2j9o2hqtj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1nujk65i146oc-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS 2.png",EBS 2
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS 2.png",EBS 2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS 2.png",EBS 2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS E.png",EBS E
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS E.png",EBS E
+http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS 兒童頻道.png",EBS 兒童頻道
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS 兒童頻道.png",EBS 兒童頻道
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS 兒童頻道.png",EBS 兒童頻道
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/GS Shop.png",GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/NBS 韓國農業廣播.png",NBS 韓國農業廣播
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/NBS 韓國農業廣播.png",NBS 韓國農業廣播
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/KBS LIVECAM DOKDO.png",KBS LIVECAM DOKDO
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/HOME SHOPPING.png",HOME SHOPPING
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS EN.png",EBS EN
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS KIDS.png",EBS KIDS
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS 1.png",EBS 1
+https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS 2.png",EBS 2
+https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS+1.png",EBS+1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/EBS+2.png",EBS+2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/GCN.png",GCN
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/GUGAK TV.png",GUGAK TV
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/BTN TV.png",BTN TV
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/BBS TV 불교.png",BBS TV 불교
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/YTN와이티엔.png",YTN와이티엔
+http://mytv.dothome.co.kr/ch/catv/261.php
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/Arirang 阿里郎.png",Arirang 阿里郎
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/Arirang 阿里郎.png",Arirang 阿里郎
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/Arirang 阿里郎.png",Arirang 阿里郎
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/Arirang 阿里郎.png",Arirang 阿里郎
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/Arirang 阿里郎.png",Arirang 阿里郎
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国KOREA" tvg-logo="https://epg.112114.xyz/logo/Arirang 阿里郎.png",Arirang 阿里郎
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+
 #EXTINF:-1 group-title="🇲🇾马来西亚直播",NHK World-Japan
 https://iptv.yang-1989.xyz/4gtv/h9ngb5?token=257d57d04431009d984c36cd07471c4e48db8691e03a51e7
 #EXTINF:-1 group-title="🇲🇾马来西亚直播",APETITO
