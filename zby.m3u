@@ -2227,3 +2227,940 @@ https://iptv.yang-1989.xyz/sprt/tq7r46?token=257d57d04431009d984c36cd07471c4e48d
 https://iptv.yang-1989.xyz/sprt/s77zpj?token=257d57d04431009d984c36cd07471c4e48db8691e03a51e7
 #EXTINF:-1 group-title="•體育「Relay」",TNT Sports 4
 https://iptv.yang-1989.xyz/sprt/qv4e9w?token=257d57d04431009d984c36cd07471c4e48db8691e03a51e7
+
+
+
+#EXTINF:-1 tvg-id="YTN News" tvg-name="YTN News" tvg-logo="http://192.255.248.123:1905/logo-cache/e0822ac6bd8d8917288e.jpg?v=1795630232236&from=source" catchup="none" group-title="韩国",YTN News
+http://192.255.248.123:1905/proxy/asian-live-ytn.m3u8
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="http://192.255.248.123:1905/logo-pack/Arirang.png?v=90c982ad41" catchup="none" group-title="韩国",Arirang
+http://192.255.248.123:1905/overseas-arirang
+
+
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="http://192.255.248.123:1905/logo-cache/7144a87b921e370f7477.png?v=1795630232236&from=source" catchup="none" group-title="日本",NHK World
+http://192.255.248.123:1905/proxy/asian-live-nhk-world.m3u8
+
+
+#EXTINF:-1 tvg-id="iHeart90s" tvg-name="iHeart90s" tvg-logo="https://image.xumo.com/v1/channels/channel/9995100/168x168.png?type=color_onBlack" catchup="none" group-title="音乐 & Radio",iHeart90s
+http://192.255.248.123:1905/proxy/xumo-9995100.m3u8
+#EXTINF:-1 tvg-id="iHeartCountry" tvg-name="iHeartCountry" tvg-logo="https://image.xumo.com/v1/channels/channel/9995102/168x168.png?type=color_onBlack" catchup="none" group-title="音乐 & Radio",iHeartCountry
+http://192.255.248.123:1905/proxy/xumo-9995102.m3u8
+#EXTINF:-1 tvg-id="iHeart Hip Hop Beats" tvg-name="iHeart Hip Hop Beats" tvg-logo="https://image.xumo.com/v1/channels/channel/9995103/168x168.png?type=color_onBlack" catchup="none" group-title="音乐 & Radio",iHeart Hip Hop Beats
+http://192.255.248.123:1905/proxy/xumo-9995103.m3u8
+#EXTINF:-1 tvg-id="iHeartCountry Classics" tvg-name="iHeartCountry Classics" tvg-logo="https://image.xumo.com/v1/channels/channel/99951464/168x168.png?type=color_onBlack" catchup="none" group-title="音乐 & Radio",iHeartCountry Classics
+http://192.255.248.123:1905/proxy/xumo-99951464.m3u8
+#EXTINF:-1 tvg-id="Driftwood" tvg-name="Driftwood" tvg-logo="https://image.xumo.com/v1/channels/channel/99951585/168x168.png?type=color_onBlack" catchup="none" group-title="音乐 & Radio",Driftwood
+http://192.255.248.123:1905/proxy/xumo-99951585.m3u8
+#EXTINF:-1 tvg-id="Stingray Hit List" tvg-name="Stingray Hit List" tvg-logo="https://image.xumo.com/v1/channels/channel/99991117/168x168.png?type=color_onBlack" catchup="none" group-title="音乐 & Radio",Stingray Hit List
+http://192.255.248.123:1905/proxy/xumo-99991117.m3u8
+#EXTINF:-1 tvg-id="Stingray Hot Country" tvg-name="Stingray Hot Country" tvg-logo="https://image.xumo.com/v1/channels/channel/99991118/168x168.png?type=color_onBlack" catchup="none" group-title="音乐 & Radio",Stingray Hot Country
+http://192.255.248.123:1905/proxy/xumo-99991118.m3u8
+#EXTINF:-1 tvg-id="Stingray Classic Rock" tvg-name="Stingray Classic Rock" tvg-logo="https://image.xumo.com/v1/channels/channel/99991119/168x168.png?type=color_onBlack" catchup="none" group-title="音乐 & Radio",Stingray Classic Rock
+http://192.255.248.123:1905/proxy/xumo-99991119.m3u8
+#EXTINF:-1 tvg-id="Stingray Greatest Holiday Hits" tvg-name="Stingray Greatest Holiday Hits" tvg-logo="https://image.xumo.com/v1/channels/channel/99991120/168x168.png?type=color_onBlack" catchup="none" group-title="音乐 & Radio",Stingray Greatest Holiday Hits
+http://192.255.248.123:1905/proxy/xumo-99991120.m3u8
+#EXTINF:-1 tvg-id="Stingray Soul Storm" tvg-name="Stingray Soul Storm" tvg-logo="https://image.xumo.com/v1/channels/channel/99991121/168x168.png?type=color_onBlack" catchup="none" group-title="音乐 & Radio",Stingray Soul Storm
+http://192.255.248.123:1905/proxy/xumo-99991121.m3u8
+#EXTINF:-1 tvg-id="Stingray Remember the 80s" tvg-name="Stingray Remember the 80s" tvg-logo="https://image.xumo.com/v1/channels/channel/99991742/168x168.png?type=color_onBlack" catchup="none" group-title="音乐 & Radio",Stingray Remember the 80s
+http://192.255.248.123:1905/proxy/xumo-99991742.m3u8
+
+
+#EXTINF:-1 tvg-id="Shades of Black" tvg-name="Shades of Black" tvg-logo="https://image.xumo.com/v1/channels/channel/9995106/168x168.png?type=color_onBlack" catchup="none" group-title="电影",Shades of Black
+http://192.255.248.123:1905/proxy/xumo-9995106.m3u8
+#EXTINF:-1 tvg-id="MovieSphere by Lionsgate" tvg-name="MovieSphere by Lionsgate" tvg-logo="https://image.xumo.com/v1/channels/channel/99951251/168x168.png?type=color_onBlack" catchup="none" group-title="电影",MovieSphere by Lionsgate
+http://192.255.248.123:1905/proxy/xumo-99951251.m3u8
+#EXTINF:-1 tvg-id="OUTflix Movies" tvg-name="OUTflix Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/99951288/168x168.png?type=color_onBlack" catchup="none" group-title="电影",OUTflix Movies
+http://192.255.248.123:1905/proxy/xumo-99951288.m3u8
+#EXTINF:-1 tvg-id="Shout! Movies" tvg-name="Shout! Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/99951411/168x168.png?type=color_onBlack" catchup="none" group-title="电影",Shout! Movies
+http://192.255.248.123:1905/proxy/xumo-99951411.m3u8
+#EXTINF:-1 tvg-id="MGM Presents: Action" tvg-name="MGM Presents: Action" tvg-logo="https://image.xumo.com/v1/channels/channel/99951572/168x168.png?type=color_onBlack" catchup="none" group-title="电影",MGM Presents: Action
+http://192.255.248.123:1905/proxy/xumo-99951572.m3u8
+#EXTINF:-1 tvg-id="MGM Presents" tvg-name="MGM Presents" tvg-logo="https://image.xumo.com/v1/channels/channel/99951573/168x168.png?type=color_onBlack" catchup="none" group-title="电影",MGM Presents
+http://192.255.248.123:1905/proxy/xumo-99951573.m3u8
+#EXTINF:-1 tvg-id="MGM Celebrates Black Cinema" tvg-name="MGM Celebrates Black Cinema" tvg-logo="https://image.xumo.com/v1/channels/channel/99951574/168x168.png?type=color_onBlack" catchup="none" group-title="电影",MGM Celebrates Black Cinema
+http://192.255.248.123:1905/proxy/xumo-99951574.m3u8
+#EXTINF:-1 tvg-id="At The Movies" tvg-name="At The Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/99951603/168x168.png?type=color_onBlack" catchup="none" group-title="电影",At The Movies
+http://192.255.248.123:1905/proxy/xumo-99951603.m3u8
+#EXTINF:-1 tvg-id="Stash TV" tvg-name="Stash TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991300/168x168.png?type=color_onBlack" catchup="none" group-title="电影",Stash TV
+http://192.255.248.123:1905/proxy/xumo-99991300.m3u8
+#EXTINF:-1 tvg-id="Hi-Yah!" tvg-name="Hi-Yah!" tvg-logo="https://image.xumo.com/v1/channels/channel/99991302/168x168.png?type=color_onBlack" catchup="none" group-title="电影",Hi-Yah!
+http://192.255.248.123:1905/proxy/xumo-99991302.m3u8
+#EXTINF:-1 tvg-id="Gravitas Movies" tvg-name="Gravitas Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/99991312/168x168.png?type=color_onBlack" catchup="none" group-title="电影",Gravitas Movies
+http://192.255.248.123:1905/proxy/xumo-99991312.m3u8
+#EXTINF:-1 tvg-id="Maverick Black Cinema" tvg-name="Maverick Black Cinema" tvg-logo="https://image.xumo.com/v1/channels/channel/99991336/168x168.png?type=color_onBlack" catchup="none" group-title="电影",Maverick Black Cinema
+http://192.255.248.123:1905/proxy/xumo-99991336.m3u8
+#EXTINF:-1 tvg-id="NEW Korean MOVIES & SERIES" tvg-name="NEW Korean MOVIES & SERIES" tvg-logo="https://image.xumo.com/v1/channels/channel/99991386/168x168.png?type=color_onBlack" catchup="none" group-title="电影",NEW Korean MOVIES & SERIES
+http://192.255.248.123:1905/proxy/xumo-99991386.m3u8
+#EXTINF:-1 tvg-id="Magnolia Selects" tvg-name="Magnolia Selects" tvg-logo="https://image.xumo.com/v1/channels/channel/99991399/168x168.png?type=color_onBlack" catchup="none" group-title="电影",Magnolia Selects
+http://192.255.248.123:1905/proxy/xumo-99991399.m3u8
+#EXTINF:-1 tvg-id="Universal Movies" tvg-name="Universal Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack" catchup="none" group-title="电影",Universal Movies
+http://192.255.248.123:1905/proxy/xumo-99991621.m3u8
+#EXTINF:-1 tvg-id="DOCUMENTARY+" tvg-name="DOCUMENTARY+" tvg-logo="http://192.255.248.123:1905/logo-pack/Documentary%2B.png?v=53cce5021d" catchup="none" group-title="电影",DOCUMENTARY+
+http://192.255.248.123:1905/proxy/xumo-99991638.m3u8
+
+
+#EXTINF:-1 tvg-id="WFTV Orlando" tvg-name="WFTV Orlando" tvg-logo="https://image.xumo.com/v1/channels/channel/9995107/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",WFTV Orlando
+http://192.255.248.123:1905/proxy/xumo-9995107.m3u8
+#EXTINF:-1 tvg-id="Boston 25" tvg-name="Boston 25" tvg-logo="https://image.xumo.com/v1/channels/channel/9995108/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",Boston 25
+http://192.255.248.123:1905/proxy/xumo-9995108.m3u8
+#EXTINF:-1 tvg-id="WHIO Dayton" tvg-name="WHIO Dayton" tvg-logo="https://image.xumo.com/v1/channels/channel/9995109/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",WHIO Dayton
+http://192.255.248.123:1905/proxy/xumo-9995109.m3u8
+#EXTINF:-1 tvg-id="Action News Jax" tvg-name="Action News Jax" tvg-logo="https://image.xumo.com/v1/channels/channel/9995110/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",Action News Jax
+http://192.255.248.123:1905/proxy/xumo-9995110.m3u8
+#EXTINF:-1 tvg-id="KIRO Seattle" tvg-name="KIRO Seattle" tvg-logo="https://image.xumo.com/v1/channels/channel/9995112/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",KIRO Seattle
+http://192.255.248.123:1905/proxy/xumo-9995112.m3u8
+#EXTINF:-1 tvg-id="NBC Bay Area News" tvg-name="NBC Bay Area News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951162/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",NBC Bay Area News
+http://192.255.248.123:1905/proxy/xumo-99951162.m3u8
+#EXTINF:-1 tvg-id="NBC 4 New York News" tvg-name="NBC 4 New York News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951163/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",NBC 4 New York News
+http://192.255.248.123:1905/proxy/xumo-99951163.m3u8
+#EXTINF:-1 tvg-id="NBC 4 Los Angeles News" tvg-name="NBC 4 Los Angeles News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951164/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",NBC 4 Los Angeles News
+http://192.255.248.123:1905/proxy/xumo-99951164.m3u8
+#EXTINF:-1 tvg-id="NBC 5 Chicago News" tvg-name="NBC 5 Chicago News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951165/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",NBC 5 Chicago News
+http://192.255.248.123:1905/proxy/xumo-99951165.m3u8
+#EXTINF:-1 tvg-id="NBC 10 Philadelphia News" tvg-name="NBC 10 Philadelphia News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951166/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",NBC 10 Philadelphia News
+http://192.255.248.123:1905/proxy/xumo-99951166.m3u8
+#EXTINF:-1 tvg-id="NBC 6 South Florida News" tvg-name="NBC 6 South Florida News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951167/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",NBC 6 South Florida News
+http://192.255.248.123:1905/proxy/xumo-99951167.m3u8
+#EXTINF:-1 tvg-id="NBC 10 Boston News" tvg-name="NBC 10 Boston News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951168/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",NBC 10 Boston News
+http://192.255.248.123:1905/proxy/xumo-99951168.m3u8
+#EXTINF:-1 tvg-id="NBC 4 Washington News" tvg-name="NBC 4 Washington News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951181/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",NBC 4 Washington News
+http://192.255.248.123:1905/proxy/xumo-99951181.m3u8
+#EXTINF:-1 tvg-id="NBC 5 Dallas-Fort Worth News" tvg-name="NBC 5 Dallas-Fort Worth News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951182/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",NBC 5 Dallas-Fort Worth News
+http://192.255.248.123:1905/proxy/xumo-99951182.m3u8
+#EXTINF:-1 tvg-id="NBC Connecticut News" tvg-name="NBC Connecticut News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951183/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",NBC Connecticut News
+http://192.255.248.123:1905/proxy/xumo-99951183.m3u8
+#EXTINF:-1 tvg-id="NBC 7 San Diego News" tvg-name="NBC 7 San Diego News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951185/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",NBC 7 San Diego News
+http://192.255.248.123:1905/proxy/xumo-99951185.m3u8
+#EXTINF:-1 tvg-id="News 12 New York" tvg-name="News 12 New York" tvg-logo="https://image.xumo.com/v1/channels/channel/99951222/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",News 12 New York
+http://192.255.248.123:1905/proxy/xumo-99951222.m3u8
+#EXTINF:-1 tvg-id="Telemundo Noticias California" tvg-name="Telemundo Noticias California" tvg-logo="https://image.xumo.com/v1/channels/channel/99951225/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",Telemundo Noticias California
+http://192.255.248.123:1905/proxy/xumo-99951225.m3u8
+#EXTINF:-1 tvg-id="Telemundo Noticias Texas" tvg-name="Telemundo Noticias Texas" tvg-logo="https://image.xumo.com/v1/channels/channel/99951226/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",Telemundo Noticias Texas
+http://192.255.248.123:1905/proxy/xumo-99951226.m3u8
+#EXTINF:-1 tvg-id="Telemundo Noticias Florida" tvg-name="Telemundo Noticias Florida" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",Telemundo Noticias Florida
+http://192.255.248.123:1905/proxy/xumo-99951227.m3u8
+#EXTINF:-1 tvg-id="Telemundo Noticias Noreste" tvg-name="Telemundo Noticias Noreste" tvg-logo="https://image.xumo.com/v1/channels/channel/99951228/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",Telemundo Noticias Noreste
+http://192.255.248.123:1905/proxy/xumo-99951228.m3u8
+#EXTINF:-1 tvg-id="FOX LOCAL Chicago" tvg-name="FOX LOCAL Chicago" tvg-logo="https://image.xumo.com/v1/channels/channel/99951415/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",FOX LOCAL Chicago
+http://192.255.248.123:1905/proxy/xumo-99951415.m3u8
+#EXTINF:-1 tvg-id="FOX LOCAL Tampa Bay" tvg-name="FOX LOCAL Tampa Bay" tvg-logo="https://image.xumo.com/v1/channels/channel/99951416/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",FOX LOCAL Tampa Bay
+http://192.255.248.123:1905/proxy/xumo-99951416.m3u8
+#EXTINF:-1 tvg-id="FOX LOCAL Seattle" tvg-name="FOX LOCAL Seattle" tvg-logo="https://image.xumo.com/v1/channels/channel/99951417/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",FOX LOCAL Seattle
+http://192.255.248.123:1905/proxy/xumo-99951417.m3u8
+#EXTINF:-1 tvg-id="FOX LOCAL Dallas-Fort Worth" tvg-name="FOX LOCAL Dallas-Fort Worth" tvg-logo="https://image.xumo.com/v1/channels/channel/99951418/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",FOX LOCAL Dallas-Fort Worth
+http://192.255.248.123:1905/proxy/xumo-99951418.m3u8
+#EXTINF:-1 tvg-id="FOX LOCAL Phoenix" tvg-name="FOX LOCAL Phoenix" tvg-logo="https://image.xumo.com/v1/channels/channel/99951419/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",FOX LOCAL Phoenix
+http://192.255.248.123:1905/proxy/xumo-99951419.m3u8
+#EXTINF:-1 tvg-id="FOX LOCAL Los Angeles" tvg-name="FOX LOCAL Los Angeles" tvg-logo="https://image.xumo.com/v1/channels/channel/99951420/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",FOX LOCAL Los Angeles
+http://192.255.248.123:1905/proxy/xumo-99951420.m3u8
+#EXTINF:-1 tvg-id="FOX LOCAL Detroit" tvg-name="FOX LOCAL Detroit" tvg-logo="https://image.xumo.com/v1/channels/channel/99951421/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",FOX LOCAL Detroit
+http://192.255.248.123:1905/proxy/xumo-99951421.m3u8
+#EXTINF:-1 tvg-id="FOX LOCAL San Francisco" tvg-name="FOX LOCAL San Francisco" tvg-logo="https://image.xumo.com/v1/channels/channel/99951422/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",FOX LOCAL San Francisco
+http://192.255.248.123:1905/proxy/xumo-99951422.m3u8
+#EXTINF:-1 tvg-id="FOX LOCAL Houston" tvg-name="FOX LOCAL Houston" tvg-logo="https://image.xumo.com/v1/channels/channel/99951423/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",FOX LOCAL Houston
+http://192.255.248.123:1905/proxy/xumo-99951423.m3u8
+#EXTINF:-1 tvg-id="FOX LOCAL Philadelphia" tvg-name="FOX LOCAL Philadelphia" tvg-logo="https://image.xumo.com/v1/channels/channel/99951424/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",FOX LOCAL Philadelphia
+http://192.255.248.123:1905/proxy/xumo-99951424.m3u8
+#EXTINF:-1 tvg-id="FOX LOCAL Orlando" tvg-name="FOX LOCAL Orlando" tvg-logo="https://image.xumo.com/v1/channels/channel/99951425/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",FOX LOCAL Orlando
+http://192.255.248.123:1905/proxy/xumo-99951425.m3u8
+#EXTINF:-1 tvg-id="FOX LOCAL Atlanta" tvg-name="FOX LOCAL Atlanta" tvg-logo="https://image.xumo.com/v1/channels/channel/99951426/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",FOX LOCAL Atlanta
+http://192.255.248.123:1905/proxy/xumo-99951426.m3u8
+#EXTINF:-1 tvg-id="FOX LOCAL New York" tvg-name="FOX LOCAL New York" tvg-logo="https://image.xumo.com/v1/channels/channel/99951427/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",FOX LOCAL New York
+http://192.255.248.123:1905/proxy/xumo-99951427.m3u8
+#EXTINF:-1 tvg-id="FOX LOCAL Washington DC" tvg-name="FOX LOCAL Washington DC" tvg-logo="https://image.xumo.com/v1/channels/channel/99951428/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",FOX LOCAL Washington DC
+http://192.255.248.123:1905/proxy/xumo-99951428.m3u8
+#EXTINF:-1 tvg-id="FOX LOCAL Milwaukee" tvg-name="FOX LOCAL Milwaukee" tvg-logo="https://image.xumo.com/v1/channels/channel/99951429/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",FOX LOCAL Milwaukee
+http://192.255.248.123:1905/proxy/xumo-99951429.m3u8
+#EXTINF:-1 tvg-id="FOX LOCAL Austin" tvg-name="FOX LOCAL Austin" tvg-logo="https://image.xumo.com/v1/channels/channel/99951430/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",FOX LOCAL Austin
+http://192.255.248.123:1905/proxy/xumo-99951430.m3u8
+#EXTINF:-1 tvg-id="FOX LOCAL Minnesota" tvg-name="FOX LOCAL Minnesota" tvg-logo="https://image.xumo.com/v1/channels/channel/99951431/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",FOX LOCAL Minnesota
+http://192.255.248.123:1905/proxy/xumo-99951431.m3u8
+#EXTINF:-1 tvg-id="Telemundo Noticias Suroeste" tvg-name="Telemundo Noticias Suroeste" tvg-logo="https://image.xumo.com/v1/channels/channel/99951556/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",Telemundo Noticias Suroeste
+http://192.255.248.123:1905/proxy/xumo-99951556.m3u8
+#EXTINF:-1 tvg-id="CBS News New York" tvg-name="CBS News New York" tvg-logo="https://image.xumo.com/v1/channels/channel/99991641/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",CBS News New York
+http://192.255.248.123:1905/proxy/xumo-99991641.m3u8
+#EXTINF:-1 tvg-id="CBS News Los Angeles" tvg-name="CBS News Los Angeles" tvg-logo="https://image.xumo.com/v1/channels/channel/99991642/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",CBS News Los Angeles
+http://192.255.248.123:1905/proxy/xumo-99991642.m3u8
+#EXTINF:-1 tvg-id="CBS News Chicago" tvg-name="CBS News Chicago" tvg-logo="https://image.xumo.com/v1/channels/channel/99991643/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",CBS News Chicago
+http://192.255.248.123:1905/proxy/xumo-99991643.m3u8
+#EXTINF:-1 tvg-id="CBS News Bay Area" tvg-name="CBS News Bay Area" tvg-logo="https://image.xumo.com/v1/channels/channel/99991655/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",CBS News Bay Area
+http://192.255.248.123:1905/proxy/xumo-99991655.m3u8
+#EXTINF:-1 tvg-id="CBS News Boston" tvg-name="CBS News Boston" tvg-logo="https://image.xumo.com/v1/channels/channel/99991656/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",CBS News Boston
+http://192.255.248.123:1905/proxy/xumo-99991656.m3u8
+#EXTINF:-1 tvg-id="WPXI Pittsburgh" tvg-name="WPXI Pittsburgh" tvg-logo="https://image.xumo.com/v1/channels/channel/99991689/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",WPXI Pittsburgh
+http://192.255.248.123:1905/proxy/xumo-99991689.m3u8
+#EXTINF:-1 tvg-id="WSB Atlanta" tvg-name="WSB Atlanta" tvg-logo="https://image.xumo.com/v1/channels/channel/99991690/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",WSB Atlanta
+http://192.255.248.123:1905/proxy/xumo-99991690.m3u8
+#EXTINF:-1 tvg-id="WSOC Charlotte" tvg-name="WSOC Charlotte" tvg-logo="https://image.xumo.com/v1/channels/channel/99991691/168x168.png?type=color_onBlack" catchup="none" group-title="本地新闻",WSOC Charlotte
+http://192.255.248.123:1905/proxy/xumo-99991691.m3u8
+
+
+#EXTINF:-1 tvg-id="Xumo Free Food TV" tvg-name="Xumo Free Food TV" tvg-logo="https://image.xumo.com/v1/channels/channel/9995117/168x168.png?type=color_onBlack" catchup="none" group-title="美食",Xumo Free Food TV
+http://192.255.248.123:1905/proxy/xumo-9995117.m3u8
+#EXTINF:-1 tvg-id="Lidia's Kitchen" tvg-name="Lidia's Kitchen" tvg-logo="https://image.xumo.com/v1/channels/channel/99951151/168x168.png?type=color_onBlack" catchup="none" group-title="美食",Lidia's Kitchen
+http://192.255.248.123:1905/proxy/xumo-99951151.m3u8
+#EXTINF:-1 tvg-id="The Jamie Oliver Channel" tvg-name="The Jamie Oliver Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951153/168x168.png?type=color_onBlack" catchup="none" group-title="美食",The Jamie Oliver Channel
+http://192.255.248.123:1905/proxy/xumo-99951153.m3u8
+#EXTINF:-1 tvg-id="BBC Food" tvg-name="BBC Food" tvg-logo="https://image.xumo.com/v1/channels/channel/99951177/168x168.png?type=color_onBlack" catchup="none" group-title="美食",BBC Food
+http://192.255.248.123:1905/proxy/xumo-99951177.m3u8
+#EXTINF:-1 tvg-id="Cook's Country" tvg-name="Cook's Country" tvg-logo="https://image.xumo.com/v1/channels/channel/99951323/168x168.png?type=color_onBlack" catchup="none" group-title="美食",Cook's Country
+http://192.255.248.123:1905/proxy/xumo-99951323.m3u8
+#EXTINF:-1 tvg-id="Bizarre Foods with Andrew Zimmern" tvg-name="Bizarre Foods with Andrew Zimmern" tvg-logo="https://image.xumo.com/v1/channels/channel/99951393/168x168.png?type=color_onBlack" catchup="none" group-title="美食",Bizarre Foods with Andrew Zimmern
+http://192.255.248.123:1905/proxy/xumo-99951393.m3u8
+#EXTINF:-1 tvg-id="Come Dine With Me" tvg-name="Come Dine With Me" tvg-logo="https://image.xumo.com/v1/channels/channel/99951451/168x168.png?type=color_onBlack" catchup="none" group-title="美食",Come Dine With Me
+http://192.255.248.123:1905/proxy/xumo-99951451.m3u8
+#EXTINF:-1 tvg-id="The Emeril Lagasse Channel" tvg-name="The Emeril Lagasse Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951514/168x168.png?type=color_onBlack" catchup="none" group-title="美食",The Emeril Lagasse Channel
+http://192.255.248.123:1905/proxy/xumo-99951514.m3u8
+#EXTINF:-1 tvg-id="Great British Menu" tvg-name="Great British Menu" tvg-logo="https://image.xumo.com/v1/channels/channel/99951515/168x168.png?type=color_onBlack" catchup="none" group-title="美食",Great British Menu
+http://192.255.248.123:1905/proxy/xumo-99951515.m3u8
+#EXTINF:-1 tvg-id="PBS Food" tvg-name="PBS Food" tvg-logo="https://image.xumo.com/v1/channels/channel/99951588/168x168.png?type=color_onBlack" catchup="none" group-title="美食",PBS Food
+http://192.255.248.123:1905/proxy/xumo-99951588.m3u8
+#EXTINF:-1 tvg-id="The Great British Baking Channel" tvg-name="The Great British Baking Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951607/168x168.png?type=color_onBlack" catchup="none" group-title="美食",The Great British Baking Channel
+http://192.255.248.123:1905/proxy/xumo-99951607.m3u8
+#EXTINF:-1 tvg-id="Tastemade" tvg-name="Tastemade" tvg-logo="https://image.xumo.com/v1/channels/channel/99991202/168x168.png?type=color_onBlack" catchup="none" group-title="美食",Tastemade
+http://192.255.248.123:1905/proxy/xumo-99991202.m3u8
+#EXTINF:-1 tvg-id="GustoTV" tvg-name="GustoTV" tvg-logo="http://192.255.248.123:1905/logo-pack/Gusto%20TV.png?v=40321e7185" catchup="none" group-title="美食",GustoTV
+http://192.255.248.123:1905/proxy/xumo-99991328.m3u8
+#EXTINF:-1 tvg-id="America's Test Kitchen" tvg-name="America's Test Kitchen" tvg-logo="https://image.xumo.com/v1/channels/channel/99991369/168x168.png?type=color_onBlack" catchup="none" group-title="美食",America's Test Kitchen
+http://192.255.248.123:1905/proxy/xumo-99991369.m3u8
+#EXTINF:-1 tvg-id="Hungry" tvg-name="Hungry" tvg-logo="https://image.xumo.com/v1/channels/channel/99991380/168x168.png?type=color_onBlack" catchup="none" group-title="美食",Hungry
+http://192.255.248.123:1905/proxy/xumo-99991380.m3u8
+
+
+#EXTINF:-1 tvg-id="Tastemade Travel Channel" tvg-name="Tastemade Travel Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/9995118/168x168.png?type=color_onBlack" catchup="none" group-title="旅行与生活方式",Tastemade Travel Channel
+http://192.255.248.123:1905/proxy/xumo-9995118.m3u8
+#EXTINF:-1 tvg-id="PBS Antiques Roadshow" tvg-name="PBS Antiques Roadshow" tvg-logo="https://image.xumo.com/v1/channels/channel/99951206/168x168.png?type=color_onBlack" catchup="none" group-title="旅行与生活方式",PBS Antiques Roadshow
+http://192.255.248.123:1905/proxy/xumo-99951206.m3u8
+#EXTINF:-1 tvg-id="Antiques Road Trip" tvg-name="Antiques Road Trip" tvg-logo="https://image.xumo.com/v1/channels/channel/99951353/168x168.png?type=color_onBlack" catchup="none" group-title="旅行与生活方式",Antiques Road Trip
+http://192.255.248.123:1905/proxy/xumo-99951353.m3u8
+#EXTINF:-1 tvg-id="QVC2" tvg-name="QVC2" tvg-logo="https://image.xumo.com/v1/channels/channel/99951405/168x168.png?type=color_onBlack" catchup="none" group-title="旅行与生活方式",QVC2
+http://192.255.248.123:1905/proxy/xumo-99951405.m3u8
+#EXTINF:-1 tvg-id="The Martha Stewart Channel" tvg-name="The Martha Stewart Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951513/168x168.png?type=color_onBlack" catchup="none" group-title="旅行与生活方式",The Martha Stewart Channel
+http://192.255.248.123:1905/proxy/xumo-99951513.m3u8
+#EXTINF:-1 tvg-id="PBS Travel" tvg-name="PBS Travel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951587/168x168.png?type=color_onBlack" catchup="none" group-title="旅行与生活方式",PBS Travel
+http://192.255.248.123:1905/proxy/xumo-99951587.m3u8
+#EXTINF:-1 tvg-id="The Repair Shop" tvg-name="The Repair Shop" tvg-logo="https://image.xumo.com/v1/channels/channel/99951604/168x168.png?type=color_onBlack" catchup="none" group-title="旅行与生活方式",The Repair Shop
+http://192.255.248.123:1905/proxy/xumo-99951604.m3u8
+#EXTINF:-1 tvg-id="Xumo Free Travel & Lifestyle TV" tvg-name="Xumo Free Travel & Lifestyle TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991111/168x168.png?type=color_onBlack" catchup="none" group-title="旅行与生活方式",Xumo Free Travel & Lifestyle TV
+http://192.255.248.123:1905/proxy/xumo-99991111.m3u8
+#EXTINF:-1 tvg-id="HSN" tvg-name="HSN" tvg-logo="https://image.xumo.com/v1/channels/channel/99991271/168x168.png?type=color_onBlack" catchup="none" group-title="旅行与生活方式",HSN
+http://192.255.248.123:1905/proxy/xumo-99991271.m3u8
+#EXTINF:-1 tvg-id="JTV Jewelry Love" tvg-name="JTV Jewelry Love" tvg-logo="https://image.xumo.com/v1/channels/channel/99991338/168x168.png?type=color_onBlack" catchup="none" group-title="旅行与生活方式",JTV Jewelry Love
+http://192.255.248.123:1905/proxy/xumo-99991338.m3u8
+#EXTINF:-1 tvg-id="QVC" tvg-name="QVC" tvg-logo="https://image.xumo.com/v1/channels/channel/99991344/168x168.png?type=color_onBlack" catchup="none" group-title="旅行与生活方式",QVC
+http://192.255.248.123:1905/proxy/xumo-99991344.m3u8
+#EXTINF:-1 tvg-id="ShopLC" tvg-name="ShopLC" tvg-logo="https://image.xumo.com/v1/channels/channel/99991370/168x168.png?type=color_onBlack" catchup="none" group-title="旅行与生活方式",ShopLC
+http://192.255.248.123:1905/proxy/xumo-99991370.m3u8
+#EXTINF:-1 tvg-id="Antiques Roadshow UK" tvg-name="Antiques Roadshow UK" tvg-logo="https://image.xumo.com/v1/channels/channel/99991783/168x168.png?type=color_onBlack" catchup="none" group-title="旅行与生活方式",Antiques Roadshow UK
+http://192.255.248.123:1905/proxy/xumo-99991783.m3u8
+
+
+#EXTINF:-1 tvg-id="Bounce XL" tvg-name="Bounce XL" tvg-logo="https://image.xumo.com/v1/channels/channel/9999613/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",Bounce XL
+http://192.255.248.123:1905/proxy/xumo-9999613.m3u8
+#EXTINF:-1 tvg-id="Anger Management" tvg-name="Anger Management" tvg-logo="https://image.xumo.com/v1/channels/channel/99951192/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",Anger Management
+http://192.255.248.123:1905/proxy/xumo-99951192.m3u8
+#EXTINF:-1 tvg-id="Laff More" tvg-name="Laff More" tvg-logo="https://image.xumo.com/v1/channels/channel/99951232/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",Laff More
+http://192.255.248.123:1905/proxy/xumo-99951232.m3u8
+#EXTINF:-1 tvg-id="SNL Vault" tvg-name="SNL Vault" tvg-logo="https://image.xumo.com/v1/channels/channel/99951236/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",SNL Vault
+http://192.255.248.123:1905/proxy/xumo-99951236.m3u8
+#EXTINF:-1 tvg-id="NBC Comedy Vault" tvg-name="NBC Comedy Vault" tvg-logo="https://image.xumo.com/v1/channels/channel/99951244/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",NBC Comedy Vault
+http://192.255.248.123:1905/proxy/xumo-99951244.m3u8
+#EXTINF:-1 tvg-id="Saved by the Bell" tvg-name="Saved by the Bell" tvg-logo="https://image.xumo.com/v1/channels/channel/99951247/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",Saved by the Bell
+http://192.255.248.123:1905/proxy/xumo-99951247.m3u8
+#EXTINF:-1 tvg-id="Fluffy TV" tvg-name="Fluffy TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951287/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",Fluffy TV
+http://192.255.248.123:1905/proxy/xumo-99951287.m3u8
+#EXTINF:-1 tvg-id="Portlandia" tvg-name="Portlandia" tvg-logo="https://image.xumo.com/v1/channels/channel/99951301/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",Portlandia
+http://192.255.248.123:1905/proxy/xumo-99951301.m3u8
+#EXTINF:-1 tvg-id="The Conners" tvg-name="The Conners" tvg-logo="https://image.xumo.com/v1/channels/channel/99951329/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",The Conners
+http://192.255.248.123:1905/proxy/xumo-99951329.m3u8
+#EXTINF:-1 tvg-id="Hit Sitcoms" tvg-name="Hit Sitcoms" tvg-logo="https://image.xumo.com/v1/channels/channel/99951397/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",Hit Sitcoms
+http://192.255.248.123:1905/proxy/xumo-99951397.m3u8
+#EXTINF:-1 tvg-id="Creator TV" tvg-name="Creator TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951437/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",Creator TV
+http://192.255.248.123:1905/proxy/xumo-99951437.m3u8
+#EXTINF:-1 tvg-id="Comedy Dynamics" tvg-name="Comedy Dynamics" tvg-logo="https://image.xumo.com/v1/channels/channel/99951463/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",Comedy Dynamics
+http://192.255.248.123:1905/proxy/xumo-99951463.m3u8
+#EXTINF:-1 tvg-id="LOL Network" tvg-name="LOL Network" tvg-logo="https://image.xumo.com/v1/channels/channel/99951492/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",LOL Network
+http://192.255.248.123:1905/proxy/xumo-99951492.m3u8
+#EXTINF:-1 tvg-id="Ghosts" tvg-name="Ghosts" tvg-logo="https://image.xumo.com/v1/channels/channel/99951619/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",Ghosts
+http://192.255.248.123:1905/proxy/xumo-99951619.m3u8
+#EXTINF:-1 tvg-id="Xumo Free Comedy TV" tvg-name="Xumo Free Comedy TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991105/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",Xumo Free Comedy TV
+http://192.255.248.123:1905/proxy/xumo-99991105.m3u8
+#EXTINF:-1 tvg-id="FailArmy" tvg-name="FailArmy" tvg-logo="https://image.xumo.com/v1/channels/channel/99991153/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",FailArmy
+http://192.255.248.123:1905/proxy/xumo-99991153.m3u8
+#EXTINF:-1 tvg-id="Just for Laughs Gags" tvg-name="Just for Laughs Gags" tvg-logo="https://image.xumo.com/v1/channels/channel/99991204/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",Just for Laughs Gags
+http://192.255.248.123:1905/proxy/xumo-99991204.m3u8
+#EXTINF:-1 tvg-id="It's Showtime at the Apollo" tvg-name="It's Showtime at the Apollo" tvg-logo="https://image.xumo.com/v1/channels/channel/99991349/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",It's Showtime at the Apollo
+http://192.255.248.123:1905/proxy/xumo-99991349.m3u8
+#EXTINF:-1 tvg-id="Mystery Science Theater 3000 (MST3K)" tvg-name="Mystery Science Theater 3000 (MST3K)" tvg-logo="https://image.xumo.com/v1/channels/channel/99991616/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",Mystery Science Theater 3000 (MST3K)
+http://192.255.248.123:1905/proxy/xumo-99991616.m3u8
+#EXTINF:-1 tvg-id="Are We There Yet?" tvg-name="Are We There Yet?" tvg-logo="https://image.xumo.com/v1/channels/channel/99991667/168x168.png?type=color_onBlack" catchup="none" group-title="喜剧",Are We There Yet?
+http://192.255.248.123:1905/proxy/xumo-99991667.m3u8
+
+
+#EXTINF:-1 tvg-id="ION Plus" tvg-name="ION Plus" tvg-logo="https://image.xumo.com/v1/channels/channel/9999614/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",ION Plus
+http://192.255.248.123:1905/proxy/xumo-9999614.m3u8
+#EXTINF:-1 tvg-id="Baywatch" tvg-name="Baywatch" tvg-logo="https://image.xumo.com/v1/channels/channel/99951133/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Baywatch
+http://192.255.248.123:1905/proxy/xumo-99951133.m3u8
+#EXTINF:-1 tvg-id="ION" tvg-name="ION" tvg-logo="https://image.xumo.com/v1/channels/channel/99951158/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",ION
+http://192.255.248.123:1905/proxy/xumo-99951158.m3u8
+#EXTINF:-1 tvg-id="Las Vegas" tvg-name="Las Vegas" tvg-logo="https://image.xumo.com/v1/channels/channel/99951238/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Las Vegas
+http://192.255.248.123:1905/proxy/xumo-99951238.m3u8
+#EXTINF:-1 tvg-id="Universal Action" tvg-name="Universal Action" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Universal Action
+http://192.255.248.123:1905/proxy/xumo-99951254.m3u8
+#EXTINF:-1 tvg-id="Ebony TV by Lionsgate" tvg-name="Ebony TV by Lionsgate" tvg-logo="https://image.xumo.com/v1/channels/channel/99951293/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Ebony TV by Lionsgate
+http://192.255.248.123:1905/proxy/xumo-99951293.m3u8
+#EXTINF:-1 tvg-id="Nash Bridges" tvg-name="Nash Bridges" tvg-logo="https://image.xumo.com/v1/channels/channel/99951330/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Nash Bridges
+http://192.255.248.123:1905/proxy/xumo-99951330.m3u8
+#EXTINF:-1 tvg-id="Designated Survivor" tvg-name="Designated Survivor" tvg-logo="https://image.xumo.com/v1/channels/channel/99951346/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Designated Survivor
+http://192.255.248.123:1905/proxy/xumo-99951346.m3u8
+#EXTINF:-1 tvg-id="Xena Warrior Princess" tvg-name="Xena Warrior Princess" tvg-logo="https://image.xumo.com/v1/channels/channel/99951412/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Xena Warrior Princess
+http://192.255.248.123:1905/proxy/xumo-99951412.m3u8
+#EXTINF:-1 tvg-id="Bizaar" tvg-name="Bizaar" tvg-logo="https://image.xumo.com/v1/channels/channel/99951435/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Bizaar
+http://192.255.248.123:1905/proxy/xumo-99951435.m3u8
+#EXTINF:-1 tvg-id="50 Cent Action" tvg-name="50 Cent Action" tvg-logo="https://image.xumo.com/v1/channels/channel/99951439/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",50 Cent Action
+http://192.255.248.123:1905/proxy/xumo-99951439.m3u8
+#EXTINF:-1 tvg-id="Murdoch Mysteries" tvg-name="Murdoch Mysteries" tvg-logo="https://image.xumo.com/v1/channels/channel/99951452/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Murdoch Mysteries
+http://192.255.248.123:1905/proxy/xumo-99951452.m3u8
+#EXTINF:-1 tvg-id="Acorn TV Mysteries" tvg-name="Acorn TV Mysteries" tvg-logo="https://image.xumo.com/v1/channels/channel/99951478/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Acorn TV Mysteries
+http://192.255.248.123:1905/proxy/xumo-99951478.m3u8
+#EXTINF:-1 tvg-id="GoldenTV" tvg-name="GoldenTV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951493/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",GoldenTV
+http://192.255.248.123:1905/proxy/xumo-99951493.m3u8
+#EXTINF:-1 tvg-id="Heartland" tvg-name="Heartland" tvg-logo="https://image.xumo.com/v1/channels/channel/99951494/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Heartland
+http://192.255.248.123:1905/proxy/xumo-99951494.m3u8
+#EXTINF:-1 tvg-id="Weeds & Nurse Jackie" tvg-name="Weeds & Nurse Jackie" tvg-logo="https://image.xumo.com/v1/channels/channel/99951535/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Weeds & Nurse Jackie
+http://192.255.248.123:1905/proxy/xumo-99951535.m3u8
+#EXTINF:-1 tvg-id="El Rey Rebel" tvg-name="El Rey Rebel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951536/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",El Rey Rebel
+http://192.255.248.123:1905/proxy/xumo-99951536.m3u8
+#EXTINF:-1 tvg-id="Fairground AI TV" tvg-name="Fairground AI TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951590/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Fairground AI TV
+http://192.255.248.123:1905/proxy/xumo-99951590.m3u8
+#EXTINF:-1 tvg-id="BBC Drama" tvg-name="BBC Drama" tvg-logo="https://image.xumo.com/v1/channels/channel/99951605/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",BBC Drama
+http://192.255.248.123:1905/proxy/xumo-99951605.m3u8
+#EXTINF:-1 tvg-id="Rookie Blue" tvg-name="Rookie Blue" tvg-logo="https://image.xumo.com/v1/channels/channel/99951612/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Rookie Blue
+http://192.255.248.123:1905/proxy/xumo-99951612.m3u8
+#EXTINF:-1 tvg-id="Lionsgate Network" tvg-name="Lionsgate Network" tvg-logo="https://image.xumo.com/v1/channels/channel/99951614/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Lionsgate Network
+http://192.255.248.123:1905/proxy/xumo-99951614.m3u8
+#EXTINF:-1 tvg-id="Vikings" tvg-name="Vikings" tvg-logo="https://image.xumo.com/v1/channels/channel/99951616/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Vikings
+http://192.255.248.123:1905/proxy/xumo-99951616.m3u8
+#EXTINF:-1 tvg-id="KOCOWA K-Drama" tvg-name="KOCOWA K-Drama" tvg-logo="https://image.xumo.com/v1/channels/channel/99991348/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",KOCOWA K-Drama
+http://192.255.248.123:1905/proxy/xumo-99991348.m3u8
+#EXTINF:-1 tvg-id="ElectricNOW" tvg-name="ElectricNOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99991378/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",ElectricNOW
+http://192.255.248.123:1905/proxy/xumo-99991378.m3u8
+#EXTINF:-1 tvg-id="Demand Africa" tvg-name="Demand Africa" tvg-logo="https://image.xumo.com/v1/channels/channel/99991381/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Demand Africa
+http://192.255.248.123:1905/proxy/xumo-99991381.m3u8
+#EXTINF:-1 tvg-id="Stories by AMC" tvg-name="Stories by AMC" tvg-logo="https://image.xumo.com/v1/channels/channel/99991622/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Stories by AMC
+http://192.255.248.123:1905/proxy/xumo-99991622.m3u8
+#EXTINF:-1 tvg-id="The Wu Tang Collection TV" tvg-name="The Wu Tang Collection TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991745/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",The Wu Tang Collection TV
+http://192.255.248.123:1905/proxy/xumo-99991745.m3u8
+#EXTINF:-1 tvg-id="Xumo Free Action & Drama TV" tvg-name="Xumo Free Action & Drama TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991784/168x168.png?type=color_onBlack" catchup="none" group-title="动作与剧情",Xumo Free Action & Drama TV
+http://192.255.248.123:1905/proxy/xumo-99991784.m3u8
+
+
+#EXTINF:-1 tvg-id="Dark Matter TV" tvg-name="Dark Matter TV" tvg-logo="https://image.xumo.com/v1/channels/channel/9999615/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",Dark Matter TV
+http://192.255.248.123:1905/proxy/xumo-9999615.m3u8
+#EXTINF:-1 tvg-id="Classic Doctor Who" tvg-name="Classic Doctor Who" tvg-logo="https://image.xumo.com/v1/channels/channel/99951248/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",Classic Doctor Who
+http://192.255.248.123:1905/proxy/xumo-99951248.m3u8
+#EXTINF:-1 tvg-id="OuterSphere by Lionsgate" tvg-name="OuterSphere by Lionsgate" tvg-logo="https://image.xumo.com/v1/channels/channel/99951250/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",OuterSphere by Lionsgate
+http://192.255.248.123:1905/proxy/xumo-99951250.m3u8
+#EXTINF:-1 tvg-id="Alfred Hitchcock Presents" tvg-name="Alfred Hitchcock Presents" tvg-logo="https://image.xumo.com/v1/channels/channel/99951256/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",Alfred Hitchcock Presents
+http://192.255.248.123:1905/proxy/xumo-99951256.m3u8
+#EXTINF:-1 tvg-id="Universal Monsters" tvg-name="Universal Monsters" tvg-logo="https://image.xumo.com/v1/channels/channel/99951264/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",Universal Monsters
+http://192.255.248.123:1905/proxy/xumo-99951264.m3u8
+#EXTINF:-1 tvg-id="Ghost Hunters" tvg-name="Ghost Hunters" tvg-logo="https://image.xumo.com/v1/channels/channel/99951277/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",Ghost Hunters
+http://192.255.248.123:1905/proxy/xumo-99951277.m3u8
+#EXTINF:-1 tvg-id="Scares by Shudder" tvg-name="Scares by Shudder" tvg-logo="https://image.xumo.com/v1/channels/channel/99951349/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",Scares by Shudder
+http://192.255.248.123:1905/proxy/xumo-99951349.m3u8
+#EXTINF:-1 tvg-id="Haunt TV" tvg-name="Haunt TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951375/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",Haunt TV
+http://192.255.248.123:1905/proxy/xumo-99951375.m3u8
+#EXTINF:-1 tvg-id="AMC Thrillers" tvg-name="AMC Thrillers" tvg-logo="https://image.xumo.com/v1/channels/channel/99951377/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",AMC Thrillers
+http://192.255.248.123:1905/proxy/xumo-99951377.m3u8
+#EXTINF:-1 tvg-id="Ghosts Are Real" tvg-name="Ghosts Are Real" tvg-logo="https://image.xumo.com/v1/channels/channel/99951391/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",Ghosts Are Real
+http://192.255.248.123:1905/proxy/xumo-99951391.m3u8
+#EXTINF:-1 tvg-id="Mysterious Worlds" tvg-name="Mysterious Worlds" tvg-logo="https://image.xumo.com/v1/channels/channel/99951398/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",Mysterious Worlds
+http://192.255.248.123:1905/proxy/xumo-99951398.m3u8
+#EXTINF:-1 tvg-id="Dungeons & Dragons Adventures" tvg-name="Dungeons & Dragons Adventures" tvg-logo="https://image.xumo.com/v1/channels/channel/99951440/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",Dungeons & Dragons Adventures
+http://192.255.248.123:1905/proxy/xumo-99951440.m3u8
+#EXTINF:-1 tvg-id="Ancient Aliens" tvg-name="Ancient Aliens" tvg-logo="https://image.xumo.com/v1/channels/channel/99951474/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",Ancient Aliens
+http://192.255.248.123:1905/proxy/xumo-99951474.m3u8
+#EXTINF:-1 tvg-id="UnXplained Zone" tvg-name="UnXplained Zone" tvg-logo="https://image.xumo.com/v1/channels/channel/99951552/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",UnXplained Zone
+http://192.255.248.123:1905/proxy/xumo-99951552.m3u8
+#EXTINF:-1 tvg-id="MGM Presents: Horror" tvg-name="MGM Presents: Horror" tvg-logo="https://image.xumo.com/v1/channels/channel/99951571/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",MGM Presents: Horror
+http://192.255.248.123:1905/proxy/xumo-99951571.m3u8
+#EXTINF:-1 tvg-id="The Outer Limits" tvg-name="The Outer Limits" tvg-logo="https://image.xumo.com/v1/channels/channel/99951579/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",The Outer Limits
+http://192.255.248.123:1905/proxy/xumo-99951579.m3u8
+#EXTINF:-1 tvg-id="Stargate" tvg-name="Stargate" tvg-logo="https://image.xumo.com/v1/channels/channel/99951580/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",Stargate
+http://192.255.248.123:1905/proxy/xumo-99951580.m3u8
+#EXTINF:-1 tvg-id="Alien Nation by DUST" tvg-name="Alien Nation by DUST" tvg-logo="https://image.xumo.com/v1/channels/channel/99991292/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",Alien Nation by DUST
+http://192.255.248.123:1905/proxy/xumo-99991292.m3u8
+#EXTINF:-1 tvg-id="The Asylum" tvg-name="The Asylum" tvg-logo="https://image.xumo.com/v1/channels/channel/99991331/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",The Asylum
+http://192.255.248.123:1905/proxy/xumo-99991331.m3u8
+#EXTINF:-1 tvg-id="The Walking Dead Universe" tvg-name="The Walking Dead Universe" tvg-logo="https://image.xumo.com/v1/channels/channel/99991623/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",The Walking Dead Universe
+http://192.255.248.123:1905/proxy/xumo-99991623.m3u8
+#EXTINF:-1 tvg-id="Paranormal Files" tvg-name="Paranormal Files" tvg-logo="https://image.xumo.com/v1/channels/channel/99991769/168x168.png?type=color_onBlack" catchup="none" group-title="恐怖与科幻",Paranormal Files
+http://192.255.248.123:1905/proxy/xumo-99991769.m3u8
+
+
+#EXTINF:-1 tvg-id="FILMEX" tvg-name="FILMEX" tvg-logo="https://image.xumo.com/v1/channels/channel/99951120/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",FILMEX
+http://192.255.248.123:1905/proxy/xumo-99951120.m3u8
+#EXTINF:-1 tvg-id="AMERICATEVÉ" tvg-name="AMERICATEVÉ" tvg-logo="https://image.xumo.com/v1/channels/channel/99951140/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",AMERICATEVÉ
+http://192.255.248.123:1905/proxy/xumo-99951140.m3u8
+#EXTINF:-1 tvg-id="Noticias Telemundo Ahora" tvg-name="Noticias Telemundo Ahora" tvg-logo="https://image.xumo.com/v1/channels/channel/99951321/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",Noticias Telemundo Ahora
+http://192.255.248.123:1905/proxy/xumo-99951321.m3u8
+#EXTINF:-1 tvg-id="Canela.TV Clasicos" tvg-name="Canela.TV Clasicos" tvg-logo="https://image.xumo.com/v1/channels/channel/99951367/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",Canela.TV Clasicos
+http://192.255.248.123:1905/proxy/xumo-99951367.m3u8
+#EXTINF:-1 tvg-id="Spectrum Noticias" tvg-name="Spectrum Noticias" tvg-logo="https://image.xumo.com/v1/channels/channel/99951414/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",Spectrum Noticias
+http://192.255.248.123:1905/proxy/xumo-99951414.m3u8
+#EXTINF:-1 tvg-id="LUCHA PLUS" tvg-name="LUCHA PLUS" tvg-logo="https://image.xumo.com/v1/channels/channel/99951449/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",LUCHA PLUS
+http://192.255.248.123:1905/proxy/xumo-99951449.m3u8
+#EXTINF:-1 tvg-id="Telemundo Deportes Ahora" tvg-name="Telemundo Deportes Ahora" tvg-logo="https://image.xumo.com/v1/channels/channel/99951459/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",Telemundo Deportes Ahora
+http://192.255.248.123:1905/proxy/xumo-99951459.m3u8
+#EXTINF:-1 tvg-id="Dateline en Español" tvg-name="Dateline en Español" tvg-logo="https://image.xumo.com/v1/channels/channel/99951547/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",Dateline en Español
+http://192.255.248.123:1905/proxy/xumo-99951547.m3u8
+#EXTINF:-1 tvg-id="Noticias Univision 24/7" tvg-name="Noticias Univision 24/7" tvg-logo="https://image.xumo.com/v1/channels/channel/99951562/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",Noticias Univision 24/7
+http://192.255.248.123:1905/proxy/xumo-99951562.m3u8
+#EXTINF:-1 tvg-id="Zona TUDN" tvg-name="Zona TUDN" tvg-logo="https://image.xumo.com/v1/channels/channel/99951563/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",Zona TUDN
+http://192.255.248.123:1905/proxy/xumo-99951563.m3u8
+#EXTINF:-1 tvg-id="Como Dice El Dicho" tvg-name="Como Dice El Dicho" tvg-logo="https://image.xumo.com/v1/channels/channel/99951564/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",Como Dice El Dicho
+http://192.255.248.123:1905/proxy/xumo-99951564.m3u8
+#EXTINF:-1 tvg-id="Jajaja" tvg-name="Jajaja" tvg-logo="https://image.xumo.com/v1/channels/channel/99951565/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",Jajaja
+http://192.255.248.123:1905/proxy/xumo-99951565.m3u8
+#EXTINF:-1 tvg-id="Una Familia de Diez" tvg-name="Una Familia de Diez" tvg-logo="https://image.xumo.com/v1/channels/channel/99951566/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",Una Familia de Diez
+http://192.255.248.123:1905/proxy/xumo-99951566.m3u8
+#EXTINF:-1 tvg-id="Rebelde" tvg-name="Rebelde" tvg-logo="https://image.xumo.com/v1/channels/channel/99951567/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",Rebelde
+http://192.255.248.123:1905/proxy/xumo-99951567.m3u8
+#EXTINF:-1 tvg-id="La Fea Más Bella" tvg-name="La Fea Más Bella" tvg-logo="https://image.xumo.com/v1/channels/channel/99951568/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",La Fea Más Bella
+http://192.255.248.123:1905/proxy/xumo-99951568.m3u8
+#EXTINF:-1 tvg-id="FILMEX CLASICO" tvg-name="FILMEX CLASICO" tvg-logo="https://image.xumo.com/v1/channels/channel/99981121/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",FILMEX CLASICO
+http://192.255.248.123:1905/proxy/xumo-99981121.m3u8
+#EXTINF:-1 tvg-id="Cine Romántico" tvg-name="Cine Romántico" tvg-logo="https://image.xumo.com/v1/channels/channel/99991142/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",Cine Romántico
+http://192.255.248.123:1905/proxy/xumo-99991142.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV" tvg-name="EstrellaTV" tvg-logo="http://192.255.248.123:1905/logo-pack/Estrella%20TV.png?v=6be2a36749" catchup="none" group-title="拉丁裔",EstrellaTV
+http://192.255.248.123:1905/proxy/xumo-99991746.m3u8
+#EXTINF:-1 tvg-id="Telemundo Al Día" tvg-name="Telemundo Al Día" tvg-logo="https://image.xumo.com/v1/channels/channel/99991747/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",Telemundo Al Día
+http://192.255.248.123:1905/proxy/xumo-99991747.m3u8
+#EXTINF:-1 tvg-id="El Señor de los Cielos" tvg-name="El Señor de los Cielos" tvg-logo="https://image.xumo.com/v1/channels/channel/99991748/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",El Señor de los Cielos
+http://192.255.248.123:1905/proxy/xumo-99991748.m3u8
+#EXTINF:-1 tvg-id="Caso Cerrado" tvg-name="Caso Cerrado" tvg-logo="https://image.xumo.com/v1/channels/channel/99991749/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",Caso Cerrado
+http://192.255.248.123:1905/proxy/xumo-99991749.m3u8
+#EXTINF:-1 tvg-id="Estrella News" tvg-name="Estrella News" tvg-logo="https://image.xumo.com/v1/channels/channel/99991776/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",Estrella News
+http://192.255.248.123:1905/proxy/xumo-99991776.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA en Español" tvg-name="beIN SPORTS XTRA en Español" tvg-logo="https://image.xumo.com/v1/channels/channel/99991785/168x168.png?type=color_onBlack" catchup="none" group-title="拉丁裔",beIN SPORTS XTRA en Español
+http://192.255.248.123:1905/proxy/xumo-99991785.m3u8
+
+
+#EXTINF:-1 tvg-id="BUZZR" tvg-name="BUZZR" tvg-logo="https://image.xumo.com/v1/channels/channel/99951124/168x168.png?type=color_onBlack" catchup="none" group-title="游戏节目",BUZZR
+http://192.255.248.123:1905/proxy/xumo-99951124.m3u8
+#EXTINF:-1 tvg-id="The Price is Right: The Barker Era" tvg-name="The Price is Right: The Barker Era" tvg-logo="https://image.xumo.com/v1/channels/channel/99951125/168x168.png?type=color_onBlack" catchup="none" group-title="游戏节目",The Price is Right: The Barker Era
+http://192.255.248.123:1905/proxy/xumo-99951125.m3u8
+#EXTINF:-1 tvg-id="Supermarket Sweep" tvg-name="Supermarket Sweep" tvg-logo="https://image.xumo.com/v1/channels/channel/99951126/168x168.png?type=color_onBlack" catchup="none" group-title="游戏节目",Supermarket Sweep
+http://192.255.248.123:1905/proxy/xumo-99951126.m3u8
+#EXTINF:-1 tvg-id="Fear Factor" tvg-name="Fear Factor" tvg-logo="https://image.xumo.com/v1/channels/channel/99951130/168x168.png?type=color_onBlack" catchup="none" group-title="游戏节目",Fear Factor
+http://192.255.248.123:1905/proxy/xumo-99951130.m3u8
+#EXTINF:-1 tvg-id="The Celebrity Name Game Channel" tvg-name="The Celebrity Name Game Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951224/168x168.png?type=color_onBlack" catchup="none" group-title="游戏节目",The Celebrity Name Game Channel
+http://192.255.248.123:1905/proxy/xumo-99951224.m3u8
+#EXTINF:-1 tvg-id="American Ninja Warrior" tvg-name="American Ninja Warrior" tvg-logo="https://image.xumo.com/v1/channels/channel/99951318/168x168.png?type=color_onBlack" catchup="none" group-title="游戏节目",American Ninja Warrior
+http://192.255.248.123:1905/proxy/xumo-99951318.m3u8
+#EXTINF:-1 tvg-id="Family Feud Classic" tvg-name="Family Feud Classic" tvg-logo="https://image.xumo.com/v1/channels/channel/99951339/168x168.png?type=color_onBlack" catchup="none" group-title="游戏节目",Family Feud Classic
+http://192.255.248.123:1905/proxy/xumo-99951339.m3u8
+#EXTINF:-1 tvg-id="America's Got Talent" tvg-name="America's Got Talent" tvg-logo="https://image.xumo.com/v1/channels/channel/99951457/168x168.png?type=color_onBlack" catchup="none" group-title="游戏节目",America's Got Talent
+http://192.255.248.123:1905/proxy/xumo-99951457.m3u8
+#EXTINF:-1 tvg-id="World of Love Island" tvg-name="World of Love Island" tvg-logo="https://image.xumo.com/v1/channels/channel/99951508/168x168.png?type=color_onBlack" catchup="none" group-title="游戏节目",World of Love Island
+http://192.255.248.123:1905/proxy/xumo-99951508.m3u8
+#EXTINF:-1 tvg-id="Deal Or No Deal" tvg-name="Deal Or No Deal" tvg-logo="https://image.xumo.com/v1/channels/channel/99991113/168x168.png?type=color_onBlack" catchup="none" group-title="游戏节目",Deal Or No Deal
+http://192.255.248.123:1905/proxy/xumo-99991113.m3u8
+#EXTINF:-1 tvg-id="Family Feud" tvg-name="Family Feud" tvg-logo="https://image.xumo.com/v1/channels/channel/99991232/168x168.png?type=color_onBlack" catchup="none" group-title="游戏节目",Family Feud
+http://192.255.248.123:1905/proxy/xumo-99991232.m3u8
+#EXTINF:-1 tvg-id="Xumo Free Game Show TV" tvg-name="Xumo Free Game Show TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991639/168x168.png?type=color_onBlack" catchup="none" group-title="游戏节目",Xumo Free Game Show TV
+http://192.255.248.123:1905/proxy/xumo-99991639.m3u8
+#EXTINF:-1 tvg-id="25 Words or Less" tvg-name="25 Words or Less" tvg-logo="https://image.xumo.com/v1/channels/channel/99991659/168x168.png?type=color_onBlack" catchup="none" group-title="游戏节目",25 Words or Less
+http://192.255.248.123:1905/proxy/xumo-99991659.m3u8
+
+
+#EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="https://image.xumo.com/v1/channels/channel/99951134/168x168.png?type=color_onBlack" catchup="none" group-title="格斗运动",UFC
+http://192.255.248.123:1905/proxy/xumo-99951134.m3u8
+#EXTINF:-1 tvg-id="PFL MMA" tvg-name="PFL MMA" tvg-logo="https://image.xumo.com/v1/channels/channel/99951203/168x168.png?type=color_onBlack" catchup="none" group-title="格斗运动",PFL MMA
+http://192.255.248.123:1905/proxy/xumo-99951203.m3u8
+#EXTINF:-1 tvg-id="HBO Boxing" tvg-name="HBO Boxing" tvg-logo="https://image.xumo.com/v1/channels/channel/99951469/168x168.png?type=color_onBlack" catchup="none" group-title="格斗运动",HBO Boxing
+http://192.255.248.123:1905/proxy/xumo-99951469.m3u8
+#EXTINF:-1 tvg-id="ONE Championship" tvg-name="ONE Championship" tvg-logo="https://image.xumo.com/v1/channels/channel/99951530/168x168.png?type=color_onBlack" catchup="none" group-title="格斗运动",ONE Championship
+http://192.255.248.123:1905/proxy/xumo-99951530.m3u8
+#EXTINF:-1 tvg-id="GLORY Kickboxing" tvg-name="GLORY Kickboxing" tvg-logo="https://image.xumo.com/v1/channels/channel/99991278/168x168.png?type=color_onBlack" catchup="none" group-title="格斗运动",GLORY Kickboxing
+http://192.255.248.123:1905/proxy/xumo-99991278.m3u8
+#EXTINF:-1 tvg-id="TNA Wrestling Channel" tvg-name="TNA Wrestling Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99991341/168x168.png?type=color_onBlack" catchup="none" group-title="格斗运动",TNA Wrestling Channel
+http://192.255.248.123:1905/proxy/xumo-99991341.m3u8
+#EXTINF:-1 tvg-id="Swerve Combat" tvg-name="Swerve Combat" tvg-logo="https://image.xumo.com/v1/channels/channel/99991696/168x168.png?type=color_onBlack" catchup="none" group-title="格斗运动",Swerve Combat
+http://192.255.248.123:1905/proxy/xumo-99991696.m3u8
+
+
+#EXTINF:-1 tvg-id="McLeod's Daughters" tvg-name="McLeod's Daughters" tvg-logo="https://image.xumo.com/v1/channels/channel/99951138/168x168.png?type=color_onBlack" catchup="none" group-title="西部与乡村题材",McLeod's Daughters
+http://192.255.248.123:1905/proxy/xumo-99951138.m3u8
+#EXTINF:-1 tvg-id="Grit Xtra" tvg-name="Grit Xtra" tvg-logo="https://image.xumo.com/v1/channels/channel/99951152/168x168.png?type=color_onBlack" catchup="none" group-title="西部与乡村题材",Grit Xtra
+http://192.255.248.123:1905/proxy/xumo-99951152.m3u8
+#EXTINF:-1 tvg-id="Western Bound Wrangled by INSP" tvg-name="Western Bound Wrangled by INSP" tvg-logo="https://image.xumo.com/v1/channels/channel/99951160/168x168.png?type=color_onBlack" catchup="none" group-title="西部与乡村题材",Western Bound Wrangled by INSP
+http://192.255.248.123:1905/proxy/xumo-99951160.m3u8
+#EXTINF:-1 tvg-id="The Rifleman" tvg-name="The Rifleman" tvg-logo="https://image.xumo.com/v1/channels/channel/99951216/168x168.png?type=color_onBlack" catchup="none" group-title="西部与乡村题材",The Rifleman
+http://192.255.248.123:1905/proxy/xumo-99951216.m3u8
+#EXTINF:-1 tvg-id="Little House on the Prairie" tvg-name="Little House on the Prairie" tvg-logo="https://image.xumo.com/v1/channels/channel/99951240/168x168.png?type=color_onBlack" catchup="none" group-title="西部与乡村题材",Little House on the Prairie
+http://192.255.248.123:1905/proxy/xumo-99951240.m3u8
+#EXTINF:-1 tvg-id="Universal Westerns" tvg-name="Universal Westerns" tvg-logo="https://image.xumo.com/v1/channels/channel/99951255/168x168.png?type=color_onBlack" catchup="none" group-title="西部与乡村题材",Universal Westerns
+http://192.255.248.123:1905/proxy/xumo-99951255.m3u8
+#EXTINF:-1 tvg-id="The Lone Ranger" tvg-name="The Lone Ranger" tvg-logo="https://image.xumo.com/v1/channels/channel/99951258/168x168.png?type=color_onBlack" catchup="none" group-title="西部与乡村题材",The Lone Ranger
+http://192.255.248.123:1905/proxy/xumo-99951258.m3u8
+#EXTINF:-1 tvg-id="Wild West TV" tvg-name="Wild West TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951356/168x168.png?type=color_onBlack" catchup="none" group-title="西部与乡村题材",Wild West TV
+http://192.255.248.123:1905/proxy/xumo-99951356.m3u8
+#EXTINF:-1 tvg-id="The Virginian" tvg-name="The Virginian" tvg-logo="https://image.xumo.com/v1/channels/channel/99951525/168x168.png?type=color_onBlack" catchup="none" group-title="西部与乡村题材",The Virginian
+http://192.255.248.123:1905/proxy/xumo-99951525.m3u8
+#EXTINF:-1 tvg-id="MGM Presents: Westerns" tvg-name="MGM Presents: Westerns" tvg-logo="https://image.xumo.com/v1/channels/channel/99951575/168x168.png?type=color_onBlack" catchup="none" group-title="西部与乡村题材",MGM Presents: Westerns
+http://192.255.248.123:1905/proxy/xumo-99951575.m3u8
+#EXTINF:-1 tvg-id="Circle Country" tvg-name="Circle Country" tvg-logo="https://image.xumo.com/v1/channels/channel/99991131/168x168.png?type=color_onBlack" catchup="none" group-title="西部与乡村题材",Circle Country
+http://192.255.248.123:1905/proxy/xumo-99991131.m3u8
+
+
+#EXTINF:-1 tvg-id="Family Affair Channel" tvg-name="Family Affair Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951146/168x168.png?type=color_onBlack" catchup="none" group-title="经典电视",Family Affair Channel
+http://192.255.248.123:1905/proxy/xumo-99951146.m3u8
+#EXTINF:-1 tvg-id="Murder, She Wrote" tvg-name="Murder, She Wrote" tvg-logo="https://image.xumo.com/v1/channels/channel/99951239/168x168.png?type=color_onBlack" catchup="none" group-title="经典电视",Murder, She Wrote
+http://192.255.248.123:1905/proxy/xumo-99951239.m3u8
+#EXTINF:-1 tvg-id="Leave It to Beaver" tvg-name="Leave It to Beaver" tvg-logo="https://image.xumo.com/v1/channels/channel/99951257/168x168.png?type=color_onBlack" catchup="none" group-title="经典电视",Leave It to Beaver
+http://192.255.248.123:1905/proxy/xumo-99951257.m3u8
+#EXTINF:-1 tvg-id="Lassie" tvg-name="Lassie" tvg-logo="https://image.xumo.com/v1/channels/channel/99951259/168x168.png?type=color_onBlack" catchup="none" group-title="经典电视",Lassie
+http://192.255.248.123:1905/proxy/xumo-99951259.m3u8
+#EXTINF:-1 tvg-id="The Carol Burnett Show" tvg-name="The Carol Burnett Show" tvg-logo="https://image.xumo.com/v1/channels/channel/99951380/168x168.png?type=color_onBlack" catchup="none" group-title="经典电视",The Carol Burnett Show
+http://192.255.248.123:1905/proxy/xumo-99951380.m3u8
+#EXTINF:-1 tvg-id="In the Heat of the Night" tvg-name="In the Heat of the Night" tvg-logo="https://image.xumo.com/v1/channels/channel/99951576/168x168.png?type=color_onBlack" catchup="none" group-title="经典电视",In the Heat of the Night
+http://192.255.248.123:1905/proxy/xumo-99951576.m3u8
+#EXTINF:-1 tvg-id="Green Acres" tvg-name="Green Acres" tvg-logo="https://image.xumo.com/v1/channels/channel/99951577/168x168.png?type=color_onBlack" catchup="none" group-title="经典电视",Green Acres
+http://192.255.248.123:1905/proxy/xumo-99951577.m3u8
+#EXTINF:-1 tvg-id="The Addams Family" tvg-name="The Addams Family" tvg-logo="https://image.xumo.com/v1/channels/channel/99951578/168x168.png?type=color_onBlack" catchup="none" group-title="经典电视",The Addams Family
+http://192.255.248.123:1905/proxy/xumo-99951578.m3u8
+#EXTINF:-1 tvg-id="BBC Drama Classics" tvg-name="BBC Drama Classics" tvg-logo="https://image.xumo.com/v1/channels/channel/99951606/168x168.png?type=color_onBlack" catchup="none" group-title="经典电视",BBC Drama Classics
+http://192.255.248.123:1905/proxy/xumo-99951606.m3u8
+#EXTINF:-1 tvg-id="RiffTrax" tvg-name="RiffTrax" tvg-logo="https://image.xumo.com/v1/channels/channel/99991106/168x168.png?type=color_onBlack" catchup="none" group-title="经典电视",RiffTrax
+http://192.255.248.123:1905/proxy/xumo-99991106.m3u8
+#EXTINF:-1 tvg-id="Johnny Carson TV" tvg-name="Johnny Carson TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991157/168x168.png?type=color_onBlack" catchup="none" group-title="经典电视",Johnny Carson TV
+http://192.255.248.123:1905/proxy/xumo-99991157.m3u8
+
+
+#EXTINF:-1 tvg-id="At Home with Family Handyman" tvg-name="At Home with Family Handyman" tvg-logo="https://image.xumo.com/v1/channels/channel/99951156/168x168.png?type=color_onBlack" catchup="none" group-title="家居与设计",At Home with Family Handyman
+http://192.255.248.123:1905/proxy/xumo-99951156.m3u8
+#EXTINF:-1 tvg-id="BBC Home & Garden" tvg-name="BBC Home & Garden" tvg-logo="https://image.xumo.com/v1/channels/channel/99951178/168x168.png?type=color_onBlack" catchup="none" group-title="家居与设计",BBC Home & Garden
+http://192.255.248.123:1905/proxy/xumo-99951178.m3u8
+#EXTINF:-1 tvg-id="CraftsyTV" tvg-name="CraftsyTV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951210/168x168.png?type=color_onBlack" catchup="none" group-title="家居与设计",CraftsyTV
+http://192.255.248.123:1905/proxy/xumo-99951210.m3u8
+#EXTINF:-1 tvg-id="Garden with Monty Don" tvg-name="Garden with Monty Don" tvg-logo="https://image.xumo.com/v1/channels/channel/99951212/168x168.png?type=color_onBlack" catchup="none" group-title="家居与设计",Garden with Monty Don
+http://192.255.248.123:1905/proxy/xumo-99951212.m3u8
+#EXTINF:-1 tvg-id="Property & Reno" tvg-name="Property & Reno" tvg-logo="https://image.xumo.com/v1/channels/channel/99951221/168x168.png?type=color_onBlack" catchup="none" group-title="家居与设计",Property & Reno
+http://192.255.248.123:1905/proxy/xumo-99951221.m3u8
+#EXTINF:-1 tvg-id="Million Dollar Listing Vault" tvg-name="Million Dollar Listing Vault" tvg-logo="https://image.xumo.com/v1/channels/channel/99951237/168x168.png?type=color_onBlack" catchup="none" group-title="家居与设计",Million Dollar Listing Vault
+http://192.255.248.123:1905/proxy/xumo-99951237.m3u8
+#EXTINF:-1 tvg-id="Tastemade Home" tvg-name="Tastemade Home" tvg-logo="https://image.xumo.com/v1/channels/channel/99951436/168x168.png?type=color_onBlack" catchup="none" group-title="家居与设计",Tastemade Home
+http://192.255.248.123:1905/proxy/xumo-99951436.m3u8
+#EXTINF:-1 tvg-id="Home. Made. Nation" tvg-name="Home. Made. Nation" tvg-logo="https://image.xumo.com/v1/channels/channel/99951470/168x168.png?type=color_onBlack" catchup="none" group-title="家居与设计",Home. Made. Nation
+http://192.255.248.123:1905/proxy/xumo-99951470.m3u8
+#EXTINF:-1 tvg-id="Tiny House Nation" tvg-name="Tiny House Nation" tvg-logo="https://image.xumo.com/v1/channels/channel/99951472/168x168.png?type=color_onBlack" catchup="none" group-title="家居与设计",Tiny House Nation
+http://192.255.248.123:1905/proxy/xumo-99951472.m3u8
+#EXTINF:-1 tvg-id="@Home DIY" tvg-name="@Home DIY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951482/168x168.png?type=color_onBlack" catchup="none" group-title="家居与设计",@Home DIY
+http://192.255.248.123:1905/proxy/xumo-99951482.m3u8
+#EXTINF:-1 tvg-id="Property Brothers" tvg-name="Property Brothers" tvg-logo="https://image.xumo.com/v1/channels/channel/99951537/168x168.png?type=color_onBlack" catchup="none" group-title="家居与设计",Property Brothers
+http://192.255.248.123:1905/proxy/xumo-99951537.m3u8
+#EXTINF:-1 tvg-id="This Old House" tvg-name="This Old House" tvg-logo="https://image.xumo.com/v1/channels/channel/99991293/168x168.png?type=color_onBlack" catchup="none" group-title="家居与设计",This Old House
+http://192.255.248.123:1905/proxy/xumo-99991293.m3u8
+#EXTINF:-1 tvg-id="The Design Network" tvg-name="The Design Network" tvg-logo="https://image.xumo.com/v1/channels/channel/99991390/168x168.png?type=color_onBlack" catchup="none" group-title="家居与设计",The Design Network
+http://192.255.248.123:1905/proxy/xumo-99991390.m3u8
+#EXTINF:-1 tvg-id="NBC LX Home" tvg-name="NBC LX Home" tvg-logo="https://image.xumo.com/v1/channels/channel/99991651/168x168.png?type=color_onBlack" catchup="none" group-title="家居与设计",NBC LX Home
+http://192.255.248.123:1905/proxy/xumo-99991651.m3u8
+#EXTINF:-1 tvg-id="Homeful" tvg-name="Homeful" tvg-logo="https://image.xumo.com/v1/channels/channel/99991693/168x168.png?type=color_onBlack" catchup="none" group-title="家居与设计",Homeful
+http://192.255.248.123:1905/proxy/xumo-99991693.m3u8
+#EXTINF:-1 tvg-id="Today's Homeowner" tvg-name="Today's Homeowner" tvg-logo="https://image.xumo.com/v1/channels/channel/99991759/168x168.png?type=color_onBlack" catchup="none" group-title="家居与设计",Today's Homeowner
+http://192.255.248.123:1905/proxy/xumo-99991759.m3u8
+
+
+#EXTINF:-1 tvg-id="ION Mystery" tvg-name="ION Mystery" tvg-logo="https://image.xumo.com/v1/channels/channel/99951157/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",ION Mystery
+http://192.255.248.123:1905/proxy/xumo-99951157.m3u8
+#EXTINF:-1 tvg-id="BritBox Mysteries" tvg-name="BritBox Mysteries" tvg-logo="https://image.xumo.com/v1/channels/channel/99951213/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",BritBox Mysteries
+http://192.255.248.123:1905/proxy/xumo-99951213.m3u8
+#EXTINF:-1 tvg-id="Universal Crime" tvg-name="Universal Crime" tvg-logo="https://image.xumo.com/v1/channels/channel/99951245/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",Universal Crime
+http://192.255.248.123:1905/proxy/xumo-99951245.m3u8
+#EXTINF:-1 tvg-id="TV One CRIME & JUSTICE FAST CHANNEL" tvg-name="TV One CRIME & JUSTICE FAST CHANNEL" tvg-logo="https://image.xumo.com/v1/channels/channel/99951299/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",TV One CRIME & JUSTICE FAST CHANNEL
+http://192.255.248.123:1905/proxy/xumo-99951299.m3u8
+#EXTINF:-1 tvg-id="The FBI" tvg-name="The FBI" tvg-logo="https://image.xumo.com/v1/channels/channel/99951395/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",The FBI
+http://192.255.248.123:1905/proxy/xumo-99951395.m3u8
+#EXTINF:-1 tvg-id="Lawless by Lionsgate" tvg-name="Lawless by Lionsgate" tvg-logo="https://image.xumo.com/v1/channels/channel/99951410/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",Lawless by Lionsgate
+http://192.255.248.123:1905/proxy/xumo-99951410.m3u8
+#EXTINF:-1 tvg-id="American Crimes" tvg-name="American Crimes" tvg-logo="https://image.xumo.com/v1/channels/channel/99951461/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",American Crimes
+http://192.255.248.123:1905/proxy/xumo-99951461.m3u8
+#EXTINF:-1 tvg-id="Oxygen True Crime Archives" tvg-name="Oxygen True Crime Archives" tvg-logo="https://image.xumo.com/v1/channels/channel/99951466/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",Oxygen True Crime Archives
+http://192.255.248.123:1905/proxy/xumo-99951466.m3u8
+#EXTINF:-1 tvg-id="Law & Order" tvg-name="Law & Order" tvg-logo="https://image.xumo.com/v1/channels/channel/99951468/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",Law & Order
+http://192.255.248.123:1905/proxy/xumo-99951468.m3u8
+#EXTINF:-1 tvg-id="A&E Crime 360" tvg-name="A&E Crime 360" tvg-logo="https://image.xumo.com/v1/channels/channel/99951471/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",A&E Crime 360
+http://192.255.248.123:1905/proxy/xumo-99951471.m3u8
+#EXTINF:-1 tvg-id="Live PD Presents" tvg-name="Live PD Presents" tvg-logo="https://image.xumo.com/v1/channels/channel/99951489/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",Live PD Presents
+http://192.255.248.123:1905/proxy/xumo-99951489.m3u8
+#EXTINF:-1 tvg-id="The First 48 by A&E" tvg-name="The First 48 by A&E" tvg-logo="https://image.xumo.com/v1/channels/channel/99951490/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",The First 48 by A&E
+http://192.255.248.123:1905/proxy/xumo-99951490.m3u8
+#EXTINF:-1 tvg-id="20/20" tvg-name="20/20" tvg-logo="https://image.xumo.com/v1/channels/channel/99951518/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",20/20
+http://192.255.248.123:1905/proxy/xumo-99951518.m3u8
+#EXTINF:-1 tvg-id="World's Wildest Police Videos" tvg-name="World's Wildest Police Videos" tvg-logo="https://image.xumo.com/v1/channels/channel/99951544/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",World's Wildest Police Videos
+http://192.255.248.123:1905/proxy/xumo-99951544.m3u8
+#EXTINF:-1 tvg-id="A&E Live PD: Greatest Shifts" tvg-name="A&E Live PD: Greatest Shifts" tvg-logo="https://image.xumo.com/v1/channels/channel/99951550/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",A&E Live PD: Greatest Shifts
+http://192.255.248.123:1905/proxy/xumo-99951550.m3u8
+#EXTINF:-1 tvg-id="A&E Alaska State Troopers" tvg-name="A&E Alaska State Troopers" tvg-logo="https://image.xumo.com/v1/channels/channel/99951555/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",A&E Alaska State Troopers
+http://192.255.248.123:1905/proxy/xumo-99951555.m3u8
+#EXTINF:-1 tvg-id="Court TV" tvg-name="Court TV" tvg-logo="http://192.255.248.123:1905/logo-pack/Court%20TV.png?v=37284818ff" catchup="none" group-title="犯罪题材电视节目",Court TV
+http://192.255.248.123:1905/proxy/xumo-99951559.m3u8
+#EXTINF:-1 tvg-id="Law&Crime" tvg-name="Law&Crime" tvg-logo="https://image.xumo.com/v1/channels/channel/99991320/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",Law&Crime
+http://192.255.248.123:1905/proxy/xumo-99991320.m3u8
+#EXTINF:-1 tvg-id="Forensic Files" tvg-name="Forensic Files" tvg-logo="https://image.xumo.com/v1/channels/channel/99991367/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",Forensic Files
+http://192.255.248.123:1905/proxy/xumo-99991367.m3u8
+#EXTINF:-1 tvg-id="REELZ Famous & Infamous" tvg-name="REELZ Famous & Infamous" tvg-logo="https://image.xumo.com/v1/channels/channel/99991368/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",REELZ Famous & Infamous
+http://192.255.248.123:1905/proxy/xumo-99991368.m3u8
+#EXTINF:-1 tvg-id="Xumo Free Crime TV" tvg-name="Xumo Free Crime TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991384/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",Xumo Free Crime TV
+http://192.255.248.123:1905/proxy/xumo-99991384.m3u8
+#EXTINF:-1 tvg-id="Dateline 24/7" tvg-name="Dateline 24/7" tvg-logo="https://image.xumo.com/v1/channels/channel/99991626/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",Dateline 24/7
+http://192.255.248.123:1905/proxy/xumo-99991626.m3u8
+#EXTINF:-1 tvg-id="Unsolved Mysteries" tvg-name="Unsolved Mysteries" tvg-logo="https://image.xumo.com/v1/channels/channel/99991680/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",Unsolved Mysteries
+http://192.255.248.123:1905/proxy/xumo-99991680.m3u8
+#EXTINF:-1 tvg-id="Midsomer Murders" tvg-name="Midsomer Murders" tvg-logo="https://image.xumo.com/v1/channels/channel/99991698/168x168.png?type=color_onBlack" catchup="none" group-title="犯罪题材电视节目",Midsomer Murders
+http://192.255.248.123:1905/proxy/xumo-99991698.m3u8
+
+
+#EXTINF:-1 tvg-id="Strongman Champions League" tvg-name="Strongman Champions League" tvg-logo="https://image.xumo.com/v1/channels/channel/99951180/168x168.png?type=color_onBlack" catchup="none" group-title="体育",Strongman Champions League
+http://192.255.248.123:1905/proxy/xumo-99951180.m3u8
+#EXTINF:-1 tvg-id="NBC Sports NOW" tvg-name="NBC Sports NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99951253/168x168.png?type=color_onBlack" catchup="none" group-title="体育",NBC Sports NOW
+http://192.255.248.123:1905/proxy/xumo-99951253.m3u8
+#EXTINF:-1 tvg-id="Big 12 Studios" tvg-name="Big 12 Studios" tvg-logo="https://image.xumo.com/v1/channels/channel/99951359/168x168.png?type=color_onBlack" catchup="none" group-title="体育",Big 12 Studios
+http://192.255.248.123:1905/proxy/xumo-99951359.m3u8
+#EXTINF:-1 tvg-id="Unbeaten Sports Channel" tvg-name="Unbeaten Sports Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951369/168x168.png?type=color_onBlack" catchup="none" group-title="体育",Unbeaten Sports Channel
+http://192.255.248.123:1905/proxy/xumo-99951369.m3u8
+#EXTINF:-1 tvg-id="Ryz Sports Network" tvg-name="Ryz Sports Network" tvg-logo="https://image.xumo.com/v1/channels/channel/99951373/168x168.png?type=color_onBlack" catchup="none" group-title="体育",Ryz Sports Network
+http://192.255.248.123:1905/proxy/xumo-99951373.m3u8
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951381/168x168.png?type=color_onBlack" catchup="none" group-title="体育",Real Madrid TV
+http://192.255.248.123:1905/proxy/xumo-99951381.m3u8
+#EXTINF:-1 tvg-id="The NBA Channel" tvg-name="The NBA Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951383/168x168.png?type=color_onBlack" catchup="none" group-title="体育",The NBA Channel
+http://192.255.248.123:1905/proxy/xumo-99951383.m3u8
+#EXTINF:-1 tvg-id="PBR RidePass" tvg-name="PBR RidePass" tvg-logo="https://image.xumo.com/v1/channels/channel/99951388/168x168.png?type=color_onBlack" catchup="none" group-title="体育",PBR RidePass
+http://192.255.248.123:1905/proxy/xumo-99951388.m3u8
+#EXTINF:-1 tvg-id="TennisChannel 2" tvg-name="TennisChannel 2" tvg-logo="https://image.xumo.com/v1/channels/channel/99951389/168x168.png?type=color_onBlack" catchup="none" group-title="体育",TennisChannel 2
+http://192.255.248.123:1905/proxy/xumo-99951389.m3u8
+#EXTINF:-1 tvg-id="PickleballTV" tvg-name="PickleballTV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951390/168x168.png?type=color_onBlack" catchup="none" group-title="体育",PickleballTV
+http://192.255.248.123:1905/proxy/xumo-99951390.m3u8
+#EXTINF:-1 tvg-id="Willow Sports" tvg-name="Willow Sports" tvg-logo="https://image.xumo.com/v1/channels/channel/99951406/168x168.png?type=color_onBlack" catchup="none" group-title="体育",Willow Sports
+http://192.255.248.123:1905/proxy/xumo-99951406.m3u8
+#EXTINF:-1 tvg-id="GOLFPASS" tvg-name="GOLFPASS" tvg-logo="https://image.xumo.com/v1/channels/channel/99951462/168x168.png?type=color_onBlack" catchup="none" group-title="体育",GOLFPASS
+http://192.255.248.123:1905/proxy/xumo-99951462.m3u8
+#EXTINF:-1 tvg-id="Bowling TV" tvg-name="Bowling TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951510/168x168.png?type=color_onBlack" catchup="none" group-title="体育",Bowling TV
+http://192.255.248.123:1905/proxy/xumo-99951510.m3u8
+#EXTINF:-1 tvg-id="Triton Poker" tvg-name="Triton Poker" tvg-logo="https://image.xumo.com/v1/channels/channel/99951531/168x168.png?type=color_onBlack" catchup="none" group-title="体育",Triton Poker
+http://192.255.248.123:1905/proxy/xumo-99951531.m3u8
+#EXTINF:-1 tvg-id="Scripps Sports Network" tvg-name="Scripps Sports Network" tvg-logo="https://image.xumo.com/v1/channels/channel/99951538/168x168.png?type=color_onBlack" catchup="none" group-title="体育",Scripps Sports Network
+http://192.255.248.123:1905/proxy/xumo-99951538.m3u8
+#EXTINF:-1 tvg-id="Fubo Sports Network" tvg-name="Fubo Sports Network" tvg-logo="https://image.xumo.com/v1/channels/channel/99951548/168x168.png?type=color_onBlack" catchup="none" group-title="体育",Fubo Sports Network
+http://192.255.248.123:1905/proxy/xumo-99951548.m3u8
+#EXTINF:-1 tvg-id="Cowboy+ Sports" tvg-name="Cowboy+ Sports" tvg-logo="https://image.xumo.com/v1/channels/channel/99951557/168x168.png?type=color_onBlack" catchup="none" group-title="体育",Cowboy+ Sports
+http://192.255.248.123:1905/proxy/xumo-99951557.m3u8
+#EXTINF:-1 tvg-id="NESN NATION" tvg-name="NESN NATION" tvg-logo="https://image.xumo.com/v1/channels/channel/99951569/168x168.png?type=color_onBlack" catchup="none" group-title="体育",NESN NATION
+http://192.255.248.123:1905/proxy/xumo-99951569.m3u8
+#EXTINF:-1 tvg-id="SportsGrid" tvg-name="SportsGrid" tvg-logo="http://192.255.248.123:1905/logo-pack/SportsGrid.png?v=297ae87fe4" catchup="none" group-title="体育",SportsGrid
+http://192.255.248.123:1905/proxy/xumo-99951586.m3u8
+#EXTINF:-1 tvg-id="SWAC TV" tvg-name="SWAC TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951594/168x168.png?type=color_onBlack" catchup="none" group-title="体育",SWAC TV
+http://192.255.248.123:1905/proxy/xumo-99951594.m3u8
+#EXTINF:-1 tvg-id="SI TV" tvg-name="SI TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951601/168x168.png?type=color_onBlack" catchup="none" group-title="体育",SI TV
+http://192.255.248.123:1905/proxy/xumo-99951601.m3u8
+#EXTINF:-1 tvg-id="Ski & Snowboard World Cup" tvg-name="Ski & Snowboard World Cup" tvg-logo="https://image.xumo.com/v1/channels/channel/99951611/168x168.png?type=color_onBlack" catchup="none" group-title="体育",Ski & Snowboard World Cup
+http://192.255.248.123:1905/proxy/xumo-99951611.m3u8
+#EXTINF:-1 tvg-id="FOX Sports" tvg-name="FOX Sports" tvg-logo="https://image.xumo.com/v1/channels/channel/99991196/168x168.png?type=color_onBlack" catchup="none" group-title="体育",FOX Sports
+http://192.255.248.123:1905/proxy/xumo-99991196.m3u8
+#EXTINF:-1 tvg-id="PGA TOUR" tvg-name="PGA TOUR" tvg-logo="https://image.xumo.com/v1/channels/channel/99991281/168x168.png?type=color_onBlack" catchup="none" group-title="体育",PGA TOUR
+http://192.255.248.123:1905/proxy/xumo-99991281.m3u8
+#EXTINF:-1 tvg-id="ACC Digital Network" tvg-name="ACC Digital Network" tvg-logo="https://image.xumo.com/v1/channels/channel/99991315/168x168.png?type=color_onBlack" catchup="none" group-title="体育",ACC Digital Network
+http://192.255.248.123:1905/proxy/xumo-99991315.m3u8
+#EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="http://192.255.248.123:1905/logo-pack/World%20Poker%20Tour.png?v=b0f6ec45dc" catchup="none" group-title="体育",World Poker Tour
+http://192.255.248.123:1905/proxy/xumo-99991317.m3u8
+#EXTINF:-1 tvg-id="Waypoint TV" tvg-name="Waypoint TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991358/168x168.png?type=color_onBlack" catchup="none" group-title="体育",Waypoint TV
+http://192.255.248.123:1905/proxy/xumo-99991358.m3u8
+#EXTINF:-1 tvg-id="Field & Stream TV" tvg-name="Field & Stream TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991374/168x168.png?type=color_onBlack" catchup="none" group-title="体育",Field & Stream TV
+http://192.255.248.123:1905/proxy/xumo-99991374.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA" tvg-name="beIN SPORTS XTRA" tvg-logo="http://192.255.248.123:1905/logo-pack/beIN%20Sports%20Xtra.png?v=601e9f5e00" catchup="none" group-title="体育",beIN SPORTS XTRA
+http://192.255.248.123:1905/proxy/xumo-99991387.m3u8
+#EXTINF:-1 tvg-id="Billiard TV" tvg-name="Billiard TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991627/168x168.png?type=color_onBlack" catchup="none" group-title="体育",Billiard TV
+http://192.255.248.123:1905/proxy/xumo-99991627.m3u8
+#EXTINF:-1 tvg-id="PokerGO" tvg-name="PokerGO" tvg-logo="https://image.xumo.com/v1/channels/channel/99991633/168x168.png?type=color_onBlack" catchup="none" group-title="体育",PokerGO
+http://192.255.248.123:1905/proxy/xumo-99991633.m3u8
+#EXTINF:-1 tvg-id="CBS Sports HQ" tvg-name="CBS Sports HQ" tvg-logo="https://image.xumo.com/v1/channels/channel/99991645/168x168.png?type=color_onBlack" catchup="none" group-title="体育",CBS Sports HQ
+http://192.255.248.123:1905/proxy/xumo-99991645.m3u8
+#EXTINF:-1 tvg-id="PursuitUp" tvg-name="PursuitUp" tvg-logo="https://image.xumo.com/v1/channels/channel/99991648/168x168.png?type=color_onBlack" catchup="none" group-title="体育",PursuitUp
+http://192.255.248.123:1905/proxy/xumo-99991648.m3u8
+#EXTINF:-1 tvg-id="NFL Channel" tvg-name="NFL Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99991738/168x168.png?type=color_onBlack" catchup="none" group-title="体育",NFL Channel
+http://192.255.248.123:1905/proxy/xumo-99991738.m3u8
+
+
+#EXTINF:-1 tvg-id="PBS Nature" tvg-name="PBS Nature" tvg-logo="https://image.xumo.com/v1/channels/channel/99951195/168x168.png?type=color_onBlack" catchup="none" group-title="动物与自然",PBS Nature
+http://192.255.248.123:1905/proxy/xumo-99951195.m3u8
+#EXTINF:-1 tvg-id="Xumo Free Nature & Wildlife TV" tvg-name="Xumo Free Nature & Wildlife TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951218/168x168.png?type=color_onBlack" catchup="none" group-title="动物与自然",Xumo Free Nature & Wildlife TV
+http://192.255.248.123:1905/proxy/xumo-99951218.m3u8
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://image.xumo.com/v1/channels/channel/99951231/168x168.png?type=color_onBlack" catchup="none" group-title="动物与自然",BBC Earth
+http://192.255.248.123:1905/proxy/xumo-99951231.m3u8
+#EXTINF:-1 tvg-id="Dog Whisperer" tvg-name="Dog Whisperer" tvg-logo="https://image.xumo.com/v1/channels/channel/99951294/168x168.png?type=color_onBlack" catchup="none" group-title="动物与自然",Dog Whisperer
+http://192.255.248.123:1905/proxy/xumo-99951294.m3u8
+#EXTINF:-1 tvg-id="Love The Planet" tvg-name="Love The Planet" tvg-logo="https://image.xumo.com/v1/channels/channel/99951328/168x168.png?type=color_onBlack" catchup="none" group-title="动物与自然",Love The Planet
+http://192.255.248.123:1905/proxy/xumo-99951328.m3u8
+#EXTINF:-1 tvg-id="The Yorkshire Vet & Friends" tvg-name="The Yorkshire Vet & Friends" tvg-logo="https://image.xumo.com/v1/channels/channel/99951347/168x168.png?type=color_onBlack" catchup="none" group-title="动物与自然",The Yorkshire Vet & Friends
+http://192.255.248.123:1905/proxy/xumo-99951347.m3u8
+#EXTINF:-1 tvg-id="EarthXtra" tvg-name="EarthXtra" tvg-logo="https://image.xumo.com/v1/channels/channel/99951378/168x168.png?type=color_onBlack" catchup="none" group-title="动物与自然",EarthXtra
+http://192.255.248.123:1905/proxy/xumo-99951378.m3u8
+#EXTINF:-1 tvg-id="Bark TV" tvg-name="Bark TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951409/168x168.png?type=color_onBlack" catchup="none" group-title="动物与自然",Bark TV
+http://192.255.248.123:1905/proxy/xumo-99951409.m3u8
+#EXTINF:-1 tvg-id="Lucky Dog" tvg-name="Lucky Dog" tvg-logo="https://image.xumo.com/v1/channels/channel/99951444/168x168.png?type=color_onBlack" catchup="none" group-title="动物与自然",Lucky Dog
+http://192.255.248.123:1905/proxy/xumo-99951444.m3u8
+#EXTINF:-1 tvg-id="The Jack Hanna Channel" tvg-name="The Jack Hanna Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951491/168x168.png?type=color_onBlack" catchup="none" group-title="动物与自然",The Jack Hanna Channel
+http://192.255.248.123:1905/proxy/xumo-99951491.m3u8
+#EXTINF:-1 tvg-id="Space Live Powered by Sen" tvg-name="Space Live Powered by Sen" tvg-logo="https://image.xumo.com/v1/channels/channel/99951545/168x168.png?type=color_onBlack" catchup="none" group-title="动物与自然",Space Live Powered by Sen
+http://192.255.248.123:1905/proxy/xumo-99951545.m3u8
+#EXTINF:-1 tvg-id="The Pet Collective" tvg-name="The Pet Collective" tvg-logo="https://image.xumo.com/v1/channels/channel/99991174/168x168.png?type=color_onBlack" catchup="none" group-title="动物与自然",The Pet Collective
+http://192.255.248.123:1905/proxy/xumo-99991174.m3u8
+#EXTINF:-1 tvg-id="NatureVision" tvg-name="NatureVision" tvg-logo="https://image.xumo.com/v1/channels/channel/99991197/168x168.png?type=color_onBlack" catchup="none" group-title="动物与自然",NatureVision
+http://192.255.248.123:1905/proxy/xumo-99991197.m3u8
+#EXTINF:-1 tvg-id="Stingray Naturescape" tvg-name="Stingray Naturescape" tvg-logo="https://image.xumo.com/v1/channels/channel/99991252/168x168.png?type=color_onBlack" catchup="none" group-title="动物与自然",Stingray Naturescape
+http://192.255.248.123:1905/proxy/xumo-99991252.m3u8
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://image.xumo.com/v1/channels/channel/99991398/168x168.png?type=color_onBlack" catchup="none" group-title="动物与自然",Love Nature
+http://192.255.248.123:1905/proxy/xumo-99991398.m3u8
+#EXTINF:-1 tvg-id="WildEarth" tvg-name="WildEarth" tvg-logo="http://192.255.248.123:1905/logo-pack/WildEarth.png?v=a0660e90c3" catchup="none" group-title="动物与自然",WildEarth
+http://192.255.248.123:1905/proxy/xumo-99991628.m3u8
+
+
+#EXTINF:-1 tvg-id="Reuters 60" tvg-name="Reuters 60" tvg-logo="https://image.xumo.com/v1/channels/channel/99951197/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",Reuters 60
+http://192.255.248.123:1905/proxy/xumo-99951197.m3u8
+#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951223/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",Sky News
+http://192.255.248.123:1905/proxy/xumo-99951223.m3u8
+#EXTINF:-1 tvg-id="Salem News Channel" tvg-name="Salem News Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951283/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",Salem News Channel
+http://192.255.248.123:1905/proxy/xumo-99951283.m3u8
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951298/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",BBC News
+http://192.255.248.123:1905/proxy/xumo-99951298.m3u8
+#EXTINF:-1 tvg-id="Spectrum News+" tvg-name="Spectrum News+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951337/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",Spectrum News+
+http://192.255.248.123:1905/proxy/xumo-99951337.m3u8
+#EXTINF:-1 tvg-id="CNN Headlines" tvg-name="CNN Headlines" tvg-logo="https://image.xumo.com/v1/channels/channel/99951386/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",CNN Headlines
+http://192.255.248.123:1905/proxy/xumo-99951386.m3u8
+#EXTINF:-1 tvg-id="OAN Plus" tvg-name="OAN Plus" tvg-logo="https://image.xumo.com/v1/channels/channel/99951404/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",OAN Plus
+http://192.255.248.123:1905/proxy/xumo-99951404.m3u8
+#EXTINF:-1 tvg-id="ABC News Live" tvg-name="ABC News Live" tvg-logo="https://image.xumo.com/v1/channels/channel/99951517/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",ABC News Live
+http://192.255.248.123:1905/proxy/xumo-99951517.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV+" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",Bloomberg TV+
+http://192.255.248.123:1905/proxy/xumo-99951533.m3u8
+#EXTINF:-1 tvg-id="Business Insider" tvg-name="Business Insider" tvg-logo="https://image.xumo.com/v1/channels/channel/99951570/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",Business Insider
+http://192.255.248.123:1905/proxy/xumo-99951570.m3u8
+#EXTINF:-1 tvg-id="TYT" tvg-name="TYT" tvg-logo="https://image.xumo.com/v1/channels/channel/99991147/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",TYT
+http://192.255.248.123:1905/proxy/xumo-99991147.m3u8
+#EXTINF:-1 tvg-id="Scripps News" tvg-name="Scripps News" tvg-logo="https://image.xumo.com/v1/channels/channel/99991148/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",Scripps News
+http://192.255.248.123:1905/proxy/xumo-99991148.m3u8
+#EXTINF:-1 tvg-id="CBS News 24/7" tvg-name="CBS News 24/7" tvg-logo="https://image.xumo.com/v1/channels/channel/99991158/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",CBS News 24/7
+http://192.255.248.123:1905/proxy/xumo-99991158.m3u8
+#EXTINF:-1 tvg-id="Newsmax2" tvg-name="Newsmax2" tvg-logo="https://image.xumo.com/v1/channels/channel/99991194/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",Newsmax2
+http://192.255.248.123:1905/proxy/xumo-99991194.m3u8
+#EXTINF:-1 tvg-id="Cheddar News" tvg-name="Cheddar News" tvg-logo="https://image.xumo.com/v1/channels/channel/99991220/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",Cheddar News
+http://192.255.248.123:1905/proxy/xumo-99991220.m3u8
+#EXTINF:-1 tvg-id="TODAY All Day" tvg-name="TODAY All Day" tvg-logo="https://image.xumo.com/v1/channels/channel/99991245/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",TODAY All Day
+http://192.255.248.123:1905/proxy/xumo-99991245.m3u8
+#EXTINF:-1 tvg-id="NBC News NOW" tvg-name="NBC News NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99991247/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",NBC News NOW
+http://192.255.248.123:1905/proxy/xumo-99991247.m3u8
+#EXTINF:-1 tvg-id="CBC News" tvg-name="CBC News" tvg-logo="https://image.xumo.com/v1/channels/channel/99991276/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",CBC News
+http://192.255.248.123:1905/proxy/xumo-99991276.m3u8
+#EXTINF:-1 tvg-id="Local Now" tvg-name="Local Now" tvg-logo="https://image.xumo.com/v1/channels/channel/99991282/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",Local Now
+http://192.255.248.123:1905/proxy/xumo-99991282.m3u8
+#EXTINF:-1 tvg-id="LiveNOW from FOX" tvg-name="LiveNOW from FOX" tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",LiveNOW from FOX
+http://192.255.248.123:1905/proxy/xumo-99991635.m3u8
+#EXTINF:-1 tvg-id="AccuWeather NOW" tvg-name="AccuWeather NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99991649/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",AccuWeather NOW
+http://192.255.248.123:1905/proxy/xumo-99991649.m3u8
+#EXTINF:-1 tvg-id="Fox Weather" tvg-name="Fox Weather" tvg-logo="https://image.xumo.com/v1/channels/channel/99991694/168x168.png?type=color_onBlack" catchup="none" group-title="新闻",Fox Weather
+http://192.255.248.123:1905/proxy/xumo-99991694.m3u8
+
+
+#EXTINF:-1 tvg-id="Fifth Gear" tvg-name="Fifth Gear" tvg-logo="https://image.xumo.com/v1/channels/channel/99951207/168x168.png?type=color_onBlack" catchup="none" group-title="汽车",Fifth Gear
+http://192.255.248.123:1905/proxy/xumo-99951207.m3u8
+#EXTINF:-1 tvg-id="Top Gear" tvg-name="Top Gear" tvg-logo="https://image.xumo.com/v1/channels/channel/99951249/168x168.png?type=color_onBlack" catchup="none" group-title="汽车",Top Gear
+http://192.255.248.123:1905/proxy/xumo-99951249.m3u8
+#EXTINF:-1 tvg-id="SPEEDVISION" tvg-name="SPEEDVISION" tvg-logo="https://image.xumo.com/v1/channels/channel/99951268/168x168.png?type=color_onBlack" catchup="none" group-title="汽车",SPEEDVISION
+http://192.255.248.123:1905/proxy/xumo-99951268.m3u8
+#EXTINF:-1 tvg-id="RACER Select" tvg-name="RACER Select" tvg-logo="https://image.xumo.com/v1/channels/channel/99951269/168x168.png?type=color_onBlack" catchup="none" group-title="汽车",RACER Select
+http://192.255.248.123:1905/proxy/xumo-99951269.m3u8
+#EXTINF:-1 tvg-id="NASCAR Channel" tvg-name="NASCAR Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951413/168x168.png?type=color_onBlack" catchup="none" group-title="汽车",NASCAR Channel
+http://192.255.248.123:1905/proxy/xumo-99951413.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo TV" tvg-name="Discovery Turbo TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951438/168x168.png?type=color_onBlack" catchup="none" group-title="汽车",Discovery Turbo TV
+http://192.255.248.123:1905/proxy/xumo-99951438.m3u8
+#EXTINF:-1 tvg-id="Classic Car Auctions by History" tvg-name="Classic Car Auctions by History" tvg-logo="https://image.xumo.com/v1/channels/channel/99951486/168x168.png?type=color_onBlack" catchup="none" group-title="汽车",Classic Car Auctions by History
+http://192.255.248.123:1905/proxy/xumo-99951486.m3u8
+#EXTINF:-1 tvg-id="Torque by History" tvg-name="Torque by History" tvg-logo="https://image.xumo.com/v1/channels/channel/99951551/168x168.png?type=color_onBlack" catchup="none" group-title="汽车",Torque by History
+http://192.255.248.123:1905/proxy/xumo-99951551.m3u8
+#EXTINF:-1 tvg-id="Monster Jam" tvg-name="Monster Jam" tvg-logo="https://image.xumo.com/v1/channels/channel/99951597/168x168.png?type=color_onBlack" catchup="none" group-title="汽车",Monster Jam
+http://192.255.248.123:1905/proxy/xumo-99951597.m3u8
+#EXTINF:-1 tvg-id="PowerNation" tvg-name="PowerNation" tvg-logo="https://image.xumo.com/v1/channels/channel/99991291/168x168.png?type=color_onBlack" catchup="none" group-title="汽车",PowerNation
+http://192.255.248.123:1905/proxy/xumo-99991291.m3u8
+
+
+#EXTINF:-1 tvg-id="Baby Shark TV" tvg-name="Baby Shark TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951209/168x168.png?type=color_onBlack" catchup="none" group-title="儿童",Baby Shark TV
+http://192.255.248.123:1905/proxy/xumo-99951209.m3u8
+#EXTINF:-1 tvg-id="Ninja Kidz TV" tvg-name="Ninja Kidz TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951229/168x168.png?type=color_onBlack" catchup="none" group-title="儿童",Ninja Kidz TV
+http://192.255.248.123:1905/proxy/xumo-99951229.m3u8
+#EXTINF:-1 tvg-id="Sensical Jr." tvg-name="Sensical Jr." tvg-logo="https://image.xumo.com/v1/channels/channel/99951280/168x168.png?type=color_onBlack" catchup="none" group-title="儿童",Sensical Jr.
+http://192.255.248.123:1905/proxy/xumo-99951280.m3u8
+#EXTINF:-1 tvg-id="Power Rangers" tvg-name="Power Rangers" tvg-logo="https://image.xumo.com/v1/channels/channel/99951441/168x168.png?type=color_onBlack" catchup="none" group-title="儿童",Power Rangers
+http://192.255.248.123:1905/proxy/xumo-99951441.m3u8
+#EXTINF:-1 tvg-id="My Little Pony" tvg-name="My Little Pony" tvg-logo="https://image.xumo.com/v1/channels/channel/99951442/168x168.png?type=color_onBlack" catchup="none" group-title="儿童",My Little Pony
+http://192.255.248.123:1905/proxy/xumo-99951442.m3u8
+#EXTINF:-1 tvg-id="Transformers" tvg-name="Transformers" tvg-logo="https://image.xumo.com/v1/channels/channel/99951443/168x168.png?type=color_onBlack" catchup="none" group-title="儿童",Transformers
+http://192.255.248.123:1905/proxy/xumo-99951443.m3u8
+#EXTINF:-1 tvg-id="Sesame Street" tvg-name="Sesame Street" tvg-logo="https://image.xumo.com/v1/channels/channel/99951595/168x168.png?type=color_onBlack" catchup="none" group-title="儿童",Sesame Street
+http://192.255.248.123:1905/proxy/xumo-99951595.m3u8
+#EXTINF:-1 tvg-id="Xumo Free Kids TV" tvg-name="Xumo Free Kids TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991107/168x168.png?type=color_onBlack" catchup="none" group-title="儿童",Xumo Free Kids TV
+http://192.255.248.123:1905/proxy/xumo-99991107.m3u8
+#EXTINF:-1 tvg-id="All Babies Channel" tvg-name="All Babies Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99991253/168x168.png?type=color_onBlack" catchup="none" group-title="儿童",All Babies Channel
+http://192.255.248.123:1905/proxy/xumo-99991253.m3u8
+#EXTINF:-1 tvg-id="Toon Goggles" tvg-name="Toon Goggles" tvg-logo="https://image.xumo.com/v1/channels/channel/99991268/168x168.png?type=color_onBlack" catchup="none" group-title="儿童",Toon Goggles
+http://192.255.248.123:1905/proxy/xumo-99991268.m3u8
+#EXTINF:-1 tvg-id="Rainbow Rangers" tvg-name="Rainbow Rangers" tvg-logo="https://image.xumo.com/v1/channels/channel/99991283/168x168.png?type=color_onBlack" catchup="none" group-title="儿童",Rainbow Rangers
+http://192.255.248.123:1905/proxy/xumo-99991283.m3u8
+#EXTINF:-1 tvg-id="Teletubbies" tvg-name="Teletubbies" tvg-logo="https://image.xumo.com/v1/channels/channel/99991761/168x168.png?type=color_onBlack" catchup="none" group-title="儿童",Teletubbies
+http://192.255.248.123:1905/proxy/xumo-99991761.m3u8
+
+
+#EXTINF:-1 tvg-id="Bravo Vault" tvg-name="Bravo Vault" tvg-logo="https://image.xumo.com/v1/channels/channel/99951242/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Bravo Vault
+http://192.255.248.123:1905/proxy/xumo-99951242.m3u8
+#EXTINF:-1 tvg-id="Real Housewives Vault" tvg-name="Real Housewives Vault" tvg-logo="https://image.xumo.com/v1/channels/channel/99951243/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Real Housewives Vault
+http://192.255.248.123:1905/proxy/xumo-99951243.m3u8
+#EXTINF:-1 tvg-id="Cheaters" tvg-name="Cheaters" tvg-logo="https://image.xumo.com/v1/channels/channel/99951252/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Cheaters
+http://192.255.248.123:1905/proxy/xumo-99951252.m3u8
+#EXTINF:-1 tvg-id="Mayday: Air Disaster" tvg-name="Mayday: Air Disaster" tvg-logo="https://image.xumo.com/v1/channels/channel/99951262/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Mayday: Air Disaster
+http://192.255.248.123:1905/proxy/xumo-99951262.m3u8
+#EXTINF:-1 tvg-id="Rig TV" tvg-name="Rig TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951338/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Rig TV
+http://192.255.248.123:1905/proxy/xumo-99951338.m3u8
+#EXTINF:-1 tvg-id="Untold Stories of the ER" tvg-name="Untold Stories of the ER" tvg-logo="https://image.xumo.com/v1/channels/channel/99951341/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Untold Stories of the ER
+http://192.255.248.123:1905/proxy/xumo-99951341.m3u8
+#EXTINF:-1 tvg-id="All Reality We TV" tvg-name="All Reality We TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951376/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",All Reality We TV
+http://192.255.248.123:1905/proxy/xumo-99951376.m3u8
+#EXTINF:-1 tvg-id="Bachelor Nation" tvg-name="Bachelor Nation" tvg-logo="https://image.xumo.com/v1/channels/channel/99951384/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Bachelor Nation
+http://192.255.248.123:1905/proxy/xumo-99951384.m3u8
+#EXTINF:-1 tvg-id="Say Yes to the Dress" tvg-name="Say Yes to the Dress" tvg-logo="https://image.xumo.com/v1/channels/channel/99951394/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Say Yes to the Dress
+http://192.255.248.123:1905/proxy/xumo-99951394.m3u8
+#EXTINF:-1 tvg-id="MythBusters" tvg-name="MythBusters" tvg-logo="https://image.xumo.com/v1/channels/channel/99951396/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",MythBusters
+http://192.255.248.123:1905/proxy/xumo-99951396.m3u8
+#EXTINF:-1 tvg-id="The Osbournes" tvg-name="The Osbournes" tvg-logo="https://image.xumo.com/v1/channels/channel/99951408/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",The Osbournes
+http://192.255.248.123:1905/proxy/xumo-99951408.m3u8
+#EXTINF:-1 tvg-id="Extreme Jobs" tvg-name="Extreme Jobs" tvg-logo="https://image.xumo.com/v1/channels/channel/99951432/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Extreme Jobs
+http://192.255.248.123:1905/proxy/xumo-99951432.m3u8
+#EXTINF:-1 tvg-id="E! Keeping Up" tvg-name="E! Keeping Up" tvg-logo="https://image.xumo.com/v1/channels/channel/99951465/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",E! Keeping Up
+http://192.255.248.123:1905/proxy/xumo-99951465.m3u8
+#EXTINF:-1 tvg-id="Bad Girls Club" tvg-name="Bad Girls Club" tvg-logo="https://image.xumo.com/v1/channels/channel/99951467/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Bad Girls Club
+http://192.255.248.123:1905/proxy/xumo-99951467.m3u8
+#EXTINF:-1 tvg-id="Storage Wars by A&E" tvg-name="Storage Wars by A&E" tvg-logo="https://image.xumo.com/v1/channels/channel/99951475/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Storage Wars by A&E
+http://192.255.248.123:1905/proxy/xumo-99951475.m3u8
+#EXTINF:-1 tvg-id="ALLBLK Gems" tvg-name="ALLBLK Gems" tvg-logo="https://image.xumo.com/v1/channels/channel/99951477/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",ALLBLK Gems
+http://192.255.248.123:1905/proxy/xumo-99951477.m3u8
+#EXTINF:-1 tvg-id="Love After Lockup We TV" tvg-name="Love After Lockup We TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951479/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Love After Lockup We TV
+http://192.255.248.123:1905/proxy/xumo-99951479.m3u8
+#EXTINF:-1 tvg-id="Growing Up Hip-Hop" tvg-name="Growing Up Hip-Hop" tvg-logo="https://image.xumo.com/v1/channels/channel/99951480/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Growing Up Hip-Hop
+http://192.255.248.123:1905/proxy/xumo-99951480.m3u8
+#EXTINF:-1 tvg-id="Ice Road Truckers by History" tvg-name="Ice Road Truckers by History" tvg-logo="https://image.xumo.com/v1/channels/channel/99951484/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Ice Road Truckers by History
+http://192.255.248.123:1905/proxy/xumo-99951484.m3u8
+#EXTINF:-1 tvg-id="Dog the Bounty Hunter" tvg-name="Dog the Bounty Hunter" tvg-logo="https://image.xumo.com/v1/channels/channel/99951485/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Dog the Bounty Hunter
+http://192.255.248.123:1905/proxy/xumo-99951485.m3u8
+#EXTINF:-1 tvg-id="Matched Married Meet by Lifetime" tvg-name="Matched Married Meet by Lifetime" tvg-logo="https://image.xumo.com/v1/channels/channel/99951487/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Matched Married Meet by Lifetime
+http://192.255.248.123:1905/proxy/xumo-99951487.m3u8
+#EXTINF:-1 tvg-id="Dance Moms by Lifetime" tvg-name="Dance Moms by Lifetime" tvg-logo="https://image.xumo.com/v1/channels/channel/99951488/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Dance Moms by Lifetime
+http://192.255.248.123:1905/proxy/xumo-99951488.m3u8
+#EXTINF:-1 tvg-id="Highway Thru Hell" tvg-name="Highway Thru Hell" tvg-logo="https://image.xumo.com/v1/channels/channel/99951509/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Highway Thru Hell
+http://192.255.248.123:1905/proxy/xumo-99951509.m3u8
+#EXTINF:-1 tvg-id="Deal Zone by History" tvg-name="Deal Zone by History" tvg-logo="https://image.xumo.com/v1/channels/channel/99951553/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Deal Zone by History
+http://192.255.248.123:1905/proxy/xumo-99951553.m3u8
+#EXTINF:-1 tvg-id="Xtreme Outdoor by History" tvg-name="Xtreme Outdoor by History" tvg-logo="https://image.xumo.com/v1/channels/channel/99951554/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Xtreme Outdoor by History
+http://192.255.248.123:1905/proxy/xumo-99951554.m3u8
+#EXTINF:-1 tvg-id="Wicked Tuna" tvg-name="Wicked Tuna" tvg-logo="https://image.xumo.com/v1/channels/channel/99951613/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Wicked Tuna
+http://192.255.248.123:1905/proxy/xumo-99951613.m3u8
+#EXTINF:-1 tvg-id="Complex TV" tvg-name="Complex TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991303/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Complex TV
+http://192.255.248.123:1905/proxy/xumo-99991303.m3u8
+#EXTINF:-1 tvg-id="All Weddings We TV" tvg-name="All Weddings We TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991625/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",All Weddings We TV
+http://192.255.248.123:1905/proxy/xumo-99991625.m3u8
+#EXTINF:-1 tvg-id="Hell's Kitchen" tvg-name="Hell's Kitchen" tvg-logo="https://image.xumo.com/v1/channels/channel/99991681/168x168.png?type=color_onBlack" catchup="none" group-title="真人秀",Hell's Kitchen
+http://192.255.248.123:1905/proxy/xumo-99991681.m3u8
+
+
+#EXTINF:-1 tvg-id="Cosmic Frontiers" tvg-name="Cosmic Frontiers" tvg-logo="https://image.xumo.com/v1/channels/channel/99951345/168x168.png?type=color_onBlack" catchup="none" group-title="历史与学习",Cosmic Frontiers
+http://192.255.248.123:1905/proxy/xumo-99951345.m3u8
+#EXTINF:-1 tvg-id="Curiosity Now" tvg-name="Curiosity Now" tvg-logo="https://image.xumo.com/v1/channels/channel/99951358/168x168.png?type=color_onBlack" catchup="none" group-title="历史与学习",Curiosity Now
+http://192.255.248.123:1905/proxy/xumo-99951358.m3u8
+#EXTINF:-1 tvg-id="CNN Originals" tvg-name="CNN Originals" tvg-logo="https://image.xumo.com/v1/channels/channel/99951387/168x168.png?type=color_onBlack" catchup="none" group-title="历史与学习",CNN Originals
+http://192.255.248.123:1905/proxy/xumo-99951387.m3u8
+#EXTINF:-1 tvg-id="How-To" tvg-name="How-To" tvg-logo="https://image.xumo.com/v1/channels/channel/99951392/168x168.png?type=color_onBlack" catchup="none" group-title="历史与学习",How-To
+http://192.255.248.123:1905/proxy/xumo-99951392.m3u8
+#EXTINF:-1 tvg-id="Modern Marvels by History" tvg-name="Modern Marvels by History" tvg-logo="https://image.xumo.com/v1/channels/channel/99951473/168x168.png?type=color_onBlack" catchup="none" group-title="历史与学习",Modern Marvels by History
+http://192.255.248.123:1905/proxy/xumo-99951473.m3u8
+#EXTINF:-1 tvg-id="History & Warfare" tvg-name="History & Warfare" tvg-logo="https://image.xumo.com/v1/channels/channel/99951560/168x168.png?type=color_onBlack" catchup="none" group-title="历史与学习",History & Warfare
+http://192.255.248.123:1905/proxy/xumo-99951560.m3u8
+#EXTINF:-1 tvg-id="PBS Genealogy" tvg-name="PBS Genealogy" tvg-logo="https://image.xumo.com/v1/channels/channel/99951589/168x168.png?type=color_onBlack" catchup="none" group-title="历史与学习",PBS Genealogy
+http://192.255.248.123:1905/proxy/xumo-99951589.m3u8
+#EXTINF:-1 tvg-id="Secrets of War" tvg-name="Secrets of War" tvg-logo="https://image.xumo.com/v1/channels/channel/99951591/168x168.png?type=color_onBlack" catchup="none" group-title="历史与学习",Secrets of War
+http://192.255.248.123:1905/proxy/xumo-99951591.m3u8
+#EXTINF:-1 tvg-id="Combat War Channel" tvg-name="Combat War Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99991379/168x168.png?type=color_onBlack" catchup="none" group-title="历史与学习",Combat War Channel
+http://192.255.248.123:1905/proxy/xumo-99991379.m3u8
+#EXTINF:-1 tvg-id="True History Channel" tvg-name="True History Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/168x168.png?type=color_onBlack" catchup="none" group-title="历史与学习",True History Channel
+http://192.255.248.123:1905/proxy/xumo-99991650.m3u8
+
+
+#EXTINF:-1 tvg-id="Places & Spaces" tvg-name="Places & Spaces" tvg-logo="https://image.xumo.com/v1/channels/channel/99951350/168x168.png?type=color_onBlack" catchup="none" group-title="节日中心",Places & Spaces
+http://192.255.248.123:1905/proxy/xumo-99951350.m3u8
+#EXTINF:-1 tvg-id="Sweet Escapes" tvg-name="Sweet Escapes" tvg-logo="https://image.xumo.com/v1/channels/channel/99951385/168x168.png?type=color_onBlack" catchup="none" group-title="节日中心",Sweet Escapes
+http://192.255.248.123:1905/proxy/xumo-99951385.m3u8
+#EXTINF:-1 tvg-id="ITN’s CreatureVerse" tvg-name="ITN’s CreatureVerse" tvg-logo="https://image.xumo.com/v1/channels/channel/99951593/168x168.png?type=color_onBlack" catchup="none" group-title="节日中心",ITN’s CreatureVerse
+http://192.255.248.123:1905/proxy/xumo-99951593.m3u8
+#EXTINF:-1 tvg-id="Great American RomComs" tvg-name="Great American RomComs" tvg-logo="https://image.xumo.com/v1/channels/channel/99951596/168x168.png?type=color_onBlack" catchup="none" group-title="节日中心",Great American RomComs
+http://192.255.248.123:1905/proxy/xumo-99951596.m3u8
+#EXTINF:-1 tvg-id="Christmastown" tvg-name="Christmastown" tvg-logo="https://image.xumo.com/v1/channels/channel/99991337/168x168.png?type=color_onBlack" catchup="none" group-title="节日中心",Christmastown
+http://192.255.248.123:1905/proxy/xumo-99991337.m3u8
+#EXTINF:-1 tvg-id="Hallmark Movies & More" tvg-name="Hallmark Movies & More" tvg-logo="https://image.xumo.com/v1/channels/channel/99991709/168x168.png?type=color_onBlack" catchup="none" group-title="节日中心",Hallmark Movies & More
+http://192.255.248.123:1905/proxy/xumo-99991709.m3u8
+
+
+#EXTINF:-1 tvg-id="Dr. Phil" tvg-name="Dr. Phil" tvg-logo="https://image.xumo.com/v1/channels/channel/99951370/168x168.png?type=color_onBlack" catchup="none" group-title="日间电视",Dr. Phil
+http://192.255.248.123:1905/proxy/xumo-99951370.m3u8
+#EXTINF:-1 tvg-id="Wendy Williams" tvg-name="Wendy Williams" tvg-logo="https://image.xumo.com/v1/channels/channel/99951433/168x168.png?type=color_onBlack" catchup="none" group-title="日间电视",Wendy Williams
+http://192.255.248.123:1905/proxy/xumo-99951433.m3u8
+#EXTINF:-1 tvg-id="The Bold and the Beautiful" tvg-name="The Bold and the Beautiful" tvg-logo="https://image.xumo.com/v1/channels/channel/99951476/168x168.png?type=color_onBlack" catchup="none" group-title="日间电视",The Bold and the Beautiful
+http://192.255.248.123:1905/proxy/xumo-99951476.m3u8
+#EXTINF:-1 tvg-id="Lauren Lake’s Paternity Court" tvg-name="Lauren Lake’s Paternity Court" tvg-logo="https://image.xumo.com/v1/channels/channel/99951581/168x168.png?type=color_onBlack" catchup="none" group-title="日间电视",Lauren Lake’s Paternity Court
+http://192.255.248.123:1905/proxy/xumo-99951581.m3u8
+#EXTINF:-1 tvg-id="Judy Justice" tvg-name="Judy Justice" tvg-logo="https://image.xumo.com/v1/channels/channel/99951615/168x168.png?type=color_onBlack" catchup="none" group-title="日间电视",Judy Justice
+http://192.255.248.123:1905/proxy/xumo-99951615.m3u8
+#EXTINF:-1 tvg-id="Divorce Court" tvg-name="Divorce Court" tvg-logo="https://image.xumo.com/v1/channels/channel/99991346/168x168.png?type=color_onBlack" catchup="none" group-title="日间电视",Divorce Court
+http://192.255.248.123:1905/proxy/xumo-99991346.m3u8
+#EXTINF:-1 tvg-id="Nosey" tvg-name="Nosey" tvg-logo="https://image.xumo.com/v1/channels/channel/99991366/168x168.png?type=color_onBlack" catchup="none" group-title="日间电视",Nosey
+http://192.255.248.123:1905/proxy/xumo-99991366.m3u8
+#EXTINF:-1 tvg-id="Confess by Nosey" tvg-name="Confess by Nosey" tvg-logo="https://image.xumo.com/v1/channels/channel/99991388/168x168.png?type=color_onBlack" catchup="none" group-title="日间电视",Confess by Nosey
+http://192.255.248.123:1905/proxy/xumo-99991388.m3u8
+
+
+#EXTINF:-1 tvg-id="Urban TV + Movies by TV One" tvg-name="Urban TV + Movies by TV One" tvg-logo="https://image.xumo.com/v1/channels/channel/99951379/168x168.png?type=color_onBlack" catchup="none" group-title="流行文化",Urban TV + Movies by TV One
+http://192.255.248.123:1905/proxy/xumo-99951379.m3u8
+#EXTINF:-1 tvg-id="The Graham Norton Show" tvg-name="The Graham Norton Show" tvg-logo="https://image.xumo.com/v1/channels/channel/99951450/168x168.png?type=color_onBlack" catchup="none" group-title="流行文化",The Graham Norton Show
+http://192.255.248.123:1905/proxy/xumo-99951450.m3u8
+#EXTINF:-1 tvg-id="Vice Entertainment" tvg-name="Vice Entertainment" tvg-logo="https://image.xumo.com/v1/channels/channel/99951453/168x168.png?type=color_onBlack" catchup="none" group-title="流行文化",Vice Entertainment
+http://192.255.248.123:1905/proxy/xumo-99951453.m3u8
+#EXTINF:-1 tvg-id="Revry" tvg-name="Revry" tvg-logo="https://image.xumo.com/v1/channels/channel/99991296/168x168.png?type=color_onBlack" catchup="none" group-title="流行文化",Revry
+http://192.255.248.123:1905/proxy/xumo-99991296.m3u8
+#EXTINF:-1 tvg-id="ET" tvg-name="ET" tvg-logo="https://image.xumo.com/v1/channels/channel/99991670/168x168.png?type=color_onBlack" catchup="none" group-title="流行文化",ET
+http://192.255.248.123:1905/proxy/xumo-99991670.m3u8
+#EXTINF:-1 tvg-id="SparkTV: Light & Love" tvg-name="SparkTV: Light & Love" tvg-logo="https://image.xumo.com/v1/channels/channel/99951528/168x168.png?type=color_onBlack" catchup="none" group-title="Xumo · Family Movies",SparkTV: Light & Love
+http://192.255.248.123:1905/proxy/xumo-99951528.m3u8
+#EXTINF:-1 tvg-id="Dove Channel" tvg-name="Dove Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99991333/168x168.png?type=color_onBlack" catchup="none" group-title="Xumo · Family Movies",Dove Channel
+
+
+http://192.255.248.123:1905/proxy/xumo-99991333.m3u8
+#EXTINF:-1 tvg-id="CH8" tvg-name="CH8" tvg-logo="" group-title="新加坡",CH8
+https://cdn.qd.je/163189/ch8
+#EXTINF:-1 tvg-id="CHU" tvg-name="CHU" tvg-logo="http://192.255.248.123:1905/logo-cache/cf42d3ee71d3da5f81e8.png?v=1795630232236&from=source" group-title="新加坡",CHU
+https://cdn.qd.je/163189/chu
+
+
+#EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="http://192.255.248.123:1905/logo-cache/5659b062f9e84438de09.png?v=1795630232236&from=source" group-title="马来西亚",Astro AOD
+https://cdn3.indevs.in/stream/live/aod/
+#EXTINF:-1 tvg-id="Astro AEC" tvg-name="Astro AEC" tvg-logo="http://192.255.248.123:1905/logo-cache/85c28b253f523f903612.png?v=1795630232236&from=source" group-title="马来西亚",Astro AEC
+https://cdn3.indevs.in/stream/live/aec/
+#EXTINF:-1 tvg-id="Astro 爱奇艺" tvg-name="Astro 爱奇艺" tvg-logo="http://192.255.248.123:1905/logo-cache/9d6d1bd01f5d393b871b.png?v=1795630232236&from=source" group-title="马来西亚",Astro 爱奇艺
+https://cdn3.indevs.in/stream/live/iqiyi/
+#EXTINF:-1 tvg-id="Astro 欢喜台" tvg-name="Astro 欢喜台" tvg-logo="http://192.255.248.123:1905/logo-cache/c1449c1eb366764828cc.png?v=1795630232236&from=source" group-title="马来西亚",Astro 欢喜台
+https://cdn3.indevs.in/stream/live/hxt/
